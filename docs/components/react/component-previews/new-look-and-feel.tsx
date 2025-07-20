@@ -1,7 +1,7 @@
 "use client"
 
-import { CopilotSidebar, useCopilotChatSuggestions } from "@think-copilotkit/react-ui";
-import { CopilotKit } from "@think-copilotkit/react-core";
+import { CopilotSidebar, useCopilotChatSuggestions } from "@turbo-agent/copilotkit-react-ui";
+import { CopilotKit } from "@turbo-agent/copilotkit-react-core";
 
 
 export const NewLookAndFeelPreview = () => {

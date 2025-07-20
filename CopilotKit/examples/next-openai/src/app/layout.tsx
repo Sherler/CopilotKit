@@ -1,6 +1,6 @@
 import "../styles/globals.css";
-import "@think-copilotkit/react-ui/styles.css";
-import "@think-copilotkit/react-textarea/styles.css";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
+import "@turbo-agent/copilotkit-react-textarea/styles.css";
 import { ServiceAdapterSelector } from "./components/ServiceAdapterSelector";
 import { Suspense } from "react";
 

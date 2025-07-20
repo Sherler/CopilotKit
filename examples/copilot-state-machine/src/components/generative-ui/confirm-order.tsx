@@ -3,7 +3,7 @@ import { AnimatedCard } from "@/components/animated-card";
 import { useGlobalState } from "@/lib/stages";
 import { Car, CardInfo, ContactInfo, FinancingInfo, Order } from "@/lib/types";
 
-import { RenderFunctionStatus } from "@think-copilotkit/react-core";
+import { RenderFunctionStatus } from "@turbo-agent/copilotkit-react-core";
 
 interface ConfirmOrderProps {
   onConfirm: (order: Order) => void;

@@ -70,7 +70,7 @@ In our previously setup `/api/copilotkit` route, we're going to add the followin
 ```tsx title="ui/app/api/copilotkit/route.ts"
 // ...
 
-import { CopilotRuntime, LangGraphAgent } from '@think-copilotkit/runtime'; // [!code ++]
+import { CopilotRuntime, LangGraphAgent } from '@turbo-agent/copilotkit-runtime'; // [!code ++]
 
 // ...
 
@@ -137,7 +137,7 @@ Our current goal is to create a bidirectional connection between these two state
 // ...
 // [!code word:AgentState:1]
 import { Trip, Place, AgentState, defaultTrips} from "@/lib/trips"; 
-import { useCoAgent } from "@think-copilotkit/react-core"; // [!code ++]
+import { useCoAgent } from "@turbo-agent/copilotkit-react-core"; // [!code ++]
 
 export const TripsProvider = ({ children }: { children: ReactNode }) => {
   // [!code --:5]

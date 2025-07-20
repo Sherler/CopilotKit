@@ -1,4 +1,4 @@
-import { CopilotKitMisuseError } from "@think-copilotkit/shared";
+import { CopilotKitMisuseError } from "@turbo-agent/copilotkit-shared";
 import {
   copilotKitInterrupt,
   convertActionToDynamicStructuredTool,

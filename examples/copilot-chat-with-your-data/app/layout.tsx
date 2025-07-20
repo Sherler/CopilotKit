@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import { CopilotKit } from "@think-copilotkit/react-core";
-import "@think-copilotkit/react-ui/styles.css";
+import { CopilotKit } from "@turbo-agent/copilotkit-react-core";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",

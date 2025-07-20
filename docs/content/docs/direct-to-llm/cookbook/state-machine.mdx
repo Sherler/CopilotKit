@@ -53,7 +53,7 @@ standard deterministic update (button clicks), and sometimes through LLM-driven 
       useCopilotAdditionalInstructions, 
       useCopilotAction, 
       useCopilotReadable 
-    } from "@think-copilotkit/react-core";
+    } from "@turbo-agent/copilotkit-react-core";
 
     // ...
 
@@ -114,7 +114,7 @@ standard deterministic update (button clicks), and sometimes through LLM-driven 
     demonstrate how to add any additional stages. The name will be made available to this stage in the next step.
 
     ```tsx
-    import { useCopilotAdditionalInstructions } from "@think-copilotkit/react-core";
+    import { useCopilotAdditionalInstructions } from "@turbo-agent/copilotkit-react-core";
 
     // ...
 
@@ -139,8 +139,8 @@ standard deterministic update (button clicks), and sometimes through LLM-driven 
 
     ```tsx
     import { useState } from "react";
-    import { CopilotKit, useCopilotReadable } from "@think-copilotkit/react-core";
-    import { CopilotChat } from "@think-copilotkit/react-ui";
+    import { CopilotKit, useCopilotReadable } from "@turbo-agent/copilotkit-react-core";
+    import { CopilotChat } from "@turbo-agent/copilotkit-react-ui";
 
     // ...
 
@@ -172,13 +172,13 @@ standard deterministic update (button clicks), and sometimes through LLM-driven 
       <Accordion title="Full example code">
         ```tsx
         import { useState } from "react";
-        import { CopilotChat } from "@think-copilotkit/react-ui";
+        import { CopilotChat } from "@turbo-agent/copilotkit-react-ui";
         import { 
           CopilotKit, 
           useCopilotAction, 
           useCopilotAdditionalInstructions, 
           useCopilotReadable 
-        } from "@think-copilotkit/react-core";
+        } from "@turbo-agent/copilotkit-react-core";
 
         /*
         * Not required, but it is convenient to use a dedicated hook to define each 
@@ -487,7 +487,7 @@ To add an initial message to the chat, we can use the `appendMessage` function p
 Click here for the [source code](https://github.com/Sherler/CopilotKit/tree/main/examples/copilot-state-machine/src/components/car-sales-chat.tsx)
 
 ```tsx title="src/components/car-sales-chat.tsx"
-import { useCopilotChat } from "@think-copilotkit/react-core";
+import { useCopilotChat } from "@turbo-agent/copilotkit-react-core";
 
 // ...
 

@@ -1,7 +1,7 @@
 "use client";
 
 import { Chat } from "@/components/Chat";
-import "@think-copilotkit/react-ui/styles.css";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
 
 export default function Home() {
   return (

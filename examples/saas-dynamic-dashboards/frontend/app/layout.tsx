@@ -5,7 +5,7 @@ import "./globals.css"
 import { SidebarProvider } from "@/components/ui/sidebar"
 import { ThemeProvider } from "@/components/theme-provider"
 import { SharedProvider } from "@/lib/shared-context"
-import { CopilotKit } from "@think-copilotkit/react-core"
+import { CopilotKit } from "@turbo-agent/copilotkit-react-core"
 import { SharedTestsProvider } from "@/lib/shared-tests-context"
 
 const inter = Inter({ subsets: ["latin"] })

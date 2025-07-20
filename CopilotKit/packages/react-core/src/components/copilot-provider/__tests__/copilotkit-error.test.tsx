@@ -1,5 +1,5 @@
 /// <reference types="jest" />
-import { CopilotErrorEvent, CopilotErrorHandler } from "@think-copilotkit/shared";
+import { CopilotErrorEvent, CopilotErrorHandler } from "@turbo-agent/copilotkit-shared";
 
 describe("CopilotKit onError types", () => {
   let mockError: jest.Mock;

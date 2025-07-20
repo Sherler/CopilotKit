@@ -1,4 +1,4 @@
-import { MCPTool, MCPClient as MCPClientInterface } from "@think-copilotkit/runtime";
+import { MCPTool, MCPClient as MCPClientInterface } from "@turbo-agent/copilotkit-runtime";
 import { Client } from "@modelcontextprotocol/sdk/client/index.js";
 import { SSEClientTransport } from "@modelcontextprotocol/sdk/client/sse.js";
 import type { JSONRPCMessage } from "@modelcontextprotocol/sdk/types.js";

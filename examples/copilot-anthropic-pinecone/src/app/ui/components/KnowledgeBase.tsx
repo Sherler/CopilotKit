@@ -17,8 +17,8 @@ import {
 import { BookOpen } from "lucide-react";
 import { Post } from "@/app/lib/types/post";
 import { fetchPosts } from "@/app/ui/service";
-import { CopilotSidebar } from "@think-copilotkit/react-ui";
-import { useCopilotAction } from "@think-copilotkit/react-core";
+import { CopilotSidebar } from "@turbo-agent/copilotkit-react-ui";
+import { useCopilotAction } from "@turbo-agent/copilotkit-react-core";
 
 export default function KnowledgeBase() {
   const [posts, setPosts] = useState<Post[]>([]);

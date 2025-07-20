@@ -1,4 +1,4 @@
-import { CopilotKitLowLevelError, CopilotKitErrorCode } from "@think-copilotkit/shared";
+import { CopilotKitLowLevelError, CopilotKitErrorCode } from "@turbo-agent/copilotkit-shared";
 
 /**
  * Converts service adapter errors to structured CopilotKitError format using HTTP status codes.

@@ -5,42 +5,42 @@
 ### Patch Changes
 
 - Updated dependencies [f83bda0]
-  - @think-copilotkit/react-core@1.9.3-next.4
-  - @think-copilotkit/runtime-client-gql@1.9.3-next.4
-  - @think-copilotkit/shared@1.9.3-next.4
+  - @turbo-agent/copilotkit-react-core@1.9.3-next.4
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.3-next.4
+  - @turbo-agent/copilotkit-shared@1.9.3-next.4
 
 ## 1.9.3-next.3
 
 ### Patch Changes
 
 - Updated dependencies [1bda332]
-  - @think-copilotkit/shared@1.9.3-next.3
-  - @think-copilotkit/runtime-client-gql@1.9.3-next.3
-  - @think-copilotkit/react-core@1.9.3-next.3
+  - @turbo-agent/copilotkit-shared@1.9.3-next.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.3-next.3
+  - @turbo-agent/copilotkit-react-core@1.9.3-next.3
 
 ## 1.9.3-next.2
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.3-next.2
-- @think-copilotkit/react-core@1.9.3-next.2
-- @think-copilotkit/shared@1.9.3-next.2
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.3-next.2
+- @turbo-agent/copilotkit-react-core@1.9.3-next.2
+- @turbo-agent/copilotkit-shared@1.9.3-next.2
 
 ## 1.9.3-next.1
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.3-next.1
-- @think-copilotkit/react-core@1.9.3-next.1
-- @think-copilotkit/shared@1.9.3-next.1
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.3-next.1
+- @turbo-agent/copilotkit-react-core@1.9.3-next.1
+- @turbo-agent/copilotkit-shared@1.9.3-next.1
 
 ## 1.9.3-next.0
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.3-next.0
-- @think-copilotkit/react-core@1.9.3-next.0
-- @think-copilotkit/shared@1.9.3-next.0
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.3-next.0
+- @turbo-agent/copilotkit-react-core@1.9.3-next.0
+- @turbo-agent/copilotkit-shared@1.9.3-next.0
 
 ## 1.9.2
 
@@ -73,41 +73,41 @@
 - Updated dependencies [10345a5]
 - Updated dependencies [9169ad7]
 - Updated dependencies [35537f1]
-  - @think-copilotkit/react-core@1.9.2
-  - @think-copilotkit/shared@1.9.2
-  - @think-copilotkit/runtime-client-gql@1.9.2
+  - @turbo-agent/copilotkit-react-core@1.9.2
+  - @turbo-agent/copilotkit-shared@1.9.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.2
 
 ## 1.9.2-next.26
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.2-next.26
-- @think-copilotkit/react-core@1.9.2-next.26
-- @think-copilotkit/shared@1.9.2-next.26
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.26
+- @turbo-agent/copilotkit-react-core@1.9.2-next.26
+- @turbo-agent/copilotkit-shared@1.9.2-next.26
 
 ## 1.9.2-next.25
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.2-next.25
-- @think-copilotkit/react-core@1.9.2-next.25
-- @think-copilotkit/shared@1.9.2-next.25
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.25
+- @turbo-agent/copilotkit-react-core@1.9.2-next.25
+- @turbo-agent/copilotkit-shared@1.9.2-next.25
 
 ## 1.9.2-next.24
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.2-next.24
-- @think-copilotkit/react-core@1.9.2-next.24
-- @think-copilotkit/shared@1.9.2-next.24
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.24
+- @turbo-agent/copilotkit-react-core@1.9.2-next.24
+- @turbo-agent/copilotkit-shared@1.9.2-next.24
 
 ## 1.9.2-next.23
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.2-next.23
-- @think-copilotkit/react-core@1.9.2-next.23
-- @think-copilotkit/shared@1.9.2-next.23
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.23
+- @turbo-agent/copilotkit-react-core@1.9.2-next.23
+- @turbo-agent/copilotkit-shared@1.9.2-next.23
 
 ## 1.9.2-next.22
 
@@ -115,18 +115,18 @@
 
 - Updated dependencies [c75a04f]
 - Updated dependencies [c75a04f]
-  - @think-copilotkit/react-core@1.9.2-next.22
-  - @think-copilotkit/runtime-client-gql@1.9.2-next.22
-  - @think-copilotkit/shared@1.9.2-next.22
+  - @turbo-agent/copilotkit-react-core@1.9.2-next.22
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.22
+  - @turbo-agent/copilotkit-shared@1.9.2-next.22
 
 ## 1.9.2-next.21
 
 ### Patch Changes
 
 - Updated dependencies [92e8d1c]
-  - @think-copilotkit/react-core@1.9.2-next.21
-  - @think-copilotkit/runtime-client-gql@1.9.2-next.21
-  - @think-copilotkit/shared@1.9.2-next.21
+  - @turbo-agent/copilotkit-react-core@1.9.2-next.21
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.21
+  - @turbo-agent/copilotkit-shared@1.9.2-next.21
 
 ## 1.9.2-next.20
 
@@ -144,135 +144,135 @@
   Signed-off-by: Tyler Slaton <tyler@copilotkit.ai>
 
 - Updated dependencies [e1de032]
-  - @think-copilotkit/react-core@1.9.2-next.20
-  - @think-copilotkit/runtime-client-gql@1.9.2-next.20
-  - @think-copilotkit/shared@1.9.2-next.20
+  - @turbo-agent/copilotkit-react-core@1.9.2-next.20
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.20
+  - @turbo-agent/copilotkit-shared@1.9.2-next.20
 
 ## 1.9.2-next.19
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.2-next.19
-- @think-copilotkit/react-core@1.9.2-next.19
-- @think-copilotkit/shared@1.9.2-next.19
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.19
+- @turbo-agent/copilotkit-react-core@1.9.2-next.19
+- @turbo-agent/copilotkit-shared@1.9.2-next.19
 
 ## 1.9.2-next.18
 
 ### Patch Changes
 
 - Updated dependencies [fac89c2]
-  - @think-copilotkit/react-core@1.9.2-next.18
-  - @think-copilotkit/shared@1.9.2-next.18
-  - @think-copilotkit/runtime-client-gql@1.9.2-next.18
+  - @turbo-agent/copilotkit-react-core@1.9.2-next.18
+  - @turbo-agent/copilotkit-shared@1.9.2-next.18
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.18
 
 ## 1.9.2-next.17
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.2-next.17
-- @think-copilotkit/react-core@1.9.2-next.17
-- @think-copilotkit/shared@1.9.2-next.17
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.17
+- @turbo-agent/copilotkit-react-core@1.9.2-next.17
+- @turbo-agent/copilotkit-shared@1.9.2-next.17
 
 ## 1.9.2-next.16
 
 ### Patch Changes
 
 - Updated dependencies [fe9009c]
-  - @think-copilotkit/react-core@1.9.2-next.16
-  - @think-copilotkit/runtime-client-gql@1.9.2-next.16
-  - @think-copilotkit/shared@1.9.2-next.16
+  - @turbo-agent/copilotkit-react-core@1.9.2-next.16
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.16
+  - @turbo-agent/copilotkit-shared@1.9.2-next.16
 
 ## 1.9.2-next.15
 
 ### Patch Changes
 
 - Updated dependencies [cbeccb5]
-  - @think-copilotkit/react-core@1.9.2-next.15
-  - @think-copilotkit/runtime-client-gql@1.9.2-next.15
-  - @think-copilotkit/shared@1.9.2-next.15
+  - @turbo-agent/copilotkit-react-core@1.9.2-next.15
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.15
+  - @turbo-agent/copilotkit-shared@1.9.2-next.15
 
 ## 1.9.2-next.14
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.2-next.14
-- @think-copilotkit/react-core@1.9.2-next.14
-- @think-copilotkit/shared@1.9.2-next.14
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.14
+- @turbo-agent/copilotkit-react-core@1.9.2-next.14
+- @turbo-agent/copilotkit-shared@1.9.2-next.14
 
 ## 1.9.2-next.13
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.2-next.13
-- @think-copilotkit/react-core@1.9.2-next.13
-- @think-copilotkit/shared@1.9.2-next.13
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.13
+- @turbo-agent/copilotkit-react-core@1.9.2-next.13
+- @turbo-agent/copilotkit-shared@1.9.2-next.13
 
 ## 1.9.2-next.12
 
 ### Patch Changes
 
 - Updated dependencies [3f8c575]
-  - @think-copilotkit/react-core@1.9.2-next.12
-  - @think-copilotkit/runtime-client-gql@1.9.2-next.12
-  - @think-copilotkit/shared@1.9.2-next.12
+  - @turbo-agent/copilotkit-react-core@1.9.2-next.12
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.12
+  - @turbo-agent/copilotkit-shared@1.9.2-next.12
 
 ## 1.9.2-next.11
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.2-next.11
-- @think-copilotkit/react-core@1.9.2-next.11
-- @think-copilotkit/shared@1.9.2-next.11
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.11
+- @turbo-agent/copilotkit-react-core@1.9.2-next.11
+- @turbo-agent/copilotkit-shared@1.9.2-next.11
 
 ## 1.9.2-next.10
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.2-next.10
-- @think-copilotkit/react-core@1.9.2-next.10
-- @think-copilotkit/shared@1.9.2-next.10
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.10
+- @turbo-agent/copilotkit-react-core@1.9.2-next.10
+- @turbo-agent/copilotkit-shared@1.9.2-next.10
 
 ## 1.9.2-next.9
 
 ### Patch Changes
 
 - Updated dependencies [1d1c51d]
-  - @think-copilotkit/react-core@1.9.2-next.9
-  - @think-copilotkit/runtime-client-gql@1.9.2-next.9
-  - @think-copilotkit/shared@1.9.2-next.9
+  - @turbo-agent/copilotkit-react-core@1.9.2-next.9
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.9
+  - @turbo-agent/copilotkit-shared@1.9.2-next.9
 
 ## 1.9.2-next.8
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.2-next.8
-- @think-copilotkit/react-core@1.9.2-next.8
-- @think-copilotkit/shared@1.9.2-next.8
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.8
+- @turbo-agent/copilotkit-react-core@1.9.2-next.8
+- @turbo-agent/copilotkit-shared@1.9.2-next.8
 
 ## 1.9.2-next.7
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.2-next.7
-- @think-copilotkit/react-core@1.9.2-next.7
-- @think-copilotkit/shared@1.9.2-next.7
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.7
+- @turbo-agent/copilotkit-react-core@1.9.2-next.7
+- @turbo-agent/copilotkit-shared@1.9.2-next.7
 
 ## 1.9.2-next.6
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.2-next.6
-- @think-copilotkit/react-core@1.9.2-next.6
-- @think-copilotkit/shared@1.9.2-next.6
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.6
+- @turbo-agent/copilotkit-react-core@1.9.2-next.6
+- @turbo-agent/copilotkit-shared@1.9.2-next.6
 
 ## 1.9.2-next.5
 
 ### Patch Changes
 
 - abe23c3: - feat: enable hiding stop button
-  - @think-copilotkit/react-core@1.9.2-next.5
-  - @think-copilotkit/runtime-client-gql@1.9.2-next.5
-  - @think-copilotkit/shared@1.9.2-next.5
+  - @turbo-agent/copilotkit-react-core@1.9.2-next.5
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.5
+  - @turbo-agent/copilotkit-shared@1.9.2-next.5
 
 ## 1.9.2-next.4
 
@@ -280,9 +280,9 @@
 
 - Updated dependencies [9169ad7]
 - Updated dependencies [9169ad7]
-  - @think-copilotkit/react-core@1.9.2-next.4
-  - @think-copilotkit/shared@1.9.2-next.4
-  - @think-copilotkit/runtime-client-gql@1.9.2-next.4
+  - @turbo-agent/copilotkit-react-core@1.9.2-next.4
+  - @turbo-agent/copilotkit-shared@1.9.2-next.4
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.4
 
 ## 1.9.2-next.3
 
@@ -290,25 +290,25 @@
 
 - 35537f1: - fix: memoize nested components to not rerender when content changes
 - Updated dependencies [35537f1]
-  - @think-copilotkit/react-core@1.9.2-next.3
-  - @think-copilotkit/runtime-client-gql@1.9.2-next.3
-  - @think-copilotkit/shared@1.9.2-next.3
+  - @turbo-agent/copilotkit-react-core@1.9.2-next.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.3
+  - @turbo-agent/copilotkit-shared@1.9.2-next.3
 
 ## 1.9.2-next.2
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.2-next.2
-- @think-copilotkit/react-core@1.9.2-next.2
-- @think-copilotkit/shared@1.9.2-next.2
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.2
+- @turbo-agent/copilotkit-react-core@1.9.2-next.2
+- @turbo-agent/copilotkit-shared@1.9.2-next.2
 
 ## 1.9.2-next.1
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.2-next.1
-- @think-copilotkit/react-core@1.9.2-next.1
-- @think-copilotkit/shared@1.9.2-next.1
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.1
+- @turbo-agent/copilotkit-react-core@1.9.2-next.1
+- @turbo-agent/copilotkit-shared@1.9.2-next.1
 
 ## 1.9.2-next.0
 
@@ -316,61 +316,61 @@
 
 - 10345a5: - feat: structured error visibility system for streaming errors
 - Updated dependencies [10345a5]
-  - @think-copilotkit/react-core@1.9.2-next.0
-  - @think-copilotkit/runtime-client-gql@1.9.2-next.0
-  - @think-copilotkit/shared@1.9.2-next.0
+  - @turbo-agent/copilotkit-react-core@1.9.2-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.2-next.0
+  - @turbo-agent/copilotkit-shared@1.9.2-next.0
 
 ## 1.9.1
 
 ### Patch Changes
 
 - Updated dependencies [deaeca0]
-  - @think-copilotkit/shared@1.9.1
-  - @think-copilotkit/runtime-client-gql@1.9.1
-  - @think-copilotkit/react-core@1.9.1
+  - @turbo-agent/copilotkit-shared@1.9.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.1
+  - @turbo-agent/copilotkit-react-core@1.9.1
 
 ## 1.9.1-next.0
 
 ### Patch Changes
 
 - Updated dependencies [deaeca0]
-  - @think-copilotkit/shared@1.9.1-next.0
-  - @think-copilotkit/runtime-client-gql@1.9.1-next.0
-  - @think-copilotkit/react-core@1.9.1-next.0
+  - @turbo-agent/copilotkit-shared@1.9.1-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.1-next.0
+  - @turbo-agent/copilotkit-react-core@1.9.1-next.0
 
 ## 1.9.0
 
 ### Patch Changes
 
 - Updated dependencies [54cae30]
-  - @think-copilotkit/react-core@1.9.0
-  - @think-copilotkit/runtime-client-gql@1.9.0
-  - @think-copilotkit/shared@1.9.0
+  - @turbo-agent/copilotkit-react-core@1.9.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.9.0
+  - @turbo-agent/copilotkit-shared@1.9.0
 
 ## 1.9.0-next.2
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.9.0-next.2
-- @think-copilotkit/react-core@1.9.0-next.2
-- @think-copilotkit/shared@1.9.0-next.2
+- @turbo-agent/copilotkit-runtime-client-gql@1.9.0-next.2
+- @turbo-agent/copilotkit-react-core@1.9.0-next.2
+- @turbo-agent/copilotkit-shared@1.9.0-next.2
 
 ## 1.8.15-next.1
 
 ### Patch Changes
 
 - Updated dependencies [54cae30]
-  - @think-copilotkit/react-core@1.8.15-next.1
-  - @think-copilotkit/runtime-client-gql@1.8.15-next.1
-  - @think-copilotkit/shared@1.8.15-next.1
+  - @turbo-agent/copilotkit-react-core@1.8.15-next.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.15-next.1
+  - @turbo-agent/copilotkit-shared@1.8.15-next.1
 
 ## 1.8.15-next.0
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.15-next.0
-- @think-copilotkit/react-core@1.8.15-next.0
-- @think-copilotkit/shared@1.8.15-next.0
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.15-next.0
+- @turbo-agent/copilotkit-react-core@1.8.15-next.0
+- @turbo-agent/copilotkit-shared@1.8.15-next.0
 
 ## 1.8.14
 
@@ -379,50 +379,50 @@
 - Updated dependencies [34a78d8]
 - Updated dependencies [9cf1fda]
 - Updated dependencies [9cf1fda]
-  - @think-copilotkit/shared@1.8.14
-  - @think-copilotkit/react-core@1.8.14
-  - @think-copilotkit/runtime-client-gql@1.8.14
+  - @turbo-agent/copilotkit-shared@1.8.14
+  - @turbo-agent/copilotkit-react-core@1.8.14
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.14
 
 ## 1.8.14-next.5
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.14-next.5
-- @think-copilotkit/react-core@1.8.14-next.5
-- @think-copilotkit/shared@1.8.14-next.5
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.14-next.5
+- @turbo-agent/copilotkit-react-core@1.8.14-next.5
+- @turbo-agent/copilotkit-shared@1.8.14-next.5
 
 ## 1.8.14-next.4
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.14-next.4
-- @think-copilotkit/react-core@1.8.14-next.4
-- @think-copilotkit/shared@1.8.14-next.4
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.14-next.4
+- @turbo-agent/copilotkit-react-core@1.8.14-next.4
+- @turbo-agent/copilotkit-shared@1.8.14-next.4
 
 ## 1.8.14-next.3
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.14-next.3
-- @think-copilotkit/react-core@1.8.14-next.3
-- @think-copilotkit/shared@1.8.14-next.3
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.14-next.3
+- @turbo-agent/copilotkit-react-core@1.8.14-next.3
+- @turbo-agent/copilotkit-shared@1.8.14-next.3
 
 ## 1.8.14-next.2
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.14-next.2
-- @think-copilotkit/react-core@1.8.14-next.2
-- @think-copilotkit/shared@1.8.14-next.2
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.14-next.2
+- @turbo-agent/copilotkit-react-core@1.8.14-next.2
+- @turbo-agent/copilotkit-shared@1.8.14-next.2
 
 ## 1.8.14-next.1
 
 ### Patch Changes
 
 - Updated dependencies [34a78d8]
-  - @think-copilotkit/shared@1.8.14-next.1
-  - @think-copilotkit/react-core@1.8.14-next.1
-  - @think-copilotkit/runtime-client-gql@1.8.14-next.1
+  - @turbo-agent/copilotkit-shared@1.8.14-next.1
+  - @turbo-agent/copilotkit-react-core@1.8.14-next.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.14-next.1
 
 ## 1.8.14-next.0
 
@@ -430,9 +430,9 @@
 
 - Updated dependencies [9cf1fda]
 - Updated dependencies [9cf1fda]
-  - @think-copilotkit/react-core@1.8.14-next.0
-  - @think-copilotkit/runtime-client-gql@1.8.14-next.0
-  - @think-copilotkit/shared@1.8.14-next.0
+  - @turbo-agent/copilotkit-react-core@1.8.14-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.14-next.0
+  - @turbo-agent/copilotkit-shared@1.8.14-next.0
 
 ## 1.8.13
 
@@ -441,44 +441,44 @@
 - 2b74042: - feat: support custom markdown for assistant message
 - f1b81bf: - feat: enable replacing suggestions list
 - Updated dependencies [7fcf5c4]
-  - @think-copilotkit/react-core@1.8.13
-  - @think-copilotkit/runtime-client-gql@1.8.13
-  - @think-copilotkit/shared@1.8.13
+  - @turbo-agent/copilotkit-react-core@1.8.13
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.13
+  - @turbo-agent/copilotkit-shared@1.8.13
 
 ## 1.8.13-next.3
 
 ### Patch Changes
 
 - f1b81bf: - feat: enable replacing suggestions list
-  - @think-copilotkit/react-core@1.8.13-next.3
-  - @think-copilotkit/runtime-client-gql@1.8.13-next.3
-  - @think-copilotkit/shared@1.8.13-next.3
+  - @turbo-agent/copilotkit-react-core@1.8.13-next.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.13-next.3
+  - @turbo-agent/copilotkit-shared@1.8.13-next.3
 
 ## 1.8.13-next.2
 
 ### Patch Changes
 
 - 2b74042: - feat: support custom markdown for assistant message
-  - @think-copilotkit/react-core@1.8.13-next.2
-  - @think-copilotkit/runtime-client-gql@1.8.13-next.2
-  - @think-copilotkit/shared@1.8.13-next.2
+  - @turbo-agent/copilotkit-react-core@1.8.13-next.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.13-next.2
+  - @turbo-agent/copilotkit-shared@1.8.13-next.2
 
 ## 1.8.13-next.1
 
 ### Patch Changes
 
 - Updated dependencies [7fcf5c4]
-  - @think-copilotkit/react-core@1.8.13-next.1
-  - @think-copilotkit/runtime-client-gql@1.8.13-next.1
-  - @think-copilotkit/shared@1.8.13-next.1
+  - @turbo-agent/copilotkit-react-core@1.8.13-next.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.13-next.1
+  - @turbo-agent/copilotkit-shared@1.8.13-next.1
 
 ## 1.8.13-next.0
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.13-next.0
-- @think-copilotkit/react-core@1.8.13-next.0
-- @think-copilotkit/shared@1.8.13-next.0
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.13-next.0
+- @turbo-agent/copilotkit-react-core@1.8.13-next.0
+- @turbo-agent/copilotkit-shared@1.8.13-next.0
 
 ## 1.8.12
 
@@ -488,69 +488,69 @@
 - 89873ca: - fix: use set background color on the entire window
 - Updated dependencies [3e09584]
 - Updated dependencies [33ba021]
-  - @think-copilotkit/react-core@1.8.12
-  - @think-copilotkit/runtime-client-gql@1.8.12
-  - @think-copilotkit/shared@1.8.12
+  - @turbo-agent/copilotkit-react-core@1.8.12
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.12
+  - @turbo-agent/copilotkit-shared@1.8.12
 
 ## 1.8.12-next.6
 
 ### Patch Changes
 
 - Updated dependencies [3e09584]
-  - @think-copilotkit/react-core@1.8.12-next.6
-  - @think-copilotkit/runtime-client-gql@1.8.12-next.6
-  - @think-copilotkit/shared@1.8.12-next.6
+  - @turbo-agent/copilotkit-react-core@1.8.12-next.6
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.12-next.6
+  - @turbo-agent/copilotkit-shared@1.8.12-next.6
 
 ## 1.8.12-next.5
 
 ### Patch Changes
 
 - 9b2e9e6: - fix: move powered by tag to input and fix padding on full chat
-  - @think-copilotkit/react-core@1.8.12-next.5
-  - @think-copilotkit/runtime-client-gql@1.8.12-next.5
-  - @think-copilotkit/shared@1.8.12-next.5
+  - @turbo-agent/copilotkit-react-core@1.8.12-next.5
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.12-next.5
+  - @turbo-agent/copilotkit-shared@1.8.12-next.5
 
 ## 1.8.12-next.4
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.12-next.4
-- @think-copilotkit/react-core@1.8.12-next.4
-- @think-copilotkit/shared@1.8.12-next.4
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.12-next.4
+- @turbo-agent/copilotkit-react-core@1.8.12-next.4
+- @turbo-agent/copilotkit-shared@1.8.12-next.4
 
 ## 1.8.12-next.3
 
 ### Patch Changes
 
 - 89873ca: - fix: use set background color on the entire window
-  - @think-copilotkit/react-core@1.8.12-next.3
-  - @think-copilotkit/runtime-client-gql@1.8.12-next.3
-  - @think-copilotkit/shared@1.8.12-next.3
+  - @turbo-agent/copilotkit-react-core@1.8.12-next.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.12-next.3
+  - @turbo-agent/copilotkit-shared@1.8.12-next.3
 
 ## 1.8.12-next.2
 
 ### Patch Changes
 
 - Updated dependencies [33ba021]
-  - @think-copilotkit/react-core@1.8.12-next.2
-  - @think-copilotkit/runtime-client-gql@1.8.12-next.2
-  - @think-copilotkit/shared@1.8.12-next.2
+  - @turbo-agent/copilotkit-react-core@1.8.12-next.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.12-next.2
+  - @turbo-agent/copilotkit-shared@1.8.12-next.2
 
 ## 1.8.12-next.1
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.12-next.1
-- @think-copilotkit/react-core@1.8.12-next.1
-- @think-copilotkit/shared@1.8.12-next.1
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.12-next.1
+- @turbo-agent/copilotkit-react-core@1.8.12-next.1
+- @turbo-agent/copilotkit-shared@1.8.12-next.1
 
 ## 1.8.12-next.0
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.12-next.0
-- @think-copilotkit/react-core@1.8.12-next.0
-- @think-copilotkit/shared@1.8.12-next.0
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.12-next.0
+- @turbo-agent/copilotkit-react-core@1.8.12-next.0
+- @turbo-agent/copilotkit-shared@1.8.12-next.0
 
 ## 1.8.11
 
@@ -560,17 +560,17 @@
 
   Signed-off-by: Tyler Slaton <tyler@copilotkit.ai>
 
-  - @think-copilotkit/runtime-client-gql@1.8.11
-  - @think-copilotkit/react-core@1.8.11
-  - @think-copilotkit/shared@1.8.11
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.11
+  - @turbo-agent/copilotkit-react-core@1.8.11
+  - @turbo-agent/copilotkit-shared@1.8.11
 
 ## 1.8.11-next.1
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.11-next.1
-- @think-copilotkit/react-core@1.8.11-next.1
-- @think-copilotkit/shared@1.8.11-next.1
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.11-next.1
+- @turbo-agent/copilotkit-react-core@1.8.11-next.1
+- @turbo-agent/copilotkit-shared@1.8.11-next.1
 
 ## 1.8.11-next.0
 
@@ -580,9 +580,9 @@
 
   Signed-off-by: Tyler Slaton <tyler@copilotkit.ai>
 
-  - @think-copilotkit/react-core@1.8.11-next.0
-  - @think-copilotkit/runtime-client-gql@1.8.11-next.0
-  - @think-copilotkit/shared@1.8.11-next.0
+  - @turbo-agent/copilotkit-react-core@1.8.11-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.11-next.0
+  - @turbo-agent/copilotkit-shared@1.8.11-next.0
 
 ## 1.8.10
 
@@ -591,86 +591,86 @@
 - 62b6db1: - fix: allow the chat input to expand on new lines
 - 98c09dd: - fix: fix colors on chat ui dark mode
 - Updated dependencies [742efbb]
-  - @think-copilotkit/react-core@1.8.10
-  - @think-copilotkit/runtime-client-gql@1.8.10
-  - @think-copilotkit/shared@1.8.10
+  - @turbo-agent/copilotkit-react-core@1.8.10
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.10
+  - @turbo-agent/copilotkit-shared@1.8.10
 
 ## 1.8.10-next.3
 
 ### Patch Changes
 
 - 98c09dd: - fix: fix colors on chat ui dark mode
-  - @think-copilotkit/react-core@1.8.10-next.3
-  - @think-copilotkit/runtime-client-gql@1.8.10-next.3
-  - @think-copilotkit/shared@1.8.10-next.3
+  - @turbo-agent/copilotkit-react-core@1.8.10-next.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.10-next.3
+  - @turbo-agent/copilotkit-shared@1.8.10-next.3
 
 ## 1.8.10-next.2
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.10-next.2
-- @think-copilotkit/react-core@1.8.10-next.2
-- @think-copilotkit/shared@1.8.10-next.2
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.10-next.2
+- @turbo-agent/copilotkit-react-core@1.8.10-next.2
+- @turbo-agent/copilotkit-shared@1.8.10-next.2
 
 ## 1.8.10-next.1
 
 ### Patch Changes
 
 - 62b6db1: - fix: allow the chat input to expand on new lines
-  - @think-copilotkit/react-core@1.8.10-next.1
-  - @think-copilotkit/runtime-client-gql@1.8.10-next.1
-  - @think-copilotkit/shared@1.8.10-next.1
+  - @turbo-agent/copilotkit-react-core@1.8.10-next.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.10-next.1
+  - @turbo-agent/copilotkit-shared@1.8.10-next.1
 
 ## 1.8.10-next.0
 
 ### Patch Changes
 
 - Updated dependencies [742efbb]
-  - @think-copilotkit/react-core@1.8.10-next.0
-  - @think-copilotkit/runtime-client-gql@1.8.10-next.0
-  - @think-copilotkit/shared@1.8.10-next.0
+  - @turbo-agent/copilotkit-react-core@1.8.10-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.10-next.0
+  - @turbo-agent/copilotkit-shared@1.8.10-next.0
 
 ## 1.8.9
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.9
-- @think-copilotkit/react-core@1.8.9
-- @think-copilotkit/shared@1.8.9
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.9
+- @turbo-agent/copilotkit-react-core@1.8.9
+- @turbo-agent/copilotkit-shared@1.8.9
 
 ## 1.8.9-next.0
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.9-next.0
-- @think-copilotkit/react-core@1.8.9-next.0
-- @think-copilotkit/shared@1.8.9-next.0
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.9-next.0
+- @turbo-agent/copilotkit-react-core@1.8.9-next.0
+- @turbo-agent/copilotkit-shared@1.8.9-next.0
 
 ## 1.8.8
 
 ### Patch Changes
 
 - Updated dependencies [dfb67c3]
-  - @think-copilotkit/react-core@1.8.8
-  - @think-copilotkit/runtime-client-gql@1.8.8
-  - @think-copilotkit/shared@1.8.8
+  - @turbo-agent/copilotkit-react-core@1.8.8
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.8
+  - @turbo-agent/copilotkit-shared@1.8.8
 
 ## 1.8.8-next.1
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.8-next.1
-- @think-copilotkit/react-core@1.8.8-next.1
-- @think-copilotkit/shared@1.8.8-next.1
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.8-next.1
+- @turbo-agent/copilotkit-react-core@1.8.8-next.1
+- @turbo-agent/copilotkit-shared@1.8.8-next.1
 
 ## 1.8.8-next.0
 
 ### Patch Changes
 
 - Updated dependencies [dfb67c3]
-  - @think-copilotkit/react-core@1.8.8-next.0
-  - @think-copilotkit/runtime-client-gql@1.8.8-next.0
-  - @think-copilotkit/shared@1.8.8-next.0
+  - @turbo-agent/copilotkit-react-core@1.8.8-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.8-next.0
+  - @turbo-agent/copilotkit-shared@1.8.8-next.0
 
 ## 1.8.7
 
@@ -678,9 +678,9 @@
 
 - 8b8474f: - feat: add image input support with multi-model compatibility, pasting, and UX improvements
 - Updated dependencies [8b8474f]
-  - @think-copilotkit/runtime-client-gql@1.8.7
-  - @think-copilotkit/react-core@1.8.7
-  - @think-copilotkit/shared@1.8.7
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.7
+  - @turbo-agent/copilotkit-react-core@1.8.7
+  - @turbo-agent/copilotkit-shared@1.8.7
 
 ## 1.8.7-next.0
 
@@ -688,27 +688,27 @@
 
 - 8b8474f: - feat: add image input support with multi-model compatibility, pasting, and UX improvements
 - Updated dependencies [8b8474f]
-  - @think-copilotkit/runtime-client-gql@1.8.7-next.0
-  - @think-copilotkit/react-core@1.8.7-next.0
-  - @think-copilotkit/shared@1.8.7-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.7-next.0
+  - @turbo-agent/copilotkit-react-core@1.8.7-next.0
+  - @turbo-agent/copilotkit-shared@1.8.7-next.0
 
 ## 1.8.6
 
 ### Patch Changes
 
 - Updated dependencies [7a04bd1]
-  - @think-copilotkit/react-core@1.8.6
-  - @think-copilotkit/runtime-client-gql@1.8.6
-  - @think-copilotkit/shared@1.8.6
+  - @turbo-agent/copilotkit-react-core@1.8.6
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.6
+  - @turbo-agent/copilotkit-shared@1.8.6
 
 ## 1.8.6-next.0
 
 ### Patch Changes
 
 - Updated dependencies [7a04bd1]
-  - @think-copilotkit/react-core@1.8.6-next.0
-  - @think-copilotkit/runtime-client-gql@1.8.6-next.0
-  - @think-copilotkit/shared@1.8.6-next.0
+  - @turbo-agent/copilotkit-react-core@1.8.6-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.6-next.0
+  - @turbo-agent/copilotkit-shared@1.8.6-next.0
 
 ## 1.8.5
 
@@ -720,44 +720,44 @@
 - Updated dependencies [c0d3261]
 - Updated dependencies [77a7457]
 - Updated dependencies [d0e8a1e]
-  - @think-copilotkit/react-core@1.8.5
-  - @think-copilotkit/runtime-client-gql@1.8.5
-  - @think-copilotkit/shared@1.8.5
+  - @turbo-agent/copilotkit-react-core@1.8.5
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.5
+  - @turbo-agent/copilotkit-shared@1.8.5
 
 ## 1.8.5-next.5
 
 ### Patch Changes
 
 - Updated dependencies [c0d3261]
-  - @think-copilotkit/react-core@1.8.5-next.5
-  - @think-copilotkit/runtime-client-gql@1.8.5-next.5
-  - @think-copilotkit/shared@1.8.5-next.5
+  - @turbo-agent/copilotkit-react-core@1.8.5-next.5
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.5-next.5
+  - @turbo-agent/copilotkit-shared@1.8.5-next.5
 
 ## 1.8.5-next.4
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.5-next.4
-- @think-copilotkit/react-core@1.8.5-next.4
-- @think-copilotkit/shared@1.8.5-next.4
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.5-next.4
+- @turbo-agent/copilotkit-react-core@1.8.5-next.4
+- @turbo-agent/copilotkit-shared@1.8.5-next.4
 
 ## 1.8.5-next.3
 
 ### Patch Changes
 
 - Updated dependencies [77a7457]
-  - @think-copilotkit/react-core@1.8.5-next.3
-  - @think-copilotkit/runtime-client-gql@1.8.5-next.3
-  - @think-copilotkit/shared@1.8.5-next.3
+  - @turbo-agent/copilotkit-react-core@1.8.5-next.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.5-next.3
+  - @turbo-agent/copilotkit-shared@1.8.5-next.3
 
 ## 1.8.5-next.2
 
 ### Patch Changes
 
 - 4b5452d: - feat: add powered-by-copilotkit watermark
-  - @think-copilotkit/react-core@1.8.5-next.2
-  - @think-copilotkit/runtime-client-gql@1.8.5-next.2
-  - @think-copilotkit/shared@1.8.5-next.2
+  - @turbo-agent/copilotkit-react-core@1.8.5-next.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.5-next.2
+  - @turbo-agent/copilotkit-shared@1.8.5-next.2
 
 ## 1.8.5-next.1
 
@@ -765,18 +765,18 @@
 
 - d0e8a1e: - fix: fix duplicate messages on regenerate
 - Updated dependencies [d0e8a1e]
-  - @think-copilotkit/react-core@1.8.5-next.1
-  - @think-copilotkit/runtime-client-gql@1.8.5-next.1
-  - @think-copilotkit/shared@1.8.5-next.1
+  - @turbo-agent/copilotkit-react-core@1.8.5-next.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.5-next.1
+  - @turbo-agent/copilotkit-shared@1.8.5-next.1
 
 ## 1.8.5-next.0
 
 ### Patch Changes
 
 - ed5ace7: - fix: for every component that has default, make prop optional
-  - @think-copilotkit/react-core@1.8.5-next.0
-  - @think-copilotkit/runtime-client-gql@1.8.5-next.0
-  - @think-copilotkit/shared@1.8.5-next.0
+  - @turbo-agent/copilotkit-react-core@1.8.5-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.5-next.0
+  - @turbo-agent/copilotkit-shared@1.8.5-next.0
 
 ## 1.8.4
 
@@ -786,53 +786,53 @@
 - fc11455: - fix: focus on text area when clicking in input box
 - Updated dependencies [f363760]
 - Updated dependencies [4e28414]
-  - @think-copilotkit/shared@1.8.4
-  - @think-copilotkit/react-core@1.8.4
-  - @think-copilotkit/runtime-client-gql@1.8.4
+  - @turbo-agent/copilotkit-shared@1.8.4
+  - @turbo-agent/copilotkit-react-core@1.8.4
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.4
 
 ## 1.8.4-next.4
 
 ### Patch Changes
 
 - Updated dependencies [4e28414]
-  - @think-copilotkit/react-core@1.8.4-next.4
-  - @think-copilotkit/runtime-client-gql@1.8.4-next.4
-  - @think-copilotkit/shared@1.8.4-next.4
+  - @turbo-agent/copilotkit-react-core@1.8.4-next.4
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.4-next.4
+  - @turbo-agent/copilotkit-shared@1.8.4-next.4
 
 ## 1.8.4-next.3
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.4-next.3
-- @think-copilotkit/react-core@1.8.4-next.3
-- @think-copilotkit/shared@1.8.4-next.3
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.4-next.3
+- @turbo-agent/copilotkit-react-core@1.8.4-next.3
+- @turbo-agent/copilotkit-shared@1.8.4-next.3
 
 ## 1.8.4-next.2
 
 ### Patch Changes
 
 - fc11455: - fix: focus on text area when clicking in input box
-  - @think-copilotkit/react-core@1.8.4-next.2
-  - @think-copilotkit/runtime-client-gql@1.8.4-next.2
-  - @think-copilotkit/shared@1.8.4-next.2
+  - @turbo-agent/copilotkit-react-core@1.8.4-next.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.4-next.2
+  - @turbo-agent/copilotkit-shared@1.8.4-next.2
 
 ## 1.8.4-next.1
 
 ### Patch Changes
 
 - Updated dependencies [f363760]
-  - @think-copilotkit/shared@1.8.4-next.1
-  - @think-copilotkit/runtime-client-gql@1.8.4-next.1
-  - @think-copilotkit/react-core@1.8.4-next.1
+  - @turbo-agent/copilotkit-shared@1.8.4-next.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.4-next.1
+  - @turbo-agent/copilotkit-react-core@1.8.4-next.1
 
 ## 1.8.4-next.0
 
 ### Patch Changes
 
 - 0846462: - fix: remove styles corresponding to OS dark theme
-  - @think-copilotkit/react-core@1.8.4-next.0
-  - @think-copilotkit/runtime-client-gql@1.8.4-next.0
-  - @think-copilotkit/shared@1.8.4-next.0
+  - @turbo-agent/copilotkit-react-core@1.8.4-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.4-next.0
+  - @turbo-agent/copilotkit-shared@1.8.4-next.0
 
 ## 1.8.3
 
@@ -840,43 +840,43 @@
 
 - 76520b8: - style: remove system-preference oriented dark mode
 - 0f6baa1: - fix: fix default styles of chat components
-  - @think-copilotkit/react-core@1.8.3
-  - @think-copilotkit/runtime-client-gql@1.8.3
-  - @think-copilotkit/shared@1.8.3
+  - @turbo-agent/copilotkit-react-core@1.8.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.3
+  - @turbo-agent/copilotkit-shared@1.8.3
 
 ## 1.8.3-next.0
 
 ### Patch Changes
 
 - 76520b8: - style: remove system-preference oriented dark mode
-  - @think-copilotkit/react-core@1.8.3-next.0
-  - @think-copilotkit/runtime-client-gql@1.8.3-next.0
-  - @think-copilotkit/shared@1.8.3-next.0
+  - @turbo-agent/copilotkit-react-core@1.8.3-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.3-next.0
+  - @turbo-agent/copilotkit-shared@1.8.3-next.0
 
 ## 1.8.2-next.3
 
 ### Patch Changes
 
 - 0f6baa1: - fix: fix default styles of chat components
-  - @think-copilotkit/react-core@1.8.2-next.3
-  - @think-copilotkit/runtime-client-gql@1.8.2-next.3
-  - @think-copilotkit/shared@1.8.2-next.3
+  - @turbo-agent/copilotkit-react-core@1.8.2-next.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.2-next.3
+  - @turbo-agent/copilotkit-shared@1.8.2-next.3
 
 ## 1.8.2-next.2
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.2-next.2
-- @think-copilotkit/react-core@1.8.2-next.2
-- @think-copilotkit/shared@1.8.2-next.2
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.2-next.2
+- @turbo-agent/copilotkit-react-core@1.8.2-next.2
+- @turbo-agent/copilotkit-shared@1.8.2-next.2
 
 ## 1.8.2-next.1
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.2-next.1
-- @think-copilotkit/react-core@1.8.2-next.1
-- @think-copilotkit/shared@1.8.2-next.1
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.2-next.1
+- @turbo-agent/copilotkit-react-core@1.8.2-next.1
+- @turbo-agent/copilotkit-shared@1.8.2-next.1
 
 ## 1.8.2-next.0
 
@@ -884,9 +884,9 @@
 
 - d574350: - fix: adjust order of colors so app themes prevails OS theme
 - d574350: - fix: adjust order of colors so app themes prevails OS theme
-  - @think-copilotkit/react-core@1.8.2-next.0
-  - @think-copilotkit/runtime-client-gql@1.8.2-next.0
-  - @think-copilotkit/shared@1.8.2-next.0
+  - @turbo-agent/copilotkit-react-core@1.8.2-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.2-next.0
+  - @turbo-agent/copilotkit-shared@1.8.2-next.0
 
 ## 1.8.1
 
@@ -894,27 +894,27 @@
 
 - 0cba747: - fix: set text area within the input box to transparent background
 - Updated dependencies [7a42944]
-  - @think-copilotkit/react-core@1.8.1
-  - @think-copilotkit/runtime-client-gql@1.8.1
-  - @think-copilotkit/shared@1.8.1
+  - @turbo-agent/copilotkit-react-core@1.8.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.1
+  - @turbo-agent/copilotkit-shared@1.8.1
 
 ## 1.8.1-next.1
 
 ### Patch Changes
 
 - 0cba747: - fix: set text area within the input box to transparent background
-  - @think-copilotkit/react-core@1.8.1-next.1
-  - @think-copilotkit/runtime-client-gql@1.8.1-next.1
-  - @think-copilotkit/shared@1.8.1-next.1
+  - @turbo-agent/copilotkit-react-core@1.8.1-next.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.1-next.1
+  - @turbo-agent/copilotkit-shared@1.8.1-next.1
 
 ## 1.8.1-next.0
 
 ### Patch Changes
 
 - Updated dependencies [7a42944]
-  - @think-copilotkit/react-core@1.8.1-next.0
-  - @think-copilotkit/runtime-client-gql@1.8.1-next.0
-  - @think-copilotkit/shared@1.8.1-next.0
+  - @turbo-agent/copilotkit-react-core@1.8.1-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.1-next.0
+  - @turbo-agent/copilotkit-shared@1.8.1-next.0
 
 ## 1.8.0
 
@@ -932,18 +932,18 @@
 - d8e354b: - fix: re-align customization variable names and usage
 - Updated dependencies [73f5eaa]
 - Updated dependencies [a50f4c1]
-  - @think-copilotkit/react-core@1.8.0
-  - @think-copilotkit/runtime-client-gql@1.8.0
-  - @think-copilotkit/shared@1.8.0
+  - @turbo-agent/copilotkit-react-core@1.8.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.0
+  - @turbo-agent/copilotkit-shared@1.8.0
 
 ## 1.8.0-next.8
 
 ### Patch Changes
 
 - 099807a: - fix: adjust dev console menus to dark theme
-  - @think-copilotkit/react-core@1.8.0-next.8
-  - @think-copilotkit/runtime-client-gql@1.8.0-next.8
-  - @think-copilotkit/shared@1.8.0-next.8
+  - @turbo-agent/copilotkit-react-core@1.8.0-next.8
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.0-next.8
+  - @turbo-agent/copilotkit-shared@1.8.0-next.8
 
 ## 1.8.0-next.7
 
@@ -951,17 +951,17 @@
 
 - 5f184b7: - fix: remove response button
   - fix: use customizable assistant message icons
-  - @think-copilotkit/react-core@1.8.0-next.7
-  - @think-copilotkit/runtime-client-gql@1.8.0-next.7
-  - @think-copilotkit/shared@1.8.0-next.7
+  - @turbo-agent/copilotkit-react-core@1.8.0-next.7
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.0-next.7
+  - @turbo-agent/copilotkit-shared@1.8.0-next.7
 
 ## 1.8.0-next.6
 
 ### Patch Changes
 
-- @think-copilotkit/react-core@1.8.0-next.6
-- @think-copilotkit/runtime-client-gql@1.8.0-next.6
-- @think-copilotkit/shared@1.8.0-next.6
+- @turbo-agent/copilotkit-react-core@1.8.0-next.6
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.0-next.6
+- @turbo-agent/copilotkit-shared@1.8.0-next.6
 
 ## 1.8.0-next.5
 
@@ -969,18 +969,18 @@
 
 - a50f4c1: - move default components out of ui
 - Updated dependencies [a50f4c1]
-  - @think-copilotkit/react-core@1.8.0-next.5
-  - @think-copilotkit/runtime-client-gql@1.8.0-next.5
-  - @think-copilotkit/shared@1.8.0-next.5
+  - @turbo-agent/copilotkit-react-core@1.8.0-next.5
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.0-next.5
+  - @turbo-agent/copilotkit-shared@1.8.0-next.5
 
 ## 1.8.0-next.4
 
 ### Patch Changes
 
 - d8e354b: - fix: re-align customization variable names and usage
-  - @think-copilotkit/react-core@1.8.0-next.4
-  - @think-copilotkit/runtime-client-gql@1.8.0-next.4
-  - @think-copilotkit/shared@1.8.0-next.4
+  - @turbo-agent/copilotkit-react-core@1.8.0-next.4
+  - @turbo-agent/copilotkit-runtime-client-gql@1.8.0-next.4
+  - @turbo-agent/copilotkit-shared@1.8.0-next.4
 
 ## 1.8.0-next.3
 
@@ -990,75 +990,75 @@
 
 ### Patch Changes
 
-- @think-copilotkit/react-core@1.8.0-next.3
-- @think-copilotkit/runtime-client-gql@1.8.0-next.3
-- @think-copilotkit/shared@1.8.0-next.3
+- @turbo-agent/copilotkit-react-core@1.8.0-next.3
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.0-next.3
+- @turbo-agent/copilotkit-shared@1.8.0-next.3
 
 ## 1.7.2-next.2
 
 ### Patch Changes
 
 - c11fab9: - chore(react-ui): Add DefaultResponseRenderer and DefaultStateRenderer components
-  - @think-copilotkit/react-core@1.7.2-next.2
-  - @think-copilotkit/runtime-client-gql@1.7.2-next.2
-  - @think-copilotkit/shared@1.7.2-next.2
+  - @turbo-agent/copilotkit-react-core@1.7.2-next.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.7.2-next.2
+  - @turbo-agent/copilotkit-shared@1.7.2-next.2
 
 ## 1.7.2-next.1
 
 ### Patch Changes
 
 - Updated dependencies [73f5eaa]
-  - @think-copilotkit/react-core@1.7.2-next.1
-  - @think-copilotkit/runtime-client-gql@1.7.2-next.1
-  - @think-copilotkit/shared@1.7.2-next.1
+  - @turbo-agent/copilotkit-react-core@1.7.2-next.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.7.2-next.1
+  - @turbo-agent/copilotkit-shared@1.7.2-next.1
 
 ## 1.7.2-next.0
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.7.2-next.0
-- @think-copilotkit/react-core@1.7.2-next.0
-- @think-copilotkit/shared@1.7.2-next.0
+- @turbo-agent/copilotkit-runtime-client-gql@1.7.2-next.0
+- @turbo-agent/copilotkit-react-core@1.7.2-next.0
+- @turbo-agent/copilotkit-shared@1.7.2-next.0
 
 ## 1.7.1
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.7.1
-- @think-copilotkit/react-core@1.7.1
-- @think-copilotkit/shared@1.7.1
+- @turbo-agent/copilotkit-runtime-client-gql@1.7.1
+- @turbo-agent/copilotkit-react-core@1.7.1
+- @turbo-agent/copilotkit-shared@1.7.1
 
 ## 1.7.1-next.0
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.7.1-next.0
-- @think-copilotkit/react-core@1.7.1-next.0
-- @think-copilotkit/shared@1.7.1-next.0
+- @turbo-agent/copilotkit-runtime-client-gql@1.7.1-next.0
+- @turbo-agent/copilotkit-react-core@1.7.1-next.0
+- @turbo-agent/copilotkit-shared@1.7.1-next.0
 
 ## 1.7.0
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.7.0
-- @think-copilotkit/react-core@1.7.0
-- @think-copilotkit/shared@1.7.0
+- @turbo-agent/copilotkit-runtime-client-gql@1.7.0
+- @turbo-agent/copilotkit-react-core@1.7.0
+- @turbo-agent/copilotkit-shared@1.7.0
 
 ## 1.7.0-next.1
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.7.0-next.1
-- @think-copilotkit/react-core@1.7.0-next.1
-- @think-copilotkit/shared@1.7.0-next.1
+- @turbo-agent/copilotkit-runtime-client-gql@1.7.0-next.1
+- @turbo-agent/copilotkit-react-core@1.7.0-next.1
+- @turbo-agent/copilotkit-shared@1.7.0-next.1
 
 ## 1.7.0-next.0
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.7.0-next.0
-- @think-copilotkit/react-core@1.7.0-next.0
-- @think-copilotkit/shared@1.7.0-next.0
+- @turbo-agent/copilotkit-runtime-client-gql@1.7.0-next.0
+- @turbo-agent/copilotkit-react-core@1.7.0-next.0
+- @turbo-agent/copilotkit-shared@1.7.0-next.0
 
 ## 1.6.0
 
@@ -1072,137 +1072,137 @@
 - Updated dependencies [7d061d9]
 - Updated dependencies [b454827]
 - Updated dependencies [c1cc77f]
-  - @think-copilotkit/react-core@1.6.0
-  - @think-copilotkit/runtime-client-gql@1.6.0
-  - @think-copilotkit/shared@1.6.0
+  - @turbo-agent/copilotkit-react-core@1.6.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.6.0
+  - @turbo-agent/copilotkit-shared@1.6.0
 
 ## 1.6.0-next.12
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.6.0-next.12
-- @think-copilotkit/react-core@1.6.0-next.12
-- @think-copilotkit/shared@1.6.0-next.12
+- @turbo-agent/copilotkit-runtime-client-gql@1.6.0-next.12
+- @turbo-agent/copilotkit-react-core@1.6.0-next.12
+- @turbo-agent/copilotkit-shared@1.6.0-next.12
 
 ## 1.6.0-next.11
 
 ### Patch Changes
 
 - Updated dependencies [85753b3]
-  - @think-copilotkit/react-core@1.6.0-next.11
-  - @think-copilotkit/runtime-client-gql@1.6.0-next.11
-  - @think-copilotkit/shared@1.6.0-next.11
+  - @turbo-agent/copilotkit-react-core@1.6.0-next.11
+  - @turbo-agent/copilotkit-runtime-client-gql@1.6.0-next.11
+  - @turbo-agent/copilotkit-shared@1.6.0-next.11
 
 ## 1.6.0-next.10
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.6.0-next.10
-- @think-copilotkit/react-core@1.6.0-next.10
-- @think-copilotkit/shared@1.6.0-next.10
+- @turbo-agent/copilotkit-runtime-client-gql@1.6.0-next.10
+- @turbo-agent/copilotkit-react-core@1.6.0-next.10
+- @turbo-agent/copilotkit-shared@1.6.0-next.10
 
 ## 1.6.0-next.9
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.6.0-next.9
-- @think-copilotkit/react-core@1.6.0-next.9
-- @think-copilotkit/shared@1.6.0-next.9
+- @turbo-agent/copilotkit-runtime-client-gql@1.6.0-next.9
+- @turbo-agent/copilotkit-react-core@1.6.0-next.9
+- @turbo-agent/copilotkit-shared@1.6.0-next.9
 
 ## 1.6.0-next.8
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.6.0-next.8
-- @think-copilotkit/react-core@1.6.0-next.8
-- @think-copilotkit/shared@1.6.0-next.8
+- @turbo-agent/copilotkit-runtime-client-gql@1.6.0-next.8
+- @turbo-agent/copilotkit-react-core@1.6.0-next.8
+- @turbo-agent/copilotkit-shared@1.6.0-next.8
 
 ## 1.6.0-next.7
 
 ### Patch Changes
 
 - Updated dependencies [d800f03]
-  - @think-copilotkit/react-core@1.6.0-next.7
-  - @think-copilotkit/runtime-client-gql@1.6.0-next.7
-  - @think-copilotkit/shared@1.6.0-next.7
+  - @turbo-agent/copilotkit-react-core@1.6.0-next.7
+  - @turbo-agent/copilotkit-runtime-client-gql@1.6.0-next.7
+  - @turbo-agent/copilotkit-shared@1.6.0-next.7
 
 ## 1.6.0-next.6
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.6.0-next.6
-- @think-copilotkit/react-core@1.6.0-next.6
-- @think-copilotkit/shared@1.6.0-next.6
+- @turbo-agent/copilotkit-runtime-client-gql@1.6.0-next.6
+- @turbo-agent/copilotkit-react-core@1.6.0-next.6
+- @turbo-agent/copilotkit-shared@1.6.0-next.6
 
 ## 1.6.0-next.5
 
 ### Patch Changes
 
 - Updated dependencies [090203d]
-  - @think-copilotkit/shared@1.6.0-next.5
-  - @think-copilotkit/runtime-client-gql@1.6.0-next.5
-  - @think-copilotkit/react-core@1.6.0-next.5
+  - @turbo-agent/copilotkit-shared@1.6.0-next.5
+  - @turbo-agent/copilotkit-runtime-client-gql@1.6.0-next.5
+  - @turbo-agent/copilotkit-react-core@1.6.0-next.5
 
 ## 1.6.0-next.4
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.6.0-next.4
-- @think-copilotkit/react-core@1.6.0-next.4
-- @think-copilotkit/shared@1.6.0-next.4
+- @turbo-agent/copilotkit-runtime-client-gql@1.6.0-next.4
+- @turbo-agent/copilotkit-react-core@1.6.0-next.4
+- @turbo-agent/copilotkit-shared@1.6.0-next.4
 
 ## 1.6.0-next.3
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.6.0-next.3
-- @think-copilotkit/react-core@1.6.0-next.3
-- @think-copilotkit/shared@1.6.0-next.3
+- @turbo-agent/copilotkit-runtime-client-gql@1.6.0-next.3
+- @turbo-agent/copilotkit-react-core@1.6.0-next.3
+- @turbo-agent/copilotkit-shared@1.6.0-next.3
 
 ## 1.6.0-next.2
 
 ### Patch Changes
 
 - Updated dependencies [b454827]
-  - @think-copilotkit/react-core@1.6.0-next.2
-  - @think-copilotkit/runtime-client-gql@1.6.0-next.2
-  - @think-copilotkit/shared@1.6.0-next.2
+  - @turbo-agent/copilotkit-react-core@1.6.0-next.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.6.0-next.2
+  - @turbo-agent/copilotkit-shared@1.6.0-next.2
 
 ## 1.6.0-next.1
 
 ### Patch Changes
 
 - Updated dependencies [d833f4c]
-  - @think-copilotkit/react-core@1.6.0-next.1
-  - @think-copilotkit/runtime-client-gql@1.6.0-next.1
-  - @think-copilotkit/shared@1.6.0-next.1
+  - @turbo-agent/copilotkit-react-core@1.6.0-next.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.6.0-next.1
+  - @turbo-agent/copilotkit-shared@1.6.0-next.1
 
 ## 1.6.0-next.0
 
 ### Patch Changes
 
 - Updated dependencies [7d061d9]
-  - @think-copilotkit/react-core@1.6.0-next.0
-  - @think-copilotkit/runtime-client-gql@1.6.0-next.0
-  - @think-copilotkit/shared@1.6.0-next.0
+  - @turbo-agent/copilotkit-react-core@1.6.0-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.6.0-next.0
+  - @turbo-agent/copilotkit-shared@1.6.0-next.0
 
 ## 1.5.20
 
 ### Patch Changes
 
 - Updated dependencies [51f0d66]
-  - @think-copilotkit/shared@1.5.20
-  - @think-copilotkit/react-core@1.5.20
-  - @think-copilotkit/runtime-client-gql@1.5.20
+  - @turbo-agent/copilotkit-shared@1.5.20
+  - @turbo-agent/copilotkit-react-core@1.5.20
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.20
 
 ## 1.5.20-next.0
 
 ### Patch Changes
 
 - Updated dependencies [51f0d66]
-  - @think-copilotkit/shared@1.5.20-next.0
-  - @think-copilotkit/react-core@1.5.20-next.0
-  - @think-copilotkit/runtime-client-gql@1.5.20-next.0
+  - @turbo-agent/copilotkit-shared@1.5.20-next.0
+  - @turbo-agent/copilotkit-react-core@1.5.20-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.20-next.0
 
 ## 1.5.19
 
@@ -1210,27 +1210,27 @@
 
 - Updated dependencies [0dd1ab9]
 - Updated dependencies [5bc68f8]
-  - @think-copilotkit/react-core@1.5.19
-  - @think-copilotkit/shared@1.5.19
-  - @think-copilotkit/runtime-client-gql@1.5.19
+  - @turbo-agent/copilotkit-react-core@1.5.19
+  - @turbo-agent/copilotkit-shared@1.5.19
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.19
 
 ## 1.5.19-next.1
 
 ### Patch Changes
 
 - Updated dependencies [0dd1ab9]
-  - @think-copilotkit/react-core@1.5.19-next.1
-  - @think-copilotkit/shared@1.5.19-next.1
-  - @think-copilotkit/runtime-client-gql@1.5.19-next.1
+  - @turbo-agent/copilotkit-react-core@1.5.19-next.1
+  - @turbo-agent/copilotkit-shared@1.5.19-next.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.19-next.1
 
 ## 1.5.19-next.0
 
 ### Patch Changes
 
 - Updated dependencies [5bc68f8]
-  - @think-copilotkit/react-core@1.5.19-next.0
-  - @think-copilotkit/runtime-client-gql@1.5.19-next.0
-  - @think-copilotkit/shared@1.5.19-next.0
+  - @turbo-agent/copilotkit-react-core@1.5.19-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.19-next.0
+  - @turbo-agent/copilotkit-shared@1.5.19-next.0
 
 ## 1.5.18
 
@@ -1239,62 +1239,62 @@
 - Updated dependencies [d47cd26]
 - Updated dependencies [f77a7b9]
 - Updated dependencies [38d3ac2]
-  - @think-copilotkit/runtime-client-gql@1.5.18
-  - @think-copilotkit/shared@1.5.18
-  - @think-copilotkit/react-core@1.5.18
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.18
+  - @turbo-agent/copilotkit-shared@1.5.18
+  - @turbo-agent/copilotkit-react-core@1.5.18
 
 ## 1.5.18-next.3
 
 ### Patch Changes
 
 - Updated dependencies [f77a7b9]
-  - @think-copilotkit/react-core@1.5.18-next.3
-  - @think-copilotkit/runtime-client-gql@1.5.18-next.3
-  - @think-copilotkit/shared@1.5.18-next.3
+  - @turbo-agent/copilotkit-react-core@1.5.18-next.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.18-next.3
+  - @turbo-agent/copilotkit-shared@1.5.18-next.3
 
 ## 1.5.18-next.2
 
 ### Patch Changes
 
 - Updated dependencies [38d3ac2]
-  - @think-copilotkit/shared@1.5.18-next.2
-  - @think-copilotkit/runtime-client-gql@1.5.18-next.2
-  - @think-copilotkit/react-core@1.5.18-next.2
+  - @turbo-agent/copilotkit-shared@1.5.18-next.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.18-next.2
+  - @turbo-agent/copilotkit-react-core@1.5.18-next.2
 
 ## 1.5.18-next.1
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.5.18-next.1
-- @think-copilotkit/react-core@1.5.18-next.1
-- @think-copilotkit/shared@1.5.18-next.1
+- @turbo-agent/copilotkit-runtime-client-gql@1.5.18-next.1
+- @turbo-agent/copilotkit-react-core@1.5.18-next.1
+- @turbo-agent/copilotkit-shared@1.5.18-next.1
 
 ## 1.5.18-next.0
 
 ### Patch Changes
 
 - Updated dependencies [d47cd26]
-  - @think-copilotkit/runtime-client-gql@1.5.18-next.0
-  - @think-copilotkit/shared@1.5.18-next.0
-  - @think-copilotkit/react-core@1.5.18-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.18-next.0
+  - @turbo-agent/copilotkit-shared@1.5.18-next.0
+  - @turbo-agent/copilotkit-react-core@1.5.18-next.0
 
 ## 1.5.17
 
 ### Patch Changes
 
 - Updated dependencies [1fc3902]
-  - @think-copilotkit/runtime-client-gql@1.5.17
-  - @think-copilotkit/shared@1.5.17
-  - @think-copilotkit/react-core@1.5.17
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.17
+  - @turbo-agent/copilotkit-shared@1.5.17
+  - @turbo-agent/copilotkit-react-core@1.5.17
 
 ## 1.5.17-next.0
 
 ### Patch Changes
 
 - Updated dependencies [1fc3902]
-  - @think-copilotkit/runtime-client-gql@1.5.17-next.0
-  - @think-copilotkit/shared@1.5.17-next.0
-  - @think-copilotkit/react-core@1.5.17-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.17-next.0
+  - @turbo-agent/copilotkit-shared@1.5.17-next.0
+  - @turbo-agent/copilotkit-react-core@1.5.17-next.0
 
 ## 1.5.16
 
@@ -1302,35 +1302,35 @@
 
 - Updated dependencies [07be5ca]
 - Updated dependencies [48b7c7b]
-  - @think-copilotkit/react-core@1.5.16
-  - @think-copilotkit/runtime-client-gql@1.5.16
-  - @think-copilotkit/shared@1.5.16
+  - @turbo-agent/copilotkit-react-core@1.5.16
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.16
+  - @turbo-agent/copilotkit-shared@1.5.16
 
 ## 1.5.16-next.2
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.5.16-next.2
-- @think-copilotkit/react-core@1.5.16-next.2
-- @think-copilotkit/shared@1.5.16-next.2
+- @turbo-agent/copilotkit-runtime-client-gql@1.5.16-next.2
+- @turbo-agent/copilotkit-react-core@1.5.16-next.2
+- @turbo-agent/copilotkit-shared@1.5.16-next.2
 
 ## 1.5.16-next.1
 
 ### Patch Changes
 
 - Updated dependencies [48b7c7b]
-  - @think-copilotkit/runtime-client-gql@1.5.16-next.1
-  - @think-copilotkit/shared@1.5.16-next.1
-  - @think-copilotkit/react-core@1.5.16-next.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.16-next.1
+  - @turbo-agent/copilotkit-shared@1.5.16-next.1
+  - @turbo-agent/copilotkit-react-core@1.5.16-next.1
 
 ## 1.5.16-next.0
 
 ### Patch Changes
 
 - Updated dependencies [07be5ca]
-  - @think-copilotkit/react-core@1.5.16-next.0
-  - @think-copilotkit/runtime-client-gql@1.5.16-next.0
-  - @think-copilotkit/shared@1.5.16-next.0
+  - @turbo-agent/copilotkit-react-core@1.5.16-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.16-next.0
+  - @turbo-agent/copilotkit-shared@1.5.16-next.0
 
 ## 1.5.15
 
@@ -1345,44 +1345,44 @@
 - Updated dependencies [7b3141d]
 - Updated dependencies [c9ae305]
 - Updated dependencies [0bbb4ab]
-  - @think-copilotkit/runtime-client-gql@1.5.15
-  - @think-copilotkit/react-core@1.5.15
-  - @think-copilotkit/shared@1.5.15
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.15
+  - @turbo-agent/copilotkit-react-core@1.5.15
+  - @turbo-agent/copilotkit-shared@1.5.15
 
 ## 1.5.15-next.8
 
 ### Patch Changes
 
 - Updated dependencies [06f9f35]
-  - @think-copilotkit/react-core@1.5.15-next.8
-  - @think-copilotkit/runtime-client-gql@1.5.15-next.8
-  - @think-copilotkit/shared@1.5.15-next.8
+  - @turbo-agent/copilotkit-react-core@1.5.15-next.8
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.15-next.8
+  - @turbo-agent/copilotkit-shared@1.5.15-next.8
 
 ## 1.5.15-next.7
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.5.15-next.7
-- @think-copilotkit/react-core@1.5.15-next.7
-- @think-copilotkit/shared@1.5.15-next.7
+- @turbo-agent/copilotkit-runtime-client-gql@1.5.15-next.7
+- @turbo-agent/copilotkit-react-core@1.5.15-next.7
+- @turbo-agent/copilotkit-shared@1.5.15-next.7
 
 ## 1.5.15-next.6
 
 ### Patch Changes
 
 - Updated dependencies [c9ae305]
-  - @think-copilotkit/react-core@1.5.15-next.6
-  - @think-copilotkit/runtime-client-gql@1.5.15-next.6
-  - @think-copilotkit/shared@1.5.15-next.6
+  - @turbo-agent/copilotkit-react-core@1.5.15-next.6
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.15-next.6
+  - @turbo-agent/copilotkit-shared@1.5.15-next.6
 
 ## 1.5.15-next.5
 
 ### Patch Changes
 
 - Updated dependencies [0dc0f43]
-  - @think-copilotkit/runtime-client-gql@1.5.15-next.5
-  - @think-copilotkit/react-core@1.5.15-next.5
-  - @think-copilotkit/shared@1.5.15-next.5
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.15-next.5
+  - @turbo-agent/copilotkit-react-core@1.5.15-next.5
+  - @turbo-agent/copilotkit-shared@1.5.15-next.5
 
 ## 1.5.15-next.4
 
@@ -1392,77 +1392,77 @@
   - chore(interrupt): add e2e test to interrupt functionality
   - feat(interrupt): add support for multiple interrupts and conditions
 - Updated dependencies [7b3141d]
-  - @think-copilotkit/react-core@1.5.15-next.4
-  - @think-copilotkit/runtime-client-gql@1.5.15-next.4
-  - @think-copilotkit/shared@1.5.15-next.4
+  - @turbo-agent/copilotkit-react-core@1.5.15-next.4
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.15-next.4
+  - @turbo-agent/copilotkit-shared@1.5.15-next.4
 
 ## 1.5.15-next.3
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.5.15-next.3
-- @think-copilotkit/react-core@1.5.15-next.3
-- @think-copilotkit/shared@1.5.15-next.3
+- @turbo-agent/copilotkit-runtime-client-gql@1.5.15-next.3
+- @turbo-agent/copilotkit-react-core@1.5.15-next.3
+- @turbo-agent/copilotkit-shared@1.5.15-next.3
 
 ## 1.5.15-next.2
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.5.15-next.2
-- @think-copilotkit/react-core@1.5.15-next.2
-- @think-copilotkit/shared@1.5.15-next.2
+- @turbo-agent/copilotkit-runtime-client-gql@1.5.15-next.2
+- @turbo-agent/copilotkit-react-core@1.5.15-next.2
+- @turbo-agent/copilotkit-shared@1.5.15-next.2
 
 ## 1.5.15-next.1
 
 ### Patch Changes
 
 - Updated dependencies [0bbb4ab]
-  - @think-copilotkit/runtime-client-gql@1.5.15-next.1
-  - @think-copilotkit/react-core@1.5.15-next.1
-  - @think-copilotkit/shared@1.5.15-next.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.15-next.1
+  - @turbo-agent/copilotkit-react-core@1.5.15-next.1
+  - @turbo-agent/copilotkit-shared@1.5.15-next.1
 
 ## 1.5.15-next.0
 
 ### Patch Changes
 
 - 66bd0f7: - fix(react-ui): check for updates endpoint to point to production
-  - @think-copilotkit/react-core@1.5.15-next.0
-  - @think-copilotkit/runtime-client-gql@1.5.15-next.0
-  - @think-copilotkit/shared@1.5.15-next.0
+  - @turbo-agent/copilotkit-react-core@1.5.15-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.15-next.0
+  - @turbo-agent/copilotkit-shared@1.5.15-next.0
 
 ## 1.5.14
 
 ### Patch Changes
 
 - Updated dependencies [0061f65]
-  - @think-copilotkit/react-core@1.5.14
-  - @think-copilotkit/shared@1.5.14
-  - @think-copilotkit/runtime-client-gql@1.5.14
+  - @turbo-agent/copilotkit-react-core@1.5.14
+  - @turbo-agent/copilotkit-shared@1.5.14
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.14
 
 ## 1.5.14-next.0
 
 ### Patch Changes
 
 - Updated dependencies [0061f65]
-  - @think-copilotkit/react-core@1.5.14-next.0
-  - @think-copilotkit/shared@1.5.14-next.0
-  - @think-copilotkit/runtime-client-gql@1.5.14-next.0
+  - @turbo-agent/copilotkit-react-core@1.5.14-next.0
+  - @turbo-agent/copilotkit-shared@1.5.14-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.14-next.0
 
 ## 1.5.13
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.5.13
-- @think-copilotkit/react-core@1.5.13
-- @think-copilotkit/shared@1.5.13
+- @turbo-agent/copilotkit-runtime-client-gql@1.5.13
+- @turbo-agent/copilotkit-react-core@1.5.13
+- @turbo-agent/copilotkit-shared@1.5.13
 
 ## 1.5.13-next.0
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.5.13-next.0
-- @think-copilotkit/react-core@1.5.13-next.0
-- @think-copilotkit/shared@1.5.13-next.0
+- @turbo-agent/copilotkit-runtime-client-gql@1.5.13-next.0
+- @turbo-agent/copilotkit-react-core@1.5.13-next.0
+- @turbo-agent/copilotkit-shared@1.5.13-next.0
 
 ## 1.5.12
 
@@ -1479,18 +1479,18 @@
 - Updated dependencies [926499b]
 - Updated dependencies [6136a57]
 - Updated dependencies [cb43c05]
-  - @think-copilotkit/runtime-client-gql@1.5.12
-  - @think-copilotkit/react-core@1.5.12
-  - @think-copilotkit/shared@1.5.12
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.12
+  - @turbo-agent/copilotkit-react-core@1.5.12
+  - @turbo-agent/copilotkit-shared@1.5.12
 
 ## 1.5.12-next.7
 
 ### Patch Changes
 
 - Updated dependencies [926499b]
-  - @think-copilotkit/react-core@1.5.12-next.7
-  - @think-copilotkit/runtime-client-gql@1.5.12-next.7
-  - @think-copilotkit/shared@1.5.12-next.7
+  - @turbo-agent/copilotkit-react-core@1.5.12-next.7
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.12-next.7
+  - @turbo-agent/copilotkit-shared@1.5.12-next.7
 
 ## 1.5.12-next.6
 
@@ -1500,51 +1500,51 @@
   - fix(errors): use new errors in error handling
   - chore: add documentation and links to respective errors
 - Updated dependencies [6136a57]
-  - @think-copilotkit/react-core@1.5.12-next.6
-  - @think-copilotkit/runtime-client-gql@1.5.12-next.6
-  - @think-copilotkit/shared@1.5.12-next.6
+  - @turbo-agent/copilotkit-react-core@1.5.12-next.6
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.12-next.6
+  - @turbo-agent/copilotkit-shared@1.5.12-next.6
 
 ## 1.5.12-next.5
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.5.12-next.5
-- @think-copilotkit/react-core@1.5.12-next.5
-- @think-copilotkit/shared@1.5.12-next.5
+- @turbo-agent/copilotkit-runtime-client-gql@1.5.12-next.5
+- @turbo-agent/copilotkit-react-core@1.5.12-next.5
+- @turbo-agent/copilotkit-shared@1.5.12-next.5
 
 ## 1.5.12-next.4
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.5.12-next.4
-- @think-copilotkit/react-core@1.5.12-next.4
-- @think-copilotkit/shared@1.5.12-next.4
+- @turbo-agent/copilotkit-runtime-client-gql@1.5.12-next.4
+- @turbo-agent/copilotkit-react-core@1.5.12-next.4
+- @turbo-agent/copilotkit-shared@1.5.12-next.4
 
 ## 1.5.12-next.3
 
 ### Patch Changes
 
 - Updated dependencies [cb43c05]
-  - @think-copilotkit/react-core@1.5.12-next.3
-  - @think-copilotkit/runtime-client-gql@1.5.12-next.3
-  - @think-copilotkit/shared@1.5.12-next.3
+  - @turbo-agent/copilotkit-react-core@1.5.12-next.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.12-next.3
+  - @turbo-agent/copilotkit-shared@1.5.12-next.3
 
 ## 1.5.12-next.2
 
 ### Patch Changes
 
 - Updated dependencies [fb87bcf]
-  - @think-copilotkit/runtime-client-gql@1.5.12-next.2
-  - @think-copilotkit/react-core@1.5.12-next.2
-  - @think-copilotkit/shared@1.5.12-next.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.12-next.2
+  - @turbo-agent/copilotkit-react-core@1.5.12-next.2
+  - @turbo-agent/copilotkit-shared@1.5.12-next.2
 
 ## 1.5.12-next.1
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.5.12-next.1
-- @think-copilotkit/react-core@1.5.12-next.1
-- @think-copilotkit/shared@1.5.12-next.1
+- @turbo-agent/copilotkit-runtime-client-gql@1.5.12-next.1
+- @turbo-agent/copilotkit-react-core@1.5.12-next.1
+- @turbo-agent/copilotkit-shared@1.5.12-next.1
 
 ## 1.5.12-next.0
 
@@ -1554,9 +1554,9 @@
 
   Signed-off-by: Tyler Slaton <tyler@copilotkit.ai>
 
-  - @think-copilotkit/react-core@1.5.12-next.0
-  - @think-copilotkit/runtime-client-gql@1.5.12-next.0
-  - @think-copilotkit/shared@1.5.12-next.0
+  - @turbo-agent/copilotkit-react-core@1.5.12-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.12-next.0
+  - @turbo-agent/copilotkit-shared@1.5.12-next.0
 
 ## 1.5.11
 
@@ -1578,9 +1578,9 @@
 - Updated dependencies [4211318]
 - Updated dependencies [9b3bdc2]
 - Updated dependencies [d431537]
-  - @think-copilotkit/runtime-client-gql@1.5.11
-  - @think-copilotkit/react-core@1.5.11
-  - @think-copilotkit/shared@1.5.11
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.11
+  - @turbo-agent/copilotkit-react-core@1.5.11
+  - @turbo-agent/copilotkit-shared@1.5.11
 
 ## 1.5.11-next.0
 
@@ -1602,9 +1602,9 @@
 - Updated dependencies [4211318]
 - Updated dependencies [9b3bdc2]
 - Updated dependencies [d431537]
-  - @think-copilotkit/runtime-client-gql@1.5.11-next.0
-  - @think-copilotkit/react-core@1.5.11-next.0
-  - @think-copilotkit/shared@1.5.11-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.11-next.0
+  - @turbo-agent/copilotkit-react-core@1.5.11-next.0
+  - @turbo-agent/copilotkit-shared@1.5.11-next.0
 
 ## 1.5.10
 
@@ -1625,9 +1625,9 @@
 - Updated dependencies [4211318]
 - Updated dependencies [9b3bdc2]
 - Updated dependencies [d431537]
-  - @think-copilotkit/runtime-client-gql@1.5.10
-  - @think-copilotkit/react-core@1.5.10
-  - @think-copilotkit/shared@1.5.10
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.10
+  - @turbo-agent/copilotkit-react-core@1.5.10
+  - @turbo-agent/copilotkit-shared@1.5.10
 
 ## 1.5.10-next.0
 
@@ -1648,9 +1648,9 @@
 - Updated dependencies [4211318]
 - Updated dependencies [9b3bdc2]
 - Updated dependencies [d431537]
-  - @think-copilotkit/runtime-client-gql@1.5.10-next.0
-  - @think-copilotkit/react-core@1.5.10-next.0
-  - @think-copilotkit/shared@1.5.10-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.10-next.0
+  - @turbo-agent/copilotkit-react-core@1.5.10-next.0
+  - @turbo-agent/copilotkit-shared@1.5.10-next.0
 
 ## 1.5.9
 
@@ -1670,9 +1670,9 @@
 - Updated dependencies [4211318]
 - Updated dependencies [9b3bdc2]
 - Updated dependencies [d431537]
-  - @think-copilotkit/runtime-client-gql@1.5.9
-  - @think-copilotkit/react-core@1.5.9
-  - @think-copilotkit/shared@1.5.9
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.9
+  - @turbo-agent/copilotkit-react-core@1.5.9
+  - @turbo-agent/copilotkit-shared@1.5.9
 
 ## 1.5.8
 
@@ -1691,18 +1691,18 @@
 - Updated dependencies [4211318]
 - Updated dependencies [9b3bdc2]
 - Updated dependencies [d431537]
-  - @think-copilotkit/runtime-client-gql@1.5.8
-  - @think-copilotkit/react-core@1.5.8
-  - @think-copilotkit/shared@1.5.8
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.8
+  - @turbo-agent/copilotkit-react-core@1.5.8
+  - @turbo-agent/copilotkit-shared@1.5.8
 
 ## 1.5.6-next.0
 
 ### Patch Changes
 
 - a35d447: test changelog
-  - @think-copilotkit/runtime-client-gql@1.5.6-next.0
-  - @think-copilotkit/react-core@1.5.6-next.0
-  - @think-copilotkit/shared@1.5.6-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.6-next.0
+  - @turbo-agent/copilotkit-react-core@1.5.6-next.0
+  - @turbo-agent/copilotkit-shared@1.5.6-next.0
 
 ## 1.5.5-next.5
 
@@ -1710,18 +1710,18 @@
 
 - 1fc7fa5: test changelog
 - Updated dependencies [db3d539]
-  - @think-copilotkit/react-core@1.5.5-next.5
-  - @think-copilotkit/runtime-client-gql@1.5.5-next.5
-  - @think-copilotkit/shared@1.5.5-next.5
+  - @turbo-agent/copilotkit-react-core@1.5.5-next.5
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.5-next.5
+  - @turbo-agent/copilotkit-shared@1.5.5-next.5
 
 ## 1.5.5-next.3
 
 ### Patch Changes
 
 - c4a6aa5: test release notes
-  - @think-copilotkit/react-core@1.5.5-next.3
-  - @think-copilotkit/runtime-client-gql@1.5.5-next.3
-  - @think-copilotkit/shared@1.5.5-next.3
+  - @turbo-agent/copilotkit-react-core@1.5.5-next.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.5-next.3
+  - @turbo-agent/copilotkit-shared@1.5.5-next.3
 
 ## 1.5.5-next.2
 
@@ -1731,18 +1731,18 @@
 - 8166ac6: Test release notes
 - Updated dependencies [72f9e58]
 - Updated dependencies [9b3bdc2]
-  - @think-copilotkit/runtime-client-gql@1.5.5-next.2
-  - @think-copilotkit/react-core@1.5.5-next.2
-  - @think-copilotkit/shared@1.5.5-next.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.5-next.2
+  - @turbo-agent/copilotkit-react-core@1.5.5-next.2
+  - @turbo-agent/copilotkit-shared@1.5.5-next.2
 
 ## 1.5.4
 
 ### Patch Changes
 
 - Test changelog
-  - @think-copilotkit/runtime-client-gql@1.5.4
-  - @think-copilotkit/react-core@1.5.4
-  - @think-copilotkit/shared@1.5.4
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.4
+  - @turbo-agent/copilotkit-react-core@1.5.4
+  - @turbo-agent/copilotkit-shared@1.5.4
 
 ## 1.5.3
 
@@ -1750,18 +1750,18 @@
 
 - 4511149: Test release notes
 - 8e57b01: Test release workflow
-  - @think-copilotkit/runtime-client-gql@1.5.3
-  - @think-copilotkit/react-core@1.5.3
-  - @think-copilotkit/shared@1.5.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.3
+  - @turbo-agent/copilotkit-react-core@1.5.3
+  - @turbo-agent/copilotkit-shared@1.5.3
 
 ## 1.5.2
 
 ### Patch Changes
 
 - Updated dependencies [b0192c1]
-  - @think-copilotkit/runtime-client-gql@1.5.2
-  - @think-copilotkit/react-core@1.5.2
-  - @think-copilotkit/shared@1.5.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.2
+  - @turbo-agent/copilotkit-react-core@1.5.2
+  - @turbo-agent/copilotkit-shared@1.5.2
 
 ## 1.5.1
 
@@ -1782,9 +1782,9 @@
 - Updated dependencies [03f3d6f]
 - Updated dependencies [649ebcc]
 - Updated dependencies [6dfa0d2]
-  - @think-copilotkit/react-core@1.5.1
-  - @think-copilotkit/runtime-client-gql@1.5.1
-  - @think-copilotkit/shared@1.5.1
+  - @turbo-agent/copilotkit-react-core@1.5.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.1
+  - @turbo-agent/copilotkit-shared@1.5.1
 
 ## 1.5.1-next.3
 
@@ -1792,9 +1792,9 @@
 
 - 33218fe: test prerelease #3
 - Updated dependencies [33218fe]
-  - @think-copilotkit/react-core@1.5.1-next.3
-  - @think-copilotkit/runtime-client-gql@1.5.1-next.3
-  - @think-copilotkit/shared@1.5.1-next.3
+  - @turbo-agent/copilotkit-react-core@1.5.1-next.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.1-next.3
+  - @turbo-agent/copilotkit-shared@1.5.1-next.3
 
 ## 1.5.1-next.2
 
@@ -1804,9 +1804,9 @@
 - Updated dependencies [ed39d40]
 - Updated dependencies [da280ed]
 - Updated dependencies [649ebcc]
-  - @think-copilotkit/react-core@1.5.1-next.2
-  - @think-copilotkit/runtime-client-gql@1.5.1-next.2
-  - @think-copilotkit/shared@1.5.1-next.2
+  - @turbo-agent/copilotkit-react-core@1.5.1-next.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.1-next.2
+  - @turbo-agent/copilotkit-shared@1.5.1-next.2
 
 ## 1.5.1-next.1
 
@@ -1814,9 +1814,9 @@
 
 - 03f3d6f: Test next prerelease
 - Updated dependencies [03f3d6f]
-  - @think-copilotkit/react-core@1.5.1-next.1
-  - @think-copilotkit/runtime-client-gql@1.5.1-next.1
-  - @think-copilotkit/shared@1.5.1-next.1
+  - @turbo-agent/copilotkit-react-core@1.5.1-next.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.1-next.1
+  - @turbo-agent/copilotkit-shared@1.5.1-next.1
 
 ## 1.5.1-next.0
 
@@ -1825,9 +1825,9 @@
 - 27e42d7: testing a prerelease
 - Updated dependencies [27e42d7]
 - Updated dependencies [6dfa0d2]
-  - @think-copilotkit/react-core@1.5.1-next.0
-  - @think-copilotkit/runtime-client-gql@1.5.1-next.0
-  - @think-copilotkit/shared@1.5.1-next.0
+  - @turbo-agent/copilotkit-react-core@1.5.1-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.1-next.0
+  - @turbo-agent/copilotkit-shared@1.5.1-next.0
 
 ## 1.5.0
 
@@ -1841,9 +1841,9 @@
 - Updated dependencies [1b47092]
 - Updated dependencies [00e9488]
 - Updated dependencies [1b47092]
-  - @think-copilotkit/runtime-client-gql@1.5.0
-  - @think-copilotkit/react-core@1.5.0
-  - @think-copilotkit/shared@1.5.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.0
+  - @turbo-agent/copilotkit-react-core@1.5.0
+  - @turbo-agent/copilotkit-shared@1.5.0
 
 ## 1.5.0-coagents-v0-3.0
 
@@ -1856,9 +1856,9 @@
 - e66bce4: CoAgents v0.3 prerelease
 - Updated dependencies
 - Updated dependencies [e66bce4]
-  - @think-copilotkit/runtime-client-gql@1.5.0-coagents-v0-3.0
-  - @think-copilotkit/react-core@1.5.0-coagents-v0-3.0
-  - @think-copilotkit/shared@1.5.0-coagents-v0-3.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.5.0-coagents-v0-3.0
+  - @turbo-agent/copilotkit-react-core@1.5.0-coagents-v0-3.0
+  - @turbo-agent/copilotkit-shared@1.5.0-coagents-v0-3.0
 
 ## 1.4.8
 
@@ -1882,9 +1882,9 @@
   - Improve dev console help options
   - Allow CopilotKit remote endpoint without agents
 - Updated dependencies
-  - @think-copilotkit/react-core@1.4.8
-  - @think-copilotkit/runtime-client-gql@1.4.8
-  - @think-copilotkit/shared@1.4.8
+  - @turbo-agent/copilotkit-react-core@1.4.8
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.8
+  - @turbo-agent/copilotkit-shared@1.4.8
 
 ## 1.4.8-next.0
 
@@ -1903,9 +1903,9 @@
 
   Resolves #1129
 
-  - @think-copilotkit/react-core@1.4.8-next.0
-  - @think-copilotkit/runtime-client-gql@1.4.8-next.0
-  - @think-copilotkit/shared@1.4.8-next.0
+  - @turbo-agent/copilotkit-react-core@1.4.8-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.8-next.0
+  - @turbo-agent/copilotkit-shared@1.4.8-next.0
 
 ## 1.4.7
 
@@ -1913,9 +1913,9 @@
 
 - Fix broken build script before release
 - Updated dependencies
-  - @think-copilotkit/react-core@1.4.7
-  - @think-copilotkit/runtime-client-gql@1.4.7
-  - @think-copilotkit/shared@1.4.7
+  - @turbo-agent/copilotkit-react-core@1.4.7
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.7
+  - @turbo-agent/copilotkit-shared@1.4.7
 
 ## 1.4.6
 
@@ -1929,9 +1929,9 @@
 
 - testing release workflow
 - Updated dependencies
-  - @think-copilotkit/react-core@1.4.5
-  - @think-copilotkit/runtime-client-gql@1.4.5
-  - @think-copilotkit/shared@1.4.5
+  - @turbo-agent/copilotkit-react-core@1.4.5
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.5
+  - @turbo-agent/copilotkit-shared@1.4.5
 
 ## 1.4.5-next.0
 
@@ -1939,59 +1939,59 @@
 
 - testing release workflow
 - Updated dependencies
-  - @think-copilotkit/react-core@1.4.5-next.0
-  - @think-copilotkit/runtime-client-gql@1.4.5-next.0
-  - @think-copilotkit/shared@1.4.5-next.0
+  - @turbo-agent/copilotkit-react-core@1.4.5-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.5-next.0
+  - @turbo-agent/copilotkit-shared@1.4.5-next.0
 
 ## 1.4.4
 
 ### Patch Changes
 
 - Updated dependencies [e35e6ad]
-  - @think-copilotkit/react-core@1.4.4
-  - @think-copilotkit/runtime-client-gql@1.4.4
-  - @think-copilotkit/shared@1.4.4
+  - @turbo-agent/copilotkit-react-core@1.4.4
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.4
+  - @turbo-agent/copilotkit-shared@1.4.4
 
 ## 1.4.4-next.4
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.4.4-next.4
-- @think-copilotkit/react-core@1.4.4-next.4
-- @think-copilotkit/shared@1.4.4-next.4
+- @turbo-agent/copilotkit-runtime-client-gql@1.4.4-next.4
+- @turbo-agent/copilotkit-react-core@1.4.4-next.4
+- @turbo-agent/copilotkit-shared@1.4.4-next.4
 
 ## 1.4.4-next.3
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.4.4-next.3
-- @think-copilotkit/react-core@1.4.4-next.3
-- @think-copilotkit/shared@1.4.4-next.3
+- @turbo-agent/copilotkit-runtime-client-gql@1.4.4-next.3
+- @turbo-agent/copilotkit-react-core@1.4.4-next.3
+- @turbo-agent/copilotkit-shared@1.4.4-next.3
 
 ## 1.4.4-next.2
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.4.4-next.2
-- @think-copilotkit/react-core@1.4.4-next.2
-- @think-copilotkit/shared@1.4.4-next.2
+- @turbo-agent/copilotkit-runtime-client-gql@1.4.4-next.2
+- @turbo-agent/copilotkit-react-core@1.4.4-next.2
+- @turbo-agent/copilotkit-shared@1.4.4-next.2
 
 ## 1.4.4-next.1
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.4.4-next.1
-- @think-copilotkit/react-core@1.4.4-next.1
-- @think-copilotkit/shared@1.4.4-next.1
+- @turbo-agent/copilotkit-runtime-client-gql@1.4.4-next.1
+- @turbo-agent/copilotkit-react-core@1.4.4-next.1
+- @turbo-agent/copilotkit-shared@1.4.4-next.1
 
 ## 1.4.4-next.0
 
 ### Patch Changes
 
 - Updated dependencies [e35e6ad]
-  - @think-copilotkit/react-core@1.4.4-next.0
-  - @think-copilotkit/runtime-client-gql@1.4.4-next.0
-  - @think-copilotkit/shared@1.4.4-next.0
+  - @turbo-agent/copilotkit-react-core@1.4.4-next.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.4-next.0
+  - @turbo-agent/copilotkit-shared@1.4.4-next.0
 
 ## 1.4.3
 
@@ -2003,9 +2003,9 @@
   - Ensure state is immediately set without using flushSync
 - Updated dependencies [c296282]
 - Updated dependencies
-  - @think-copilotkit/react-core@1.4.3
-  - @think-copilotkit/runtime-client-gql@1.4.3
-  - @think-copilotkit/shared@1.4.3
+  - @turbo-agent/copilotkit-react-core@1.4.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.3
+  - @turbo-agent/copilotkit-shared@1.4.3
 
 ## 1.4.3-pre.0
 
@@ -2014,9 +2014,9 @@
 - - Better error surfacing when using LangGraph Platform streaming
   - Ensure state is immediately set without using flushSync
 - Updated dependencies
-  - @think-copilotkit/react-core@1.4.3-pre.0
-  - @think-copilotkit/runtime-client-gql@1.4.3-pre.0
-  - @think-copilotkit/shared@1.4.3-pre.0
+  - @turbo-agent/copilotkit-react-core@1.4.3-pre.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.3-pre.0
+  - @turbo-agent/copilotkit-shared@1.4.3-pre.0
 
 ## 1.4.2
 
@@ -2025,9 +2025,9 @@
 - - Make sure agent state is set immediately (#1077)
   - Support running an agent without messages (#1075)
 - Updated dependencies
-  - @think-copilotkit/react-core@1.4.2
-  - @think-copilotkit/runtime-client-gql@1.4.2
-  - @think-copilotkit/shared@1.4.2
+  - @turbo-agent/copilotkit-react-core@1.4.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.2
+  - @turbo-agent/copilotkit-shared@1.4.2
 
 ## 1.4.1
 
@@ -2074,9 +2074,9 @@
 - Updated dependencies [8d0144f]
 - Updated dependencies [8d0144f]
 - Updated dependencies [fef1b74]
-  - @think-copilotkit/react-core@1.4.1
-  - @think-copilotkit/runtime-client-gql@1.4.1
-  - @think-copilotkit/shared@1.4.1
+  - @turbo-agent/copilotkit-react-core@1.4.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.1
+  - @turbo-agent/copilotkit-shared@1.4.1
 
 ## 1.4.1-pre.6
 
@@ -2090,9 +2090,9 @@
 - Updated dependencies [1721cbd]
 - Updated dependencies [1721cbd]
 - Updated dependencies
-  - @think-copilotkit/react-core@1.4.1-pre.6
-  - @think-copilotkit/runtime-client-gql@1.4.1-pre.6
-  - @think-copilotkit/shared@1.4.1-pre.6
+  - @turbo-agent/copilotkit-react-core@1.4.1-pre.6
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.1-pre.6
+  - @turbo-agent/copilotkit-shared@1.4.1-pre.6
 
 ## 1.4.1-pre.5
 
@@ -2100,9 +2100,9 @@
 
 - bump
 - Updated dependencies
-  - @think-copilotkit/runtime-client-gql@1.4.1-pre.5
-  - @think-copilotkit/react-core@1.4.1-pre.5
-  - @think-copilotkit/shared@1.4.1-pre.5
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.1-pre.5
+  - @turbo-agent/copilotkit-react-core@1.4.1-pre.5
+  - @turbo-agent/copilotkit-shared@1.4.1-pre.5
 
 ## 1.4.1-pre.4
 
@@ -2110,9 +2110,9 @@
 
 - bump
 - Updated dependencies
-  - @think-copilotkit/runtime-client-gql@1.4.1-pre.4
-  - @think-copilotkit/react-core@1.4.1-pre.4
-  - @think-copilotkit/shared@1.4.1-pre.4
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.1-pre.4
+  - @turbo-agent/copilotkit-react-core@1.4.1-pre.4
+  - @turbo-agent/copilotkit-shared@1.4.1-pre.4
 
 ## 1.4.1-pre.3
 
@@ -2120,9 +2120,9 @@
 
 - bump
 - Updated dependencies
-  - @think-copilotkit/runtime-client-gql@1.4.1-pre.3
-  - @think-copilotkit/react-core@1.4.1-pre.3
-  - @think-copilotkit/shared@1.4.1-pre.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.1-pre.3
+  - @turbo-agent/copilotkit-react-core@1.4.1-pre.3
+  - @turbo-agent/copilotkit-shared@1.4.1-pre.3
 
 ## 1.4.1-pre.2
 
@@ -2130,9 +2130,9 @@
 
 - bump
 - Updated dependencies
-  - @think-copilotkit/runtime-client-gql@1.4.1-pre.2
-  - @think-copilotkit/react-core@1.4.1-pre.2
-  - @think-copilotkit/shared@1.4.1-pre.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.1-pre.2
+  - @turbo-agent/copilotkit-react-core@1.4.1-pre.2
+  - @turbo-agent/copilotkit-shared@1.4.1-pre.2
 
 ## 1.4.1-pre.1
 
@@ -2140,9 +2140,9 @@
 
 - bump
 - Updated dependencies
-  - @think-copilotkit/runtime-client-gql@1.4.1-pre.1
-  - @think-copilotkit/react-core@1.4.1-pre.1
-  - @think-copilotkit/shared@1.4.1-pre.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.1-pre.1
+  - @turbo-agent/copilotkit-react-core@1.4.1-pre.1
+  - @turbo-agent/copilotkit-shared@1.4.1-pre.1
 
 ## 1.4.1-pre.0
 
@@ -2150,9 +2150,9 @@
 
 - New prerelease
 - Updated dependencies
-  - @think-copilotkit/runtime-client-gql@1.4.1-pre.0
-  - @think-copilotkit/react-core@1.4.1-pre.0
-  - @think-copilotkit/shared@1.4.1-pre.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.1-pre.0
+  - @turbo-agent/copilotkit-react-core@1.4.1-pre.0
+  - @turbo-agent/copilotkit-shared@1.4.1-pre.0
 
 ## 1.4.0
 
@@ -2209,9 +2209,9 @@ CopilotKid Back-end SDK:
 - Updated dependencies [332d744]
 - Updated dependencies [f6fab28]
 - Updated dependencies [f6fab28]
-  - @think-copilotkit/runtime-client-gql@1.4.0
-  - @think-copilotkit/react-core@1.4.0
-  - @think-copilotkit/shared@1.4.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.4.0
+  - @turbo-agent/copilotkit-react-core@1.4.0
+  - @turbo-agent/copilotkit-shared@1.4.0
 
 ## 1.3.16-mme-revert-rxjs-changes.10
 
@@ -2245,9 +2245,9 @@ CopilotKid Back-end SDK:
 - Updated dependencies [332d744]
 - Updated dependencies [f6fab28]
 - Updated dependencies [f6fab28]
-  - @think-copilotkit/runtime-client-gql@1.3.16-mme-revert-rxjs-changes.10
-  - @think-copilotkit/react-core@1.3.16-mme-revert-rxjs-changes.10
-  - @think-copilotkit/shared@1.3.16-mme-revert-rxjs-changes.10
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.16-mme-revert-rxjs-changes.10
+  - @turbo-agent/copilotkit-react-core@1.3.16-mme-revert-rxjs-changes.10
+  - @turbo-agent/copilotkit-shared@1.3.16-mme-revert-rxjs-changes.10
 
 ## 1.3.15
 
@@ -2255,9 +2255,9 @@ CopilotKid Back-end SDK:
 
 - pass description for array and object action parameters in langchain adapter
 - Updated dependencies
-  - @think-copilotkit/react-core@1.3.15
-  - @think-copilotkit/runtime-client-gql@1.3.15
-  - @think-copilotkit/shared@1.3.15
+  - @turbo-agent/copilotkit-react-core@1.3.15
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.15
+  - @turbo-agent/copilotkit-shared@1.3.15
 
 ## 1.3.14
 
@@ -2265,9 +2265,9 @@ CopilotKid Back-end SDK:
 
 - Add data-test-id to some elements for testing
 - Updated dependencies
-  - @think-copilotkit/react-core@1.3.14
-  - @think-copilotkit/runtime-client-gql@1.3.14
-  - @think-copilotkit/shared@1.3.14
+  - @turbo-agent/copilotkit-react-core@1.3.14
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.14
+  - @turbo-agent/copilotkit-shared@1.3.14
 
 ## 1.3.13
 
@@ -2275,9 +2275,9 @@ CopilotKid Back-end SDK:
 
 - fix usage of one-at-a-time tool when called multiple times
 - Updated dependencies
-  - @think-copilotkit/react-core@1.3.13
-  - @think-copilotkit/runtime-client-gql@1.3.13
-  - @think-copilotkit/shared@1.3.13
+  - @turbo-agent/copilotkit-react-core@1.3.13
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.13
+  - @turbo-agent/copilotkit-shared@1.3.13
 
 ## 1.3.12
 
@@ -2286,9 +2286,9 @@ CopilotKid Back-end SDK:
 - - enable dynamic parameters in langchain adapter tool call
   - fix unparsable action arguments causing tool call crashes
 - Updated dependencies
-  - @think-copilotkit/react-core@1.3.12
-  - @think-copilotkit/runtime-client-gql@1.3.12
-  - @think-copilotkit/shared@1.3.12
+  - @turbo-agent/copilotkit-react-core@1.3.12
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.12
+  - @turbo-agent/copilotkit-shared@1.3.12
 
 ## 1.3.11
 
@@ -2298,9 +2298,9 @@ CopilotKid Back-end SDK:
 - Fix duplicate messages
 - Updated dependencies [08e8956]
 - Updated dependencies
-  - @think-copilotkit/react-core@1.3.11
-  - @think-copilotkit/runtime-client-gql@1.3.11
-  - @think-copilotkit/shared@1.3.11
+  - @turbo-agent/copilotkit-react-core@1.3.11
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.11
+  - @turbo-agent/copilotkit-shared@1.3.11
 
 ## 1.3.11-mme-fix-duplicate-messages.0
 
@@ -2308,9 +2308,9 @@ CopilotKid Back-end SDK:
 
 - Fix duplicate messages
 - Updated dependencies
-  - @think-copilotkit/react-core@1.3.11-mme-fix-duplicate-messages.0
-  - @think-copilotkit/runtime-client-gql@1.3.11-mme-fix-duplicate-messages.0
-  - @think-copilotkit/shared@1.3.11-mme-fix-duplicate-messages.0
+  - @turbo-agent/copilotkit-react-core@1.3.11-mme-fix-duplicate-messages.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.11-mme-fix-duplicate-messages.0
+  - @turbo-agent/copilotkit-shared@1.3.11-mme-fix-duplicate-messages.0
 
 ## 1.3.10
 
@@ -2318,9 +2318,9 @@ CopilotKid Back-end SDK:
 
 - change how message chunk type is resolved (fixed langchain adapters)
 - Updated dependencies
-  - @think-copilotkit/react-core@1.3.10
-  - @think-copilotkit/runtime-client-gql@1.3.10
-  - @think-copilotkit/shared@1.3.10
+  - @turbo-agent/copilotkit-react-core@1.3.10
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.10
+  - @turbo-agent/copilotkit-shared@1.3.10
 
 ## 1.3.9
 
@@ -2328,9 +2328,9 @@ CopilotKid Back-end SDK:
 
 - Fix message id issues
 - Updated dependencies
-  - @think-copilotkit/react-core@1.3.9
-  - @think-copilotkit/runtime-client-gql@1.3.9
-  - @think-copilotkit/shared@1.3.9
+  - @turbo-agent/copilotkit-react-core@1.3.9
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.9
+  - @turbo-agent/copilotkit-shared@1.3.9
 
 ## 1.3.8
 
@@ -2338,9 +2338,9 @@ CopilotKid Back-end SDK:
 
 - fix textarea on multiple llm providers and memoize react ui context
 - Updated dependencies
-  - @think-copilotkit/react-core@1.3.8
-  - @think-copilotkit/runtime-client-gql@1.3.8
-  - @think-copilotkit/shared@1.3.8
+  - @turbo-agent/copilotkit-react-core@1.3.8
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.8
+  - @turbo-agent/copilotkit-shared@1.3.8
 
 ## 1.3.7
 
@@ -2348,9 +2348,9 @@ CopilotKid Back-end SDK:
 
 - Fix libraries for React 19 and Next.js 15 support
 - Updated dependencies
-  - @think-copilotkit/react-core@1.3.7
-  - @think-copilotkit/runtime-client-gql@1.3.7
-  - @think-copilotkit/shared@1.3.7
+  - @turbo-agent/copilotkit-react-core@1.3.7
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.7
+  - @turbo-agent/copilotkit-shared@1.3.7
 
 ## 1.3.6
 
@@ -2360,9 +2360,9 @@ CopilotKid Back-end SDK:
   2. Fixes Nest.js runtime docs
 
 - Updated dependencies
-  - @think-copilotkit/react-core@1.3.6
-  - @think-copilotkit/runtime-client-gql@1.3.6
-  - @think-copilotkit/shared@1.3.6
+  - @turbo-agent/copilotkit-react-core@1.3.6
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.6
+  - @turbo-agent/copilotkit-shared@1.3.6
 
 ## 1.3.5
 
@@ -2370,9 +2370,9 @@ CopilotKid Back-end SDK:
 
 - Improve CoAgent state render
 - Updated dependencies
-  - @think-copilotkit/react-core@1.3.5
-  - @think-copilotkit/runtime-client-gql@1.3.5
-  - @think-copilotkit/shared@1.3.5
+  - @turbo-agent/copilotkit-react-core@1.3.5
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.5
+  - @turbo-agent/copilotkit-shared@1.3.5
 
 ## 1.3.4
 
@@ -2380,9 +2380,9 @@ CopilotKid Back-end SDK:
 
 - Add followUp property to useCopilotAction
 - Updated dependencies
-  - @think-copilotkit/react-core@1.3.4
-  - @think-copilotkit/runtime-client-gql@1.3.4
-  - @think-copilotkit/shared@1.3.4
+  - @turbo-agent/copilotkit-react-core@1.3.4
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.4
+  - @turbo-agent/copilotkit-shared@1.3.4
 
 ## 1.3.3
 
@@ -2390,9 +2390,9 @@ CopilotKid Back-end SDK:
 
 - Impvovements to error handling and CoAgent protocol
 - Updated dependencies
-  - @think-copilotkit/react-core@1.3.3
-  - @think-copilotkit/runtime-client-gql@1.3.3
-  - @think-copilotkit/shared@1.3.3
+  - @turbo-agent/copilotkit-react-core@1.3.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.3
+  - @turbo-agent/copilotkit-shared@1.3.3
 
 ## 1.3.2
 
@@ -2402,9 +2402,9 @@ CopilotKid Back-end SDK:
 - 30232c0: Ensure actions can be discovered on state change
 - Updated dependencies
 - Updated dependencies [30232c0]
-  - @think-copilotkit/react-core@1.3.2
-  - @think-copilotkit/runtime-client-gql@1.3.2
-  - @think-copilotkit/shared@1.3.2
+  - @turbo-agent/copilotkit-react-core@1.3.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.2
+  - @turbo-agent/copilotkit-shared@1.3.2
 
 ## 1.3.2-mme-discover-actions.0
 
@@ -2412,9 +2412,9 @@ CopilotKid Back-end SDK:
 
 - Ensure actions can be discovered on state change
 - Updated dependencies
-  - @think-copilotkit/react-core@1.3.2-mme-discover-actions.0
-  - @think-copilotkit/runtime-client-gql@1.3.2-mme-discover-actions.0
-  - @think-copilotkit/shared@1.3.2-mme-discover-actions.0
+  - @turbo-agent/copilotkit-react-core@1.3.2-mme-discover-actions.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.2-mme-discover-actions.0
+  - @turbo-agent/copilotkit-shared@1.3.2-mme-discover-actions.0
 
 ## 1.3.1
 
@@ -2422,9 +2422,9 @@ CopilotKid Back-end SDK:
 
 - Revert CSS injection
 - Updated dependencies
-  - @think-copilotkit/react-core@1.3.1
-  - @think-copilotkit/runtime-client-gql@1.3.1
-  - @think-copilotkit/shared@1.3.1
+  - @turbo-agent/copilotkit-react-core@1.3.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.1
+  - @turbo-agent/copilotkit-shared@1.3.1
 
 ## 1.3.0
 
@@ -2451,9 +2451,9 @@ CopilotKid Back-end SDK:
 - Updated dependencies [00be203]
 - Updated dependencies [fb15f72]
 - Updated dependencies [8ecc3e4]
-  - @think-copilotkit/react-core@1.3.0
-  - @think-copilotkit/runtime-client-gql@1.3.0
-  - @think-copilotkit/shared@1.3.0
+  - @turbo-agent/copilotkit-react-core@1.3.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.3.0
+  - @turbo-agent/copilotkit-shared@1.3.0
 
 ## 1.2.1
 
@@ -2470,9 +2470,9 @@ CopilotKid Back-end SDK:
   - updated docs
 
 - Updated dependencies
-  - @think-copilotkit/react-core@1.2.1
-  - @think-copilotkit/runtime-client-gql@1.2.1
-  - @think-copilotkit/shared@1.2.1
+  - @turbo-agent/copilotkit-react-core@1.2.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.2.1
+  - @turbo-agent/copilotkit-shared@1.2.1
 
 ## 1.2.0
 
@@ -2489,9 +2489,9 @@ CopilotKid Back-end SDK:
 - Updated dependencies [638d51d]
 - Updated dependencies [faccbe1]
 - Updated dependencies [b0cf700]
-  - @think-copilotkit/react-core@1.2.0
-  - @think-copilotkit/runtime-client-gql@1.2.0
-  - @think-copilotkit/shared@1.2.0
+  - @turbo-agent/copilotkit-react-core@1.2.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.2.0
+  - @turbo-agent/copilotkit-shared@1.2.0
 
 ## 1.1.2
 
@@ -2499,9 +2499,9 @@ CopilotKid Back-end SDK:
 
 - Pin headless-ui/react version to v2.1.1
 - Updated dependencies
-  - @think-copilotkit/react-core@1.1.2
-  - @think-copilotkit/runtime-client-gql@1.1.2
-  - @think-copilotkit/shared@1.1.2
+  - @turbo-agent/copilotkit-react-core@1.1.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.1.2
+  - @turbo-agent/copilotkit-shared@1.1.2
 
 ## 1.1.1
 
@@ -2512,9 +2512,9 @@ CopilotKid Back-end SDK:
   - show/hide dev console
   - forward maxTokens, stop and force function calling
 - Updated dependencies
-  - @think-copilotkit/react-core@1.1.1
-  - @think-copilotkit/runtime-client-gql@1.1.1
-  - @think-copilotkit/shared@1.1.1
+  - @turbo-agent/copilotkit-react-core@1.1.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.1.1
+  - @turbo-agent/copilotkit-shared@1.1.1
 
 ## 1.1.0
 
@@ -2525,9 +2525,9 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@1.1.0
-  - @think-copilotkit/runtime-client-gql@1.1.0
-  - @think-copilotkit/shared@1.1.0
+  - @turbo-agent/copilotkit-react-core@1.1.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.1.0
+  - @turbo-agent/copilotkit-shared@1.1.0
 
 ## 1.0.9
 
@@ -2535,9 +2535,9 @@ CopilotKid Back-end SDK:
 
 - Dev console, bugfixes
 - Updated dependencies
-  - @think-copilotkit/react-core@1.0.9
-  - @think-copilotkit/runtime-client-gql@1.0.9
-  - @think-copilotkit/shared@1.0.9
+  - @turbo-agent/copilotkit-react-core@1.0.9
+  - @turbo-agent/copilotkit-runtime-client-gql@1.0.9
+  - @turbo-agent/copilotkit-shared@1.0.9
 
 ## 1.0.8
 
@@ -2545,9 +2545,9 @@ CopilotKid Back-end SDK:
 
 - Remove redundant console logs
 - Updated dependencies
-  - @think-copilotkit/react-core@1.0.8
-  - @think-copilotkit/runtime-client-gql@1.0.8
-  - @think-copilotkit/shared@1.0.8
+  - @turbo-agent/copilotkit-react-core@1.0.8
+  - @turbo-agent/copilotkit-runtime-client-gql@1.0.8
+  - @turbo-agent/copilotkit-shared@1.0.8
 
 ## 1.0.7
 
@@ -2555,9 +2555,9 @@ CopilotKid Back-end SDK:
 
 - Add \_copilotkit internal properties to runtime
 - Updated dependencies
-  - @think-copilotkit/react-core@1.0.7
-  - @think-copilotkit/runtime-client-gql@1.0.7
-  - @think-copilotkit/shared@1.0.7
+  - @turbo-agent/copilotkit-react-core@1.0.7
+  - @turbo-agent/copilotkit-runtime-client-gql@1.0.7
+  - @turbo-agent/copilotkit-shared@1.0.7
 
 ## 1.0.6
 
@@ -2566,19 +2566,19 @@ CopilotKid Back-end SDK:
 - - Proactively prevent race conditions
   - Improve token counting performance
 - Updated dependencies
-  - @think-copilotkit/react-core@1.0.6
-  - @think-copilotkit/runtime-client-gql@1.0.6
-  - @think-copilotkit/shared@1.0.6
+  - @turbo-agent/copilotkit-react-core@1.0.6
+  - @turbo-agent/copilotkit-runtime-client-gql@1.0.6
+  - @turbo-agent/copilotkit-shared@1.0.6
 
 ## 1.0.5
 
 ### Patch Changes
 
-- Include @think-copilotkit/runtime-client-gql NPM package version in request to Runtime
+- Include @turbo-agent/copilotkit-runtime-client-gql NPM package version in request to Runtime
 - Updated dependencies
-  - @think-copilotkit/react-core@1.0.5
-  - @think-copilotkit/runtime-client-gql@1.0.5
-  - @think-copilotkit/shared@1.0.5
+  - @turbo-agent/copilotkit-react-core@1.0.5
+  - @turbo-agent/copilotkit-runtime-client-gql@1.0.5
+  - @turbo-agent/copilotkit-shared@1.0.5
 
 ## 1.0.4
 
@@ -2586,9 +2586,9 @@ CopilotKid Back-end SDK:
 
 - Remove nanoid
 - Updated dependencies
-  - @think-copilotkit/react-core@1.0.4
-  - @think-copilotkit/runtime-client-gql@1.0.4
-  - @think-copilotkit/shared@1.0.4
+  - @turbo-agent/copilotkit-react-core@1.0.4
+  - @turbo-agent/copilotkit-runtime-client-gql@1.0.4
+  - @turbo-agent/copilotkit-shared@1.0.4
 
 ## 1.0.3
 
@@ -2596,9 +2596,9 @@ CopilotKid Back-end SDK:
 
 - Add README.md to published packages and add keywords to package.json
 - Updated dependencies
-  - @think-copilotkit/react-core@1.0.3
-  - @think-copilotkit/runtime-client-gql@1.0.3
-  - @think-copilotkit/shared@1.0.3
+  - @turbo-agent/copilotkit-react-core@1.0.3
+  - @turbo-agent/copilotkit-runtime-client-gql@1.0.3
+  - @turbo-agent/copilotkit-shared@1.0.3
 
 ## 1.0.2
 
@@ -2606,9 +2606,9 @@ CopilotKid Back-end SDK:
 
 - Add README.md and homepage/url to published packages
 - Updated dependencies
-  - @think-copilotkit/react-core@1.0.2
-  - @think-copilotkit/runtime-client-gql@1.0.2
-  - @think-copilotkit/shared@1.0.2
+  - @turbo-agent/copilotkit-react-core@1.0.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.0.2
+  - @turbo-agent/copilotkit-shared@1.0.2
 
 ## 1.0.1
 
@@ -2616,9 +2616,9 @@ CopilotKid Back-end SDK:
 
 - Remove PostHog, use Segment Anonymous Telemetry instead
 - Updated dependencies
-  - @think-copilotkit/react-core@1.0.1
-  - @think-copilotkit/runtime-client-gql@1.0.1
-  - @think-copilotkit/shared@1.0.1
+  - @turbo-agent/copilotkit-react-core@1.0.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.0.1
+  - @turbo-agent/copilotkit-shared@1.0.1
 
 ## 1.0.0
 
@@ -2648,9 +2648,9 @@ CopilotKid Back-end SDK:
 - Updated dependencies [b6a4b6eb]
 - Updated dependencies [b6a4b6eb]
 - Updated dependencies
-  - @think-copilotkit/react-core@1.0.0
-  - @think-copilotkit/runtime-client-gql@1.0.0
-  - @think-copilotkit/shared@1.0.0
+  - @turbo-agent/copilotkit-react-core@1.0.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.0.0
+  - @turbo-agent/copilotkit-shared@1.0.0
 
 ## 1.0.0-beta.2
 
@@ -2658,9 +2658,9 @@ CopilotKid Back-end SDK:
 
 - Set default Copilot Cloud runtime URL to versioned URL (v1)
 - Updated dependencies
-  - @think-copilotkit/runtime-client-gql@1.0.0-beta.2
-  - @think-copilotkit/react-core@1.0.0-beta.2
-  - @think-copilotkit/shared@1.0.0-beta.2
+  - @turbo-agent/copilotkit-runtime-client-gql@1.0.0-beta.2
+  - @turbo-agent/copilotkit-react-core@1.0.0-beta.2
+  - @turbo-agent/copilotkit-shared@1.0.0-beta.2
 
 ## 1.0.0-beta.1
 
@@ -2668,9 +2668,9 @@ CopilotKid Back-end SDK:
 
 - Introduce anonymous telemetry
 - Updated dependencies
-  - @think-copilotkit/runtime-client-gql@1.0.0-beta.1
-  - @think-copilotkit/react-core@1.0.0-beta.1
-  - @think-copilotkit/shared@1.0.0-beta.1
+  - @turbo-agent/copilotkit-runtime-client-gql@1.0.0-beta.1
+  - @turbo-agent/copilotkit-react-core@1.0.0-beta.1
+  - @turbo-agent/copilotkit-shared@1.0.0-beta.1
 
 ## 1.0.0-beta.0
 
@@ -2687,9 +2687,9 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@1.0.0-beta.0
-  - @think-copilotkit/runtime-client-gql@1.0.0-beta.0
-  - @think-copilotkit/shared@1.0.0-beta.0
+  - @turbo-agent/copilotkit-react-core@1.0.0-beta.0
+  - @turbo-agent/copilotkit-runtime-client-gql@1.0.0-beta.0
+  - @turbo-agent/copilotkit-shared@1.0.0-beta.0
 
 ## 0.37.0
 
@@ -2704,8 +2704,8 @@ CopilotKid Back-end SDK:
 - Updated dependencies [f771353]
 - Updated dependencies [9df8d43]
 - Updated dependencies
-  - @think-copilotkit/react-core@0.37.0
-  - @think-copilotkit/shared@0.37.0
+  - @turbo-agent/copilotkit-react-core@0.37.0
+  - @turbo-agent/copilotkit-shared@0.37.0
 
 ## 0.37.0-mme-fix-textarea-css.1
 
@@ -2716,8 +2716,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.37.0-mme-fix-textarea-css.1
-  - @think-copilotkit/shared@0.37.0-mme-fix-textarea-css.1
+  - @turbo-agent/copilotkit-react-core@0.37.0-mme-fix-textarea-css.1
+  - @turbo-agent/copilotkit-shared@0.37.0-mme-fix-textarea-css.1
 
 ## 0.37.0-mme-fix-feedback-readable.0
 
@@ -2728,8 +2728,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.37.0-mme-fix-feedback-readable.0
-  - @think-copilotkit/shared@0.37.0-mme-fix-feedback-readable.0
+  - @turbo-agent/copilotkit-react-core@0.37.0-mme-fix-feedback-readable.0
+  - @turbo-agent/copilotkit-shared@0.37.0-mme-fix-feedback-readable.0
 
 ## 0.36.0
 
@@ -2742,8 +2742,8 @@ CopilotKid Back-end SDK:
 
 - Updated dependencies [8baa862]
 - Updated dependencies
-  - @think-copilotkit/react-core@0.36.0
-  - @think-copilotkit/shared@0.36.0
+  - @turbo-agent/copilotkit-react-core@0.36.0
+  - @turbo-agent/copilotkit-shared@0.36.0
 
 ## 0.36.0-mme-push-to-talk.0
 
@@ -2754,8 +2754,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.36.0-mme-push-to-talk.0
-  - @think-copilotkit/shared@0.36.0-mme-push-to-talk.0
+  - @turbo-agent/copilotkit-react-core@0.36.0-mme-push-to-talk.0
+  - @turbo-agent/copilotkit-shared@0.36.0-mme-push-to-talk.0
 
 ## 0.22.0
 
@@ -2792,8 +2792,8 @@ CopilotKid Back-end SDK:
 - Updated dependencies [95bcbd8]
 - Updated dependencies [5f6f57a]
 - Updated dependencies [95bcbd8]
-  - @think-copilotkit/react-core@0.25.0
-  - @think-copilotkit/shared@0.9.0
+  - @turbo-agent/copilotkit-react-core@0.25.0
+  - @turbo-agent/copilotkit-shared@0.9.0
 
 ## 0.22.0-mme-cloud.7
 
@@ -2804,8 +2804,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.25.0-mme-cloud.7
-  - @think-copilotkit/shared@0.9.0-mme-cloud.7
+  - @turbo-agent/copilotkit-react-core@0.25.0-mme-cloud.7
+  - @turbo-agent/copilotkit-shared@0.9.0-mme-cloud.7
 
 ## 0.22.0-mme-cloud.6
 
@@ -2816,8 +2816,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.25.0-mme-cloud.6
-  - @think-copilotkit/shared@0.9.0-mme-cloud.6
+  - @turbo-agent/copilotkit-react-core@0.25.0-mme-cloud.6
+  - @turbo-agent/copilotkit-shared@0.9.0-mme-cloud.6
 
 ## 0.22.0-mme-cloud.5
 
@@ -2828,8 +2828,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.25.0-mme-cloud.5
-  - @think-copilotkit/shared@0.9.0-mme-cloud.5
+  - @turbo-agent/copilotkit-react-core@0.25.0-mme-cloud.5
+  - @turbo-agent/copilotkit-shared@0.9.0-mme-cloud.5
 
 ## 0.22.0-mme-cloud.4
 
@@ -2840,8 +2840,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.25.0-mme-cloud.4
-  - @think-copilotkit/shared@0.9.0-mme-cloud.4
+  - @turbo-agent/copilotkit-react-core@0.25.0-mme-cloud.4
+  - @turbo-agent/copilotkit-shared@0.9.0-mme-cloud.4
 
 ## 0.22.0-mme-cloud.3
 
@@ -2862,8 +2862,8 @@ CopilotKid Back-end SDK:
 - Updated dependencies [12ff590]
 - Updated dependencies [f0c4745]
 - Updated dependencies [17f4b1b]
-  - @think-copilotkit/react-core@0.25.0-mme-cloud.3
-  - @think-copilotkit/shared@0.9.0-mme-cloud.3
+  - @turbo-agent/copilotkit-react-core@0.25.0-mme-cloud.3
+  - @turbo-agent/copilotkit-shared@0.9.0-mme-cloud.3
 
 ## 0.22.0-function-calling-fixes.2
 
@@ -2874,8 +2874,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.25.0-function-calling-fixes.2
-  - @think-copilotkit/shared@0.9.0-function-calling-fixes.2
+  - @turbo-agent/copilotkit-react-core@0.25.0-function-calling-fixes.2
+  - @turbo-agent/copilotkit-shared@0.9.0-function-calling-fixes.2
 
 ## 0.22.0-function-calling-fixes.1
 
@@ -2886,8 +2886,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.25.0-function-calling-fixes.1
-  - @think-copilotkit/shared@0.9.0-function-calling-fixes.1
+  - @turbo-agent/copilotkit-react-core@0.25.0-function-calling-fixes.1
+  - @turbo-agent/copilotkit-shared@0.9.0-function-calling-fixes.1
 
 ## 0.22.0-alpha.0
 
@@ -2898,8 +2898,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/shared@0.9.0-alpha.0
-  - @think-copilotkit/react-core@0.25.0-alpha.0
+  - @turbo-agent/copilotkit-shared@0.9.0-alpha.0
+  - @turbo-agent/copilotkit-react-core@0.25.0-alpha.0
 
 ## 0.21.0
 
@@ -2916,8 +2916,8 @@ CopilotKid Back-end SDK:
 - Updated dependencies
 - Updated dependencies [5a0b2cf]
 - Updated dependencies [e12b921]
-  - @think-copilotkit/react-core@0.24.0
-  - @think-copilotkit/shared@0.8.0
+  - @turbo-agent/copilotkit-react-core@0.24.0
+  - @turbo-agent/copilotkit-shared@0.8.0
 
 ## 0.21.0-mme-esm-error.2
 
@@ -2928,8 +2928,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.24.0-mme-esm-error.2
-  - @think-copilotkit/shared@0.8.0-mme-esm-error.2
+  - @turbo-agent/copilotkit-react-core@0.24.0-mme-esm-error.2
+  - @turbo-agent/copilotkit-shared@0.8.0-mme-esm-error.2
 
 ## 0.21.0-mme-esm-error.1
 
@@ -2940,8 +2940,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.24.0-mme-esm-error.1
-  - @think-copilotkit/shared@0.8.0-mme-esm-error.1
+  - @turbo-agent/copilotkit-react-core@0.24.0-mme-esm-error.1
+  - @turbo-agent/copilotkit-shared@0.8.0-mme-esm-error.1
 
 ## 0.21.0-mme-esm-error.0
 
@@ -2952,8 +2952,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.24.0-mme-esm-error.0
-  - @think-copilotkit/shared@0.8.0-mme-esm-error.0
+  - @turbo-agent/copilotkit-react-core@0.24.0-mme-esm-error.0
+  - @turbo-agent/copilotkit-shared@0.8.0-mme-esm-error.0
 
 ## 0.20.0
 
@@ -2966,8 +2966,8 @@ CopilotKid Back-end SDK:
 
 - Updated dependencies [899aa6e]
 - Updated dependencies
-  - @think-copilotkit/react-core@0.23.0
-  - @think-copilotkit/shared@0.7.0
+  - @turbo-agent/copilotkit-react-core@0.23.0
+  - @turbo-agent/copilotkit-shared@0.7.0
 
 ## 0.20.0-mme-firebase-fixes.0
 
@@ -2978,8 +2978,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.23.0-mme-firebase-fixes.0
-  - @think-copilotkit/shared@0.7.0-mme-firebase-fixes.0
+  - @turbo-agent/copilotkit-react-core@0.23.0-mme-firebase-fixes.0
+  - @turbo-agent/copilotkit-shared@0.7.0-mme-firebase-fixes.0
 
 ## 0.19.0
 
@@ -2990,8 +2990,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.22.0
-  - @think-copilotkit/shared@0.6.0
+  - @turbo-agent/copilotkit-react-core@0.22.0
+  - @turbo-agent/copilotkit-shared@0.6.0
 
 ## 0.18.0
 
@@ -3018,8 +3018,8 @@ CopilotKid Back-end SDK:
 - Updated dependencies [0dd6180]
 - Updated dependencies [225812d]
 - Updated dependencies
-  - @think-copilotkit/react-core@0.21.0
-  - @think-copilotkit/shared@0.5.0
+  - @turbo-agent/copilotkit-react-core@0.21.0
+  - @turbo-agent/copilotkit-shared@0.5.0
 
 ## 0.18.0-mme-deprecate-annotated-function.4
 
@@ -3030,8 +3030,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.21.0-mme-deprecate-annotated-function.4
-  - @think-copilotkit/shared@0.5.0-mme-deprecate-annotated-function.4
+  - @turbo-agent/copilotkit-react-core@0.21.0-mme-deprecate-annotated-function.4
+  - @turbo-agent/copilotkit-shared@0.5.0-mme-deprecate-annotated-function.4
 
 ## 0.18.0-mme-pre-release.3
 
@@ -3046,8 +3046,8 @@ CopilotKid Back-end SDK:
 - Updated dependencies
 - Updated dependencies [3fbee5d]
 - Updated dependencies [3f5ad60]
-  - @think-copilotkit/react-core@0.21.0-mme-pre-release.3
-  - @think-copilotkit/shared@0.5.0-mme-pre-release.3
+  - @turbo-agent/copilotkit-react-core@0.21.0-mme-pre-release.3
+  - @turbo-agent/copilotkit-shared@0.5.0-mme-pre-release.3
 
 ## 0.18.0-mme-function-call-labels.2
 
@@ -3060,8 +3060,8 @@ CopilotKid Back-end SDK:
 
 - Updated dependencies [be00d61]
 - Updated dependencies
-  - @think-copilotkit/react-core@0.21.0-mme-function-call-labels.2
-  - @think-copilotkit/shared@0.5.0-mme-function-call-labels.2
+  - @turbo-agent/copilotkit-react-core@0.21.0-mme-function-call-labels.2
+  - @turbo-agent/copilotkit-shared@0.5.0-mme-function-call-labels.2
 
 ## 0.18.0-mme-experimental-actions.1
 
@@ -3072,8 +3072,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.21.0-mme-experimental-actions.1
-  - @think-copilotkit/shared@0.5.0-mme-experimental-actions.1
+  - @turbo-agent/copilotkit-react-core@0.21.0-mme-experimental-actions.1
+  - @turbo-agent/copilotkit-shared@0.5.0-mme-experimental-actions.1
 
 ## 0.18.0-mme-experimental-actions.0
 
@@ -3084,8 +3084,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.21.0-mme-experimental-actions.0
-  - @think-copilotkit/shared@0.5.0-mme-experimental-actions.0
+  - @turbo-agent/copilotkit-react-core@0.21.0-mme-experimental-actions.0
+  - @turbo-agent/copilotkit-shared@0.5.0-mme-experimental-actions.0
 
 ## 0.17.1
 
@@ -3097,8 +3097,8 @@ CopilotKid Back-end SDK:
 - Updated dependencies [5ec8ad4]
 - Updated dependencies [5a154d0]
 - Updated dependencies
-  - @think-copilotkit/react-core@0.20.1
-  - @think-copilotkit/shared@0.4.1
+  - @turbo-agent/copilotkit-react-core@0.20.1
+  - @turbo-agent/copilotkit-shared@0.4.1
 
 ## 0.17.1-atai-0223-fix-backendOnlyProps.1
 
@@ -3106,8 +3106,8 @@ CopilotKid Back-end SDK:
 
 - fix- bring back removeBackendOnlyProps
 - Updated dependencies
-  - @think-copilotkit/react-core@0.20.1-atai-0223-fix-backendOnlyProps.1
-  - @think-copilotkit/shared@0.4.1-atai-0223-fix-backendOnlyProps.1
+  - @turbo-agent/copilotkit-react-core@0.20.1-atai-0223-fix-backendOnlyProps.1
+  - @turbo-agent/copilotkit-shared@0.4.1-atai-0223-fix-backendOnlyProps.1
 
 ## 0.17.1-atai-0223-fix-backendOnlyProps.0
 
@@ -3115,8 +3115,8 @@ CopilotKid Back-end SDK:
 
 - fix: bring back removeBackendOnlyProps
 - Updated dependencies
-  - @think-copilotkit/react-core@0.20.1-atai-0223-fix-backendOnlyProps.0
-  - @think-copilotkit/shared@0.4.1-atai-0223-fix-backendOnlyProps.0
+  - @turbo-agent/copilotkit-react-core@0.20.1-atai-0223-fix-backendOnlyProps.0
+  - @turbo-agent/copilotkit-shared@0.4.1-atai-0223-fix-backendOnlyProps.0
 
 ## 0.17.0
 
@@ -3131,8 +3131,8 @@ CopilotKid Back-end SDK:
 - Updated dependencies
 - Updated dependencies [401e474]
 - Updated dependencies [2f3296e]
-  - @think-copilotkit/react-core@0.20.0
-  - @think-copilotkit/shared@0.4.0
+  - @turbo-agent/copilotkit-react-core@0.20.0
+  - @turbo-agent/copilotkit-shared@0.4.0
 
 ## 0.17.0-beta-automation.1
 
@@ -3143,8 +3143,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.20.0-beta-automation.1
-  - @think-copilotkit/shared@0.4.0-beta-automation.1
+  - @turbo-agent/copilotkit-react-core@0.20.0-beta-automation.1
+  - @turbo-agent/copilotkit-shared@0.4.0-beta-automation.1
 
 ## 0.17.0-tools.0
 
@@ -3155,8 +3155,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.20.0-tools.0
-  - @think-copilotkit/shared@0.4.0-tools.0
+  - @turbo-agent/copilotkit-react-core@0.20.0-tools.0
+  - @turbo-agent/copilotkit-shared@0.4.0-tools.0
 
 ## 0.16.0
 
@@ -3171,8 +3171,8 @@ CopilotKid Back-end SDK:
 - Updated dependencies
 - Updated dependencies [58a8524]
 - Updated dependencies [a34a226]
-  - @think-copilotkit/react-core@0.19.0
-  - @think-copilotkit/shared@0.3.0
+  - @turbo-agent/copilotkit-react-core@0.19.0
+  - @turbo-agent/copilotkit-shared@0.3.0
 
 ## 0.16.0-alpha.1
 
@@ -3183,8 +3183,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.19.0-alpha.1
-  - @think-copilotkit/shared@0.3.0-alpha.1
+  - @turbo-agent/copilotkit-react-core@0.19.0-alpha.1
+  - @turbo-agent/copilotkit-shared@0.3.0-alpha.1
 
 ## 0.16.0-alpha.0
 
@@ -3195,8 +3195,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.19.0-alpha.0
-  - @think-copilotkit/shared@0.3.0-alpha.0
+  - @turbo-agent/copilotkit-react-core@0.19.0-alpha.0
+  - @turbo-agent/copilotkit-shared@0.3.0-alpha.0
 
 ## 0.15.0
 
@@ -3229,8 +3229,8 @@ CopilotKid Back-end SDK:
 - Updated dependencies [eba87c7]
 - Updated dependencies [61168c7]
 - Updated dependencies [fb32fe3]
-  - @think-copilotkit/react-core@0.18.0
-  - @think-copilotkit/shared@0.2.0
+  - @turbo-agent/copilotkit-react-core@0.18.0
+  - @turbo-agent/copilotkit-shared@0.2.0
 
 ## 0.15.0-alpha.9
 
@@ -3241,8 +3241,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.18.0-alpha.9
-  - @think-copilotkit/shared@0.2.0-alpha.8
+  - @turbo-agent/copilotkit-react-core@0.18.0-alpha.9
+  - @turbo-agent/copilotkit-shared@0.2.0-alpha.8
 
 ## 0.15.0-alpha.8
 
@@ -3253,8 +3253,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.18.0-alpha.8
-  - @think-copilotkit/shared@0.2.0-alpha.7
+  - @turbo-agent/copilotkit-react-core@0.18.0-alpha.8
+  - @turbo-agent/copilotkit-shared@0.2.0-alpha.7
 
 ## 0.15.0-alpha.7
 
@@ -3265,8 +3265,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.18.0-alpha.7
-  - @think-copilotkit/shared@0.2.0-alpha.6
+  - @turbo-agent/copilotkit-react-core@0.18.0-alpha.7
+  - @turbo-agent/copilotkit-shared@0.2.0-alpha.6
 
 ## 0.15.0-alpha.6
 
@@ -3277,8 +3277,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.18.0-alpha.6
-  - @think-copilotkit/shared@0.2.0-alpha.5
+  - @turbo-agent/copilotkit-react-core@0.18.0-alpha.6
+  - @turbo-agent/copilotkit-shared@0.2.0-alpha.5
 
 ## 0.15.0-alpha.5
 
@@ -3289,8 +3289,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.18.0-alpha.5
-  - @think-copilotkit/shared@0.2.0-alpha.4
+  - @turbo-agent/copilotkit-react-core@0.18.0-alpha.5
+  - @turbo-agent/copilotkit-shared@0.2.0-alpha.4
 
 ## 0.15.0-alpha.4
 
@@ -3301,8 +3301,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.18.0-alpha.4
-  - @think-copilotkit/shared@0.2.0-alpha.3
+  - @turbo-agent/copilotkit-react-core@0.18.0-alpha.4
+  - @turbo-agent/copilotkit-shared@0.2.0-alpha.3
 
 ## 0.15.0-alpha.3
 
@@ -3313,8 +3313,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.18.0-alpha.3
-  - @think-copilotkit/shared@0.2.0-alpha.2
+  - @turbo-agent/copilotkit-react-core@0.18.0-alpha.3
+  - @turbo-agent/copilotkit-shared@0.2.0-alpha.2
 
 ## 0.15.0-alpha.2
 
@@ -3327,8 +3327,8 @@ CopilotKid Back-end SDK:
 
 - Updated dependencies
 - Updated dependencies
-  - @think-copilotkit/react-core@0.18.0-alpha.2
-  - @think-copilotkit/shared@0.2.0-alpha.1
+  - @turbo-agent/copilotkit-react-core@0.18.0-alpha.2
+  - @turbo-agent/copilotkit-shared@0.2.0-alpha.1
 
 ## 0.15.0-alpha.1
 
@@ -3339,8 +3339,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.18.0-alpha.1
-  - @think-copilotkit/shared@0.2.0-alpha.0
+  - @turbo-agent/copilotkit-react-core@0.18.0-alpha.1
+  - @turbo-agent/copilotkit-shared@0.2.0-alpha.0
 
 ## 0.15.0-alpha.0
 
@@ -3351,7 +3351,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.18.0-alpha.0
+  - @turbo-agent/copilotkit-react-core@0.18.0-alpha.0
 
 ## 0.14.1
 
@@ -3363,7 +3363,7 @@ CopilotKid Back-end SDK:
 - Updated dependencies
 - Updated dependencies [aa6bc5a]
 - Updated dependencies [cf0bde6]
-  - @think-copilotkit/react-core@0.17.1
+  - @turbo-agent/copilotkit-react-core@0.17.1
 
 ## 0.14.1-alpha.1
 
@@ -3371,7 +3371,7 @@ CopilotKid Back-end SDK:
 
 - change order of operations on stop cleanup
 - Updated dependencies
-  - @think-copilotkit/react-core@0.17.1-alpha.1
+  - @turbo-agent/copilotkit-react-core@0.17.1-alpha.1
 
 ## 0.14.1-alpha.0
 
@@ -3379,7 +3379,7 @@ CopilotKid Back-end SDK:
 
 - fix stop generate
 - Updated dependencies
-  - @think-copilotkit/react-core@0.17.1-alpha.0
+  - @turbo-agent/copilotkit-react-core@0.17.1-alpha.0
 
 ## 0.14.0
 
@@ -3402,7 +3402,7 @@ CopilotKid Back-end SDK:
 - Updated dependencies [fa84257]
 - Updated dependencies [98a37c8]
 - Updated dependencies [250032d]
-  - @think-copilotkit/react-core@0.17.0
+  - @turbo-agent/copilotkit-react-core@0.17.0
 
 ## 0.14.0-alpha.5
 
@@ -3413,7 +3413,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.17.0-alpha.5
+  - @turbo-agent/copilotkit-react-core@0.17.0-alpha.5
 
 ## 0.14.0-alpha.4
 
@@ -3424,7 +3424,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.17.0-alpha.4
+  - @turbo-agent/copilotkit-react-core@0.17.0-alpha.4
 
 ## 0.14.0-alpha.3
 
@@ -3435,7 +3435,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.17.0-alpha.3
+  - @turbo-agent/copilotkit-react-core@0.17.0-alpha.3
 
 ## 0.14.0-alpha.2
 
@@ -3446,7 +3446,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.17.0-alpha.2
+  - @turbo-agent/copilotkit-react-core@0.17.0-alpha.2
 
 ## 0.14.0-alpha.1
 
@@ -3457,7 +3457,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.17.0-alpha.1
+  - @turbo-agent/copilotkit-react-core@0.17.0-alpha.1
 
 ## 0.14.0-alpha.0
 
@@ -3468,14 +3468,14 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.17.0-alpha.0
+  - @turbo-agent/copilotkit-react-core@0.17.0-alpha.0
 
 ## 0.13.1
 
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.16.0
+  - @turbo-agent/copilotkit-react-core@0.16.0
 
 ## 0.13.0
 
@@ -3500,7 +3500,7 @@ CopilotKid Back-end SDK:
 - Updated dependencies [bbd152e]
 - Updated dependencies [8517bb1]
 - Updated dependencies [478840a]
-  - @think-copilotkit/react-core@0.15.0
+  - @turbo-agent/copilotkit-react-core@0.15.0
 
 ## 0.13.0-alpha.6
 
@@ -3511,7 +3511,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.15.0-alpha.6
+  - @turbo-agent/copilotkit-react-core@0.15.0-alpha.6
 
 ## 0.13.0-alpha.5
 
@@ -3522,7 +3522,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.15.0-alpha.5
+  - @turbo-agent/copilotkit-react-core@0.15.0-alpha.5
 
 ## 0.13.0-alpha.4
 
@@ -3533,7 +3533,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.15.0-alpha.4
+  - @turbo-agent/copilotkit-react-core@0.15.0-alpha.4
 
 ## 0.13.0-alpha.3
 
@@ -3544,7 +3544,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.15.0-alpha.3
+  - @turbo-agent/copilotkit-react-core@0.15.0-alpha.3
 
 ## 0.13.0-alpha.2
 
@@ -3555,7 +3555,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.15.0-alpha.2
+  - @turbo-agent/copilotkit-react-core@0.15.0-alpha.2
 
 ## 0.13.0-alpha.1
 
@@ -3566,7 +3566,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.15.0-alpha.1
+  - @turbo-agent/copilotkit-react-core@0.15.0-alpha.1
 
 ## 0.13.0-alpha.0
 
@@ -3577,7 +3577,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.15.0-alpha.0
+  - @turbo-agent/copilotkit-react-core@0.15.0-alpha.0
 
 ## 0.12.0
 
@@ -3588,7 +3588,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.14.0
+  - @turbo-agent/copilotkit-react-core@0.14.0
 
 ## 0.11.0
 
@@ -3599,14 +3599,14 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.13.0
+  - @turbo-agent/copilotkit-react-core@0.13.0
 
 ## 0.10.1
 
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.12.0
+  - @turbo-agent/copilotkit-react-core@0.12.0
 
 ## 0.10.0
 
@@ -3632,7 +3632,7 @@ CopilotKid Back-end SDK:
 - Updated dependencies [2b9591a]
 - Updated dependencies [222f5e6]
 - Updated dependencies [2b9591a]
-  - @think-copilotkit/react-core@0.11.0
+  - @turbo-agent/copilotkit-react-core@0.11.0
 
 ## 0.10.0-alpha.7
 
@@ -3643,7 +3643,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.11.0-alpha.7
+  - @turbo-agent/copilotkit-react-core@0.11.0-alpha.7
 
 ## 0.10.0-alpha.6
 
@@ -3654,7 +3654,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.11.0-alpha.6
+  - @turbo-agent/copilotkit-react-core@0.11.0-alpha.6
 
 ## 0.10.0-alpha.5
 
@@ -3665,7 +3665,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.11.0-alpha.5
+  - @turbo-agent/copilotkit-react-core@0.11.0-alpha.5
 
 ## 0.10.0-alpha.4
 
@@ -3676,7 +3676,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.11.0-alpha.4
+  - @turbo-agent/copilotkit-react-core@0.11.0-alpha.4
 
 ## 0.10.0-alpha.3
 
@@ -3687,7 +3687,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.11.0-alpha.3
+  - @turbo-agent/copilotkit-react-core@0.11.0-alpha.3
 
 ## 0.10.0-alpha.2
 
@@ -3698,7 +3698,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.11.0-alpha.2
+  - @turbo-agent/copilotkit-react-core@0.11.0-alpha.2
 
 ## 0.10.0-alpha.1
 
@@ -3709,28 +3709,28 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.11.0-alpha.1
+  - @turbo-agent/copilotkit-react-core@0.11.0-alpha.1
 
 ## 0.9.3-alpha.0
 
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.11.0-alpha.0
+  - @turbo-agent/copilotkit-react-core@0.11.0-alpha.0
 
 ## 0.9.2
 
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.10.0
+  - @turbo-agent/copilotkit-react-core@0.10.0
 
 ## 0.9.1
 
 ### Patch Changes
 
 - Updated dependencies [0467f62]
-  - @think-copilotkit/react-core@0.9.0
+  - @turbo-agent/copilotkit-react-core@0.9.0
 
 ## 0.9.0
 
@@ -3762,7 +3762,7 @@ CopilotKid Back-end SDK:
 - Updated dependencies [e4fe6a5]
 - Updated dependencies [8e9f9b1]
 - Updated dependencies [939454e]
-  - @think-copilotkit/react-core@0.8.0
+  - @turbo-agent/copilotkit-react-core@0.8.0
 
 ## 0.9.0-alpha.11
 
@@ -3773,7 +3773,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.8.0-alpha.6
+  - @turbo-agent/copilotkit-react-core@0.8.0-alpha.6
 
 ## 0.9.0-alpha.10
 
@@ -3784,7 +3784,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.8.0-alpha.5
+  - @turbo-agent/copilotkit-react-core@0.8.0-alpha.5
 
 ## 0.9.0-alpha.9
 
@@ -3795,7 +3795,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.8.0-alpha.4
+  - @turbo-agent/copilotkit-react-core@0.8.0-alpha.4
 
 ## 0.9.0-alpha.8
 
@@ -3805,7 +3805,7 @@ CopilotKid Back-end SDK:
 
 ### Patch Changes
 
-- @think-copilotkit/react-core@0.8.0-alpha.3
+- @turbo-agent/copilotkit-react-core@0.8.0-alpha.3
 
 ## 0.9.0-alpha.7
 
@@ -3815,7 +3815,7 @@ CopilotKid Back-end SDK:
 
 ### Patch Changes
 
-- @think-copilotkit/react-core@0.8.0-alpha.3
+- @turbo-agent/copilotkit-react-core@0.8.0-alpha.3
 
 ## 0.9.0-alpha.6
 
@@ -3844,7 +3844,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.8.0-alpha.3
+  - @turbo-agent/copilotkit-react-core@0.8.0-alpha.3
 
 ## 0.9.0-alpha.2
 
@@ -3852,7 +3852,7 @@ CopilotKid Back-end SDK:
 
 - rebase master
 - Updated dependencies
-  - @think-copilotkit/react-core@0.8.0-alpha.2
+  - @turbo-agent/copilotkit-react-core@0.8.0-alpha.2
 
 ## 0.9.0-alpha.1
 
@@ -3860,7 +3860,7 @@ CopilotKid Back-end SDK:
 
 - prettify
 - Updated dependencies
-  - @think-copilotkit/react-core@0.8.0-alpha.1
+  - @turbo-agent/copilotkit-react-core@0.8.0-alpha.1
 
 ## 0.9.0-alpha.0
 
@@ -3871,7 +3871,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.8.0-alpha.0
+  - @turbo-agent/copilotkit-react-core@0.8.0-alpha.0
 
 ## 0.8.0
 
@@ -3882,7 +3882,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies [ce193f7]
-  - @think-copilotkit/react-core@0.7.0
+  - @turbo-agent/copilotkit-react-core@0.7.0
 
 ## 0.7.0
 
@@ -3899,8 +3899,8 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-textarea@0.6.0
-  - @think-copilotkit/react-core@0.6.0
+  - @turbo-agent/copilotkit-react-textarea@0.6.0
+  - @turbo-agent/copilotkit-react-core@0.6.0
 
 ## 0.5.0
 
@@ -3913,7 +3913,7 @@ CopilotKid Back-end SDK:
 
 - Updated dependencies
 - Updated dependencies
-  - @think-copilotkit/react-core@0.5.0
+  - @turbo-agent/copilotkit-react-core@0.5.0
 
 ## 0.4.0
 
@@ -3924,7 +3924,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @think-copilotkit/react-core@0.4.0
+  - @turbo-agent/copilotkit-react-core@0.4.0
 
 ## 0.3.0
 
@@ -3937,7 +3937,7 @@ CopilotKid Back-end SDK:
 
 - Updated dependencies
 - Updated dependencies [9d2f3cb]
-  - @think-copilotkit/react-core@0.3.0
+  - @turbo-agent/copilotkit-react-core@0.3.0
 
 ## 0.2.0
 

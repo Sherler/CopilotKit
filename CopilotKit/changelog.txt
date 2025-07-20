@@ -1,22 +1,22 @@
-# @think-copilotkit/react-core
+# @turbo-agent/copilotkit-react-core
 
 ## 1.8.2
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.2
-- @think-copilotkit/shared@1.8.2
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.2
+- @turbo-agent/copilotkit-shared@1.8.2
 
 
-# @think-copilotkit/react-ui
+# @turbo-agent/copilotkit-react-ui
 
 ## 1.8.2
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.2
-- @think-copilotkit/react-core@1.8.2
-- @think-copilotkit/shared@1.8.2
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.2
+- @turbo-agent/copilotkit-react-core@1.8.2
+- @turbo-agent/copilotkit-shared@1.8.2
 
 
 # @copilotkit/sdk-js
@@ -25,62 +25,62 @@
 
 ### Patch Changes
 
-- @think-copilotkit/shared@1.8.2
+- @turbo-agent/copilotkit-shared@1.8.2
 
 
-# @think-copilotkit/react-textarea
+# @turbo-agent/copilotkit-react-textarea
 
 ## 1.8.2
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.2
-- @think-copilotkit/react-core@1.8.2
-- @think-copilotkit/shared@1.8.2
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.2
+- @turbo-agent/copilotkit-react-core@1.8.2
+- @turbo-agent/copilotkit-shared@1.8.2
 
 
-# @think-copilotkit/runtime
+# @turbo-agent/copilotkit-runtime
 
 ## 1.8.2
 
 ### Patch Changes
 
 - 4eedf97: - fix: handle failure to fetch langgraph schema
-  - @think-copilotkit/shared@1.8.2
+  - @turbo-agent/copilotkit-shared@1.8.2
 
 
-# @think-copilotkit/runtime-client-gql
-
-## 1.8.2
-
-### Patch Changes
-
-- @think-copilotkit/shared@1.8.2
-
-
-# @think-copilotkit/shared
-
-## 1.8.2
-
-# @think-copilotkit/react-core
+# @turbo-agent/copilotkit-runtime-client-gql
 
 ## 1.8.2
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.2
-- @think-copilotkit/shared@1.8.2
+- @turbo-agent/copilotkit-shared@1.8.2
 
 
-# @think-copilotkit/react-ui
+# @turbo-agent/copilotkit-shared
+
+## 1.8.2
+
+# @turbo-agent/copilotkit-react-core
 
 ## 1.8.2
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.2
-- @think-copilotkit/react-core@1.8.2
-- @think-copilotkit/shared@1.8.2
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.2
+- @turbo-agent/copilotkit-shared@1.8.2
+
+
+# @turbo-agent/copilotkit-react-ui
+
+## 1.8.2
+
+### Patch Changes
+
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.2
+- @turbo-agent/copilotkit-react-core@1.8.2
+- @turbo-agent/copilotkit-shared@1.8.2
 
 
 # @copilotkit/sdk-js
@@ -89,40 +89,40 @@
 
 ### Patch Changes
 
-- @think-copilotkit/shared@1.8.2
+- @turbo-agent/copilotkit-shared@1.8.2
 
 
-# @think-copilotkit/react-textarea
+# @turbo-agent/copilotkit-react-textarea
 
 ## 1.8.2
 
 ### Patch Changes
 
-- @think-copilotkit/runtime-client-gql@1.8.2
-- @think-copilotkit/react-core@1.8.2
-- @think-copilotkit/shared@1.8.2
+- @turbo-agent/copilotkit-runtime-client-gql@1.8.2
+- @turbo-agent/copilotkit-react-core@1.8.2
+- @turbo-agent/copilotkit-shared@1.8.2
 
 
-# @think-copilotkit/runtime
+# @turbo-agent/copilotkit-runtime
 
 ## 1.8.2
 
 ### Patch Changes
 
 - 4eedf97: - fix: handle failure to fetch langgraph schema
-  - @think-copilotkit/shared@1.8.2
+  - @turbo-agent/copilotkit-shared@1.8.2
 
 
-# @think-copilotkit/runtime-client-gql
+# @turbo-agent/copilotkit-runtime-client-gql
 
 ## 1.8.2
 
 ### Patch Changes
 
-- @think-copilotkit/shared@1.8.2
+- @turbo-agent/copilotkit-shared@1.8.2
 
 
-# @think-copilotkit/shared
+# @turbo-agent/copilotkit-shared
 
 ## 1.8.2
 

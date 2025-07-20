@@ -1,8 +1,8 @@
 "use client";
-import "@think-copilotkit/react-ui/styles.css";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
 import React from "react";
-import { CopilotChat } from "@think-copilotkit/react-ui";
-import { CopilotKit } from "@think-copilotkit/react-core";
+import { CopilotChat } from "@turbo-agent/copilotkit-react-ui";
+import { CopilotKit } from "@turbo-agent/copilotkit-react-core";
 
 // Read environment variables for copilot configuration
 const apiKey = process.env.NEXT_PUBLIC_COPILOT_API_KEY || "";

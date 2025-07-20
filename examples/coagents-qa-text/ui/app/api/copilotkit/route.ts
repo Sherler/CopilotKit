@@ -3,7 +3,7 @@ import {
   CopilotRuntime,
   OpenAIAdapter,
   copilotRuntimeNextJSAppRouterEndpoint, langGraphPlatformEndpoint, copilotKitEndpoint,
-} from "@think-copilotkit/runtime";
+} from "@turbo-agent/copilotkit-runtime";
 import OpenAI from "openai";
 
 const openai = new OpenAI();

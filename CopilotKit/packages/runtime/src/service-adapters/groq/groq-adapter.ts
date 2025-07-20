@@ -4,7 +4,7 @@
  * ## Example
  *
  * ```ts
- * import { CopilotRuntime, GroqAdapter } from "@think-copilotkit/runtime";
+ * import { CopilotRuntime, GroqAdapter } from "@turbo-agent/copilotkit-runtime";
  * import { Groq } from "groq-sdk";
  *
  * const groq = new Groq({ apiKey: process.env["GROQ_API_KEY"] });
@@ -26,7 +26,7 @@ import {
   convertMessageToOpenAIMessage,
   limitMessagesToTokenCount,
 } from "../openai/utils";
-import { randomUUID } from "@think-copilotkit/shared";
+import { randomUUID } from "@turbo-agent/copilotkit-shared";
 import { convertServiceAdapterError } from "../shared";
 
 const DEFAULT_MODEL = "llama-3.3-70b-versatile";

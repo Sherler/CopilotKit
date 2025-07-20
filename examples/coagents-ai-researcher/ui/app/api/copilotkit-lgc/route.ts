@@ -2,10 +2,10 @@ import {
   CopilotRuntime,
   OpenAIAdapter,
   copilotRuntimeNextJSAppRouterEndpoint,
-} from "@think-copilotkit/runtime";
+} from "@turbo-agent/copilotkit-runtime";
 import OpenAI from "openai";
 import { NextRequest } from "next/server";
-import { langGraphPlatformEndpoint } from "@think-copilotkit/runtime";
+import { langGraphPlatformEndpoint } from "@turbo-agent/copilotkit-runtime";
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 const serviceAdapter = new OpenAIAdapter({ openai } as any);

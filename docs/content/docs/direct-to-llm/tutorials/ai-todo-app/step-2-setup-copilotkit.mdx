@@ -9,15 +9,15 @@ import { FaCloud, FaServer } from "react-icons/fa";
 
 Now that we have our todo list app running, we're ready to integrate CopilotKit. For this tutorial, we will install the following dependencies:
 
-- `@think-copilotkit/react-core`: The core library for CopilotKit, which contains the CopilotKit provider and useful hooks.
-- `@think-copilotkit/react-ui`: The UI library for CopilotKit, which contains the CopilotKit UI components such as the sidebar, chat popup, textarea and more.
+- `@turbo-agent/copilotkit-react-core`: The core library for CopilotKit, which contains the CopilotKit provider and useful hooks.
+- `@turbo-agent/copilotkit-react-ui`: The UI library for CopilotKit, which contains the CopilotKit UI components such as the sidebar, chat popup, textarea and more.
 
 ## Install Dependencies
 
 To install the CopilotKit dependencies, run the following:
 
 ```package-install
-npm install @think-copilotkit/react-core @think-copilotkit/react-ui
+npm install @turbo-agent/copilotkit-react-core @turbo-agent/copilotkit-react-ui
 ```
 
 ## Setup CopilotKit
@@ -67,9 +67,9 @@ In this tutorial, we'll use the `<CopilotPopup/>` component to display the chat 
 
 import { TasksList } from "@/components/TasksList";
 import { TasksProvider } from "@/lib/hooks/use-tasks";
-import { CopilotKit } from "@think-copilotkit/react-core";
-import { CopilotPopup } from "@think-copilotkit/react-ui"; // [!code highlight]
-import "@think-copilotkit/react-ui/styles.css"; // [!code highlight]
+import { CopilotKit } from "@turbo-agent/copilotkit-react-core";
+import { CopilotPopup } from "@turbo-agent/copilotkit-react-ui"; // [!code highlight]
+import "@turbo-agent/copilotkit-react-ui/styles.css"; // [!code highlight]
 
 export default function Home() {
   return (
@@ -85,9 +85,9 @@ export default function Home() {
 
 Here's what we did:
 
-- We imported the `<CopilotPopup />` component from `@think-copilotkit/react-ui`.
+- We imported the `<CopilotPopup />` component from `@turbo-agent/copilotkit-react-ui`.
 - We wrapped the page with the `<CopilotKit>` provider.
-- We imported the built-in styles from `@think-copilotkit/react-ui`.
+- We imported the built-in styles from `@turbo-agent/copilotkit-react-ui`.
 
 Now, head back to your app and you'll find a chat popup in the bottom right corner of the page. At this point, you can start interacting with your copilot! 🎉
 

@@ -11,8 +11,8 @@ The built-in Copilot UI can be customized in many ways -- both through CSS and b
 CopilotKit also offers **fully custom headless UI** through the `useCopilotChat` hook. Everything built with the built-in UI (and more) can be implemented with the headless UI, providing deep customizability.
 
 ```tsx
-import { useCopilotChat } from "@think-copilotkit/react-core";
-import { Role, TextMessage } from "@think-copilotkit/runtime-client-gql";
+import { useCopilotChat } from "@turbo-agent/copilotkit-react-core";
+import { Role, TextMessage } from "@turbo-agent/copilotkit-runtime-client-gql";
 
 export function CustomChatInterface() {
   const {
@@ -55,9 +55,9 @@ Resetting the chat clears all conversation history, helping you start fresh or t
 
 "use client"; // only necessary if you are using Next.js with the App Router.
 
-import { InputProps, CopilotSidebar } from "@think-copilotkit/react-ui";
-import { useCopilotChat } from "@think-copilotkit/react-core";
-import "@think-copilotkit/react-ui/styles.css";
+import { InputProps, CopilotSidebar } from "@turbo-agent/copilotkit-react-ui";
+import { useCopilotChat } from "@turbo-agent/copilotkit-react-core";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
 
 function CustomInput({ inProgress, onSend, isVisible }: InputProps) {
   const { reset } = useCopilotChat(); // Get reset function

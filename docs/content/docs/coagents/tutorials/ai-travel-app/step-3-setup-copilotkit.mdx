@@ -8,15 +8,15 @@ import { FaCloud } from "react-icons/fa";
 
 Now that we have the application and agent running, we're ready to connect both via CopilotKit. For this tutorial, we will install the following dependencies:
 
-- `@think-copilotkit/react-core`: The core library for CopilotKit, which contains the CopilotKit provider and useful hooks.
-- `@think-copilotkit/react-ui`: The UI library for CopilotKit, which contains the CopilotKit UI components such as the sidebar, chat popup, textarea and more.
+- `@turbo-agent/copilotkit-react-core`: The core library for CopilotKit, which contains the CopilotKit provider and useful hooks.
+- `@turbo-agent/copilotkit-react-ui`: The UI library for CopilotKit, which contains the CopilotKit UI components such as the sidebar, chat popup, textarea and more.
 
 ## Install Dependencies
 
 Navigate back to the `ui` directory and install the CopilotKit dependencies:
 
 ```shell
-pnpm add @think-copilotkit/react-core @think-copilotkit/react-ui
+pnpm add @turbo-agent/copilotkit-react-core @turbo-agent/copilotkit-react-ui
 ```
 
 ## Setup CopilotKit
@@ -81,7 +81,7 @@ Now we're ready to configure the CopilotKit provider in our application.
 ```tsx title="ui/app/page.tsx" showLineNumbers
 "use client";
 
-import { CopilotKit } from "@think-copilotkit/react-core"; // [!code ++]
+import { CopilotKit } from "@turbo-agent/copilotkit-react-core"; // [!code ++]
 
 export default function Home() {
   // [!code ++:5]
@@ -113,9 +113,9 @@ In this tutorial, we'll use the `<CopilotSidebar/>` component to display the cha
 
 import { TasksList } from "@/components/TasksList";
 import { TasksProvider } from "@/lib/hooks/use-tasks";
-import { CopilotKit } from "@think-copilotkit/react-core";
-import { CopilotSidebar } from "@think-copilotkit/react-ui"; // [!code ++]
-import "@think-copilotkit/react-ui/styles.css"; // [!code ++]
+import { CopilotKit } from "@turbo-agent/copilotkit-react-core";
+import { CopilotSidebar } from "@turbo-agent/copilotkit-react-ui"; // [!code ++]
+import "@turbo-agent/copilotkit-react-ui/styles.css"; // [!code ++]
 
 export default function Home() {
   return (
@@ -172,7 +172,7 @@ And we're done! Here's what we did:
 
 import { TasksList } from "@/components/TasksList";
 import { TasksProvider } from "@/lib/hooks/use-tasks";
-import { CopilotKit } from "@think-copilotkit/react-core"; // [!code ++]
+import { CopilotKit } from "@turbo-agent/copilotkit-react-core"; // [!code ++]
 
 export default function Home() {
   return (
@@ -198,9 +198,9 @@ In this tutorial, we'll use the `<CopilotSidebar/>` component to display the cha
 
 import { TasksList } from "@/components/TasksList";
 import { TasksProvider } from "@/lib/hooks/use-tasks";
-import { CopilotKit } from "@think-copilotkit/react-core";
-import { CopilotSidebar } from "@think-copilotkit/react-ui"; // [!code ++]
-import "@think-copilotkit/react-ui/styles.css"; // [!code ++]
+import { CopilotKit } from "@turbo-agent/copilotkit-react-core";
+import { CopilotSidebar } from "@turbo-agent/copilotkit-react-ui"; // [!code ++]
+import "@turbo-agent/copilotkit-react-ui/styles.css"; // [!code ++]
 
 export default function Home() {
   return (
@@ -230,9 +230,9 @@ export default function Home() {
 
 Here's what we did:
 
-- We imported the `<CopilotSidebar />` component from `@think-copilotkit/react-ui`.
+- We imported the `<CopilotSidebar />` component from `@turbo-agent/copilotkit-react-ui`.
 - We wrapped the page with the `<CopilotKit>` provider.
-- We imported the built-in styles from `@think-copilotkit/react-ui`.
+- We imported the built-in styles from `@turbo-agent/copilotkit-react-ui`.
 </TailoredContentOption>
 </TailoredContent>
 

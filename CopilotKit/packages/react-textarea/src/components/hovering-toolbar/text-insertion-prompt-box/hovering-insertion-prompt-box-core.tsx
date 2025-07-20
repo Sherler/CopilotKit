@@ -4,7 +4,7 @@ import {
   Generator_InsertionOrEditingSuggestion,
 } from "../../../types/base/autosuggestions-bare-function";
 import { SourceSearchBox } from "../../source-search-box/source-search-box";
-import { DocumentPointer, useCopilotContext } from "@think-copilotkit/react-core";
+import { DocumentPointer, useCopilotContext } from "@turbo-agent/copilotkit-react-core";
 import { Button } from "../../ui/button";
 import { Label } from "../../ui/label";
 import { useCallback, useEffect, useRef, useState } from "react";

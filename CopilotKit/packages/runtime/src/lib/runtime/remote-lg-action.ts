@@ -7,7 +7,7 @@ import {
   ThreadState,
 } from "@langchain/langgraph-sdk";
 import { createHash } from "node:crypto";
-import { isValidUUID, randomUUID } from "@think-copilotkit/shared";
+import { isValidUUID, randomUUID } from "@turbo-agent/copilotkit-shared";
 import { parse as parsePartialJson } from "partial-json";
 import { Logger } from "pino";
 import { ActionInput } from "../../graphql/inputs/action.input";
@@ -24,7 +24,7 @@ import {
   CopilotKitMisuseError,
   CopilotKitLowLevelError,
   CopilotKitError,
-} from "@think-copilotkit/shared";
+} from "@turbo-agent/copilotkit-shared";
 import { RemoveMessage } from "@langchain/core/messages";
 import { RETRY_CONFIG, isRetryableError, sleep, calculateDelay } from "./retry-utils";
 import { generateHelpfulErrorMessage } from "../streaming";

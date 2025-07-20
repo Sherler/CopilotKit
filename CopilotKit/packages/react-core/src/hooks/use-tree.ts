@@ -1,4 +1,4 @@
-import { randomId } from "@think-copilotkit/shared";
+import { randomId } from "@turbo-agent/copilotkit-shared";
 import { useCallback, useReducer } from "react";
 
 export type TreeNodeId = string;

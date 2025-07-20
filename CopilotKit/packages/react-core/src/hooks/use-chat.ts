@@ -8,7 +8,7 @@ import {
   parseJson,
   CopilotKitError,
   CopilotKitErrorCode,
-} from "@think-copilotkit/shared";
+} from "@turbo-agent/copilotkit-shared";
 import {
   Message,
   TextMessage,
@@ -33,7 +33,7 @@ import {
   LangGraphInterruptEvent,
   MetaEventInput,
   AgentStateInput,
-} from "@think-copilotkit/runtime-client-gql";
+} from "@turbo-agent/copilotkit-runtime-client-gql";
 
 import { CopilotApiConfig } from "../context";
 import { FrontendAction, processActionsForRuntimeRequest } from "../types/frontend-action";

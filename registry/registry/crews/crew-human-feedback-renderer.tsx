@@ -1,5 +1,5 @@
-import { CrewsResponseStatus, CrewsStateItem } from "@think-copilotkit/react-core";
-import { Markdown } from "@think-copilotkit/react-ui";
+import { CrewsResponseStatus, CrewsStateItem } from "@turbo-agent/copilotkit-react-core";
+import { Markdown } from "@turbo-agent/copilotkit-react-ui";
 import { useState } from "react";
 
 /**

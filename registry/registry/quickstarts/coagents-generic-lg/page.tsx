@@ -1,7 +1,7 @@
 "use client";
 
-import { CatchAllActionRenderProps, useCoAgent, useCopilotAction, useLangGraphInterrupt } from "@think-copilotkit/react-core";
-import { CopilotChat, CopilotKitCSSProperties } from "@think-copilotkit/react-ui";
+import { CatchAllActionRenderProps, useCoAgent, useCopilotAction, useLangGraphInterrupt } from "@turbo-agent/copilotkit-react-core";
+import { CopilotChat, CopilotKitCSSProperties } from "@turbo-agent/copilotkit-react-ui";
 import { ToolCall } from "@/registry/quickstarts/coagents-generic-lg/components/tool-call";
 import { AgentState } from "@/registry/quickstarts/coagents-generic-lg/components/agent-state";
 import { Interrupt } from "@/registry/quickstarts/coagents-generic-lg/components/interrupt";

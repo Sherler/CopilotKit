@@ -7,17 +7,17 @@
  *
  * ## Install Dependencies
  *
- * This component is part of the [@think-copilotkit/react-ui](https://npmjs.com/package/@think-copilotkit/react-ui) package.
+ * This component is part of the [@turbo-agent/copilotkit-react-ui](https://npmjs.com/package/@turbo-agent/copilotkit-react-ui) package.
  *
- * ```shell npm2yarn \"@think-copilotkit/react-ui"\
- * npm install @think-copilotkit/react-core @think-copilotkit/react-ui
+ * ```shell npm2yarn \"@turbo-agent/copilotkit-react-ui"\
+ * npm install @turbo-agent/copilotkit-react-core @turbo-agent/copilotkit-react-ui
  * ```
  *
  * ## Usage
  *
  * ```tsx
- * import { CopilotChat } from "@think-copilotkit/react-ui";
- * import "@think-copilotkit/react-ui/styles.css";
+ * import { CopilotChat } from "@turbo-agent/copilotkit-react-ui";
+ * import "@turbo-agent/copilotkit-react-ui/styles.css";
  *
  * <CopilotChat
  *   labels={{
@@ -32,7 +32,7 @@
  * By default, CopilotKit components do not have any styles. You can import CopilotKit's stylesheet at the root of your project:
  * ```tsx title="YourRootComponent.tsx"
  * ...
- * import "@think-copilotkit/react-ui/styles.css"; // [!code highlight]
+ * import "@turbo-agent/copilotkit-react-ui/styles.css"; // [!code highlight]
  *
  * export function YourRootComponent() {
  *   return (
@@ -66,11 +66,11 @@ import {
   useCopilotChat,
   useCopilotContext,
   useCopilotMessagesContext,
-} from "@think-copilotkit/react-core";
+} from "@turbo-agent/copilotkit-react-core";
 import { reloadSuggestions } from "./Suggestion";
 import { CopilotChatSuggestion } from "../../types/suggestions";
-import { Message, Role, TextMessage, ImageMessage } from "@think-copilotkit/runtime-client-gql";
-import { randomId } from "@think-copilotkit/shared";
+import { Message, Role, TextMessage, ImageMessage } from "@turbo-agent/copilotkit-runtime-client-gql";
+import { randomId } from "@turbo-agent/copilotkit-shared";
 import {
   AssistantMessageProps,
   ComponentsMap,
@@ -81,7 +81,7 @@ import {
   UserMessageProps,
 } from "./props";
 
-import { HintFunction, runAgent, stopAgent } from "@think-copilotkit/react-core";
+import { HintFunction, runAgent, stopAgent } from "@turbo-agent/copilotkit-react-core";
 import { ImageUploadQueue } from "./ImageUploadQueue";
 import { Suggestions as DefaultRenderSuggestionsList } from "./Suggestions";
 

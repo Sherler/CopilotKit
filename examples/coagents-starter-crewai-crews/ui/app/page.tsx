@@ -1,7 +1,7 @@
 "use client";
 
-import { useCoAgent, useCopilotAction } from "@think-copilotkit/react-core";
-import { CopilotPopup } from "@think-copilotkit/react-ui";
+import { useCoAgent, useCopilotAction } from "@turbo-agent/copilotkit-react-core";
+import { CopilotPopup } from "@turbo-agent/copilotkit-react-ui";
 import ReactMarkdown from "react-markdown";
 
 export default function Home() {

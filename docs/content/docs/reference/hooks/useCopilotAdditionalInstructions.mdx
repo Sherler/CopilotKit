@@ -21,7 +21,7 @@ In its most basic usage, useCopilotAdditionalInstructions accepts a single strin
 representing the instructions to be added to the Copilot.
  
 ```tsx
-import { useCopilotAdditionalInstructions } from "@think-copilotkit/react-core";
+import { useCopilotAdditionalInstructions } from "@turbo-agent/copilotkit-react-core";
  
 export function MyComponent() {
   useCopilotAdditionalInstructions({
@@ -35,7 +35,7 @@ export function MyComponent() {
 You can also conditionally add instructions based on the state of your app.
  
 ```tsx
-import { useCopilotAdditionalInstructions } from "@think-copilotkit/react-core";
+import { useCopilotAdditionalInstructions } from "@turbo-agent/copilotkit-react-core";
  
 export function MyComponent() {
   const [showInstructions, setShowInstructions] = useState(false);

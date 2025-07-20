@@ -1,7 +1,7 @@
 "use client";
 
-import { useCopilotAction } from "@think-copilotkit/react-core";
-import { CopilotPopup } from "@think-copilotkit/react-ui";
+import { useCopilotAction } from "@turbo-agent/copilotkit-react-core";
+import { CopilotPopup } from "@turbo-agent/copilotkit-react-ui";
 
 export function WaitForUserInput() {
   useCopilotAction({

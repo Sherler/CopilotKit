@@ -1,9 +1,9 @@
 "use client";
 import React from "react";
-import "@think-copilotkit/react-ui/styles.css";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
 import "./style.css";
-import { CopilotKit, useCoAgentStateRender } from "@think-copilotkit/react-core";
-import { CopilotChat, useCopilotChatSuggestions } from "@think-copilotkit/react-ui";
+import { CopilotKit, useCoAgentStateRender } from "@turbo-agent/copilotkit-react-core";
+import { CopilotChat, useCopilotChatSuggestions } from "@turbo-agent/copilotkit-react-ui";
 import { initialPrompt, chatSuggestions } from "@/lib/prompts";
 import { AGENT_TYPE } from "@/config";
 const AgenticGenerativeUI: React.FC = () => {

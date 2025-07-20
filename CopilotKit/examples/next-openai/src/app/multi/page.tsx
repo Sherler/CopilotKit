@@ -1,10 +1,10 @@
 "use client";
 
-import { CopilotChat } from "@think-copilotkit/react-ui";
+import { CopilotChat } from "@turbo-agent/copilotkit-react-ui";
 import "./styles.css";
-import { CopilotKit, useCopilotAction, useCopilotChat } from "@think-copilotkit/react-core";
+import { CopilotKit, useCopilotAction, useCopilotChat } from "@turbo-agent/copilotkit-react-core";
 import { useSearchParams } from "next/navigation";
-import { MessageRole, TextMessage } from "@think-copilotkit/runtime-client-gql";
+import { MessageRole, TextMessage } from "@turbo-agent/copilotkit-runtime-client-gql";
 
 const testMessages = [
   {

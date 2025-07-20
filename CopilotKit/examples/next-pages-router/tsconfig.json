@@ -21,13 +21,13 @@
     "@/*": [
       "./src/*"
     ],
-    "@think-copilotkit/react-core/*": [
+    "@turbo-agent/copilotkit-react-core/*": [
       "../packages/react-core/*"
     ],
-    "@think-copilotkit/react-ui/*": [
+    "@turbo-agent/copilotkit-react-ui/*": [
       "../packages/react-ui/*"
     ],
-    "@think-copilotkit/react-textarea/*": [
+    "@turbo-agent/copilotkit-react-textarea/*": [
       "../packages/react-textarea/*"
     ]
   }

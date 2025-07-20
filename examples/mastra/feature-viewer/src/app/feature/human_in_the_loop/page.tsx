@@ -1,9 +1,9 @@
 "use client";
 import React, { useState, useEffect } from "react";
-import "@think-copilotkit/react-ui/styles.css";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
 import "./style.css";
-import { CopilotKit, useCopilotAction } from "@think-copilotkit/react-core";
-import { CopilotChat } from "@think-copilotkit/react-ui";
+import { CopilotKit, useCopilotAction } from "@turbo-agent/copilotkit-react-core";
+import { CopilotChat } from "@turbo-agent/copilotkit-react-ui";
 
 const HumanInTheLoop: React.FC = () => {
   return (

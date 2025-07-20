@@ -17,11 +17,11 @@ import {
   useCoAgentStateRender,
   useCopilotAction,
   useCopilotChat,
-} from "@think-copilotkit/react-core";
-import { CopilotKitCSSProperties, CopilotChat } from "@think-copilotkit/react-ui";
+} from "@turbo-agent/copilotkit-react-core";
+import { CopilotKitCSSProperties, CopilotChat } from "@turbo-agent/copilotkit-react-ui";
 import { DefaultResponseRenderer } from "@/components/DefaultResponseRenderer";
 import { DefaultStateRenderer } from "@/components/DefaultStateRenderer";
-import { MessageRole, TextMessage } from "@think-copilotkit/runtime-client-gql";
+import { MessageRole, TextMessage } from "@turbo-agent/copilotkit-runtime-client-gql";
 import { useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
 // TODO: Replace with `react-core post 1.8.x update

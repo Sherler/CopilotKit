@@ -1,4 +1,4 @@
-import { CopilotErrorEvent, CopilotRequestContext, CopilotErrorHandler } from "@think-copilotkit/shared";
+import { CopilotErrorEvent, CopilotRequestContext, CopilotErrorHandler } from "@turbo-agent/copilotkit-shared";
 
 describe("CopilotRuntime onError types", () => {
   it("should have correct CopilotTraceEvent type structure", () => {

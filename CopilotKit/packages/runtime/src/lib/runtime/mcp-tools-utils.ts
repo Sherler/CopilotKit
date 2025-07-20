@@ -1,4 +1,4 @@
-import { Action, Parameter } from "@think-copilotkit/shared";
+import { Action, Parameter } from "@turbo-agent/copilotkit-shared";
 
 /**
  * Represents a tool provided by an MCP server.

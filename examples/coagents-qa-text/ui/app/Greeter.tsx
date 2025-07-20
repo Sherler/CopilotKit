@@ -1,9 +1,9 @@
 "use client";
 
 import { useModelSelectorContext } from "@/lib/model-selector-provider";
-import { useCoAgent } from "@think-copilotkit/react-core";
-import { CopilotPopup } from "@think-copilotkit/react-ui";
-import { useCopilotChatSuggestions } from "@think-copilotkit/react-ui";
+import { useCoAgent } from "@turbo-agent/copilotkit-react-core";
+import { CopilotPopup } from "@turbo-agent/copilotkit-react-ui";
+import { useCopilotChatSuggestions } from "@turbo-agent/copilotkit-react-ui";
 export function Greeter() {
   const { model } = useModelSelectorContext();
 

@@ -3,7 +3,7 @@ import {
   CrewsResponseStatus,
   CrewsTaskStateItem,
   CrewsToolStateItem,
-} from "@think-copilotkit/react-core";
+} from "@turbo-agent/copilotkit-react-core";
 import { useEffect } from "react";
 import { useMemo, useRef, useState } from "react";
 

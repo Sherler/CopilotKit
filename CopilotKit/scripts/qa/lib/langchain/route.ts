@@ -2,7 +2,7 @@ import {
   CopilotRuntime,
   LangChainAdapter,
   copilotRuntimeNextJSAppRouterEndpoint,
-} from "@think-copilotkit/runtime";
+} from "@turbo-agent/copilotkit-runtime";
 
 import { ChatOpenAI } from "@langchain/openai";
 

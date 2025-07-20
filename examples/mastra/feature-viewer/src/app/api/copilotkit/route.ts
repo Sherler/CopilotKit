@@ -3,7 +3,7 @@ import {
   CopilotRuntime,
   ExperimentalEmptyAdapter,
   copilotRuntimeNextJSAppRouterEndpoint,
-} from "@think-copilotkit/runtime";
+} from "@turbo-agent/copilotkit-runtime";
 
 import { MastraAgent } from "@ag-ui/mastra";
 

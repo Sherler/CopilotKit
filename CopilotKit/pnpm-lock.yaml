@@ -47,22 +47,22 @@ importers:
 
   examples/next-openai:
     dependencies:
-      '@think-copilotkit/react-core':
+      '@turbo-agent/copilotkit-react-core':
         specifier: workspace:*
         version: link:../../packages/react-core
-      '@think-copilotkit/react-textarea':
+      '@turbo-agent/copilotkit-react-textarea':
         specifier: workspace:*
         version: link:../../packages/react-textarea
-      '@think-copilotkit/react-ui':
+      '@turbo-agent/copilotkit-react-ui':
         specifier: workspace:*
         version: link:../../packages/react-ui
-      '@think-copilotkit/runtime':
+      '@turbo-agent/copilotkit-runtime':
         specifier: workspace:*
         version: link:../../packages/runtime
-      '@think-copilotkit/runtime-client-gql':
+      '@turbo-agent/copilotkit-runtime-client-gql':
         specifier: workspace:*
         version: link:../../packages/runtime-client-gql
-      '@think-copilotkit/shared':
+      '@turbo-agent/copilotkit-shared':
         specifier: workspace:*
         version: link:../../packages/shared
       '@google/generative-ai':
@@ -156,19 +156,19 @@ importers:
 
   examples/next-pages-router:
     dependencies:
-      '@think-copilotkit/react-core':
+      '@turbo-agent/copilotkit-react-core':
         specifier: workspace:*
         version: link:../../packages/react-core
-      '@think-copilotkit/react-textarea':
+      '@turbo-agent/copilotkit-react-textarea':
         specifier: workspace:*
         version: link:../../packages/react-textarea
-      '@think-copilotkit/react-ui':
+      '@turbo-agent/copilotkit-react-ui':
         specifier: workspace:*
         version: link:../../packages/react-ui
-      '@think-copilotkit/runtime':
+      '@turbo-agent/copilotkit-runtime':
         specifier: workspace:*
         version: link:../../packages/runtime
-      '@think-copilotkit/shared':
+      '@turbo-agent/copilotkit-shared':
         specifier: workspace:*
         version: link:../../packages/shared
       '@google/generative-ai':
@@ -247,10 +247,10 @@ importers:
 
   examples/node-express:
     dependencies:
-      '@think-copilotkit/runtime':
+      '@turbo-agent/copilotkit-runtime':
         specifier: workspace:*
         version: link:../../packages/runtime
-      '@think-copilotkit/shared':
+      '@turbo-agent/copilotkit-shared':
         specifier: workspace:*
         version: link:../../packages/shared
       dotenv:
@@ -287,10 +287,10 @@ importers:
 
   examples/node-http:
     dependencies:
-      '@think-copilotkit/runtime':
+      '@turbo-agent/copilotkit-runtime':
         specifier: workspace:*
         version: link:../../packages/runtime
-      '@think-copilotkit/shared':
+      '@turbo-agent/copilotkit-shared':
         specifier: workspace:*
         version: link:../../packages/shared
       dotenv:
@@ -321,10 +321,10 @@ importers:
 
   packages/react-core:
     dependencies:
-      '@think-copilotkit/runtime-client-gql':
+      '@turbo-agent/copilotkit-runtime-client-gql':
         specifier: workspace:*
         version: link:../runtime-client-gql
-      '@think-copilotkit/shared':
+      '@turbo-agent/copilotkit-shared':
         specifier: workspace:*
         version: link:../shared
       '@scarf/scarf':
@@ -385,13 +385,13 @@ importers:
 
   packages/react-textarea:
     dependencies:
-      '@think-copilotkit/react-core':
+      '@turbo-agent/copilotkit-react-core':
         specifier: workspace:*
         version: link:../react-core
-      '@think-copilotkit/runtime-client-gql':
+      '@turbo-agent/copilotkit-runtime-client-gql':
         specifier: workspace:*
         version: link:../runtime-client-gql
-      '@think-copilotkit/shared':
+      '@turbo-agent/copilotkit-shared':
         specifier: workspace:*
         version: link:../shared
       '@emotion/css':
@@ -506,13 +506,13 @@ importers:
 
   packages/react-ui:
     dependencies:
-      '@think-copilotkit/react-core':
+      '@turbo-agent/copilotkit-react-core':
         specifier: workspace:*
         version: link:../react-core
-      '@think-copilotkit/runtime-client-gql':
+      '@turbo-agent/copilotkit-runtime-client-gql':
         specifier: workspace:*
         version: link:../runtime-client-gql
-      '@think-copilotkit/shared':
+      '@turbo-agent/copilotkit-shared':
         specifier: workspace:*
         version: link:../shared
       '@headlessui/react':
@@ -597,7 +597,7 @@ importers:
       '@anthropic-ai/sdk':
         specifier: ^0.27.3
         version: 0.27.3(encoding@0.1.13)
-      '@think-copilotkit/shared':
+      '@turbo-agent/copilotkit-shared':
         specifier: workspace:*
         version: link:../shared
       '@graphql-yoga/plugin-defer-stream':
@@ -730,7 +730,7 @@ importers:
 
   packages/runtime-client-gql:
     dependencies:
-      '@think-copilotkit/shared':
+      '@turbo-agent/copilotkit-shared':
         specifier: workspace:*
         version: link:../shared
       '@urql/core':
@@ -746,7 +746,7 @@ importers:
         specifier: ^4.1.0
         version: 4.1.0(@urql/core@5.0.4(graphql@16.9.0))(react@18.3.1)
     devDependencies:
-      '@think-copilotkit/runtime':
+      '@turbo-agent/copilotkit-runtime':
         specifier: workspace:*
         version: link:../runtime
       '@graphql-codegen/cli':
@@ -806,7 +806,7 @@ importers:
 
   packages/sdk-js:
     dependencies:
-      '@think-copilotkit/shared':
+      '@turbo-agent/copilotkit-shared':
         specifier: workspace:*
         version: link:../shared
       '@langchain/community':

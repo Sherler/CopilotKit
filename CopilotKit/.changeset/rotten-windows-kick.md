@@ -1,5 +1,5 @@
 ---
-"@think-copilotkit/runtime": patch
+"@turbo-agent/copilotkit-runtime": patch
 ---
 
 - feat: add agui fastAPI compatible langgraph agent

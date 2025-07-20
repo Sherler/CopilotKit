@@ -4,7 +4,7 @@
 
 <br>
 <div align="center" style="display:flex;justify-content:center;gap:16px;height:20px;margin: 0;">
-  <a href="https://www.npmjs.com/package/@think-copilotkit/react-core" target="_blank">
+  <a href="https://www.npmjs.com/package/@turbo-agent/copilotkit-react-core" target="_blank">
     <img src="https://img.shields.io/npm/v/%40copilotkit%2Freact-ui?logo=npm&logoColor=%23FFFFFF&label=Version&color=%236963ff" alt="NPM">
   </a>
   <a href="https://github.com/Sherler/CopilotKit/blob/main/LICENSE" target="_blank">

@@ -1,8 +1,8 @@
 "use client";
-import { CopilotKit, useCopilotAction } from "@think-copilotkit/react-core";
-import { CopilotKitCSSProperties, CopilotSidebar, useCopilotChatSuggestions } from "@think-copilotkit/react-ui";
+import { CopilotKit, useCopilotAction } from "@turbo-agent/copilotkit-react-core";
+import { CopilotKitCSSProperties, CopilotSidebar, useCopilotChatSuggestions } from "@turbo-agent/copilotkit-react-ui";
 import { useState, useEffect } from "react";
-import "@think-copilotkit/react-ui/styles.css";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
 import "./style.css";
 import { chatSuggestions, initialPrompt, instructions } from "@/lib/prompts";
 import HaikuCard from "./HaikuCard";

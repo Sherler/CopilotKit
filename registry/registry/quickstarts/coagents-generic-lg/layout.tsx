@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
-import { CopilotKit } from "@think-copilotkit/react-core";
+import { CopilotKit } from "@turbo-agent/copilotkit-react-core";
 
-import "@think-copilotkit/react-ui/styles.css";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
 
 export const metadata: Metadata = {
   title: "CoAgents Starter",

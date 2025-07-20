@@ -1,4 +1,4 @@
-import { CopilotPopup } from "@think-copilotkit/react-ui";
+import { CopilotPopup } from "@turbo-agent/copilotkit-react-ui";
 
 export default function Popup() {
   return <CopilotPopup />;

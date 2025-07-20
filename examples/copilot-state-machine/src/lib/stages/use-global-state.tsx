@@ -1,7 +1,7 @@
 import { createContext, useContext, ReactNode, useState } from "react";
 import { Car, ContactInfo, CardInfo, Order, defaultOrders, FinancingInfo } from "@/lib/types";
 
-import { useCopilotReadable } from "@think-copilotkit/react-core";
+import { useCopilotReadable } from "@turbo-agent/copilotkit-react-core";
 
 export type Stage =
   | "buildCar"

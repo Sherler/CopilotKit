@@ -4,7 +4,7 @@ import { Query } from "type-graphql";
 import { LoadAgentStateResponse } from "../types/load-agent-state-response.type";
 import type { GraphQLContext } from "../../lib/integrations";
 import { LoadAgentStateInput } from "../inputs/load-agent-state.input";
-import { CopilotKitAgentDiscoveryError } from "@think-copilotkit/shared";
+import { CopilotKitAgentDiscoveryError } from "@turbo-agent/copilotkit-shared";
 
 @Resolver(() => LoadAgentStateResponse)
 export class StateResolver {

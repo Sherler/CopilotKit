@@ -5,7 +5,7 @@ import {
   ExperimentalEmptyAdapter,
   // uncomment this if you want to use LangGraph Platform
   // langGraphPlatformEndpoint,
-} from "@think-copilotkit/runtime";
+} from "@turbo-agent/copilotkit-runtime";
 
 const serviceAdapter = new ExperimentalEmptyAdapter();
 

@@ -1,4 +1,4 @@
-import { useCopilotAction } from "@think-copilotkit/react-core";
+import { useCopilotAction } from "@turbo-agent/copilotkit-react-core";
 
 useCopilotAction({
   name: "array",

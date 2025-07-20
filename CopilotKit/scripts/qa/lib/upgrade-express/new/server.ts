@@ -1,5 +1,5 @@
 import express from "express";
-import { CopilotRuntime, OpenAIAdapter, copilotRuntimeNodeHttpEndpoint } from "@think-copilotkit/runtime";
+import { CopilotRuntime, OpenAIAdapter, copilotRuntimeNodeHttpEndpoint } from "@turbo-agent/copilotkit-runtime";
 
 const port = 4000;
 var HEADERS = {

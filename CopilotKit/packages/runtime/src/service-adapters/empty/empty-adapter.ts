@@ -8,7 +8,7 @@
  * ## Example
  *
  * ```ts
- * import { CopilotRuntime, EmptyAdapter } from "@think-copilotkit/runtime";
+ * import { CopilotRuntime, EmptyAdapter } from "@turbo-agent/copilotkit-runtime";
  *
  * const copilotKit = new CopilotRuntime();
  *
@@ -20,7 +20,7 @@ import {
   CopilotRuntimeChatCompletionRequest,
   CopilotRuntimeChatCompletionResponse,
 } from "../service-adapter";
-import { randomUUID } from "@think-copilotkit/shared";
+import { randomUUID } from "@turbo-agent/copilotkit-shared";
 
 export class EmptyAdapter implements CopilotServiceAdapter {
   async process(

@@ -4,7 +4,7 @@
  * ## Example
  *
  * ```ts
- * import { CopilotRuntime, BedrockAdapter } from "@think-copilotkit/runtime";
+ * import { CopilotRuntime, BedrockAdapter } from "@turbo-agent/copilotkit-runtime";
  *
  * const copilotKit = new CopilotRuntime();
  *

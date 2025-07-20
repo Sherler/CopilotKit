@@ -5,12 +5,12 @@
   "title": "Sidebar",
   "description": "A sidebar component for CopilotKit.",
   "dependencies": [
-    "@think-copilotkit/react-ui"
+    "@turbo-agent/copilotkit-react-ui"
   ],
   "files": [
     {
       "path": "registry/chat/sidebar.tsx",
-      "content": "import { CopilotSidebar } from \"@think-copilotkit/react-ui\";\n\nexport default function Sidebar() {\n  return <CopilotSidebar />;\n}\n",
+      "content": "import { CopilotSidebar } from \"@turbo-agent/copilotkit-react-ui\";\n\nexport default function Sidebar() {\n  return <CopilotSidebar />;\n}\n",
       "type": "registry:page",
       "target": "app/copilotkit/page.tsx"
     }

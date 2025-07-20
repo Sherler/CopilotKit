@@ -1,4 +1,4 @@
-# @think-copilotkit/shared
+# @turbo-agent/copilotkit-shared
 
 ## 1.9.3-next.4
 
@@ -980,7 +980,7 @@ CopilotKid Back-end SDK:
 
 ### Patch Changes
 
-- Include @think-copilotkit/runtime-client-gql NPM package version in request to Runtime
+- Include @turbo-agent/copilotkit-runtime-client-gql NPM package version in request to Runtime
 
 ## 1.0.4
 

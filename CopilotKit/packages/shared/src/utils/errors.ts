@@ -208,7 +208,7 @@ const getVersionMismatchErrorMessage = ({
   runtimeVersion,
   runtimeClientGqlVersion,
 }: VersionMismatchResponse) =>
-  `Version mismatch detected: @think-copilotkit/runtime@${runtimeVersion ?? ""} is not compatible with @think-copilotkit/react-core@${reactCoreVersion} and @think-copilotkit/runtime-client-gql@${runtimeClientGqlVersion}. Please ensure all installed copilotkit packages are on the same version.`;
+  `Version mismatch detected: @turbo-agent/copilotkit-runtime@${runtimeVersion ?? ""} is not compatible with @turbo-agent/copilotkit-react-core@${reactCoreVersion} and @turbo-agent/copilotkit-runtime-client-gql@${runtimeClientGqlVersion}. Please ensure all installed copilotkit packages are on the same version.`;
 /**
  * Error thrown when CPK versions does not match
  *

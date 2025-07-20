@@ -1,8 +1,8 @@
 "use client";
-import { CopilotKit, useCopilotAction } from "@think-copilotkit/react-core";
-import { CopilotKitCSSProperties, CopilotSidebar } from "@think-copilotkit/react-ui";
+import { CopilotKit, useCopilotAction } from "@turbo-agent/copilotkit-react-core";
+import { CopilotKitCSSProperties, CopilotSidebar } from "@turbo-agent/copilotkit-react-ui";
 import { useState } from "react";
-import "@think-copilotkit/react-ui/styles.css";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
 import "./style.css";
 
 export default function AgenticChat() {

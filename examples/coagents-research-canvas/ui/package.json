@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@think-copilotkit/react-core": "1.9.3-next.3",
-    "@think-copilotkit/react-ui": "1.9.3-next.3",
-    "@think-copilotkit/runtime": "1.9.3-next.3",
+    "@turbo-agent/copilotkit-react-core": "1.9.3-next.3",
+    "@turbo-agent/copilotkit-react-ui": "1.9.3-next.3",
+    "@turbo-agent/copilotkit-runtime": "1.9.3-next.3",
     "@radix-ui/react-dialog": "^1.1.2",
     "@radix-ui/react-icons": "^1.3.2",
     "@radix-ui/react-select": "^2.1.2",

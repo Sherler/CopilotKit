@@ -11,10 +11,10 @@ import {
   useStageGetFinancingInfo,
 } from "@/lib/stages";
 
-import { useCopilotChat } from "@think-copilotkit/react-core";
-import { TextMessage, MessageRole } from "@think-copilotkit/runtime-client-gql";
-import { CopilotChat } from "@think-copilotkit/react-ui";
-import "@think-copilotkit/react-ui/styles.css";
+import { useCopilotChat } from "@turbo-agent/copilotkit-react-core";
+import { TextMessage, MessageRole } from "@turbo-agent/copilotkit-runtime-client-gql";
+import { CopilotChat } from "@turbo-agent/copilotkit-react-ui";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
 import { UserMessage, AssistantMessage } from "./chat-message";
 
 export interface ChatProps {

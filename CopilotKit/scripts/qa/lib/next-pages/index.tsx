@@ -1,9 +1,9 @@
-import { CopilotKit, useCopilotAction, useCopilotReadable } from "@think-copilotkit/react-core";
-import { CopilotSidebar } from "@think-copilotkit/react-ui";
-import "@think-copilotkit/react-ui/styles.css";
+import { CopilotKit, useCopilotAction, useCopilotReadable } from "@turbo-agent/copilotkit-react-core";
+import { CopilotSidebar } from "@turbo-agent/copilotkit-react-ui";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
 import { useState } from "react";
-import "@think-copilotkit/react-textarea/styles.css";
-import "@think-copilotkit/react-ui/styles.css";
+import "@turbo-agent/copilotkit-react-textarea/styles.css";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
 function InsideHome() {
   const [message, setMessage] = useState("Hello World!");
   useCopilotReadable({

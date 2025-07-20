@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { AnimatedCard } from "@/components/animated-card";
 import { motion, AnimatePresence } from "motion/react";
-import { RenderFunctionStatus } from "@think-copilotkit/react-core";
+import { RenderFunctionStatus } from "@turbo-agent/copilotkit-react-core";
 
 interface FinancingFormProps {
   onSubmit: (creditScore: string, loanTerm: string) => void;

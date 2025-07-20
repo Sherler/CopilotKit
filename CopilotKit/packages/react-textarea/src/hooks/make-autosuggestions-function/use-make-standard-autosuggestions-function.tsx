@@ -1,5 +1,5 @@
-import { COPILOT_CLOUD_PUBLIC_API_KEY_HEADER } from "@think-copilotkit/shared";
-import { useCopilotContext } from "@think-copilotkit/react-core";
+import { COPILOT_CLOUD_PUBLIC_API_KEY_HEADER } from "@turbo-agent/copilotkit-shared";
+import { useCopilotContext } from "@turbo-agent/copilotkit-react-core";
 import { useCallback } from "react";
 import { AutosuggestionsBareFunction } from "../../types";
 import { retry } from "../../lib/retry";
@@ -13,7 +13,7 @@ import {
   convertMessagesToGqlInput,
   filterAgentStateMessages,
   CopilotRequestType,
-} from "@think-copilotkit/runtime-client-gql";
+} from "@turbo-agent/copilotkit-runtime-client-gql";
 
 /**
  * Returns a memoized function that sends a request to the specified API endpoint to get an autosuggestion for the user's input.

@@ -68,7 +68,7 @@ packages:
   '@copilotkit/sdk-js@1.8.13':
     resolution: {integrity: sha512-jmUqVRVmRNiFTeYFd4zmG63p+15fYdewUnz1Rvo1oezxRS4G/qaIowLkw/zMxpK+oxyLrbzrwkpUDDNm+xUGMQ==}
 
-  '@think-copilotkit/shared@1.8.13':
+  '@turbo-agent/copilotkit-shared@1.8.13':
     resolution: {integrity: sha512-5J0+4KSh8kzwH9OZ627PtqBcQn0QyK4+1sqQLeNt35piWp++lOfLor2q0Daq8v277GI9dgLVO6UjK2MZkEpJiQ==}
 
   '@dabh/diagnostics@2.0.3':
@@ -1523,7 +1523,7 @@ snapshots:
 
   '@copilotkit/sdk-js@1.8.13(@langchain/anthropic@0.3.8(@langchain/core@0.3.18(openai@4.102.0(zod@3.23.8))))(@langchain/google-genai@0.1.4(@langchain/core@0.3.18(openai@4.102.0(zod@3.23.8)))(zod@3.23.8))(openai@4.102.0(zod@3.23.8))':
     dependencies:
-      '@think-copilotkit/shared': 1.8.13
+      '@turbo-agent/copilotkit-shared': 1.8.13
       '@langchain/community': 0.0.53(openai@4.102.0(zod@3.23.8))
       '@langchain/core': 0.3.18(openai@4.102.0(zod@3.23.8))
       '@langchain/langgraph': 0.2.44(@langchain/core@0.3.18(openai@4.102.0(zod@3.23.8)))
@@ -1641,7 +1641,7 @@ snapshots:
       - web-auth-library
       - ws
 
-  '@think-copilotkit/shared@1.8.13':
+  '@turbo-agent/copilotkit-shared@1.8.13':
     dependencies:
       '@segment/analytics-node': 2.2.1
       chalk: 4.1.2

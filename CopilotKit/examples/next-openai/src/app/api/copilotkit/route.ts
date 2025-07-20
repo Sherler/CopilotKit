@@ -1,5 +1,5 @@
 import { NextRequest } from "next/server";
-import { CopilotRuntime, copilotRuntimeNextJSAppRouterEndpoint } from "@think-copilotkit/runtime";
+import { CopilotRuntime, copilotRuntimeNextJSAppRouterEndpoint } from "@turbo-agent/copilotkit-runtime";
 import { getServiceAdapter } from "../../../lib/dynamic-service-adapter";
 
 const UNSPLASH_ACCESS_KEY_ENV = "UNSPLASH_ACCESS_KEY";

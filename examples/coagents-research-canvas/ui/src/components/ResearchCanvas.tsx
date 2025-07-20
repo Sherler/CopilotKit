@@ -7,7 +7,7 @@ import {
   useCoAgent,
   useCoAgentStateRender,
   useCopilotAction,
-} from "@think-copilotkit/react-core";
+} from "@turbo-agent/copilotkit-react-core";
 import { Progress } from "./Progress";
 import { EditResourceDialog } from "./EditResourceDialog";
 import { AddResourceDialog } from "./AddResourceDialog";

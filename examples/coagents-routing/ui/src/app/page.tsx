@@ -4,18 +4,18 @@ import {
   useCoAgent,
   useCoAgentStateRender,
   useCopilotChat,
-} from "@think-copilotkit/react-core";
+} from "@turbo-agent/copilotkit-react-core";
 import {
   CopilotSidebar,
   useCopilotChatSuggestions,
-} from "@think-copilotkit/react-ui";
-import "@think-copilotkit/react-ui/styles.css";
+} from "@turbo-agent/copilotkit-react-ui";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
 import {
   ModelSelectorProvider,
   useModelSelectorContext,
 } from "./lib/model-selector-provider";
 import { ModelSelector } from "./components/ModelSelector";
-import { MessageRole, TextMessage } from "@think-copilotkit/runtime-client-gql";
+import { MessageRole, TextMessage } from "@turbo-agent/copilotkit-runtime-client-gql";
 import { useSearchParams } from "next/navigation";
 import { Suspense } from "react";
 

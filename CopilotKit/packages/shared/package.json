@@ -1,5 +1,5 @@
 {
-  "name": "@think-copilotkit/shared",
+  "name": "@turbo-agent/copilotkit-shared",
   "private": false,
   "homepage": "https://github.com/Sherler/CopilotKit",
   "repository": {
@@ -9,7 +9,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.9.3-next.4",
+  "version": "1.9.3",
   "sideEffects": false,
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",

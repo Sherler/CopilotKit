@@ -4,7 +4,7 @@
  * ## Example
  *
  * ```ts
- * import { CopilotRuntime, LangChainAdapter } from "@think-copilotkit/runtime";
+ * import { CopilotRuntime, LangChainAdapter } from "@turbo-agent/copilotkit-runtime";
  * import { ChatOpenAI } from "@langchain/openai";
  *
  * const copilotKit = new CopilotRuntime();
@@ -44,7 +44,7 @@ import {
 } from "./utils";
 import { DynamicStructuredTool } from "@langchain/core/tools";
 import { LangChainReturnType } from "./types";
-import { randomUUID } from "@think-copilotkit/shared";
+import { randomUUID } from "@turbo-agent/copilotkit-shared";
 import { awaitAllCallbacks } from "@langchain/core/callbacks/promises";
 
 interface ChainFnParameters {

@@ -15,7 +15,7 @@ import {
   CopilotKitError,
   CopilotKitVersionMismatchError,
   getPossibleVersionMismatch,
-} from "@think-copilotkit/shared";
+} from "@turbo-agent/copilotkit-shared";
 
 const createFetchFn =
   (signal?: AbortSignal, handleGQLWarning?: (warning: string) => void) =>

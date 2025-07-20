@@ -1,7 +1,7 @@
 ![banner](https://github.com/user-attachments/assets/0a6b64d9-e193-4940-a3f6-60334ac34084)
 <br>
   <div align="start" style="display:flex;justify-content:start;gap:16px;height:20px;margin: 0;">
-  <a href="https://www.npmjs.com/package/@think-copilotkit/react-core" target="_blank">
+  <a href="https://www.npmjs.com/package/@turbo-agent/copilotkit-react-core" target="_blank">
     <img src="https://img.shields.io/npm/v/%40copilotkit%2Freact-core?logo=npm&logoColor=%23FFFFFF&label=Version&color=%236963ff" alt="NPM">
   </a>
 

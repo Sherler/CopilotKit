@@ -13,12 +13,12 @@ import { Observable } from "rxjs";
 import { RuntimeEvent, RuntimeEventSubject } from "../../service-adapters/events";
 import telemetry from "../telemetry-client";
 import { RemoteLangGraphEventSource } from "../../agents/langgraph/event-source";
-import { Action } from "@think-copilotkit/shared";
+import { Action } from "@turbo-agent/copilotkit-shared";
 import { execute } from "./remote-lg-action";
-import { CopilotKitError, CopilotKitLowLevelError } from "@think-copilotkit/shared";
+import { CopilotKitError, CopilotKitLowLevelError } from "@turbo-agent/copilotkit-shared";
 import { writeJsonLineResponseToEventStream } from "../streaming";
-import { CopilotKitApiDiscoveryError, ResolvedCopilotKitError } from "@think-copilotkit/shared";
-import { parseJson, tryMap } from "@think-copilotkit/shared";
+import { CopilotKitApiDiscoveryError, ResolvedCopilotKitError } from "@turbo-agent/copilotkit-shared";
+import { parseJson, tryMap } from "@turbo-agent/copilotkit-shared";
 import { ActionInput } from "../../graphql/inputs/action.input";
 import { fetchWithRetry } from "./retry-utils";
 

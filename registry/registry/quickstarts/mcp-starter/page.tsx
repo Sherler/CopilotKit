@@ -2,9 +2,9 @@
 
 import { useEffect, useState } from "react";
 
-import { useCopilotChat, useCopilotAction, CatchAllActionRenderProps } from "@think-copilotkit/react-core";
-import { CopilotKitCSSProperties, CopilotSidebar, useCopilotChatSuggestions } from "@think-copilotkit/react-ui";
-import { MCPEndpointConfig } from "@think-copilotkit/runtime";
+import { useCopilotChat, useCopilotAction, CatchAllActionRenderProps } from "@turbo-agent/copilotkit-react-core";
+import { CopilotKitCSSProperties, CopilotSidebar, useCopilotChatSuggestions } from "@turbo-agent/copilotkit-react-ui";
+import { MCPEndpointConfig } from "@turbo-agent/copilotkit-runtime";
 import { DefaultToolRender } from "@/registry/quickstarts/mcp-starter/components/default-tool-render";
 
 const themeColor = "#6366f1";

@@ -1,6 +1,6 @@
 import { FinancingForm } from "@/components/generative-ui/financing-form";
 import { useGlobalState } from "@/lib/stages";
-import { useCopilotAction, useCopilotAdditionalInstructions } from "@think-copilotkit/react-core";
+import { useCopilotAction, useCopilotAdditionalInstructions } from "@turbo-agent/copilotkit-react-core";
 
 /**
   useStateGetFinancingInfo is a hook that will add this stage to the state machine. It is responsible for:

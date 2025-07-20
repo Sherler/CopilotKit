@@ -8,7 +8,7 @@
 
     ```tsx
     // [!code word:CopilotPopup]
-    import { CopilotPopup } from "@think-copilotkit/react-ui";
+    import { CopilotPopup } from "@turbo-agent/copilotkit-react-ui";
 
     export function YourApp() {
       return (
@@ -34,7 +34,7 @@
 
     ```tsx
     // [!code word:CopilotSidebar]
-    import { CopilotSidebar } from "@think-copilotkit/react-ui";
+    import { CopilotSidebar } from "@turbo-agent/copilotkit-react-ui";
 
     export function YourApp() {
       return (
@@ -62,7 +62,7 @@
 
     ```tsx
     // [!code word:CopilotChat]
-    import { CopilotChat } from "@think-copilotkit/react-ui";
+    import { CopilotChat } from "@turbo-agent/copilotkit-react-ui";
 
     export function YourComponent() {
       return (
@@ -84,8 +84,8 @@
     CopilotKit also offers **fully custom headless UI**, through the `useCopilotChat` hook. Everything built with the built-in UI (and more) can be implemented with the headless UI, providing deep customizability.
 
     ```tsx
-    import { useCopilotChat } from "@think-copilotkit/react-core";
-    import { Role, TextMessage } from "@think-copilotkit/runtime-client-gql";
+    import { useCopilotChat } from "@turbo-agent/copilotkit-react-core";
+    import { Role, TextMessage } from "@turbo-agent/copilotkit-runtime-client-gql";
 
     export function CustomChatInterface() {
       const {

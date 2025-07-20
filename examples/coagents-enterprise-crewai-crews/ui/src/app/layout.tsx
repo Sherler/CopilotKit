@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { Lato } from "next/font/google";
 import "./globals.css";
-import "@think-copilotkit/react-ui/styles.css";
-import { CopilotKit } from "@think-copilotkit/react-core";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
+import { CopilotKit } from "@turbo-agent/copilotkit-react-core";
 import { GlobalContextProvider } from "@/context/GlobalContext";
 
 const lato = Lato({

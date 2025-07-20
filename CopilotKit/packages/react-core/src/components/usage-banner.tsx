@@ -1,4 +1,4 @@
-import { Severity, CopilotKitError, ERROR_NAMES, ErrorVisibility } from "@think-copilotkit/shared";
+import { Severity, CopilotKitError, ERROR_NAMES, ErrorVisibility } from "@turbo-agent/copilotkit-shared";
 
 interface UsageBannerProps {
   severity?: Severity;

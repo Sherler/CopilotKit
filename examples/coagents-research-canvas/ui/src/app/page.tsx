@@ -1,6 +1,6 @@
 "use client";
 
-import { CopilotKit } from "@think-copilotkit/react-core";
+import { CopilotKit } from "@turbo-agent/copilotkit-react-core";
 import Main from "./Main";
 import {
   ModelSelectorProvider,

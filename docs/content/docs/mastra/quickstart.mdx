@@ -149,7 +149,7 @@ Before you begin, you'll need the following:
                 ### Install CopilotKit packages
 
                 ```package-install
-                @think-copilotkit/react-ui @think-copilotkit/react-core @think-copilotkit/runtime @ag-ui/mastra @mastra/client-js
+                @turbo-agent/copilotkit-react-ui @turbo-agent/copilotkit-react-core @turbo-agent/copilotkit-runtime @ag-ui/mastra @mastra/client-js
                 ```
             </Step>
             <Step>
@@ -163,7 +163,7 @@ Before you begin, you'll need the following:
                   CopilotRuntime,
                   ExperimentalEmptyAdapter,
                   copilotRuntimeNextJSAppRouterEndpoint,
-                } from "@think-copilotkit/runtime";
+                } from "@turbo-agent/copilotkit-runtime";
                 // [!code highlight:3]
                 import { MastraAgent } from "@ag-ui/mastra"
                 import { MastraClient } from "@mastra/client-js";
@@ -232,8 +232,8 @@ Before you begin, you'll need the following:
                 via the Mastra agent.
 
                 ```tsx title="app/layout.tsx"
-                import { CopilotKit } from "@think-copilotkit/react-core"; // [!code highlight]
-                import "@think-copilotkit/react-ui/styles.css";
+                import { CopilotKit } from "@turbo-agent/copilotkit-react-core"; // [!code highlight]
+                import "@turbo-agent/copilotkit-react-ui/styles.css";
 
                 // ...
 
@@ -261,7 +261,7 @@ Before you begin, you'll need the following:
               Add the CopilotSidebar component to your page:
 
               ```tsx title="app/page.tsx"
-              import { CopilotSidebar } from "@think-copilotkit/react-ui"; // [!code highlight]
+              import { CopilotSidebar } from "@turbo-agent/copilotkit-react-ui"; // [!code highlight]
 
               export default function Page() {
                 return (

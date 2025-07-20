@@ -2,7 +2,7 @@ import {
   CopilotRuntime,
   OpenAIAdapter,
   copilotRuntimeNextJSAppRouterEndpoint,
-} from "@think-copilotkit/runtime";
+} from "@turbo-agent/copilotkit-runtime";
 import { research } from "./tavily";
 import { NextRequest } from "next/server";
 import { getServiceAdapter } from "../../../../lib/dynamic-service-adapter";

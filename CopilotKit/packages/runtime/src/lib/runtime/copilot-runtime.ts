@@ -6,7 +6,7 @@
  * ## Usage
  *
  * ```tsx
- * import { CopilotRuntime } from "@think-copilotkit/runtime";
+ * import { CopilotRuntime } from "@turbo-agent/copilotkit-runtime";
  *
  * const copilotKit = new CopilotRuntime();
  * ```
@@ -28,7 +28,7 @@ import {
   CopilotErrorEvent,
   CopilotRequestContext,
   ensureStructuredError,
-} from "@think-copilotkit/shared";
+} from "@turbo-agent/copilotkit-shared";
 import {
   CopilotServiceAdapter,
   EmptyAdapter,
@@ -257,7 +257,7 @@ export interface CopilotRuntimeConstructorParams<T extends Parameter[] | [] = []
   /**
    * A function that creates an MCP client instance for a given endpoint configuration.
    * This function is responsible for using the appropriate MCP client library
-   * (e.g., `@think-copilotkit/runtime`, `ai`) to establish a connection.
+   * (e.g., `@turbo-agent/copilotkit-runtime`, `ai`) to establish a connection.
    * Required if `mcpServers` is provided.
    *
    * ```typescript
@@ -342,7 +342,7 @@ export class CopilotRuntime<const T extends Parameter[] | [] = []> {
     //     return agent instanceof AguiLangGraphAgent && !(agent instanceof LangGraphAgent);
     //   })
     // ) {
-    //   console.warn('LangGraph Agent class should be imported from @think-copilotkit/runtime. ')
+    //   console.warn('LangGraph Agent class should be imported from @turbo-agent/copilotkit-runtime. ')
     // }
 
     this.actions = params?.actions || [];

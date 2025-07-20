@@ -7,13 +7,13 @@ import {
   useCopilotAction,
   useCopilotAdditionalInstructions,
   useCopilotChat,
-} from "@think-copilotkit/react-core";
+} from "@turbo-agent/copilotkit-react-core";
 import { useEffect, useState } from "react";
 import CrewHumanFeedbackRenderer, {
   CrewsFeedback,
 } from "@/registry/crews/crew-human-feedback-renderer";
 import CrewStateRenderer from "@/registry/crews/crew-state-renderer";
-import { MessageRole, TextMessage } from "@think-copilotkit/runtime-client-gql";
+import { MessageRole, TextMessage } from "@turbo-agent/copilotkit-runtime-client-gql";
 import { CrewInChatInput } from "@/registry/crews/crew-in-chat-input";
 
 /**

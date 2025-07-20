@@ -54,7 +54,7 @@ Before you begin, you'll need the following:
         ### Install CopilotKit
         First, install the latest packages for CopilotKit into your frontend.
         ```package-install
-        npm install @think-copilotkit/react-ui @think-copilotkit/react-core
+        npm install @turbo-agent/copilotkit-react-ui @turbo-agent/copilotkit-react-core
         ```
     </Step>
     <TailoredContent
@@ -190,7 +190,7 @@ Before you begin, you'll need the following:
                 Copilot Runtime is a production-ready proxy for your --YOUR-FRAMEWORK-- Agents. In your frontend, go ahead and install it.
 
                 ```package-install
-                @think-copilotkit/runtime
+                @turbo-agent/copilotkit-runtime
                 ```
             </Step>
             <Step>
@@ -206,7 +206,7 @@ Before you begin, you'll need the following:
                 import {
                 CopilotRuntime,
                 // ...
-                } from "@think-copilotkit/runtime";
+                } from "@turbo-agent/copilotkit-runtime";
                 // ...
                 const runtime = new CopilotRuntime({
                 remoteEndpoints: [
@@ -236,8 +236,8 @@ Before you begin, you'll need the following:
 
         ```tsx title="page.tsx"
         // [!code highlight:3]
-        import "@think-copilotkit/react-ui/styles.css";
-        import { CopilotPopup } from "@think-copilotkit/react-ui";
+        import "@turbo-agent/copilotkit-react-ui/styles.css";
+        import { CopilotPopup } from "@turbo-agent/copilotkit-react-ui";
 
         export function YourApp() {
           return (

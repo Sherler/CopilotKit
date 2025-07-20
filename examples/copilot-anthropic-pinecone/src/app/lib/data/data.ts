@@ -16,7 +16,7 @@ export const posts: Post[] = [
     content: `
         CopilotKit is an open-source framework for building AI copilots and assistants for your applications. Here's how to get started:
         
-        1. Installation: Install CopilotKit using npm or yarn with 'npm install @think-copilotkit/react-core @think-copilotkit/react-ui @think-copilotkit/runtime'.
+        1. Installation: Install CopilotKit using npm or yarn with 'npm install @turbo-agent/copilotkit-react-core @turbo-agent/copilotkit-react-ui @turbo-agent/copilotkit-runtime'.
         
         2. Basic Setup: Import and set up the CopilotKit provider in your application's root component.
         

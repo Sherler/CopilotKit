@@ -9,8 +9,8 @@
  * ### Simple Usage
  *
  * ```tsx
- * import { useCopilotChat } from "@think-copilotkit/react-core";
- * import { Role, TextMessage } from "@think-copilotkit/runtime-client-gql";
+ * import { useCopilotChat } from "@turbo-agent/copilotkit-react-core";
+ * import { Role, TextMessage } from "@turbo-agent/copilotkit-runtime-client-gql";
  *
  * export function YourComponent() {
  *   const { appendMessage } = useCopilotChat();
@@ -44,11 +44,11 @@
  */
 import { useRef, useEffect, useCallback, useState } from "react";
 import { AgentSession, useCopilotContext } from "../context/copilot-context";
-import { Message, Role, TextMessage } from "@think-copilotkit/runtime-client-gql";
+import { Message, Role, TextMessage } from "@turbo-agent/copilotkit-runtime-client-gql";
 import { SystemMessageFunction } from "../types";
 import { useChat, AppendMessageOptions } from "./use-chat";
 import { defaultCopilotContextCategories } from "../components";
-import { CoAgentStateRenderHandlerArguments } from "@think-copilotkit/shared";
+import { CoAgentStateRenderHandlerArguments } from "@turbo-agent/copilotkit-shared";
 import { useCopilotMessagesContext } from "../context";
 import { useAsyncCallback } from "../components/error-boundary/error-utils";
 

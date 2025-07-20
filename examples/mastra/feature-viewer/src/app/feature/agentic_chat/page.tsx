@@ -1,13 +1,13 @@
 "use client";
 import React, { useState } from "react";
-import "@think-copilotkit/react-ui/styles.css";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
 import "./style.css";
 import {
   CopilotKit,
   useCopilotAction,
   useCopilotChat,
-} from "@think-copilotkit/react-core";
-import { CopilotChat } from "@think-copilotkit/react-ui";
+} from "@turbo-agent/copilotkit-react-core";
+import { CopilotChat } from "@turbo-agent/copilotkit-react-ui";
 
 const AgenticChat: React.FC = () => {
   return (

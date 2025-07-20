@@ -1,12 +1,12 @@
 "use client";
 
-import { CopilotSidebar } from "@think-copilotkit/react-ui";
+import { CopilotSidebar } from "@turbo-agent/copilotkit-react-ui";
 import { Dashboard } from "../components/Dashboard";
 import { Header } from "../components/Header";
 import { Footer } from "../components/Footer";
 import { CustomAssistantMessage } from "../components/AssistantMessage";
 import { prompt } from "../lib/prompt";
-import { useCopilotReadable } from "@think-copilotkit/react-core";
+import { useCopilotReadable } from "@turbo-agent/copilotkit-react-core";
 
 export default function Home() {
   useCopilotReadable({

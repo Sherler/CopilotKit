@@ -5,7 +5,7 @@
  * In the simplest case, use CopilotTask in the context of your app by giving it instructions on what to do.
  *
  * ```tsx
- * import { CopilotTask, useCopilotContext } from "@think-copilotkit/react-core";
+ * import { CopilotTask, useCopilotContext } from "@turbo-agent/copilotkit-react-core";
  *
  * export function MyComponent() {
  *   const context = useCopilotContext();
@@ -57,7 +57,7 @@ import {
   filterAgentStateMessages,
   CopilotRequestType,
   ForwardedParametersInput,
-} from "@think-copilotkit/runtime-client-gql";
+} from "@turbo-agent/copilotkit-runtime-client-gql";
 import { FrontendAction, processActionsForRuntimeRequest } from "../types/frontend-action";
 import { CopilotContextParams } from "../context";
 import { defaultCopilotContextCategories } from "../components";

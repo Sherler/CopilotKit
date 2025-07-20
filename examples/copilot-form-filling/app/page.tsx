@@ -1,9 +1,9 @@
 "use client";
 
-import { CopilotPopup } from "@think-copilotkit/react-ui";
+import { CopilotPopup } from "@turbo-agent/copilotkit-react-ui";
 import { IncidentReportForm } from "@/components/IncidentReportForm";
 import { prompt } from "@/lib/prompt";
-import { useCopilotReadable } from "@think-copilotkit/react-core";
+import { useCopilotReadable } from "@turbo-agent/copilotkit-react-core";
 import { retrieveUserInfo } from "@/lib/user-info";
 
 export default function Home() {

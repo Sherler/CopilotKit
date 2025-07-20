@@ -1,6 +1,6 @@
 import { ReactNode } from "react";
-import { CopilotKit } from "@think-copilotkit/react-core";
-import "@think-copilotkit/react-ui/styles.css";
+import { CopilotKit } from "@turbo-agent/copilotkit-react-core";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
 import "./globals.css";
 
 export default function RootLayout({ children }: { children: ReactNode }) {

@@ -6,7 +6,7 @@
  * You can find more information about self-hosting CopilotKit [here](/guides/self-hosting).
  *
  * ```tsx
- * import { CopilotKit } from "@think-copilotkit/react-core";
+ * import { CopilotKit } from "@turbo-agent/copilotkit-react-core";
  *
  * <CopilotKit runtimeUrl="<your-runtime-url>">
  *   // ... your app ...
@@ -33,7 +33,7 @@ import {
   randomUUID,
   ConfigurationError,
   MissingPublicApiKeyError,
-} from "@think-copilotkit/shared";
+} from "@turbo-agent/copilotkit-shared";
 import { FrontendAction } from "../../types/frontend-action";
 import useFlatCategoryStore from "../../hooks/use-flat-category-store";
 import { CopilotKitProps } from "./copilotkit-props";
@@ -44,7 +44,7 @@ import { ToastProvider } from "../toast/toast-provider";
 import { useCopilotRuntimeClient } from "../../hooks/use-copilot-runtime-client";
 import { shouldShowDevConsole } from "../../utils";
 import { CopilotErrorBoundary } from "../error-boundary/error-boundary";
-import { Agent, ExtensionsInput } from "@think-copilotkit/runtime-client-gql";
+import { Agent, ExtensionsInput } from "@turbo-agent/copilotkit-runtime-client-gql";
 import {
   LangGraphInterruptAction,
   LangGraphInterruptActionSetterArgs,

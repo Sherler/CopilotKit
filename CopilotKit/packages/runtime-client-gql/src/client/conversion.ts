@@ -13,7 +13,7 @@ import {
 } from "./types";
 
 import untruncateJson from "untruncate-json";
-import { parseJson } from "@think-copilotkit/shared";
+import { parseJson } from "@turbo-agent/copilotkit-shared";
 
 export function filterAgentStateMessages(messages: Message[]): Message[] {
   return messages.filter((message) => !message.isAgentStateMessage());

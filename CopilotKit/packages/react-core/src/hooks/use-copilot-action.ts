@@ -130,7 +130,7 @@
  *
  * This hooks enables you to dynamically generate UI elements and render them in the copilot chat. For more information, check out the [Generative UI](/guides/generative-ui) page.
  */
-import { Parameter, randomId } from "@think-copilotkit/shared";
+import { Parameter, randomId } from "@turbo-agent/copilotkit-shared";
 import { createElement, Fragment, useEffect, useRef } from "react";
 import { useCopilotContext } from "../context/copilot-context";
 import { useAsyncCallback } from "../components/error-boundary/error-utils";

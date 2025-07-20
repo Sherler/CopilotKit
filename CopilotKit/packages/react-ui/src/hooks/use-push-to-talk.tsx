@@ -1,5 +1,5 @@
-import { useCopilotContext, useCopilotMessagesContext } from "@think-copilotkit/react-core";
-import { Message, TextMessage } from "@think-copilotkit/runtime-client-gql";
+import { useCopilotContext, useCopilotMessagesContext } from "@turbo-agent/copilotkit-react-core";
+import { Message, TextMessage } from "@turbo-agent/copilotkit-runtime-client-gql";
 import { MutableRefObject, useEffect, useRef, useState } from "react";
 
 export const checkMicrophonePermission = async () => {

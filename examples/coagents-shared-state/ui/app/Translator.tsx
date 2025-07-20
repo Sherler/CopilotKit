@@ -1,8 +1,8 @@
 "use client";
 
-import { useCoAgent, useCopilotChat } from "@think-copilotkit/react-core";
-import { CopilotPopup } from "@think-copilotkit/react-ui";
-import { MessageRole, TextMessage } from "@think-copilotkit/runtime-client-gql";
+import { useCoAgent, useCopilotChat } from "@turbo-agent/copilotkit-react-core";
+import { CopilotPopup } from "@turbo-agent/copilotkit-react-ui";
+import { MessageRole, TextMessage } from "@turbo-agent/copilotkit-runtime-client-gql";
 
 interface TranslateAgentState {
   input: string;

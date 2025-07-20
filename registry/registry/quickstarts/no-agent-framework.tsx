@@ -1,7 +1,7 @@
 "use client";
 
-import { useCopilotAction, useCopilotReadable } from "@think-copilotkit/react-core";
-import { CopilotKitCSSProperties, CopilotSidebar, useCopilotChatSuggestions } from "@think-copilotkit/react-ui";
+import { useCopilotAction, useCopilotReadable } from "@turbo-agent/copilotkit-react-core";
+import { CopilotKitCSSProperties, CopilotSidebar, useCopilotChatSuggestions } from "@turbo-agent/copilotkit-react-ui";
 import { useState } from "react";
 
 export default function CopilotKitPage() {

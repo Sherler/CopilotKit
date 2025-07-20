@@ -1,10 +1,10 @@
-import { CopilotChat } from "@think-copilotkit/react-ui";
+import { CopilotChat } from "@turbo-agent/copilotkit-react-ui";
 import { Header } from "@/components/chat/Header";
 import { CustomUserMessage } from "@/components/chat/UserMessage";
 import { CustomAssistantMessage } from "@/components/chat/AssistantMessage";
 import { CustomResponseButton } from "./chat/ResponseButton";
 import ContactInfo from "./generative-ui/ContactInfo";
-import { useCopilotAction } from "@think-copilotkit/react-core";
+import { useCopilotAction } from "@turbo-agent/copilotkit-react-core";
 
 export function Chat({className}: {className?: string}) {
 

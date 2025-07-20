@@ -1,4 +1,4 @@
-import { LangGraphInterruptEvent } from "@think-copilotkit/runtime-client-gql";
+import { LangGraphInterruptEvent } from "@turbo-agent/copilotkit-runtime-client-gql";
 import { useState } from "react";
 
 export interface InterruptProps {

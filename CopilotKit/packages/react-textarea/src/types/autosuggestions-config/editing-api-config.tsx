@@ -1,4 +1,4 @@
-import { Message, Role, TextMessage } from "@think-copilotkit/runtime-client-gql";
+import { Message, Role, TextMessage } from "@turbo-agent/copilotkit-runtime-client-gql";
 import { MakeSystemPrompt } from "./subtypes/make-system-prompt";
 
 export interface EditingApiConfig {

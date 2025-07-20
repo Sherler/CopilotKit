@@ -107,7 +107,7 @@ If you are not sure yet, simply ignore this note.
               CopilotRuntime,
               {{adapterImport}},
               copilotRuntimeNextJSAppRouterEndpoint,
-            } from '@think-copilotkit/runtime';
+            } from '@turbo-agent/copilotkit-runtime';
             {{extraImports}}
             import { NextRequest } from 'next/server';
 
@@ -139,7 +139,7 @@ If you are not sure yet, simply ignore this note.
               CopilotRuntime,
               {{adapterImport}},
               copilotRuntimeNextJSPagesRouterEndpoint,
-            } from '@think-copilotkit/runtime';
+            } from '@turbo-agent/copilotkit-runtime';
             {{extraImports}}
 
             {{clientSetup}}
@@ -173,7 +173,7 @@ If you are not sure yet, simply ignore this note.
               CopilotRuntime,
               {{adapterImport}},
               copilotRuntimeNodeHttpEndpoint,
-            } from '@think-copilotkit/runtime';
+            } from '@turbo-agent/copilotkit-runtime';
             {{extraImports}}
 
             const app = express();
@@ -215,7 +215,7 @@ If you are not sure yet, simply ignore this note.
               CopilotRuntime,
               {{adapterImport}},
               copilotRuntimeNodeHttpEndpoint,
-            } from '@think-copilotkit/runtime';
+            } from '@turbo-agent/copilotkit-runtime';
             {{extraImports}}
 
             {{clientSetup}}
@@ -250,7 +250,7 @@ If you are not sure yet, simply ignore this note.
 
             ```ts title="copilotkit.controller.ts"
             import { All, Controller, Req, Res } from '@nestjs/common';
-            import { CopilotRuntime, copilotRuntimeNestEndpoint, {{adapterImport}} } from '@think-copilotkit/runtime';
+            import { CopilotRuntime, copilotRuntimeNestEndpoint, {{adapterImport}} } from '@turbo-agent/copilotkit-runtime';
             import { Request, Response } from 'express';
 
             @Controller()

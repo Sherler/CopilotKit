@@ -4,13 +4,13 @@ import {
   useCopilotAction,
   useCopilotChat,
   useMakeCopilotDocumentReadable,
-} from "@think-copilotkit/react-core";
-import { useCopilotChatSuggestions } from "@think-copilotkit/react-ui";
+} from "@turbo-agent/copilotkit-react-core";
+import { useCopilotChatSuggestions } from "@turbo-agent/copilotkit-react-ui";
 import { useEffect, useState } from "react";
 import { DestinationTable } from "./destination-table";
 import { VacationNotes } from "./vacation-notes";
-import { Role } from "@think-copilotkit/runtime-client-gql";
-import { TextMessage } from "@think-copilotkit/runtime-client-gql";
+import { Role } from "@turbo-agent/copilotkit-runtime-client-gql";
+import { TextMessage } from "@turbo-agent/copilotkit-runtime-client-gql";
 
 export type Destination = {
   name: string;

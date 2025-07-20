@@ -1,5 +1,5 @@
 {
-  "name": "@think-copilotkit/react-textarea",
+  "name": "@turbo-agent/copilotkit-react-textarea",
   "private": false,
   "homepage": "https://github.com/Sherler/CopilotKit",
   "repository": {
@@ -9,7 +9,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.9.3-next.4",
+  "version": "1.9.3",
   "sideEffects": [
     "**/*.css"
   ],
@@ -59,9 +59,9 @@
     "typescript": "^5.2.3"
   },
   "dependencies": {
-    "@think-copilotkit/react-core": "workspace:*",
-    "@think-copilotkit/runtime-client-gql": "workspace:*",
-    "@think-copilotkit/shared": "workspace:*",
+    "@turbo-agent/copilotkit-react-core": "workspace:*",
+    "@turbo-agent/copilotkit-runtime-client-gql": "workspace:*",
+    "@turbo-agent/copilotkit-shared": "workspace:*",
     "@emotion/css": "^11.11.2",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",

@@ -8,7 +8,7 @@ import {
   loadMessagesFromJsonRepresentation,
   Message,
   GraphQLError,
-} from "@think-copilotkit/runtime-client-gql";
+} from "@turbo-agent/copilotkit-runtime-client-gql";
 import { useCopilotContext } from "../../context/copilot-context";
 import { useToast } from "../toast/toast-provider";
 import { shouldShowDevConsole } from "../../utils/dev-console";
@@ -19,7 +19,7 @@ import {
   CopilotKitAgentDiscoveryError,
   CopilotKitError,
   CopilotKitErrorCode,
-} from "@think-copilotkit/shared";
+} from "@turbo-agent/copilotkit-shared";
 
 // Helper to determine if error should show as banner based on visibility and legacy patterns
 function shouldShowAsBanner(gqlError: GraphQLError): boolean {

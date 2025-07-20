@@ -4,7 +4,7 @@ import {
   CopilotKitError,
   CopilotKitErrorCode,
   ensureStructuredError,
-} from "@think-copilotkit/shared";
+} from "@turbo-agent/copilotkit-shared";
 import { errorConfig, getFallbackMessage } from "./error-messages";
 
 export async function writeJsonLineResponseToEventStream<T>(

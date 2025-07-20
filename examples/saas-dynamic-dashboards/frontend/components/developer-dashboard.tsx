@@ -9,7 +9,7 @@ import { BarChart3, Table2, Filter } from "lucide-react"
 import { getPRDataService } from "@/app/Services/service"
 import { PRData } from "@/app/Interfaces/interface"
 import { useSharedContext } from "@/lib/shared-context"
-import { useCopilotAction, useCopilotReadable } from "@think-copilotkit/react-core"
+import { useCopilotAction, useCopilotReadable } from "@turbo-agent/copilotkit-react-core"
 import { PieChart, Pie, Cell, Tooltip } from "recharts"
 import { PRPieData } from "./pr-pie-all-data"
 import { PRReviewBarData } from "./pr-review-bar-data"
@@ -17,7 +17,7 @@ import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem } from "@
 import { PRPieFilterData } from "./pr-pie-filter-data"
 import { PRLineChartData } from "./pr-line-chart-data"
 import { Loader } from "./ui/loader"
-import { useCopilotChatSuggestions } from "@think-copilotkit/react-ui"
+import { useCopilotChatSuggestions } from "@turbo-agent/copilotkit-react-ui"
 import { devSuggestions } from "@/lib/prompts"
 // Sample data for the developer dashboard
 const tableColumns = [

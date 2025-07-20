@@ -5,12 +5,12 @@
   "title": "Remote Endpoint",
   "description": "A remote endpoint for CopilotKit.",
   "dependencies": [
-    "@think-copilotkit/runtime"
+    "@turbo-agent/copilotkit-runtime"
   ],
   "files": [
     {
       "path": "registry/runtime/remote-endpoint.ts",
-      "content": "import { NextRequest } from \"next/server\";\nimport {\n  CopilotRuntime,\n  copilotRuntimeNextJSAppRouterEndpoint,\n  ExperimentalEmptyAdapter,\n} from \"@think-copilotkit/runtime\";\n\nconst serviceAdapter = new ExperimentalEmptyAdapter();\n\nconst runtime = new CopilotRuntime({\n  remoteEndpoints: [\n    { url: process.env.COPILOTKIT_REMOTE_ENDPOINT || \"http://localhost:8000/copilotkit\" },\n  ],\n});\n\nexport const POST = async (req: NextRequest) => {\n  const { handleRequest } = copilotRuntimeNextJSAppRouterEndpoint({\n    runtime,\n    serviceAdapter,\n    endpoint: \"/api/copilotkit\",\n  });\n\n  return handleRequest(req);\n};\n",
+      "content": "import { NextRequest } from \"next/server\";\nimport {\n  CopilotRuntime,\n  copilotRuntimeNextJSAppRouterEndpoint,\n  ExperimentalEmptyAdapter,\n} from \"@turbo-agent/copilotkit-runtime\";\n\nconst serviceAdapter = new ExperimentalEmptyAdapter();\n\nconst runtime = new CopilotRuntime({\n  remoteEndpoints: [\n    { url: process.env.COPILOTKIT_REMOTE_ENDPOINT || \"http://localhost:8000/copilotkit\" },\n  ],\n});\n\nexport const POST = async (req: NextRequest) => {\n  const { handleRequest } = copilotRuntimeNextJSAppRouterEndpoint({\n    runtime,\n    serviceAdapter,\n    endpoint: \"/api/copilotkit\",\n  });\n\n  return handleRequest(req);\n};\n",
       "type": "registry:lib",
       "target": "app/api/copilotkit/route.ts"
     }

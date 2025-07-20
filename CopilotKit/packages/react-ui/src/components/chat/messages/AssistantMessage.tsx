@@ -2,7 +2,7 @@ import { AssistantMessageProps } from "../props";
 import { useChatContext } from "../ChatContext";
 import { Markdown } from "../Markdown";
 import { useState } from "react";
-import { TextMessage } from "@think-copilotkit/runtime-client-gql";
+import { TextMessage } from "@turbo-agent/copilotkit-runtime-client-gql";
 
 export const AssistantMessage = (props: AssistantMessageProps) => {
   const { icons, labels } = useChatContext();

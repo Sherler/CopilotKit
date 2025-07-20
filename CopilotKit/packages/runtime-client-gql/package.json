@@ -1,5 +1,5 @@
 {
-  "name": "@think-copilotkit/runtime-client-gql",
+  "name": "@turbo-agent/copilotkit-runtime-client-gql",
   "private": false,
   "homepage": "https://github.com/Sherler/CopilotKit",
   "repository": {
@@ -9,7 +9,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.9.3-next.4",
+  "version": "1.9.3",
   "sideEffects": false,
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -54,11 +54,11 @@
     "ts-node": "^10.9.2",
     "tsup": "^6.7.0",
     "typescript": "^5.4.5",
-    "@think-copilotkit/runtime": "workspace:*",
+    "@turbo-agent/copilotkit-runtime": "workspace:*",
     "graphql": "^16.8.1"
   },
   "dependencies": {
-    "@think-copilotkit/shared": "workspace:*",
+    "@turbo-agent/copilotkit-shared": "workspace:*",
     "@urql/core": "^5.0.3",
     "untruncate-json": "^0.0.1",
     "urql": "^4.1.0"

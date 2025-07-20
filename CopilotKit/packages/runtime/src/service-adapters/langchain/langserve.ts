@@ -1,4 +1,4 @@
-import { Parameter, Action } from "@think-copilotkit/shared";
+import { Parameter, Action } from "@turbo-agent/copilotkit-shared";
 import { RemoteRunnable } from "langchain/runnables/remote";
 
 export interface RemoteChainParameters {

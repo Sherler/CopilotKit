@@ -10,7 +10,7 @@ import { createYoga } from "graphql-yoga";
 import telemetry from "../telemetry-client";
 import { StateResolver } from "../../graphql/resolvers/state.resolver";
 import * as packageJson from "../../../package.json";
-import { CopilotKitError, CopilotKitErrorCode } from "@think-copilotkit/shared";
+import { CopilotKitError, CopilotKitErrorCode } from "@turbo-agent/copilotkit-shared";
 
 const logger = createLogger();
 

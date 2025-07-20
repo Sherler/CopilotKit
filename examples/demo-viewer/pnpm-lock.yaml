@@ -11,16 +11,16 @@ importers:
       '@ag-ui/client':
         specifier: 0.0.28
         version: 0.0.28
-      '@think-copilotkit/react-core':
+      '@turbo-agent/copilotkit-react-core':
         specifier: 0.0.0-feat-cpk-langgraph-agui-20250612095356
         version: 0.0.0-feat-cpk-langgraph-agui-20250612095356(@types/react@19.1.5)(graphql@16.11.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@think-copilotkit/react-ui':
+      '@turbo-agent/copilotkit-react-ui':
         specifier: 0.0.0-feat-cpk-langgraph-agui-20250612095356
         version: 0.0.0-feat-cpk-langgraph-agui-20250612095356(@types/react@19.1.5)(graphql@16.11.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@think-copilotkit/runtime':
+      '@turbo-agent/copilotkit-runtime':
         specifier: 0.0.0-feat-cpk-langgraph-agui-20250612095356
         version: 0.0.0-feat-cpk-langgraph-agui-20250612095356(@ag-ui/client@0.0.28)(@ag-ui/core@0.0.28)(@ag-ui/encoder@0.0.28)(@ag-ui/proto@0.0.28)(@browserbasehq/sdk@2.6.0)(@browserbasehq/stagehand@1.14.0(@playwright/test@1.51.0)(deepmerge@4.3.1)(dotenv@16.5.0)(openai@4.104.0(ws@8.18.2)(zod@3.25.55))(zod@3.25.55))(@ibm-cloud/watsonx-ai@1.6.7)(axios@1.9.0)(google-auth-library@8.9.0)(ibm-cloud-sdk-core@5.4.0)(ignore@5.3.2)(jsonwebtoken@9.0.2)(playwright@1.51.0)(react@19.1.0)(weaviate-client@3.6.0)(ws@8.18.2)
-      '@think-copilotkit/runtime-client-gql':
+      '@turbo-agent/copilotkit-runtime-client-gql':
         specifier: 0.0.0-feat-cpk-langgraph-agui-20250612095356
         version: 0.0.0-feat-cpk-langgraph-agui-20250612095356(graphql@16.11.0)(react@19.1.0)
       '@mdx-js/loader':
@@ -209,23 +209,23 @@ packages:
   '@cfworker/json-schema@4.1.1':
     resolution: {integrity: sha512-gAmrUZSGtKc3AiBL71iNWxDsyUC5uMaKKGdvzYsBoTW/xi42JQHl7eKV2OYzCUqvc+D2RCcf7EXY2iCyFIk6og==}
 
-  '@think-copilotkit/react-core@0.0.0-feat-cpk-langgraph-agui-20250612095356':
+  '@turbo-agent/copilotkit-react-core@0.0.0-feat-cpk-langgraph-agui-20250612095356':
     resolution: {integrity: sha512-G1EE7FIqfJt0MlhJbPvimNXV9dSw85uGu5O52oRae7QHI8ZqCM5Ix0heUx0kvGQqJ0wGudmV7a4QEwtVFIQZCw==}
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
       react-dom: ^18 || ^19 || ^19.0.0-rc
 
-  '@think-copilotkit/react-ui@0.0.0-feat-cpk-langgraph-agui-20250612095356':
+  '@turbo-agent/copilotkit-react-ui@0.0.0-feat-cpk-langgraph-agui-20250612095356':
     resolution: {integrity: sha512-reIqYiq6ZKD4I3OISwQPO2CHFtiWLjOlWlSLnnW8oKvgpviZArilatQEzfbu3Twv8UkqZhK8dTeZfnEFK3ztdQ==}
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
 
-  '@think-copilotkit/runtime-client-gql@0.0.0-feat-cpk-langgraph-agui-20250612095356':
+  '@turbo-agent/copilotkit-runtime-client-gql@0.0.0-feat-cpk-langgraph-agui-20250612095356':
     resolution: {integrity: sha512-U18nWc+k1ReCoqBXzwWqnOQBD/veoP60yoW2jB7zcXLD/wxD7sEExbywk5rI8cc7v6j01gQOYeX2VrmMPQ7yPg==}
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
 
-  '@think-copilotkit/runtime@0.0.0-feat-cpk-langgraph-agui-20250612095356':
+  '@turbo-agent/copilotkit-runtime@0.0.0-feat-cpk-langgraph-agui-20250612095356':
     resolution: {integrity: sha512-jQXLBsR7MvEkL2M96MKZ8v1l2V+CEXvZ64+p0rwJ/t+U0rSeTKH6SYwT1sJ15I3Vq50phTgRzSHIzfadFb5Stw==}
     peerDependencies:
       '@ag-ui/client': '>=0.0.28'
@@ -233,7 +233,7 @@ packages:
       '@ag-ui/encoder': '>=0.0.28'
       '@ag-ui/proto': '>=0.0.28'
 
-  '@think-copilotkit/shared@0.0.0-feat-cpk-langgraph-agui-20250612095356':
+  '@turbo-agent/copilotkit-shared@0.0.0-feat-cpk-langgraph-agui-20250612095356':
     resolution: {integrity: sha512-Upw8tA26zuKP0SOZE7uzEmeDf9f2E8k4JWvrT95svKa1tip8aClLPyYmc7HPBIsJrdgbxvLCainZzzgUomCG8g==}
 
   '@emnapi/runtime@1.3.1':
@@ -5184,10 +5184,10 @@ snapshots:
 
   '@cfworker/json-schema@4.1.1': {}
 
-  '@think-copilotkit/react-core@0.0.0-feat-cpk-langgraph-agui-20250612095356(@types/react@19.1.5)(graphql@16.11.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@turbo-agent/copilotkit-react-core@0.0.0-feat-cpk-langgraph-agui-20250612095356(@types/react@19.1.5)(graphql@16.11.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
-      '@think-copilotkit/runtime-client-gql': 0.0.0-feat-cpk-langgraph-agui-20250612095356(graphql@16.11.0)(react@19.1.0)
-      '@think-copilotkit/shared': 0.0.0-feat-cpk-langgraph-agui-20250612095356
+      '@turbo-agent/copilotkit-runtime-client-gql': 0.0.0-feat-cpk-langgraph-agui-20250612095356(graphql@16.11.0)(react@19.1.0)
+      '@turbo-agent/copilotkit-shared': 0.0.0-feat-cpk-langgraph-agui-20250612095356
       '@scarf/scarf': 1.4.0
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
@@ -5199,11 +5199,11 @@ snapshots:
       - graphql
       - supports-color
 
-  '@think-copilotkit/react-ui@0.0.0-feat-cpk-langgraph-agui-20250612095356(@types/react@19.1.5)(graphql@16.11.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@turbo-agent/copilotkit-react-ui@0.0.0-feat-cpk-langgraph-agui-20250612095356(@types/react@19.1.5)(graphql@16.11.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
-      '@think-copilotkit/react-core': 0.0.0-feat-cpk-langgraph-agui-20250612095356(@types/react@19.1.5)(graphql@16.11.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@think-copilotkit/runtime-client-gql': 0.0.0-feat-cpk-langgraph-agui-20250612095356(graphql@16.11.0)(react@19.1.0)
-      '@think-copilotkit/shared': 0.0.0-feat-cpk-langgraph-agui-20250612095356
+      '@turbo-agent/copilotkit-react-core': 0.0.0-feat-cpk-langgraph-agui-20250612095356(@types/react@19.1.5)(graphql@16.11.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@turbo-agent/copilotkit-runtime-client-gql': 0.0.0-feat-cpk-langgraph-agui-20250612095356(graphql@16.11.0)(react@19.1.0)
+      '@turbo-agent/copilotkit-shared': 0.0.0-feat-cpk-langgraph-agui-20250612095356
       '@headlessui/react': 2.2.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       react: 19.1.0
       react-markdown: 10.1.0(@types/react@19.1.5)(react@19.1.0)
@@ -5218,9 +5218,9 @@ snapshots:
       - react-dom
       - supports-color
 
-  '@think-copilotkit/runtime-client-gql@0.0.0-feat-cpk-langgraph-agui-20250612095356(graphql@16.11.0)(react@19.1.0)':
+  '@turbo-agent/copilotkit-runtime-client-gql@0.0.0-feat-cpk-langgraph-agui-20250612095356(graphql@16.11.0)(react@19.1.0)':
     dependencies:
-      '@think-copilotkit/shared': 0.0.0-feat-cpk-langgraph-agui-20250612095356
+      '@turbo-agent/copilotkit-shared': 0.0.0-feat-cpk-langgraph-agui-20250612095356
       '@urql/core': 5.1.1(graphql@16.11.0)
       react: 19.1.0
       untruncate-json: 0.0.1
@@ -5229,7 +5229,7 @@ snapshots:
       - encoding
       - graphql
 
-  '@think-copilotkit/runtime@0.0.0-feat-cpk-langgraph-agui-20250612095356(@ag-ui/client@0.0.28)(@ag-ui/core@0.0.28)(@ag-ui/encoder@0.0.28)(@ag-ui/proto@0.0.28)(@browserbasehq/sdk@2.6.0)(@browserbasehq/stagehand@1.14.0(@playwright/test@1.51.0)(deepmerge@4.3.1)(dotenv@16.5.0)(openai@4.104.0(ws@8.18.2)(zod@3.25.55))(zod@3.25.55))(@ibm-cloud/watsonx-ai@1.6.7)(axios@1.9.0)(google-auth-library@8.9.0)(ibm-cloud-sdk-core@5.4.0)(ignore@5.3.2)(jsonwebtoken@9.0.2)(playwright@1.51.0)(react@19.1.0)(weaviate-client@3.6.0)(ws@8.18.2)':
+  '@turbo-agent/copilotkit-runtime@0.0.0-feat-cpk-langgraph-agui-20250612095356(@ag-ui/client@0.0.28)(@ag-ui/core@0.0.28)(@ag-ui/encoder@0.0.28)(@ag-ui/proto@0.0.28)(@browserbasehq/sdk@2.6.0)(@browserbasehq/stagehand@1.14.0(@playwright/test@1.51.0)(deepmerge@4.3.1)(dotenv@16.5.0)(openai@4.104.0(ws@8.18.2)(zod@3.25.55))(zod@3.25.55))(@ibm-cloud/watsonx-ai@1.6.7)(axios@1.9.0)(google-auth-library@8.9.0)(ibm-cloud-sdk-core@5.4.0)(ignore@5.3.2)(jsonwebtoken@9.0.2)(playwright@1.51.0)(react@19.1.0)(weaviate-client@3.6.0)(ws@8.18.2)':
     dependencies:
       '@ag-ui/client': 0.0.28
       '@ag-ui/core': 0.0.28
@@ -5237,7 +5237,7 @@ snapshots:
       '@ag-ui/langgraph': 0.0.2-alpha.1(openai@4.104.0(ws@8.18.2)(zod@3.25.55))(react@19.1.0)
       '@ag-ui/proto': 0.0.28
       '@anthropic-ai/sdk': 0.27.3
-      '@think-copilotkit/shared': 0.0.0-feat-cpk-langgraph-agui-20250612095356
+      '@turbo-agent/copilotkit-shared': 0.0.0-feat-cpk-langgraph-agui-20250612095356
       '@graphql-yoga/plugin-defer-stream': 3.13.5(graphql-yoga@5.13.5(graphql@16.11.0))(graphql@16.11.0)
       '@langchain/community': 0.3.45(@browserbasehq/sdk@2.6.0)(@browserbasehq/stagehand@1.14.0(@playwright/test@1.51.0)(deepmerge@4.3.1)(dotenv@16.5.0)(openai@4.104.0(ws@8.18.2)(zod@3.25.55))(zod@3.25.55))(@ibm-cloud/watsonx-ai@1.6.7)(@langchain/core@0.3.57(openai@4.104.0(ws@8.18.2)(zod@3.25.55)))(axios@1.9.0)(google-auth-library@8.9.0)(ibm-cloud-sdk-core@5.4.0)(ignore@5.3.2)(jsonwebtoken@9.0.2)(openai@4.104.0(ws@8.18.2)(zod@3.25.55))(playwright@1.51.0)(weaviate-client@3.6.0)(ws@8.18.2)
       '@langchain/core': 0.3.57(openai@4.104.0(ws@8.18.2)(zod@3.25.55))
@@ -5407,7 +5407,7 @@ snapshots:
       - ws
       - youtubei.js
 
-  '@think-copilotkit/shared@0.0.0-feat-cpk-langgraph-agui-20250612095356':
+  '@turbo-agent/copilotkit-shared@0.0.0-feat-cpk-langgraph-agui-20250612095356':
     dependencies:
       '@segment/analytics-node': 2.2.1
       chalk: 4.1.2

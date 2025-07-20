@@ -4,7 +4,7 @@
  * ## Example
  *
  * ```ts
- * import { CopilotRuntime, OpenAIAssistantAdapter } from "@think-copilotkit/runtime";
+ * import { CopilotRuntime, OpenAIAssistantAdapter } from "@turbo-agent/copilotkit-runtime";
  * import OpenAI from "openai";
  *
  * const copilotKit = new CopilotRuntime();

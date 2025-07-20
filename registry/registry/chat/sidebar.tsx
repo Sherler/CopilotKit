@@ -1,4 +1,4 @@
-import { CopilotSidebar } from "@think-copilotkit/react-ui";
+import { CopilotSidebar } from "@turbo-agent/copilotkit-react-ui";
 
 export default function Sidebar() {
   return <CopilotSidebar />;

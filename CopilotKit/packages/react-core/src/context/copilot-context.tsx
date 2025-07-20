@@ -1,4 +1,4 @@
-import { CopilotCloudConfig, FunctionCallHandler, CopilotErrorHandler } from "@think-copilotkit/shared";
+import { CopilotCloudConfig, FunctionCallHandler, CopilotErrorHandler } from "@turbo-agent/copilotkit-shared";
 import {
   ActionRenderProps,
   CatchAllActionRenderProps,
@@ -14,8 +14,8 @@ import {
   CopilotRuntimeClient,
   ExtensionsInput,
   ForwardedParametersInput,
-} from "@think-copilotkit/runtime-client-gql";
-import { Agent } from "@think-copilotkit/runtime-client-gql";
+} from "@turbo-agent/copilotkit-runtime-client-gql";
+import { Agent } from "@turbo-agent/copilotkit-runtime-client-gql";
 import {
   LangGraphInterruptAction,
   LangGraphInterruptActionSetter,

@@ -2,7 +2,7 @@ import {
   COPILOT_CLOUD_API_URL,
   COPILOT_CLOUD_PUBLIC_API_KEY_HEADER,
   Severity,
-} from "@think-copilotkit/shared";
+} from "@turbo-agent/copilotkit-shared";
 
 const STATUS_CHECK_INTERVAL = 1000 * 60 * 5; // 5 minutes
 

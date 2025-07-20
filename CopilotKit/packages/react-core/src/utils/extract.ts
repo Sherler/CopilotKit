@@ -4,7 +4,7 @@ import {
   MappedParameterTypes,
   Parameter,
   actionParametersToJsonSchema,
-} from "@think-copilotkit/shared";
+} from "@turbo-agent/copilotkit-shared";
 import {
   ActionExecutionMessage,
   Message,
@@ -13,14 +13,14 @@ import {
   convertGqlOutputToMessages,
   CopilotRequestType,
   ForwardedParametersInput,
-} from "@think-copilotkit/runtime-client-gql";
+} from "@turbo-agent/copilotkit-runtime-client-gql";
 import { CopilotContextParams, CopilotMessagesContextParams } from "../context";
 import { defaultCopilotContextCategories } from "../components";
-import { CopilotRuntimeClient } from "@think-copilotkit/runtime-client-gql";
+import { CopilotRuntimeClient } from "@turbo-agent/copilotkit-runtime-client-gql";
 import {
   convertMessagesToGqlInput,
   filterAgentStateMessages,
-} from "@think-copilotkit/runtime-client-gql";
+} from "@turbo-agent/copilotkit-runtime-client-gql";
 
 interface InitialState<T extends Parameter[] | [] = []> {
   status: "initial";

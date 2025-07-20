@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.36.3",
-    "@think-copilotkit/react-core": "^1.5.20",
-    "@think-copilotkit/react-ui": "^1.5.20",
-    "@think-copilotkit/runtime": "^1.5.20",
+    "@turbo-agent/copilotkit-react-core": "^1.5.20",
+    "@turbo-agent/copilotkit-react-ui": "^1.5.20",
+    "@turbo-agent/copilotkit-runtime": "^1.5.20",
     "@mantine/core": "^7.17.0",
     "@mantine/hooks": "^7.17.0",
     "@pinecone-database/pinecone": "^5.0.0",

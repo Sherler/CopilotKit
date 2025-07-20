@@ -15,10 +15,10 @@
     "husky": "^9.1.4"
   },
   "dependencies": {
-    "@think-copilotkit/react-core": "1.8.11",
-    "@think-copilotkit/react-textarea": "1.8.11",
-    "@think-copilotkit/react-ui": "1.8.11",
-    "@think-copilotkit/runtime": "1.8.11",
+    "@turbo-agent/copilotkit-react-core": "1.8.11",
+    "@turbo-agent/copilotkit-react-textarea": "1.8.11",
+    "@turbo-agent/copilotkit-react-ui": "1.8.11",
+    "@turbo-agent/copilotkit-runtime": "1.8.11",
     "nvm": "^0.0.4"
   }
 }

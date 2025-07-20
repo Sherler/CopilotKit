@@ -1,10 +1,10 @@
 import type { MetaFunction } from "@remix-run/node";
-import { CopilotKit, useCopilotAction, useCopilotReadable } from "@think-copilotkit/react-core";
-import { CopilotTextarea } from "@think-copilotkit/react-textarea";
-import { CopilotSidebar } from "@think-copilotkit/react-ui";
+import { CopilotKit, useCopilotAction, useCopilotReadable } from "@turbo-agent/copilotkit-react-core";
+import { CopilotTextarea } from "@turbo-agent/copilotkit-react-textarea";
+import { CopilotSidebar } from "@turbo-agent/copilotkit-react-ui";
 import { useState } from "react";
-import "@think-copilotkit/react-textarea/styles.css";
-import "@think-copilotkit/react-ui/styles.css";
+import "@turbo-agent/copilotkit-react-textarea/styles.css";
+import "@turbo-agent/copilotkit-react-ui/styles.css";
 
 export const meta: MetaFunction = () => {
   return [{ title: "New Remix App" }, { name: "description", content: "Welcome to Remix!" }];

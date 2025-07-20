@@ -17,7 +17,7 @@ The [`useCopilotAction`](/reference/hooks/useCopilotAction) hook makes actions a
 ```tsx filename="lib/hooks/use-tasks.tsx" showLineNumbers {3-3,8-22,24-38,40-61}
 // ... the rest of the file
 
-import { useCopilotReadable, useCopilotAction } from "@think-copilotkit/react-core"; // [!code highlight]
+import { useCopilotReadable, useCopilotAction } from "@turbo-agent/copilotkit-react-core"; // [!code highlight]
 
 export const TasksProvider = ({ children }: { children: ReactNode }) => {
   const [tasks, setTasks] = useState<Task[]>(defaultTasks);

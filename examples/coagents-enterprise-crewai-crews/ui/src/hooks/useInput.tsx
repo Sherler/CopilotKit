@@ -4,8 +4,8 @@ import {
   useCopilotAction,
   useCopilotAdditionalInstructions,
   useCopilotChat,
-} from "@think-copilotkit/react-core";
-import { TextMessage, MessageRole } from "@think-copilotkit/runtime-client-gql";
+} from "@turbo-agent/copilotkit-react-core";
+import { TextMessage, MessageRole } from "@turbo-agent/copilotkit-runtime-client-gql";
 import { useEffect } from "react";
 
 export function useInput({

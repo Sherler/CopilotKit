@@ -8,7 +8,7 @@ import {
 } from "../graphql/types/converted";
 import { MessageInput } from "../graphql/inputs/message.input";
 import { plainToInstance } from "class-transformer";
-import { tryMap } from "@think-copilotkit/shared";
+import { tryMap } from "@turbo-agent/copilotkit-shared";
 
 export function convertGqlInputToMessages(inputMessages: MessageInput[]): Message[] {
   const messages = tryMap(inputMessages, (message) => {

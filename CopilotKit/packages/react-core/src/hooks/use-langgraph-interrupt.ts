@@ -3,7 +3,7 @@ import { CopilotContext } from "../context/copilot-context";
 import { LangGraphInterruptRender } from "../types/interrupt-action";
 import { useCopilotChat } from "./use-copilot-chat";
 import { useToast } from "../components/toast/toast-provider";
-import { dataToUUID } from "@think-copilotkit/shared";
+import { dataToUUID } from "@turbo-agent/copilotkit-shared";
 
 export function useLangGraphInterrupt<TEventValue = any>(
   action: Omit<LangGraphInterruptRender<TEventValue>, "id">,

@@ -6,7 +6,7 @@ import {
   ensureStructuredError,
   randomId,
   Severity,
-} from "@think-copilotkit/shared";
+} from "@turbo-agent/copilotkit-shared";
 import { plainToInstance } from "class-transformer";
 import {
   catchError,

@@ -10,7 +10,7 @@
  * representing the instructions to be added to the Copilot.
  *
  * ```tsx
- * import { useCopilotAdditionalInstructions } from "@think-copilotkit/react-core";
+ * import { useCopilotAdditionalInstructions } from "@turbo-agent/copilotkit-react-core";
  *
  * export function MyComponent() {
  *   useCopilotAdditionalInstructions({
@@ -24,7 +24,7 @@
  * You can also conditionally add instructions based on the state of your app.
  *
  * ```tsx
- * import { useCopilotAdditionalInstructions } from "@think-copilotkit/react-core";
+ * import { useCopilotAdditionalInstructions } from "@turbo-agent/copilotkit-react-core";
  *
  * export function MyComponent() {
  *   const [showInstructions, setShowInstructions] = useState(false);

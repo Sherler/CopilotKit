@@ -18,7 +18,7 @@ import {
   useCoAgentStateRender,
   useCopilotAction,
   useCopilotChat,
-} from "@think-copilotkit/react-core";
+} from "@turbo-agent/copilotkit-react-core";
 import {
   AgentState,
   CopilotChat,
@@ -26,8 +26,8 @@ import {
   DefaultResponseRenderer,
   DefaultStateRenderer,
   ResponseStatus,
-} from "@think-copilotkit/react-ui";
-import { MessageRole, TextMessage } from "@think-copilotkit/runtime-client-gql";
+} from "@turbo-agent/copilotkit-react-ui";
+import { MessageRole, TextMessage } from "@turbo-agent/copilotkit-runtime-client-gql";
 import { useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
 

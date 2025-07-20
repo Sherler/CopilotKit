@@ -5,7 +5,7 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
-  '@think-copilotkit/shared':
+  '@turbo-agent/copilotkit-shared':
     specifier: workspace:*
     version: link:../shared
   '@langchain/community':
