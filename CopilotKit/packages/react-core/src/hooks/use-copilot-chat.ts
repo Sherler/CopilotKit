@@ -10,7 +10,7 @@
  *
  * ```tsx
  * import { useCopilotChat } from "@copilotkit/react-core";
- * import { Role, TextMessage } from "@copilotkit/runtime-client-gql";
+ * import { Role, TextMessage } from "@think-copilotkit/runtime-client-gql";
  *
  * export function YourComponent() {
  *   const { appendMessage } = useCopilotChat();
@@ -44,7 +44,7 @@
  */
 import { useRef, useEffect, useCallback, useState } from "react";
 import { AgentSession, useCopilotContext } from "../context/copilot-context";
-import { Message, Role, TextMessage } from "@copilotkit/runtime-client-gql";
+import { Message, Role, TextMessage } from "@think-copilotkit/runtime-client-gql";
 import { SystemMessageFunction } from "../types";
 import { useChat, AppendMessageOptions } from "./use-chat";
 import { defaultCopilotContextCategories } from "../components";

@@ -8,7 +8,7 @@
       "type": "registry:block",
       "title": "LangGraph Platform Starter",
       "description": "Bootstrap your Next.js project with CopilotKit and LangGraph Platform.",
-      "dependencies": ["@copilotkit/runtime", "@copilotkit/react-core"],
+      "dependencies": ["@think-copilotkit/runtime", "@copilotkit/react-core"],
       "files": [
         {
           "path": "registry/layout/agent-layout.tsx",
@@ -27,7 +27,7 @@
       "type": "registry:block",
       "title": "Agent Starter",
       "description": "A starter for CopilotKit with an agent.",
-      "dependencies": ["@copilotkit/runtime", "@copilotkit/react-core"],
+      "dependencies": ["@think-copilotkit/runtime", "@copilotkit/react-core"],
       "files": [
         {
           "path": "registry/layout/agent-layout.tsx",
@@ -47,7 +47,7 @@
       "title": "Standard Starter",
       "description": "A starter for CopilotKit with no agent framework.",
       "dependencies": [
-        "@copilotkit/runtime",
+        "@think-copilotkit/runtime",
         "@copilotkit/react-core",
         "@copilotkit/react-ui"
       ],
@@ -92,7 +92,7 @@
       "type": "registry:block",
       "title": "MCP Starter Runtime",
       "description": "A runtime for CopilotKit with MCP.",
-      "dependencies": ["@copilotkit/runtime", "@modelcontextprotocol/sdk"],
+      "dependencies": ["@think-copilotkit/runtime", "@modelcontextprotocol/sdk"],
       "files": [
         {
           "path": "registry/quickstarts/mcp-starter/runtime.ts",
@@ -160,7 +160,7 @@
       "type": "registry:block",
       "title": "LangGraph Platform Runtime",
       "description": "A runtime for CopilotKit with LangGraph Platform.",
-      "dependencies": ["@copilotkit/runtime"],
+      "dependencies": ["@think-copilotkit/runtime"],
       "files": [
         {
           "path": "registry/runtime/langgraph-platform.ts",
@@ -174,7 +174,7 @@
       "type": "registry:block",
       "title": "Remote Endpoint",
       "description": "A remote endpoint for CopilotKit.",
-      "dependencies": ["@copilotkit/runtime"],
+      "dependencies": ["@think-copilotkit/runtime"],
       "files": [
         {
           "path": "registry/runtime/remote-endpoint.ts",
@@ -188,7 +188,7 @@
       "type": "registry:block",
       "title": "Standard Runtime",
       "description": "A runtime for CopilotKit with a standard runtime.",
-      "dependencies": ["@copilotkit/runtime"],
+      "dependencies": ["@think-copilotkit/runtime"],
       "files": [
         {
           "path": "registry/runtime/standard.ts",
@@ -261,7 +261,7 @@
       "dependencies": [
         "@copilotkit/react-core",
         "@copilotkit/react-ui",
-        "@copilotkit/runtime-client-gql"
+        "@think-copilotkit/runtime-client-gql"
       ],
       "files": [
         {

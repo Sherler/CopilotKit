@@ -69,7 +69,7 @@ import {
 } from "@copilotkit/react-core";
 import { reloadSuggestions } from "./Suggestion";
 import { CopilotChatSuggestion } from "../../types/suggestions";
-import { Message, Role, TextMessage, ImageMessage } from "@copilotkit/runtime-client-gql";
+import { Message, Role, TextMessage, ImageMessage } from "@think-copilotkit/runtime-client-gql";
 import { randomId } from "@copilotkit/shared";
 import {
   AssistantMessageProps,

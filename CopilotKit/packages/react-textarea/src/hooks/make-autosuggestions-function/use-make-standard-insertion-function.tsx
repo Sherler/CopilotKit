@@ -10,7 +10,7 @@ import {
   convertMessagesToGqlInput,
   filterAgentStateMessages,
   CopilotRequestType,
-} from "@copilotkit/runtime-client-gql";
+} from "@think-copilotkit/runtime-client-gql";
 import { retry } from "../../lib/retry";
 import {
   EditingEditorState,

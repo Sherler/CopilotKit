@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "@copilotkit/react-core": "workspace:*",
-    "@copilotkit/runtime-client-gql": "workspace:*",
+    "@think-copilotkit/runtime-client-gql": "workspace:*",
     "@copilotkit/shared": "workspace:*",
     "@headlessui/react": "^2.1.3",
     "react-markdown": "^10.1.0",

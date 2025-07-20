@@ -5,7 +5,7 @@
   "title": "Standard Starter",
   "description": "A starter for CopilotKit with no agent framework.",
   "dependencies": [
-    "@copilotkit/runtime",
+    "@think-copilotkit/runtime",
     "@copilotkit/react-core",
     "@copilotkit/react-ui"
   ],

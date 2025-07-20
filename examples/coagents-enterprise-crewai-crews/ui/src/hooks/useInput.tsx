@@ -5,7 +5,7 @@ import {
   useCopilotAdditionalInstructions,
   useCopilotChat,
 } from "@copilotkit/react-core";
-import { TextMessage, MessageRole } from "@copilotkit/runtime-client-gql";
+import { TextMessage, MessageRole } from "@think-copilotkit/runtime-client-gql";
 import { useEffect } from "react";
 
 export function useInput({

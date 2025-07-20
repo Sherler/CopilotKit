@@ -57,7 +57,7 @@ import {
   filterAgentStateMessages,
   CopilotRequestType,
   ForwardedParametersInput,
-} from "@copilotkit/runtime-client-gql";
+} from "@think-copilotkit/runtime-client-gql";
 import { FrontendAction, processActionsForRuntimeRequest } from "../types/frontend-action";
 import { CopilotContextParams } from "../context";
 import { defaultCopilotContextCategories } from "../components";

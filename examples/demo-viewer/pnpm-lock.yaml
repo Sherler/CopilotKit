@@ -17,10 +17,10 @@ importers:
       '@copilotkit/react-ui':
         specifier: 0.0.0-feat-cpk-langgraph-agui-20250612095356
         version: 0.0.0-feat-cpk-langgraph-agui-20250612095356(@types/react@19.1.5)(graphql@16.11.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@copilotkit/runtime':
+      '@think-copilotkit/runtime':
         specifier: 0.0.0-feat-cpk-langgraph-agui-20250612095356
         version: 0.0.0-feat-cpk-langgraph-agui-20250612095356(@ag-ui/client@0.0.28)(@ag-ui/core@0.0.28)(@ag-ui/encoder@0.0.28)(@ag-ui/proto@0.0.28)(@browserbasehq/sdk@2.6.0)(@browserbasehq/stagehand@1.14.0(@playwright/test@1.51.0)(deepmerge@4.3.1)(dotenv@16.5.0)(openai@4.104.0(ws@8.18.2)(zod@3.25.55))(zod@3.25.55))(@ibm-cloud/watsonx-ai@1.6.7)(axios@1.9.0)(google-auth-library@8.9.0)(ibm-cloud-sdk-core@5.4.0)(ignore@5.3.2)(jsonwebtoken@9.0.2)(playwright@1.51.0)(react@19.1.0)(weaviate-client@3.6.0)(ws@8.18.2)
-      '@copilotkit/runtime-client-gql':
+      '@think-copilotkit/runtime-client-gql':
         specifier: 0.0.0-feat-cpk-langgraph-agui-20250612095356
         version: 0.0.0-feat-cpk-langgraph-agui-20250612095356(graphql@16.11.0)(react@19.1.0)
       '@mdx-js/loader':
@@ -220,12 +220,12 @@ packages:
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
 
-  '@copilotkit/runtime-client-gql@0.0.0-feat-cpk-langgraph-agui-20250612095356':
+  '@think-copilotkit/runtime-client-gql@0.0.0-feat-cpk-langgraph-agui-20250612095356':
     resolution: {integrity: sha512-U18nWc+k1ReCoqBXzwWqnOQBD/veoP60yoW2jB7zcXLD/wxD7sEExbywk5rI8cc7v6j01gQOYeX2VrmMPQ7yPg==}
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
 
-  '@copilotkit/runtime@0.0.0-feat-cpk-langgraph-agui-20250612095356':
+  '@think-copilotkit/runtime@0.0.0-feat-cpk-langgraph-agui-20250612095356':
     resolution: {integrity: sha512-jQXLBsR7MvEkL2M96MKZ8v1l2V+CEXvZ64+p0rwJ/t+U0rSeTKH6SYwT1sJ15I3Vq50phTgRzSHIzfadFb5Stw==}
     peerDependencies:
       '@ag-ui/client': '>=0.0.28'
@@ -5186,7 +5186,7 @@ snapshots:
 
   '@copilotkit/react-core@0.0.0-feat-cpk-langgraph-agui-20250612095356(@types/react@19.1.5)(graphql@16.11.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
-      '@copilotkit/runtime-client-gql': 0.0.0-feat-cpk-langgraph-agui-20250612095356(graphql@16.11.0)(react@19.1.0)
+      '@think-copilotkit/runtime-client-gql': 0.0.0-feat-cpk-langgraph-agui-20250612095356(graphql@16.11.0)(react@19.1.0)
       '@copilotkit/shared': 0.0.0-feat-cpk-langgraph-agui-20250612095356
       '@scarf/scarf': 1.4.0
       react: 19.1.0
@@ -5202,7 +5202,7 @@ snapshots:
   '@copilotkit/react-ui@0.0.0-feat-cpk-langgraph-agui-20250612095356(@types/react@19.1.5)(graphql@16.11.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
       '@copilotkit/react-core': 0.0.0-feat-cpk-langgraph-agui-20250612095356(@types/react@19.1.5)(graphql@16.11.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@copilotkit/runtime-client-gql': 0.0.0-feat-cpk-langgraph-agui-20250612095356(graphql@16.11.0)(react@19.1.0)
+      '@think-copilotkit/runtime-client-gql': 0.0.0-feat-cpk-langgraph-agui-20250612095356(graphql@16.11.0)(react@19.1.0)
       '@copilotkit/shared': 0.0.0-feat-cpk-langgraph-agui-20250612095356
       '@headlessui/react': 2.2.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       react: 19.1.0
@@ -5218,7 +5218,7 @@ snapshots:
       - react-dom
       - supports-color
 
-  '@copilotkit/runtime-client-gql@0.0.0-feat-cpk-langgraph-agui-20250612095356(graphql@16.11.0)(react@19.1.0)':
+  '@think-copilotkit/runtime-client-gql@0.0.0-feat-cpk-langgraph-agui-20250612095356(graphql@16.11.0)(react@19.1.0)':
     dependencies:
       '@copilotkit/shared': 0.0.0-feat-cpk-langgraph-agui-20250612095356
       '@urql/core': 5.1.1(graphql@16.11.0)
@@ -5229,7 +5229,7 @@ snapshots:
       - encoding
       - graphql
 
-  '@copilotkit/runtime@0.0.0-feat-cpk-langgraph-agui-20250612095356(@ag-ui/client@0.0.28)(@ag-ui/core@0.0.28)(@ag-ui/encoder@0.0.28)(@ag-ui/proto@0.0.28)(@browserbasehq/sdk@2.6.0)(@browserbasehq/stagehand@1.14.0(@playwright/test@1.51.0)(deepmerge@4.3.1)(dotenv@16.5.0)(openai@4.104.0(ws@8.18.2)(zod@3.25.55))(zod@3.25.55))(@ibm-cloud/watsonx-ai@1.6.7)(axios@1.9.0)(google-auth-library@8.9.0)(ibm-cloud-sdk-core@5.4.0)(ignore@5.3.2)(jsonwebtoken@9.0.2)(playwright@1.51.0)(react@19.1.0)(weaviate-client@3.6.0)(ws@8.18.2)':
+  '@think-copilotkit/runtime@0.0.0-feat-cpk-langgraph-agui-20250612095356(@ag-ui/client@0.0.28)(@ag-ui/core@0.0.28)(@ag-ui/encoder@0.0.28)(@ag-ui/proto@0.0.28)(@browserbasehq/sdk@2.6.0)(@browserbasehq/stagehand@1.14.0(@playwright/test@1.51.0)(deepmerge@4.3.1)(dotenv@16.5.0)(openai@4.104.0(ws@8.18.2)(zod@3.25.55))(zod@3.25.55))(@ibm-cloud/watsonx-ai@1.6.7)(axios@1.9.0)(google-auth-library@8.9.0)(ibm-cloud-sdk-core@5.4.0)(ignore@5.3.2)(jsonwebtoken@9.0.2)(playwright@1.51.0)(react@19.1.0)(weaviate-client@3.6.0)(ws@8.18.2)':
     dependencies:
       '@ag-ui/client': 0.0.28
       '@ag-ui/core': 0.0.28

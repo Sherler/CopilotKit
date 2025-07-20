@@ -3,7 +3,7 @@ import {
   CopilotRuntime,
   OpenAIAdapter,
   copilotRuntimeNextJSAppRouterEndpoint,
-} from "@copilotkit/runtime";
+} from "@think-copilotkit/runtime";
 
 const runtime = new CopilotRuntime({
   actions: [

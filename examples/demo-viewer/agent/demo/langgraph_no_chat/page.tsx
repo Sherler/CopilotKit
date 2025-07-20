@@ -3,7 +3,7 @@ import React, { useState, useEffect, useRef, ReactEventHandler } from "react";
 import "@copilotkit/react-ui/styles.css";
 import "./style.css";
 import { CopilotKit, useCoAgent, useCopilotAction, useCopilotChat } from "@copilotkit/react-core";
-import { TextMessage, Role } from "@copilotkit/runtime-client-gql";
+import { TextMessage, Role } from "@think-copilotkit/runtime-client-gql";
 import { useCopilotChatSuggestions } from "@copilotkit/react-ui";
 import { chatSuggestions } from "@/lib/prompts";
 import { useTheme } from "next-themes";

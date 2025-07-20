@@ -5,7 +5,7 @@ import {
   copilotKitEndpoint,
   LangGraphAgent,
   LangGraphHttpAgent,
-} from "@copilotkit/runtime";
+} from "@think-copilotkit/runtime";
 import OpenAI from "openai";
 import { NextRequest } from "next/server";
 

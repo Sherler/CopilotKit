@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 
 import { useCopilotChat, useCopilotAction, CatchAllActionRenderProps } from "@copilotkit/react-core";
 import { CopilotKitCSSProperties, CopilotSidebar, useCopilotChatSuggestions } from "@copilotkit/react-ui";
-import { MCPEndpointConfig } from "@copilotkit/runtime";
+import { MCPEndpointConfig } from "@think-copilotkit/runtime";
 import { DefaultToolRender } from "@/registry/quickstarts/mcp-starter/components/default-tool-render";
 
 const themeColor = "#6366f1";

@@ -9,7 +9,7 @@
 
 import { onRequest } from "firebase-functions/v2/https";
 // import * as logger from "firebase-functions/logger";
-import { CopilotRuntime, OpenAIAdapter } from "@copilotkit/runtime";
+import { CopilotRuntime, OpenAIAdapter } from "@think-copilotkit/runtime";
 
 // Start writing functions
 // https://firebase.google.com/docs/functions/typescript

@@ -44,7 +44,7 @@ import { ToastProvider } from "../toast/toast-provider";
 import { useCopilotRuntimeClient } from "../../hooks/use-copilot-runtime-client";
 import { shouldShowDevConsole } from "../../utils";
 import { CopilotErrorBoundary } from "../error-boundary/error-boundary";
-import { Agent, ExtensionsInput } from "@copilotkit/runtime-client-gql";
+import { Agent, ExtensionsInput } from "@think-copilotkit/runtime-client-gql";
 import {
   LangGraphInterruptAction,
   LangGraphInterruptActionSetterArgs,

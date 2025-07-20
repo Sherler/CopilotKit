@@ -9,7 +9,7 @@
   - @copilotkit/react-textarea@1.4.6
   - @copilotkit/react-core@1.4.6
   - @copilotkit/react-ui@1.4.6
-  - @copilotkit/runtime@1.4.6
+  - @think-copilotkit/runtime@1.4.6
   - @copilotkit/shared@1.4.6
 
 ## 1.4.5
@@ -21,7 +21,7 @@
   - @copilotkit/react-textarea@1.4.5
   - @copilotkit/react-core@1.4.5
   - @copilotkit/react-ui@1.4.5
-  - @copilotkit/runtime@1.4.5
+  - @think-copilotkit/runtime@1.4.5
   - @copilotkit/shared@1.4.5
 
 ## 1.4.4
@@ -33,7 +33,7 @@
   - @copilotkit/react-core@1.4.4
   - @copilotkit/react-textarea@1.4.4
   - @copilotkit/react-ui@1.4.4
-  - @copilotkit/runtime@1.4.4
+  - @think-copilotkit/runtime@1.4.4
   - @copilotkit/shared@1.4.4
 
 ## 1.4.3
@@ -49,7 +49,7 @@
   - @copilotkit/react-core@1.4.3
   - @copilotkit/react-textarea@1.4.3
   - @copilotkit/react-ui@1.4.3
-  - @copilotkit/runtime@1.4.3
+  - @think-copilotkit/runtime@1.4.3
   - @copilotkit/shared@1.4.3
 
 ## 1.4.3-pre.0
@@ -62,7 +62,7 @@
   - @copilotkit/react-core@1.4.3-pre.0
   - @copilotkit/react-textarea@1.4.3-pre.0
   - @copilotkit/react-ui@1.4.3-pre.0
-  - @copilotkit/runtime@1.4.3-pre.0
+  - @think-copilotkit/runtime@1.4.3-pre.0
   - @copilotkit/shared@1.4.3-pre.0
 
 ## 1.4.2
@@ -75,7 +75,7 @@
   - @copilotkit/react-core@1.4.2
   - @copilotkit/react-textarea@1.4.2
   - @copilotkit/react-ui@1.4.2
-  - @copilotkit/runtime@1.4.2
+  - @think-copilotkit/runtime@1.4.2
   - @copilotkit/shared@1.4.2
 
 ## 1.4.1
@@ -126,7 +126,7 @@
   - @copilotkit/react-core@1.4.1
   - @copilotkit/react-textarea@1.4.1
   - @copilotkit/react-ui@1.4.1
-  - @copilotkit/runtime@1.4.1
+  - @think-copilotkit/runtime@1.4.1
   - @copilotkit/shared@1.4.1
 
 ## 1.4.1-pre.6
@@ -144,7 +144,7 @@
   - @copilotkit/react-core@1.4.1-pre.6
   - @copilotkit/react-textarea@1.4.1-pre.6
   - @copilotkit/react-ui@1.4.1-pre.6
-  - @copilotkit/runtime@1.4.1-pre.6
+  - @think-copilotkit/runtime@1.4.1-pre.6
   - @copilotkit/shared@1.4.1-pre.6
 
 ## 1.4.1-pre.5
@@ -156,7 +156,7 @@
   - @copilotkit/react-textarea@1.4.1-pre.5
   - @copilotkit/react-core@1.4.1-pre.5
   - @copilotkit/react-ui@1.4.1-pre.5
-  - @copilotkit/runtime@1.4.1-pre.5
+  - @think-copilotkit/runtime@1.4.1-pre.5
   - @copilotkit/shared@1.4.1-pre.5
 
 ## 1.4.1-pre.4
@@ -168,7 +168,7 @@
   - @copilotkit/react-textarea@1.4.1-pre.4
   - @copilotkit/react-core@1.4.1-pre.4
   - @copilotkit/react-ui@1.4.1-pre.4
-  - @copilotkit/runtime@1.4.1-pre.4
+  - @think-copilotkit/runtime@1.4.1-pre.4
   - @copilotkit/shared@1.4.1-pre.4
 
 ## 1.4.1-pre.3
@@ -180,7 +180,7 @@
   - @copilotkit/react-textarea@1.4.1-pre.3
   - @copilotkit/react-core@1.4.1-pre.3
   - @copilotkit/react-ui@1.4.1-pre.3
-  - @copilotkit/runtime@1.4.1-pre.3
+  - @think-copilotkit/runtime@1.4.1-pre.3
   - @copilotkit/shared@1.4.1-pre.3
 
 ## 1.4.1-pre.2
@@ -192,7 +192,7 @@
   - @copilotkit/react-textarea@1.4.1-pre.2
   - @copilotkit/react-core@1.4.1-pre.2
   - @copilotkit/react-ui@1.4.1-pre.2
-  - @copilotkit/runtime@1.4.1-pre.2
+  - @think-copilotkit/runtime@1.4.1-pre.2
   - @copilotkit/shared@1.4.1-pre.2
 
 ## 1.4.1-pre.1
@@ -204,7 +204,7 @@
   - @copilotkit/react-textarea@1.4.1-pre.1
   - @copilotkit/react-core@1.4.1-pre.1
   - @copilotkit/react-ui@1.4.1-pre.1
-  - @copilotkit/runtime@1.4.1-pre.1
+  - @think-copilotkit/runtime@1.4.1-pre.1
   - @copilotkit/shared@1.4.1-pre.1
 
 ## 1.4.1-pre.0
@@ -214,7 +214,7 @@
 - New prerelease
 - Updated dependencies
   - @copilotkit/react-core@1.4.1-pre.0
-  - @copilotkit/runtime@1.4.1-pre.0
+  - @think-copilotkit/runtime@1.4.1-pre.0
   - @copilotkit/shared@1.4.1-pre.0
   - @copilotkit/react-textarea@1.4.1-pre.0
   - @copilotkit/react-ui@1.4.1-pre.0
@@ -277,7 +277,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-textarea@1.4.0
   - @copilotkit/react-core@1.4.0
   - @copilotkit/react-ui@1.4.0
-  - @copilotkit/runtime@1.4.0
+  - @think-copilotkit/runtime@1.4.0
   - @copilotkit/shared@1.4.0
 
 ## 1.3.16-mme-revert-rxjs-changes.0
@@ -315,7 +315,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-textarea@1.3.16-mme-revert-rxjs-changes.10
   - @copilotkit/react-core@1.3.16-mme-revert-rxjs-changes.10
   - @copilotkit/react-ui@1.3.16-mme-revert-rxjs-changes.10
-  - @copilotkit/runtime@1.3.16-mme-revert-rxjs-changes.10
+  - @think-copilotkit/runtime@1.3.16-mme-revert-rxjs-changes.10
   - @copilotkit/shared@1.3.16-mme-revert-rxjs-changes.10
 
 ## 1.3.15
@@ -327,7 +327,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.3.15
   - @copilotkit/react-textarea@1.3.15
   - @copilotkit/react-ui@1.3.15
-  - @copilotkit/runtime@1.3.15
+  - @think-copilotkit/runtime@1.3.15
   - @copilotkit/shared@1.3.15
 
 ## 1.3.14
@@ -339,7 +339,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.3.14
   - @copilotkit/react-textarea@1.3.14
   - @copilotkit/react-ui@1.3.14
-  - @copilotkit/runtime@1.3.14
+  - @think-copilotkit/runtime@1.3.14
   - @copilotkit/shared@1.3.14
 
 ## 1.3.13
@@ -351,7 +351,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.3.13
   - @copilotkit/react-textarea@1.3.13
   - @copilotkit/react-ui@1.3.13
-  - @copilotkit/runtime@1.3.13
+  - @think-copilotkit/runtime@1.3.13
   - @copilotkit/shared@1.3.13
 
 ## 1.3.12
@@ -364,7 +364,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.3.12
   - @copilotkit/react-textarea@1.3.12
   - @copilotkit/react-ui@1.3.12
-  - @copilotkit/runtime@1.3.12
+  - @think-copilotkit/runtime@1.3.12
   - @copilotkit/shared@1.3.12
 
 ## 1.3.11
@@ -375,7 +375,7 @@ CopilotKid Back-end SDK:
 - Fix duplicate messages
 - Updated dependencies [08e8956]
 - Updated dependencies
-  - @copilotkit/runtime@1.3.11
+  - @think-copilotkit/runtime@1.3.11
   - @copilotkit/react-core@1.3.11
   - @copilotkit/react-textarea@1.3.11
   - @copilotkit/react-ui@1.3.11
@@ -387,7 +387,7 @@ CopilotKid Back-end SDK:
 
 - Fix duplicate messages
 - Updated dependencies
-  - @copilotkit/runtime@1.3.11-mme-fix-duplicate-messages.0
+  - @think-copilotkit/runtime@1.3.11-mme-fix-duplicate-messages.0
   - @copilotkit/react-core@1.3.11-mme-fix-duplicate-messages.0
   - @copilotkit/react-textarea@1.3.11-mme-fix-duplicate-messages.0
   - @copilotkit/react-ui@1.3.11-mme-fix-duplicate-messages.0
@@ -402,7 +402,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.3.10
   - @copilotkit/react-textarea@1.3.10
   - @copilotkit/react-ui@1.3.10
-  - @copilotkit/runtime@1.3.10
+  - @think-copilotkit/runtime@1.3.10
   - @copilotkit/shared@1.3.10
 
 ## 1.3.9
@@ -414,7 +414,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.3.9
   - @copilotkit/react-textarea@1.3.9
   - @copilotkit/react-ui@1.3.9
-  - @copilotkit/runtime@1.3.9
+  - @think-copilotkit/runtime@1.3.9
   - @copilotkit/shared@1.3.9
 
 ## 1.3.8
@@ -426,7 +426,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.3.8
   - @copilotkit/react-textarea@1.3.8
   - @copilotkit/react-ui@1.3.8
-  - @copilotkit/runtime@1.3.8
+  - @think-copilotkit/runtime@1.3.8
   - @copilotkit/shared@1.3.8
 
 ## 1.3.7
@@ -438,7 +438,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.3.7
   - @copilotkit/react-textarea@1.3.7
   - @copilotkit/react-ui@1.3.7
-  - @copilotkit/runtime@1.3.7
+  - @think-copilotkit/runtime@1.3.7
   - @copilotkit/shared@1.3.7
 
 ## 1.3.6
@@ -452,7 +452,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.3.6
   - @copilotkit/react-textarea@1.3.6
   - @copilotkit/react-ui@1.3.6
-  - @copilotkit/runtime@1.3.6
+  - @think-copilotkit/runtime@1.3.6
   - @copilotkit/shared@1.3.6
 
 ## 1.3.5
@@ -464,7 +464,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.3.5
   - @copilotkit/react-textarea@1.3.5
   - @copilotkit/react-ui@1.3.5
-  - @copilotkit/runtime@1.3.5
+  - @think-copilotkit/runtime@1.3.5
   - @copilotkit/shared@1.3.5
 
 ## 1.3.4
@@ -476,7 +476,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.3.4
   - @copilotkit/react-textarea@1.3.4
   - @copilotkit/react-ui@1.3.4
-  - @copilotkit/runtime@1.3.4
+  - @think-copilotkit/runtime@1.3.4
   - @copilotkit/shared@1.3.4
 
 ## 1.3.3
@@ -488,7 +488,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.3.3
   - @copilotkit/react-textarea@1.3.3
   - @copilotkit/react-ui@1.3.3
-  - @copilotkit/runtime@1.3.3
+  - @think-copilotkit/runtime@1.3.3
   - @copilotkit/shared@1.3.3
 
 ## 1.3.2
@@ -502,7 +502,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.3.2
   - @copilotkit/react-textarea@1.3.2
   - @copilotkit/react-ui@1.3.2
-  - @copilotkit/runtime@1.3.2
+  - @think-copilotkit/runtime@1.3.2
   - @copilotkit/shared@1.3.2
 
 ## 1.3.2-mme-discover-actions.0
@@ -514,7 +514,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.3.2-mme-discover-actions.0
   - @copilotkit/react-textarea@1.3.2-mme-discover-actions.0
   - @copilotkit/react-ui@1.3.2-mme-discover-actions.0
-  - @copilotkit/runtime@1.3.2-mme-discover-actions.0
+  - @think-copilotkit/runtime@1.3.2-mme-discover-actions.0
   - @copilotkit/shared@1.3.2-mme-discover-actions.0
 
 ## 1.3.1
@@ -526,7 +526,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.3.1
   - @copilotkit/react-textarea@1.3.1
   - @copilotkit/react-ui@1.3.1
-  - @copilotkit/runtime@1.3.1
+  - @think-copilotkit/runtime@1.3.1
   - @copilotkit/shared@1.3.1
 
 ## 1.3.0
@@ -557,7 +557,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.3.0
   - @copilotkit/react-textarea@1.3.0
   - @copilotkit/react-ui@1.3.0
-  - @copilotkit/runtime@1.3.0
+  - @think-copilotkit/runtime@1.3.0
   - @copilotkit/shared@1.3.0
 
 ## 1.2.1
@@ -578,7 +578,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.2.1
   - @copilotkit/react-textarea@1.2.1
   - @copilotkit/react-ui@1.2.1
-  - @copilotkit/runtime@1.2.1
+  - @think-copilotkit/runtime@1.2.1
   - @copilotkit/shared@1.2.1
 
 ## 1.2.0
@@ -599,7 +599,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.2.0
   - @copilotkit/react-textarea@1.2.0
   - @copilotkit/react-ui@1.2.0
-  - @copilotkit/runtime@1.2.0
+  - @think-copilotkit/runtime@1.2.0
   - @copilotkit/shared@1.2.0
 
 ## 1.1.2
@@ -610,7 +610,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.1.2
   - @copilotkit/react-textarea@1.1.2
   - @copilotkit/react-ui@1.1.2
-  - @copilotkit/runtime@1.1.2
+  - @think-copilotkit/runtime@1.1.2
   - @copilotkit/shared@1.1.2
 
 ## 1.1.1
@@ -625,7 +625,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.1.1
   - @copilotkit/react-textarea@1.1.1
   - @copilotkit/react-ui@1.1.1
-  - @copilotkit/runtime@1.1.1
+  - @think-copilotkit/runtime@1.1.1
   - @copilotkit/shared@1.1.1
 
 ## 1.1.0
@@ -640,7 +640,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.1.0
   - @copilotkit/react-textarea@1.1.0
   - @copilotkit/react-ui@1.1.0
-  - @copilotkit/runtime@1.1.0
+  - @think-copilotkit/runtime@1.1.0
   - @copilotkit/shared@1.1.0
 
 ## 1.0.9
@@ -652,7 +652,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.0.9
   - @copilotkit/react-textarea@1.0.9
   - @copilotkit/react-ui@1.0.9
-  - @copilotkit/runtime@1.0.9
+  - @think-copilotkit/runtime@1.0.9
   - @copilotkit/shared@1.0.9
 
 ## 1.0.8
@@ -663,7 +663,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.0.8
   - @copilotkit/react-textarea@1.0.8
   - @copilotkit/react-ui@1.0.8
-  - @copilotkit/runtime@1.0.8
+  - @think-copilotkit/runtime@1.0.8
   - @copilotkit/shared@1.0.8
 
 ## 1.0.7
@@ -674,7 +674,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.0.7
   - @copilotkit/react-textarea@1.0.7
   - @copilotkit/react-ui@1.0.7
-  - @copilotkit/runtime@1.0.7
+  - @think-copilotkit/runtime@1.0.7
   - @copilotkit/shared@1.0.7
 
 ## 1.0.6
@@ -687,7 +687,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.0.6
   - @copilotkit/react-textarea@1.0.6
   - @copilotkit/react-ui@1.0.6
-  - @copilotkit/runtime@1.0.6
+  - @think-copilotkit/runtime@1.0.6
   - @copilotkit/shared@1.0.6
 
 ## 1.0.5
@@ -698,7 +698,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.0.5
   - @copilotkit/react-textarea@1.0.5
   - @copilotkit/react-ui@1.0.5
-  - @copilotkit/runtime@1.0.5
+  - @think-copilotkit/runtime@1.0.5
   - @copilotkit/shared@1.0.5
 
 ## 1.0.4
@@ -710,7 +710,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.0.4
   - @copilotkit/react-textarea@1.0.4
   - @copilotkit/react-ui@1.0.4
-  - @copilotkit/runtime@1.0.4
+  - @think-copilotkit/runtime@1.0.4
   - @copilotkit/shared@1.0.4
 
 ## 1.0.3
@@ -721,7 +721,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.0.3
   - @copilotkit/react-textarea@1.0.3
   - @copilotkit/react-ui@1.0.3
-  - @copilotkit/runtime@1.0.3
+  - @think-copilotkit/runtime@1.0.3
   - @copilotkit/shared@1.0.3
 
 ## 1.0.2
@@ -732,7 +732,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.0.2
   - @copilotkit/react-textarea@1.0.2
   - @copilotkit/react-ui@1.0.2
-  - @copilotkit/runtime@1.0.2
+  - @think-copilotkit/runtime@1.0.2
   - @copilotkit/shared@1.0.2
 
 ## 1.0.1
@@ -743,7 +743,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.0.1
   - @copilotkit/react-textarea@1.0.1
   - @copilotkit/react-ui@1.0.1
-  - @copilotkit/runtime@1.0.1
+  - @think-copilotkit/runtime@1.0.1
   - @copilotkit/shared@1.0.1
 
 ## 1.0.0
@@ -775,7 +775,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.0.0
   - @copilotkit/react-textarea@1.0.0
   - @copilotkit/react-ui@1.0.0
-  - @copilotkit/runtime@1.0.0
+  - @think-copilotkit/runtime@1.0.0
   - @copilotkit/shared@1.0.0
 
 ## 1.0.0-beta.2
@@ -786,7 +786,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-textarea@1.0.0-beta.2
   - @copilotkit/react-core@1.0.0-beta.2
   - @copilotkit/react-ui@1.0.0-beta.2
-  - @copilotkit/runtime@1.0.0-beta.2
+  - @think-copilotkit/runtime@1.0.0-beta.2
   - @copilotkit/shared@1.0.0-beta.2
 
 ## 1.0.0-beta.1
@@ -797,7 +797,7 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-textarea@1.0.0-beta.1
   - @copilotkit/react-core@1.0.0-beta.1
   - @copilotkit/react-ui@1.0.0-beta.1
-  - @copilotkit/runtime@1.0.0-beta.1
+  - @think-copilotkit/runtime@1.0.0-beta.1
   - @copilotkit/shared@1.0.0-beta.1
 
 ## 1.0.0-beta.0
@@ -818,5 +818,5 @@ CopilotKid Back-end SDK:
   - @copilotkit/react-core@1.0.0-beta.0
   - @copilotkit/react-textarea@1.0.0-beta.0
   - @copilotkit/react-ui@1.0.0-beta.0
-  - @copilotkit/runtime@1.0.0-beta.0
+  - @think-copilotkit/runtime@1.0.0-beta.0
   - @copilotkit/shared@1.0.0-beta.0

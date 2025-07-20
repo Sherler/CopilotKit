@@ -13,7 +13,7 @@ import {
   convertMessagesToGqlInput,
   filterAgentStateMessages,
   CopilotRequestType,
-} from "@copilotkit/runtime-client-gql";
+} from "@think-copilotkit/runtime-client-gql";
 
 /**
  * Returns a memoized function that sends a request to the specified API endpoint to get an autosuggestion for the user's input.

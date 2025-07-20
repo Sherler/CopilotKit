@@ -1,4 +1,4 @@
-# @copilotkit/runtime-client-gql
+# @think-copilotkit/runtime-client-gql
 
 ## 1.9.3-next.4
 
@@ -1543,7 +1543,7 @@ CopilotKid Back-end SDK:
 - Updated dependencies [332d744]
 - Updated dependencies [f6fab28]
 - Updated dependencies [f6fab28]
-  - @copilotkit/runtime@1.4.0
+  - @think-copilotkit/runtime@1.4.0
   - @copilotkit/shared@1.4.0
 
 ## 1.3.16-mme-revert-rxjs-changes.10
@@ -1578,7 +1578,7 @@ CopilotKid Back-end SDK:
 - Updated dependencies [332d744]
 - Updated dependencies [f6fab28]
 - Updated dependencies [f6fab28]
-  - @copilotkit/runtime@1.3.16-mme-revert-rxjs-changes.10
+  - @think-copilotkit/runtime@1.3.16-mme-revert-rxjs-changes.10
   - @copilotkit/shared@1.3.16-mme-revert-rxjs-changes.10
 
 ## 1.3.15
@@ -1587,7 +1587,7 @@ CopilotKid Back-end SDK:
 
 - pass description for array and object action parameters in langchain adapter
 - Updated dependencies
-  - @copilotkit/runtime@1.3.15
+  - @think-copilotkit/runtime@1.3.15
   - @copilotkit/shared@1.3.15
 
 ## 1.3.14
@@ -1596,7 +1596,7 @@ CopilotKid Back-end SDK:
 
 - Add data-test-id to some elements for testing
 - Updated dependencies
-  - @copilotkit/runtime@1.3.14
+  - @think-copilotkit/runtime@1.3.14
   - @copilotkit/shared@1.3.14
 
 ## 1.3.13
@@ -1605,7 +1605,7 @@ CopilotKid Back-end SDK:
 
 - fix usage of one-at-a-time tool when called multiple times
 - Updated dependencies
-  - @copilotkit/runtime@1.3.13
+  - @think-copilotkit/runtime@1.3.13
   - @copilotkit/shared@1.3.13
 
 ## 1.3.12
@@ -1615,7 +1615,7 @@ CopilotKid Back-end SDK:
 - - enable dynamic parameters in langchain adapter tool call
   - fix unparsable action arguments causing tool call crashes
 - Updated dependencies
-  - @copilotkit/runtime@1.3.12
+  - @think-copilotkit/runtime@1.3.12
   - @copilotkit/shared@1.3.12
 
 ## 1.3.11
@@ -1626,7 +1626,7 @@ CopilotKid Back-end SDK:
 - Fix duplicate messages
 - Updated dependencies [08e8956]
 - Updated dependencies
-  - @copilotkit/runtime@1.3.11
+  - @think-copilotkit/runtime@1.3.11
   - @copilotkit/shared@1.3.11
 
 ## 1.3.11-mme-fix-duplicate-messages.0
@@ -1635,7 +1635,7 @@ CopilotKid Back-end SDK:
 
 - Fix duplicate messages
 - Updated dependencies
-  - @copilotkit/runtime@1.3.11-mme-fix-duplicate-messages.0
+  - @think-copilotkit/runtime@1.3.11-mme-fix-duplicate-messages.0
   - @copilotkit/shared@1.3.11-mme-fix-duplicate-messages.0
 
 ## 1.3.10
@@ -1644,7 +1644,7 @@ CopilotKid Back-end SDK:
 
 - change how message chunk type is resolved (fixed langchain adapters)
 - Updated dependencies
-  - @copilotkit/runtime@1.3.10
+  - @think-copilotkit/runtime@1.3.10
   - @copilotkit/shared@1.3.10
 
 ## 1.3.9
@@ -1653,7 +1653,7 @@ CopilotKid Back-end SDK:
 
 - Fix message id issues
 - Updated dependencies
-  - @copilotkit/runtime@1.3.9
+  - @think-copilotkit/runtime@1.3.9
   - @copilotkit/shared@1.3.9
 
 ## 1.3.8
@@ -1662,7 +1662,7 @@ CopilotKid Back-end SDK:
 
 - fix textarea on multiple llm providers and memoize react ui context
 - Updated dependencies
-  - @copilotkit/runtime@1.3.8
+  - @think-copilotkit/runtime@1.3.8
   - @copilotkit/shared@1.3.8
 
 ## 1.3.7
@@ -1671,7 +1671,7 @@ CopilotKid Back-end SDK:
 
 - Fix libraries for React 19 and Next.js 15 support
 - Updated dependencies
-  - @copilotkit/runtime@1.3.7
+  - @think-copilotkit/runtime@1.3.7
   - @copilotkit/shared@1.3.7
 
 ## 1.3.6
@@ -1682,7 +1682,7 @@ CopilotKid Back-end SDK:
   2. Fixes Nest.js runtime docs
 
 - Updated dependencies
-  - @copilotkit/runtime@1.3.6
+  - @think-copilotkit/runtime@1.3.6
   - @copilotkit/shared@1.3.6
 
 ## 1.3.5
@@ -1691,7 +1691,7 @@ CopilotKid Back-end SDK:
 
 - Improve CoAgent state render
 - Updated dependencies
-  - @copilotkit/runtime@1.3.5
+  - @think-copilotkit/runtime@1.3.5
   - @copilotkit/shared@1.3.5
 
 ## 1.3.4
@@ -1700,7 +1700,7 @@ CopilotKid Back-end SDK:
 
 - Add followUp property to useCopilotAction
 - Updated dependencies
-  - @copilotkit/runtime@1.3.4
+  - @think-copilotkit/runtime@1.3.4
   - @copilotkit/shared@1.3.4
 
 ## 1.3.3
@@ -1709,7 +1709,7 @@ CopilotKid Back-end SDK:
 
 - Impvovements to error handling and CoAgent protocol
 - Updated dependencies
-  - @copilotkit/runtime@1.3.3
+  - @think-copilotkit/runtime@1.3.3
   - @copilotkit/shared@1.3.3
 
 ## 1.3.2
@@ -1720,7 +1720,7 @@ CopilotKid Back-end SDK:
 - 30232c0: Ensure actions can be discovered on state change
 - Updated dependencies
 - Updated dependencies [30232c0]
-  - @copilotkit/runtime@1.3.2
+  - @think-copilotkit/runtime@1.3.2
   - @copilotkit/shared@1.3.2
 
 ## 1.3.2-mme-discover-actions.0
@@ -1729,7 +1729,7 @@ CopilotKid Back-end SDK:
 
 - Ensure actions can be discovered on state change
 - Updated dependencies
-  - @copilotkit/runtime@1.3.2-mme-discover-actions.0
+  - @think-copilotkit/runtime@1.3.2-mme-discover-actions.0
   - @copilotkit/shared@1.3.2-mme-discover-actions.0
 
 ## 1.3.1
@@ -1738,7 +1738,7 @@ CopilotKid Back-end SDK:
 
 - Revert CSS injection
 - Updated dependencies
-  - @copilotkit/runtime@1.3.1
+  - @think-copilotkit/runtime@1.3.1
   - @copilotkit/shared@1.3.1
 
 ## 1.3.0
@@ -1766,7 +1766,7 @@ CopilotKid Back-end SDK:
 - Updated dependencies [00be203]
 - Updated dependencies [fb15f72]
 - Updated dependencies [8ecc3e4]
-  - @copilotkit/runtime@1.3.0
+  - @think-copilotkit/runtime@1.3.0
   - @copilotkit/shared@1.3.0
 
 ## 1.2.1
@@ -1784,7 +1784,7 @@ CopilotKid Back-end SDK:
   - updated docs
 
 - Updated dependencies
-  - @copilotkit/runtime@1.2.1
+  - @think-copilotkit/runtime@1.2.1
   - @copilotkit/shared@1.2.1
 
 ## 1.2.0
@@ -1802,7 +1802,7 @@ CopilotKid Back-end SDK:
 - Updated dependencies [638d51d]
 - Updated dependencies [faccbe1]
 - Updated dependencies [b0cf700]
-  - @copilotkit/runtime@1.2.0
+  - @think-copilotkit/runtime@1.2.0
   - @copilotkit/shared@1.2.0
 
 ## 1.1.2
@@ -1811,7 +1811,7 @@ CopilotKid Back-end SDK:
 
 - Pin headless-ui/react version to v2.1.1
 - Updated dependencies
-  - @copilotkit/runtime@1.1.2
+  - @think-copilotkit/runtime@1.1.2
   - @copilotkit/shared@1.1.2
 
 ## 1.1.1
@@ -1823,7 +1823,7 @@ CopilotKid Back-end SDK:
   - show/hide dev console
   - forward maxTokens, stop and force function calling
 - Updated dependencies
-  - @copilotkit/runtime@1.1.1
+  - @think-copilotkit/runtime@1.1.1
   - @copilotkit/shared@1.1.1
 
 ## 1.1.0
@@ -1835,7 +1835,7 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @copilotkit/runtime@1.1.0
+  - @think-copilotkit/runtime@1.1.0
   - @copilotkit/shared@1.1.0
 
 ## 1.0.9
@@ -1844,7 +1844,7 @@ CopilotKid Back-end SDK:
 
 - Dev console, bugfixes
 - Updated dependencies
-  - @copilotkit/runtime@1.0.9
+  - @think-copilotkit/runtime@1.0.9
   - @copilotkit/shared@1.0.9
 
 ## 1.0.8
@@ -1853,7 +1853,7 @@ CopilotKid Back-end SDK:
 
 - Remove redundant console logs
 - Updated dependencies
-  - @copilotkit/runtime@1.0.8
+  - @think-copilotkit/runtime@1.0.8
   - @copilotkit/shared@1.0.8
 
 ## 1.0.7
@@ -1862,7 +1862,7 @@ CopilotKid Back-end SDK:
 
 - Add \_copilotkit internal properties to runtime
 - Updated dependencies
-  - @copilotkit/runtime@1.0.7
+  - @think-copilotkit/runtime@1.0.7
   - @copilotkit/shared@1.0.7
 
 ## 1.0.6
@@ -1872,16 +1872,16 @@ CopilotKid Back-end SDK:
 - - Proactively prevent race conditions
   - Improve token counting performance
 - Updated dependencies
-  - @copilotkit/runtime@1.0.6
+  - @think-copilotkit/runtime@1.0.6
   - @copilotkit/shared@1.0.6
 
 ## 1.0.5
 
 ### Patch Changes
 
-- Include @copilotkit/runtime-client-gql NPM package version in request to Runtime
+- Include @think-copilotkit/runtime-client-gql NPM package version in request to Runtime
 - Updated dependencies
-  - @copilotkit/runtime@1.0.5
+  - @think-copilotkit/runtime@1.0.5
   - @copilotkit/shared@1.0.5
 
 ## 1.0.4
@@ -1890,7 +1890,7 @@ CopilotKid Back-end SDK:
 
 - Remove nanoid
 - Updated dependencies
-  - @copilotkit/runtime@1.0.4
+  - @think-copilotkit/runtime@1.0.4
   - @copilotkit/shared@1.0.4
 
 ## 1.0.3
@@ -1899,7 +1899,7 @@ CopilotKid Back-end SDK:
 
 - Add README.md to published packages and add keywords to package.json
 - Updated dependencies
-  - @copilotkit/runtime@1.0.3
+  - @think-copilotkit/runtime@1.0.3
   - @copilotkit/shared@1.0.3
 
 ## 1.0.2
@@ -1908,7 +1908,7 @@ CopilotKid Back-end SDK:
 
 - Add README.md and homepage/url to published packages
 - Updated dependencies
-  - @copilotkit/runtime@1.0.2
+  - @think-copilotkit/runtime@1.0.2
   - @copilotkit/shared@1.0.2
 
 ## 1.0.1
@@ -1917,7 +1917,7 @@ CopilotKid Back-end SDK:
 
 - Remove PostHog, use Segment Anonymous Telemetry instead
 - Updated dependencies
-  - @copilotkit/runtime@1.0.1
+  - @think-copilotkit/runtime@1.0.1
   - @copilotkit/shared@1.0.1
 
 ## 1.0.0
@@ -1948,7 +1948,7 @@ CopilotKid Back-end SDK:
 - Updated dependencies [b6a4b6eb]
 - Updated dependencies [b6a4b6eb]
 - Updated dependencies
-  - @copilotkit/runtime@1.0.0
+  - @think-copilotkit/runtime@1.0.0
   - @copilotkit/shared@1.0.0
 
 ## 1.0.0-beta.2
@@ -1957,7 +1957,7 @@ CopilotKid Back-end SDK:
 
 - Set default Copilot Cloud runtime URL to versioned URL (v1)
 - Updated dependencies
-  - @copilotkit/runtime@1.0.0-beta.2
+  - @think-copilotkit/runtime@1.0.0-beta.2
   - @copilotkit/shared@1.0.0-beta.2
 
 ## 1.0.0-beta.1
@@ -1966,7 +1966,7 @@ CopilotKid Back-end SDK:
 
 - Introduce anonymous telemetry
 - Updated dependencies
-  - @copilotkit/runtime@1.0.0-beta.1
+  - @think-copilotkit/runtime@1.0.0-beta.1
   - @copilotkit/shared@1.0.0-beta.1
 
 ## 1.0.0-beta.0
@@ -1984,5 +1984,5 @@ CopilotKid Back-end SDK:
 ### Patch Changes
 
 - Updated dependencies
-  - @copilotkit/runtime@1.0.0-beta.0
+  - @think-copilotkit/runtime@1.0.0-beta.0
   - @copilotkit/shared@1.0.0-beta.0

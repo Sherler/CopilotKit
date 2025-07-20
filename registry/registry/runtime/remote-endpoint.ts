@@ -3,7 +3,7 @@ import {
   CopilotRuntime,
   copilotRuntimeNextJSAppRouterEndpoint,
   ExperimentalEmptyAdapter,
-} from "@copilotkit/runtime";
+} from "@think-copilotkit/runtime";
 
 const serviceAdapter = new ExperimentalEmptyAdapter();
 

@@ -18,10 +18,10 @@ importers:
       '@copilotkit/react-ui':
         specifier: 1.9.2
         version: 1.9.2(@types/react@19.0.1)(graphql@16.9.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@copilotkit/runtime':
+      '@think-copilotkit/runtime':
         specifier: 1.9.2
         version: 1.9.2(@ag-ui/client@0.0.34)(@ag-ui/core@0.0.34)(@ag-ui/encoder@0.0.34)(@ag-ui/proto@0.0.34)(@aws-crypto/sha256-js@5.2.0)(@aws-sdk/client-bedrock-agent-runtime@3.845.0)(@aws-sdk/client-bedrock-runtime@3.845.0)(@aws-sdk/client-kendra@3.845.0)(@aws-sdk/credential-provider-node@3.845.0)(@browserbasehq/sdk@2.2.0)(@browserbasehq/stagehand@1.12.0(@playwright/test@1.50.1)(deepmerge@4.3.1)(dotenv@16.4.7)(openai@4.85.1(ws@8.18.0)(zod@3.23.8))(zod@3.23.8))(@ibm-cloud/watsonx-ai@1.5.0(@langchain/core@0.3.39(openai@4.85.1(ws@8.18.0)(zod@3.23.8))))(@smithy/util-utf8@2.3.0)(axios@1.7.9)(fast-xml-parser@5.2.5)(google-auth-library@8.9.0)(ibm-cloud-sdk-core@5.1.2)(ignore@5.3.2)(jsonwebtoken@9.0.2)(playwright@1.50.1)(react@18.3.1)(ws@8.18.0)
-      '@copilotkit/runtime-client-gql':
+      '@think-copilotkit/runtime-client-gql':
         specifier: 1.9.2
         version: 1.9.2(graphql@16.9.0)(react@18.3.1)
       '@radix-ui/react-accordion':
@@ -333,12 +333,12 @@ packages:
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
 
-  '@copilotkit/runtime-client-gql@1.9.2':
+  '@think-copilotkit/runtime-client-gql@1.9.2':
     resolution: {integrity: sha512-A+pR9h0RwKXgRn74Ht43rjfg0EYLpoN4htEstQfTsA/RWdvP49JAVulfXiV4XFwIkvFHCG7ZU2GFotIAyCOEJQ==}
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
 
-  '@copilotkit/runtime@1.9.2':
+  '@think-copilotkit/runtime@1.9.2':
     resolution: {integrity: sha512-KKF2qtBnOypFFd1MTMK0Tdn2QjhPs3QDxayjKGBcUUE96FzSw/U6Yo2FglhY75uOpyev1h0Iug1i67Ap+SsNJA==}
     peerDependencies:
       '@ag-ui/client': '>=0.0.34'
@@ -5472,7 +5472,7 @@ snapshots:
 
   '@copilotkit/react-core@1.9.2(@types/react@19.0.1)(graphql@16.9.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
-      '@copilotkit/runtime-client-gql': 1.9.2(graphql@16.9.0)(react@18.3.1)
+      '@think-copilotkit/runtime-client-gql': 1.9.2(graphql@16.9.0)(react@18.3.1)
       '@copilotkit/shared': 1.9.2
       '@scarf/scarf': 1.4.0
       react: 18.3.1
@@ -5488,7 +5488,7 @@ snapshots:
   '@copilotkit/react-ui@1.9.2(@types/react@19.0.1)(graphql@16.9.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@copilotkit/react-core': 1.9.2(@types/react@19.0.1)(graphql@16.9.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@copilotkit/runtime-client-gql': 1.9.2(graphql@16.9.0)(react@18.3.1)
+      '@think-copilotkit/runtime-client-gql': 1.9.2(graphql@16.9.0)(react@18.3.1)
       '@copilotkit/shared': 1.9.2
       '@headlessui/react': 2.2.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react: 18.3.1
@@ -5504,7 +5504,7 @@ snapshots:
       - react-dom
       - supports-color
 
-  '@copilotkit/runtime-client-gql@1.9.2(graphql@16.9.0)(react@18.3.1)':
+  '@think-copilotkit/runtime-client-gql@1.9.2(graphql@16.9.0)(react@18.3.1)':
     dependencies:
       '@copilotkit/shared': 1.9.2
       '@urql/core': 5.0.8(graphql@16.9.0)
@@ -5515,7 +5515,7 @@ snapshots:
       - encoding
       - graphql
 
-  '@copilotkit/runtime@1.9.2(@ag-ui/client@0.0.34)(@ag-ui/core@0.0.34)(@ag-ui/encoder@0.0.34)(@ag-ui/proto@0.0.34)(@aws-crypto/sha256-js@5.2.0)(@aws-sdk/client-bedrock-agent-runtime@3.845.0)(@aws-sdk/client-bedrock-runtime@3.845.0)(@aws-sdk/client-kendra@3.845.0)(@aws-sdk/credential-provider-node@3.845.0)(@browserbasehq/sdk@2.2.0)(@browserbasehq/stagehand@1.12.0(@playwright/test@1.50.1)(deepmerge@4.3.1)(dotenv@16.4.7)(openai@4.85.1(ws@8.18.0)(zod@3.23.8))(zod@3.23.8))(@ibm-cloud/watsonx-ai@1.5.0(@langchain/core@0.3.39(openai@4.85.1(ws@8.18.0)(zod@3.23.8))))(@smithy/util-utf8@2.3.0)(axios@1.7.9)(fast-xml-parser@5.2.5)(google-auth-library@8.9.0)(ibm-cloud-sdk-core@5.1.2)(ignore@5.3.2)(jsonwebtoken@9.0.2)(playwright@1.50.1)(react@18.3.1)(ws@8.18.0)':
+  '@think-copilotkit/runtime@1.9.2(@ag-ui/client@0.0.34)(@ag-ui/core@0.0.34)(@ag-ui/encoder@0.0.34)(@ag-ui/proto@0.0.34)(@aws-crypto/sha256-js@5.2.0)(@aws-sdk/client-bedrock-agent-runtime@3.845.0)(@aws-sdk/client-bedrock-runtime@3.845.0)(@aws-sdk/client-kendra@3.845.0)(@aws-sdk/credential-provider-node@3.845.0)(@browserbasehq/sdk@2.2.0)(@browserbasehq/stagehand@1.12.0(@playwright/test@1.50.1)(deepmerge@4.3.1)(dotenv@16.4.7)(openai@4.85.1(ws@8.18.0)(zod@3.23.8))(zod@3.23.8))(@ibm-cloud/watsonx-ai@1.5.0(@langchain/core@0.3.39(openai@4.85.1(ws@8.18.0)(zod@3.23.8))))(@smithy/util-utf8@2.3.0)(axios@1.7.9)(fast-xml-parser@5.2.5)(google-auth-library@8.9.0)(ibm-cloud-sdk-core@5.1.2)(ignore@5.3.2)(jsonwebtoken@9.0.2)(playwright@1.50.1)(react@18.3.1)(ws@8.18.0)':
     dependencies:
       '@ag-ui/client': 0.0.34
       '@ag-ui/core': 0.0.34

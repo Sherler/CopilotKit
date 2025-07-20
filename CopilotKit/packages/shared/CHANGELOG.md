@@ -980,7 +980,7 @@ CopilotKid Back-end SDK:
 
 ### Patch Changes
 
-- Include @copilotkit/runtime-client-gql NPM package version in request to Runtime
+- Include @think-copilotkit/runtime-client-gql NPM package version in request to Runtime
 
 ## 1.0.4
 

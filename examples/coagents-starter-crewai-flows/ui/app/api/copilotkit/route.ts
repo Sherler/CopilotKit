@@ -4,7 +4,7 @@ import {
   copilotRuntimeNextJSAppRouterEndpoint,
   ExperimentalEmptyAdapter,
   // langGraphPlatformEndpoint
-} from "@copilotkit/runtime";
+} from "@think-copilotkit/runtime";
 
 const serviceAdapter = new ExperimentalEmptyAdapter();
 

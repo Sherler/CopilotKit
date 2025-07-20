@@ -1,4 +1,4 @@
-import { ActionInputAvailability } from "@copilotkit/runtime-client-gql";
+import { ActionInputAvailability } from "@think-copilotkit/runtime-client-gql";
 import {
   Action,
   Parameter,

@@ -1,4 +1,4 @@
-# @copilotkit/runtime
+# @think-copilotkit/runtime
 
 ## 1.9.3-next.4
 
@@ -2165,7 +2165,7 @@ CopilotKid Back-end SDK:
 
 ### Patch Changes
 
-- Include @copilotkit/runtime-client-gql NPM package version in request to Runtime
+- Include @think-copilotkit/runtime-client-gql NPM package version in request to Runtime
 - Updated dependencies
   - @copilotkit/shared@1.0.5
 

@@ -11,8 +11,8 @@
   "dependencies": {
     "@copilotkit/react-core": "1.9.2",
     "@copilotkit/react-ui": "1.9.2",
-    "@copilotkit/runtime": "1.9.2",
-    "@copilotkit/runtime-client-gql": "1.9.2",
+    "@think-copilotkit/runtime": "1.9.2",
+    "@think-copilotkit/runtime-client-gql": "1.9.2",
     "@radix-ui/react-accordion": "^1.2.1",
     "@radix-ui/react-checkbox": "^1.1.1",
     "@radix-ui/react-dialog": "^1.1.2",

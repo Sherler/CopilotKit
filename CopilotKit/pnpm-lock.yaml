@@ -56,10 +56,10 @@ importers:
       '@copilotkit/react-ui':
         specifier: workspace:*
         version: link:../../packages/react-ui
-      '@copilotkit/runtime':
+      '@think-copilotkit/runtime':
         specifier: workspace:*
         version: link:../../packages/runtime
-      '@copilotkit/runtime-client-gql':
+      '@think-copilotkit/runtime-client-gql':
         specifier: workspace:*
         version: link:../../packages/runtime-client-gql
       '@copilotkit/shared':
@@ -165,7 +165,7 @@ importers:
       '@copilotkit/react-ui':
         specifier: workspace:*
         version: link:../../packages/react-ui
-      '@copilotkit/runtime':
+      '@think-copilotkit/runtime':
         specifier: workspace:*
         version: link:../../packages/runtime
       '@copilotkit/shared':
@@ -247,7 +247,7 @@ importers:
 
   examples/node-express:
     dependencies:
-      '@copilotkit/runtime':
+      '@think-copilotkit/runtime':
         specifier: workspace:*
         version: link:../../packages/runtime
       '@copilotkit/shared':
@@ -287,7 +287,7 @@ importers:
 
   examples/node-http:
     dependencies:
-      '@copilotkit/runtime':
+      '@think-copilotkit/runtime':
         specifier: workspace:*
         version: link:../../packages/runtime
       '@copilotkit/shared':
@@ -321,7 +321,7 @@ importers:
 
   packages/react-core:
     dependencies:
-      '@copilotkit/runtime-client-gql':
+      '@think-copilotkit/runtime-client-gql':
         specifier: workspace:*
         version: link:../runtime-client-gql
       '@copilotkit/shared':
@@ -388,7 +388,7 @@ importers:
       '@copilotkit/react-core':
         specifier: workspace:*
         version: link:../react-core
-      '@copilotkit/runtime-client-gql':
+      '@think-copilotkit/runtime-client-gql':
         specifier: workspace:*
         version: link:../runtime-client-gql
       '@copilotkit/shared':
@@ -509,7 +509,7 @@ importers:
       '@copilotkit/react-core':
         specifier: workspace:*
         version: link:../react-core
-      '@copilotkit/runtime-client-gql':
+      '@think-copilotkit/runtime-client-gql':
         specifier: workspace:*
         version: link:../runtime-client-gql
       '@copilotkit/shared':
@@ -746,7 +746,7 @@ importers:
         specifier: ^4.1.0
         version: 4.1.0(@urql/core@5.0.4(graphql@16.9.0))(react@18.3.1)
     devDependencies:
-      '@copilotkit/runtime':
+      '@think-copilotkit/runtime':
         specifier: workspace:*
         version: link:../runtime
       '@graphql-codegen/cli':

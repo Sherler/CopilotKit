@@ -27,7 +27,7 @@ import {
   DefaultStateRenderer,
   ResponseStatus,
 } from "@copilotkit/react-ui";
-import { MessageRole, TextMessage } from "@copilotkit/runtime-client-gql";
+import { MessageRole, TextMessage } from "@think-copilotkit/runtime-client-gql";
 import { useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
 

@@ -21,7 +21,7 @@ import {
 import { CopilotKitCSSProperties, CopilotChat } from "@copilotkit/react-ui";
 import { DefaultResponseRenderer } from "@/components/DefaultResponseRenderer";
 import { DefaultStateRenderer } from "@/components/DefaultStateRenderer";
-import { MessageRole, TextMessage } from "@copilotkit/runtime-client-gql";
+import { MessageRole, TextMessage } from "@think-copilotkit/runtime-client-gql";
 import { useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
 // TODO: Replace with `react-core post 1.8.x update

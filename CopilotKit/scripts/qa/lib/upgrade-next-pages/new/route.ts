@@ -2,7 +2,7 @@ import {
   CopilotRuntime,
   OpenAIAdapter,
   copilotRuntimeNextJSPagesRouterEndpoint,
-} from "@copilotkit/runtime";
+} from "@think-copilotkit/runtime";
 import { NextApiRequest, NextApiResponse } from "next";
 
 const serviceAdapter = new OpenAIAdapter();

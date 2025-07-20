@@ -1,4 +1,4 @@
-import { GraphQLError } from "@copilotkit/runtime-client-gql";
+import { GraphQLError } from "@think-copilotkit/runtime-client-gql";
 import React, { createContext, useContext, useState, useCallback } from "react";
 import { ErrorToast } from "../error-boundary/error-utils";
 import { PartialBy, CopilotKitError, CopilotKitErrorCode, Severity } from "@copilotkit/shared";

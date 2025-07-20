@@ -14,8 +14,8 @@ import {
   CopilotRuntimeClient,
   ExtensionsInput,
   ForwardedParametersInput,
-} from "@copilotkit/runtime-client-gql";
-import { Agent } from "@copilotkit/runtime-client-gql";
+} from "@think-copilotkit/runtime-client-gql";
+import { Agent } from "@think-copilotkit/runtime-client-gql";
 import {
   LangGraphInterruptAction,
   LangGraphInterruptActionSetter,

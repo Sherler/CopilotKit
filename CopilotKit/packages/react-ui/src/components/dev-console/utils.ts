@@ -4,8 +4,8 @@ import {
   defaultCopilotContextCategories,
 } from "@copilotkit/react-core";
 import { CopilotKitVersion } from "./types";
-import { ActionExecutionMessage, ResultMessage, TextMessage } from "@copilotkit/runtime-client-gql";
-import { AgentStateMessage } from "@copilotkit/runtime-client-gql";
+import { ActionExecutionMessage, ResultMessage, TextMessage } from "@think-copilotkit/runtime-client-gql";
+import { AgentStateMessage } from "@think-copilotkit/runtime-client-gql";
 
 export function shouldShowDevConsole(showDevConsole: boolean): boolean {
   return showDevConsole;

@@ -11,6 +11,6 @@
     "@copilotkit/react-core/*": ["../packages/react-core/*"],
     "@copilotkit/react-ui/*": ["../packages/react-ui/*"],
     "@copilotkit/react-textarea/*": ["../packages/react-textarea/*"],
-    "@copilotkit/runtime/*": ["../packages/runtime/*"],
+    "@think-copilotkit/runtime/*": ["../packages/runtime/*"],
   }
 }

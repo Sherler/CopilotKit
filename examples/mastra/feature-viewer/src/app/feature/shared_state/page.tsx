@@ -2,7 +2,7 @@
 import { CopilotKit, useCoAgent, useCopilotChat } from "@copilotkit/react-core";
 import { CopilotSidebar } from "@copilotkit/react-ui";
 import { useState, useEffect, useRef } from "react";
-import { Role, TextMessage } from "@copilotkit/runtime-client-gql";
+import { Role, TextMessage } from "@think-copilotkit/runtime-client-gql";
 import "@copilotkit/react-ui/styles.css";
 import "./style.css";
 

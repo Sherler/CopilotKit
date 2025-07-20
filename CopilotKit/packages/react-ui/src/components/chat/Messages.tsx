@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef } from "react";
 import { MessagesProps } from "./props";
 import { useChatContext } from "./ChatContext";
-import { Message, ResultMessage, TextMessage, Role } from "@copilotkit/runtime-client-gql";
+import { Message, ResultMessage, TextMessage, Role } from "@think-copilotkit/runtime-client-gql";
 import { useLangGraphInterruptRender } from "@copilotkit/react-core";
 
 export const Messages = ({

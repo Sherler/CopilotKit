@@ -127,7 +127,7 @@ packages:
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
 
-  '@copilotkit/runtime-client-gql@1.8.13':
+  '@think-copilotkit/runtime-client-gql@1.8.13':
     resolution: {integrity: sha512-LuYhCbno7aIcTV3bPuBJrJw6lIKQRhm4wGb83buxTGvuC42OOVvAZ4JIL9wQqnvoWl3QOgKQrJZB619Ww9YuuQ==}
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
@@ -2927,7 +2927,7 @@ snapshots:
 
   '@copilotkit/react-core@1.8.13(@types/react@19.1.5)(graphql@16.11.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
-      '@copilotkit/runtime-client-gql': 1.8.13(graphql@16.11.0)(react@19.1.0)
+      '@think-copilotkit/runtime-client-gql': 1.8.13(graphql@16.11.0)(react@19.1.0)
       '@copilotkit/shared': 1.8.13
       '@scarf/scarf': 1.4.0
       react: 19.1.0
@@ -2943,7 +2943,7 @@ snapshots:
   '@copilotkit/react-ui@1.8.13(@types/react@19.1.5)(graphql@16.11.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
       '@copilotkit/react-core': 1.8.13(@types/react@19.1.5)(graphql@16.11.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@copilotkit/runtime-client-gql': 1.8.13(graphql@16.11.0)(react@19.1.0)
+      '@think-copilotkit/runtime-client-gql': 1.8.13(graphql@16.11.0)(react@19.1.0)
       '@copilotkit/shared': 1.8.13
       '@headlessui/react': 2.2.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       react: 19.1.0
@@ -2959,7 +2959,7 @@ snapshots:
       - react-dom
       - supports-color
 
-  '@copilotkit/runtime-client-gql@1.8.13(graphql@16.11.0)(react@19.1.0)':
+  '@think-copilotkit/runtime-client-gql@1.8.13(graphql@16.11.0)(react@19.1.0)':
     dependencies:
       '@copilotkit/shared': 1.8.13
       '@urql/core': 5.1.1(graphql@16.11.0)

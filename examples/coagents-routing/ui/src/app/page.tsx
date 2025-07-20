@@ -15,7 +15,7 @@ import {
   useModelSelectorContext,
 } from "./lib/model-selector-provider";
 import { ModelSelector } from "./components/ModelSelector";
-import { MessageRole, TextMessage } from "@copilotkit/runtime-client-gql";
+import { MessageRole, TextMessage } from "@think-copilotkit/runtime-client-gql";
 import { useSearchParams } from "next/navigation";
 import { Suspense } from "react";
 

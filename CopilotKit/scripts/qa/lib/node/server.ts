@@ -2,7 +2,7 @@
  * @filePath server.ts
  */
 import { createServer } from "node:http";
-import { CopilotRuntime, OpenAIAdapter, copilotRuntimeNodeHttpEndpoint } from "@copilotkit/runtime";
+import { CopilotRuntime, OpenAIAdapter, copilotRuntimeNodeHttpEndpoint } from "@think-copilotkit/runtime";
 import OpenAI from "openai";
 
 const openai = new OpenAI();

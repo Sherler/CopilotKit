@@ -4,7 +4,7 @@
  * ## Example
  *
  * ```ts
- * import { CopilotRuntime, OpenAIAdapter } from "@copilotkit/runtime";
+ * import { CopilotRuntime, OpenAIAdapter } from "@think-copilotkit/runtime";
  * import OpenAI from "openai";
  *
  * const copilotKit = new CopilotRuntime();
@@ -20,7 +20,7 @@
  * ## Example with Azure OpenAI
  *
  * ```ts
- * import { CopilotRuntime, OpenAIAdapter } from "@copilotkit/runtime";
+ * import { CopilotRuntime, OpenAIAdapter } from "@think-copilotkit/runtime";
  * import OpenAI from "openai";
  *
  * // The name of your Azure OpenAI Instance.

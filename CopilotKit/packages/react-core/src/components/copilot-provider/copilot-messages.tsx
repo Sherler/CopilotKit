@@ -8,7 +8,7 @@ import {
   loadMessagesFromJsonRepresentation,
   Message,
   GraphQLError,
-} from "@copilotkit/runtime-client-gql";
+} from "@think-copilotkit/runtime-client-gql";
 import { useCopilotContext } from "../../context/copilot-context";
 import { useToast } from "../toast/toast-provider";
 import { shouldShowDevConsole } from "../../utils/dev-console";

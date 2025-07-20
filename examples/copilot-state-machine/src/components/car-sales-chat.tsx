@@ -12,7 +12,7 @@ import {
 } from "@/lib/stages";
 
 import { useCopilotChat } from "@copilotkit/react-core";
-import { TextMessage, MessageRole } from "@copilotkit/runtime-client-gql";
+import { TextMessage, MessageRole } from "@think-copilotkit/runtime-client-gql";
 import { CopilotChat } from "@copilotkit/react-ui";
 import "@copilotkit/react-ui/styles.css";
 import { UserMessage, AssistantMessage } from "./chat-message";

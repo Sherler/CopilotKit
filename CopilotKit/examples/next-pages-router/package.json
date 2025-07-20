@@ -13,7 +13,7 @@
     "@copilotkit/react-core": "workspace:*",
     "@copilotkit/react-textarea": "workspace:*",
     "@copilotkit/react-ui": "workspace:*",
-    "@copilotkit/runtime": "workspace:*",
+    "@think-copilotkit/runtime": "workspace:*",
     "@copilotkit/shared": "workspace:*",
     "@google/generative-ai": "^0.11.2",
     "@heroicons/react": "^2.0.18",

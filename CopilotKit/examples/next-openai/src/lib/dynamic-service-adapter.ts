@@ -22,12 +22,12 @@ export async function getServiceAdapter(name: string) {
 }
 
 async function getOpenAIAdapter() {
-  const { OpenAIAdapter } = await import("@copilotkit/runtime");
+  const { OpenAIAdapter } = await import("@think-copilotkit/runtime");
   return new OpenAIAdapter();
 }
 
 async function getAzureOpenAIAdapter() {
-  const { OpenAIAdapter } = await import("@copilotkit/runtime");
+  const { OpenAIAdapter } = await import("@think-copilotkit/runtime");
   const { OpenAI } = await import("openai");
   const openai = new OpenAI({
     apiKey: process.env["AZURE_OPENAI_API_KEY"],
@@ -39,22 +39,22 @@ async function getAzureOpenAIAdapter() {
 }
 
 async function getAnthropicAdapter() {
-  const { AnthropicAdapter } = await import("@copilotkit/runtime");
+  const { AnthropicAdapter } = await import("@think-copilotkit/runtime");
   return new AnthropicAdapter({ model: "claude-3-7-sonnet-20250219" });
 }
 
 async function getGeminiAdapter() {
-  const { GoogleGenerativeAIAdapter } = await import("@copilotkit/runtime");
+  const { GoogleGenerativeAIAdapter } = await import("@think-copilotkit/runtime");
   return new GoogleGenerativeAIAdapter();
 }
 
 async function getGroqAdapter() {
-  const { GroqAdapter } = await import("@copilotkit/runtime");
+  const { GroqAdapter } = await import("@think-copilotkit/runtime");
   return new GroqAdapter();
 }
 
 async function getLangChainOpenAIAdapter() {
-  const { LangChainAdapter } = await import("@copilotkit/runtime");
+  const { LangChainAdapter } = await import("@think-copilotkit/runtime");
   const { ChatOpenAI } = await import("@langchain/openai");
   return new LangChainAdapter({
     chainFn: async ({ messages, tools, threadId }) => {
@@ -67,7 +67,7 @@ async function getLangChainOpenAIAdapter() {
 }
 
 async function getLangChainAnthropicAdapter() {
-  const { LangChainAdapter } = await import("@copilotkit/runtime");
+  const { LangChainAdapter } = await import("@think-copilotkit/runtime");
   const { ChatAnthropic } = await import("@langchain/anthropic");
   return new LangChainAdapter({
     chainFn: async ({ messages, tools, threadId }) => {
@@ -78,6 +78,6 @@ async function getLangChainAnthropicAdapter() {
 }
 
 async function getBedrockAdapter() {
-  const { BedrockAdapter } = await import("@copilotkit/runtime");
+  const { BedrockAdapter } = await import("@think-copilotkit/runtime");
   return new BedrockAdapter();
 }

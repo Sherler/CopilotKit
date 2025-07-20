@@ -33,7 +33,7 @@ import {
   LangGraphInterruptEvent,
   MetaEventInput,
   AgentStateInput,
-} from "@copilotkit/runtime-client-gql";
+} from "@think-copilotkit/runtime-client-gql";
 
 import { CopilotApiConfig } from "../context";
 import { FrontendAction, processActionsForRuntimeRequest } from "../types/frontend-action";

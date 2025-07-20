@@ -14,7 +14,7 @@ LANGCHAIN_ENDPOINT="https://api.smith.langchain.com""
 Next, use the `LangChainAdapter` to trace your CopilotKit runs:
 
 ```tsx filename="route.ts" showLineNumbers {6-8}
-const { LangChainAdapter } = await import("@copilotkit/runtime");
+const { LangChainAdapter } = await import("@think-copilotkit/runtime");
 const { ChatOpenAI } = await import("@langchain/openai");
 
 async function getLangChainOpenAIAdapter() {

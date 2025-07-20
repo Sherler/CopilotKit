@@ -155,7 +155,7 @@ function VersionInfo({
     `@copilotkit/react-core@${latestVersion}`,
     `@copilotkit/react-ui@${latestVersion}`,
     `@copilotkit/react-textarea@${latestVersion}`,
-    `&& npm install @copilotkit/runtime@${latestVersion}`,
+    `&& npm install @think-copilotkit/runtime@${latestVersion}`,
   ].join(" ");
 
   const handleCopyClick = () => {

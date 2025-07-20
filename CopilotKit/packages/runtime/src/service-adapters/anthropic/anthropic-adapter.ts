@@ -4,7 +4,7 @@
  * ## Example
  *
  * ```ts
- * import { CopilotRuntime, AnthropicAdapter } from "@copilotkit/runtime";
+ * import { CopilotRuntime, AnthropicAdapter } from "@think-copilotkit/runtime";
  * import Anthropic from "@anthropic-ai/sdk";
  *
  * const copilotKit = new CopilotRuntime();

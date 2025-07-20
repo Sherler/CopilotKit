@@ -7,7 +7,7 @@ import {
 import { SmallSpinnerIcon } from "./Icons";
 import { CopilotChatSuggestion } from "../../types/suggestions";
 import { actionParametersToJsonSchema } from "@copilotkit/shared";
-import { CopilotRequestType } from "@copilotkit/runtime-client-gql";
+import { CopilotRequestType } from "@think-copilotkit/runtime-client-gql";
 
 interface SuggestionsProps {
   title: string;

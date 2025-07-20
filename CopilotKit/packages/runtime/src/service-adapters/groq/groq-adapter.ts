@@ -4,7 +4,7 @@
  * ## Example
  *
  * ```ts
- * import { CopilotRuntime, GroqAdapter } from "@copilotkit/runtime";
+ * import { CopilotRuntime, GroqAdapter } from "@think-copilotkit/runtime";
  * import { Groq } from "groq-sdk";
  *
  * const groq = new Groq({ apiKey: process.env["GROQ_API_KEY"] });

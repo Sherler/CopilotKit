@@ -1,4 +1,4 @@
-import { CopilotRuntime, OpenAIAdapter } from "@copilotkit/runtime";
+import { CopilotRuntime, OpenAIAdapter } from "@think-copilotkit/runtime";
 
 export async function POST(req: Request): Promise<Response> {
   const copilotKit = new CopilotRuntime();

@@ -1,5 +1,5 @@
 ---
-"@copilotkit/runtime": patch
+"@think-copilotkit/runtime": patch
 ---
 
 - upgrade AG-UI packages

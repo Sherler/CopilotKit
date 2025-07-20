@@ -59,7 +59,7 @@ get_latest_prerelease_versions() {
 }
 
 get_latest_copilotkit_prerelase_versions() {
-  get_latest_prerelease_versions $1 "@copilotkit/runtime" "@copilotkit/react-core" "@copilotkit/react-textarea" "@copilotkit/react-ui" "@copilotkit/shared"
+  get_latest_prerelease_versions $1 "@think-copilotkit/runtime" "@copilotkit/react-core" "@copilotkit/react-textarea" "@copilotkit/react-ui" "@copilotkit/shared"
 }
 
 use_local_packages() {

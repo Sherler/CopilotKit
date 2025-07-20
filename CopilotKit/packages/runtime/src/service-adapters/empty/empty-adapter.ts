@@ -8,7 +8,7 @@
  * ## Example
  *
  * ```ts
- * import { CopilotRuntime, EmptyAdapter } from "@copilotkit/runtime";
+ * import { CopilotRuntime, EmptyAdapter } from "@think-copilotkit/runtime";
  *
  * const copilotKit = new CopilotRuntime();
  *

@@ -2,7 +2,7 @@ import {
   CopilotRuntimeClient,
   CopilotRuntimeClientOptions,
   GraphQLError,
-} from "@copilotkit/runtime-client-gql";
+} from "@think-copilotkit/runtime-client-gql";
 import { useToast } from "../components/toast/toast-provider";
 import { useMemo, useRef } from "react";
 import {
