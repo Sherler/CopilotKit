@@ -59,6 +59,7 @@ import {
   CopilotKitLowLevelError,
   isStructuredCopilotKitError,
 } from "@copilotkit/shared";
+import { readSync } from "node:fs";
 
 const invokeGuardrails = async ({
   baseUrl,
@@ -236,7 +237,7 @@ export class CopilotResolver {
     if (copilotCloudPublicApiKey) {
       ctx.properties["copilotCloudPublicApiKey"] = copilotCloudPublicApiKey;
     }
-
+    // console.log("Copilot requesting messages:", data.messages);
     logger.debug("Processing");
     let runtimeResponse;
     try {
@@ -529,6 +530,7 @@ export class CopilotResolver {
 
                     textSubscription = textMessageContentStream.subscribe({
                       next: async (e: RuntimeEvent) => {
+                        // console.debug("Received text message content event", e);
                         if (e.type == RuntimeEventTypes.TextMessageContent) {
                           await pushTextChunk(e.content);
                           textChunks.push(e.content);
@@ -554,6 +556,66 @@ export class CopilotResolver {
                             id: messageId,
                             createdAt: new Date(),
                             content: textChunks.join(""),
+                            role: MessageRole.assistant,
+                          }),
+                        );
+                      },
+                    });
+                  }),
+                  reasoningContent: new Repeater(async (pushTextChunk, stopStreamingText) => {
+                    logger.debug("Text message reasoning content repeater created");
+
+                    const textChunks: string[] = [];
+                    let textSubscription: Subscription;
+
+                    interruptStreaming$
+                      .pipe(
+                        shareReplay(),
+                        take(1),
+                        tap(({ reason, messageId }) => {
+                          logger.debug({ reason, messageId }, "Text streaming interrupted");
+
+                          streamingTextStatus.next(
+                            plainToInstance(FailedMessageStatus, { reason }),
+                          );
+
+                          responseStatus$.next(new MessageStreamInterruptedResponse({ messageId }));
+                          stopStreamingText();
+                          textSubscription?.unsubscribe();
+                        }),
+                      )
+                      .subscribe();
+
+                    logger.debug("Subscribing to reasoning text message content stream");
+
+                    textSubscription = textMessageContentStream.subscribe({
+                      next: async (e: RuntimeEvent) => {
+                        console.debug("Received text message content event", e);
+                        if (e.type == RuntimeEventTypes.TextMessageContent) {
+                          await pushTextChunk(e.reasoningContent);
+                          textChunks.push(e.reasoningContent);
+                        }
+                      },
+                      error: (err) => {
+                        logger.error({ err }, "Error in text message content stream");
+                        interruptStreaming$.next({
+                          reason: "Error streaming message content",
+                          messageId,
+                        });
+                        stopStreamingText();
+                        textSubscription?.unsubscribe();
+                      },
+                      complete: () => {
+                        logger.debug("Text message content stream completed");
+                        streamingTextStatus.next(new SuccessMessageStatus());
+                        stopStreamingText();
+                        textSubscription?.unsubscribe();
+
+                        outputMessages.push(
+                          plainToInstance(TextMessage, {
+                            id: messageId,
+                            createdAt: new Date(),
+                            reasoningContent: textChunks.join(""),
                             role: MessageRole.assistant,
                           }),
                         );

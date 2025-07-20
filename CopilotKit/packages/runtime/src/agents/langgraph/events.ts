@@ -133,6 +133,7 @@ type LangGraphOnChatModelStreamEvent = {
       kwargs: {
         content: string | { text: string; type: string; index: number }[];
         additional_kwargs: {
+          reasoning_content?: string;
           tool_calls: {
             index: number;
             id: string;
@@ -192,6 +193,7 @@ type LangGraphOnChatModelEndEvent = {
           kwargs: {
             content: string;
             additional_kwargs: {
+              reasoning_content?: string;
               tool_calls: {
                 index: number;
                 id: string;

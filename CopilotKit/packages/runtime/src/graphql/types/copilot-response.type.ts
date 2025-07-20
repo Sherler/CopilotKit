@@ -37,8 +37,11 @@ export class TextMessageOutput {
   @Field(() => MessageRole)
   role: MessageRole;
 
-  @Field(() => [String])
+  @Field(() => [String] , { nullable: true })
   content: string[];
+
+  @Field(() => [String] , { nullable: true })
+  reasoningContent: string[];
 
   @Field(() => String, { nullable: true })
   parentMessageId?: string;

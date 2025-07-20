@@ -21,6 +21,7 @@ interface LangGraphEventWithState {
   lastToolCallId: string | null;
   lastToolCallName: string | null;
   currentContent: string | null;
+  reasoningContent: string | null;
   processedToolCallIds: Set<string>;
 }
 
@@ -93,8 +94,11 @@ export class RemoteLangGraphEventSource {
             const toolCallCheck = toolCallChunks && toolCallChunks.length > 0;
             let isToolCallEnd = responseMetadata?.finish_reason === "tool_calls";
 
+            // console.debug("Processing event.data?.chunk?.kwargs:", event.data?.chunk?.kwargs)
+
             acc.isToolCallStart = toolCallChunks.some((chunk: any) => chunk.name && chunk.id);
             acc.isMessageStart = prevMessageId !== acc.lastMessageId && !acc.isToolCallStart;
+            acc.reasoningContent = event.data?.chunk?.kwargs?.additional_kwargs?.reasoning_content ?? null;
 
             let previousRoundHadToolCall = acc.isToolCall;
             acc.isToolCall = toolCallCheck;
@@ -205,6 +209,7 @@ export class RemoteLangGraphEventSource {
             messageId: acc.lastMessageId,
           });
         }
+        // console.debug("Processing acc:", acc.event!.event, acc.event.data?.chunk?.kwargs,  shouldEmitMessages, (acc.currentContent || acc.reasoningContent));
 
         switch (acc.event!.event) {
           //
@@ -223,6 +228,7 @@ export class RemoteLangGraphEventSource {
                 type: RuntimeEventTypes.TextMessageContent,
                 messageId: acc.event.data.message_id,
                 content: acc.event.data.message,
+                reasoningContent: acc.reasoningContent,
               });
               events.push({
                 type: RuntimeEventTypes.TextMessageEnd,
@@ -297,11 +303,12 @@ export class RemoteLangGraphEventSource {
               });
             }
             // Message content: emit TextMessageContent
-            else if (!acc.isToolCall && acc.currentContent && shouldEmitMessages) {
+            else if (!acc.isToolCall && (acc.currentContent || acc.reasoningContent) && shouldEmitMessages) {
               events.push({
                 type: RuntimeEventTypes.TextMessageContent,
                 messageId: acc.lastMessageId,
                 content: acc.currentContent,
+                reasoningContent: acc.reasoningContent,
               });
             }
             break;

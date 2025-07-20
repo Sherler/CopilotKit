@@ -18,6 +18,7 @@ export function convertGqlInputToMessages(inputMessages: MessageInput[]): Messag
         createdAt: message.createdAt,
         role: message.textMessage.role,
         content: message.textMessage.content,
+        reasoningContent: message.textMessage.reasoningContent,
         parentMessageId: message.textMessage.parentMessageId,
       });
     } else if (message.imageMessage) {

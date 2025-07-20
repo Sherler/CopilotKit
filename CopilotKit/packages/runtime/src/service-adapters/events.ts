@@ -69,6 +69,7 @@ export type RuntimeEvent =
       type: RuntimeEventTypes.TextMessageContent;
       messageId: string;
       content: string;
+      reasoningContent?: string;
     }
   | { type: RuntimeEventTypes.TextMessageEnd; messageId: string }
   | {
@@ -255,7 +256,7 @@ export class RuntimeEventSource {
     this.callback = callback;
   }
 
-  sendErrorMessageToChat(message = "An error occurred. Please try again.") {
+  sendErrorMessageToChat(message = "后台发生错误请重试.") {
     const errorMessage = `❌ ${message}`;
     if (!this.callback) {
       this.stream(async (eventStream$) => {

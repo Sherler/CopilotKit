@@ -43,6 +43,7 @@ export class TextMessage extends Message implements TextMessageInput {
   type: MessageType = "TextMessage";
   content: string;
   role: MessageRole;
+  reasoningContent?: string;
   parentMessageId?: string;
 }
 

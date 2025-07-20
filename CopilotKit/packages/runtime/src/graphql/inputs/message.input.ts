@@ -28,6 +28,9 @@ export class TextMessageInput {
   content: string;
 
   @Field(() => String, { nullable: true })
+  reasoningContent?: string;
+
+  @Field(() => String, { nullable: true })
   parentMessageId?: string;
 
   @Field(() => MessageRole)
