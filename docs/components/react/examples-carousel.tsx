@@ -158,7 +158,7 @@ export const LandingExamples: CarouselExample[] = [
       src: "/images/coagents/tutorials/ai-travel-app/demo.mp4"
     },
     links: {
-      source: "https://github.com/CopilotKit/CopilotKit/tree/main/examples/coagents-travel?ref=travel-tutorial",
+      source: "https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-travel?ref=travel-tutorial",
       demo: "https://examples-coagents-ai-travel-app.vercel.app/",
       tutorial: "/coagents/tutorials/ai-travel-app"
     }
@@ -172,7 +172,7 @@ export const LandingExamples: CarouselExample[] = [
       src: "/images/examples/research.mp4"
     },
     links: {
-      source: "https://github.com/CopilotKit/CopilotKit/blob/main/examples/coagents-research-canvas/readme.md",
+      source: "https://github.com/Sherler/CopilotKit/blob/main/examples/coagents-research-canvas/readme.md",
       demo: "https://examples-coagents-research-canvas-ui.vercel.app/",
       tutorial: "/coagents/videos/research-canvas"
     }
@@ -201,7 +201,7 @@ export const CoAgentsExamples: CarouselExample[] = [
       src: "/images/coagents/tutorials/ai-travel-app/demo.mp4"
     },
     links: {
-      source: "https://github.com/CopilotKit/CopilotKit/tree/main/examples/coagents-travel?ref=travel-tutorial",
+      source: "https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-travel?ref=travel-tutorial",
       demo: "https://examples-coagents-ai-travel-app.vercel.app/",
       tutorial: "/coagents/tutorials/ai-travel-app"
     }
@@ -215,7 +215,7 @@ export const CoAgentsExamples: CarouselExample[] = [
       src: "/images/examples/research.mp4"
     },
     links: {
-      source: "https://github.com/CopilotKit/CopilotKit/blob/main/examples/coagents-research-canvas/readme.md",
+      source: "https://github.com/Sherler/CopilotKit/blob/main/examples/coagents-research-canvas/readme.md",
       demo: "https://examples-coagents-research-canvas-ui.vercel.app/",
       tutorial: "/coagents/videos/research-canvas"
     }

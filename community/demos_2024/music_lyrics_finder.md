@@ -2,7 +2,7 @@
 
 ## 2. ⭕ Name of Issue/Topic
 
-[#641 Develop a bot that finds and displays lyrics to any song based on user input](https://github.com/CopilotKit/CopilotKit/issues/641)
+[#641 Develop a bot that finds and displays lyrics to any song based on user input](https://github.com/Sherler/CopilotKit/issues/641)
 
 ## 3. 🍵 Technologies Being Used
 

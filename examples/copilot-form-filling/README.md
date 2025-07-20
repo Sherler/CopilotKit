@@ -30,7 +30,7 @@ Transform tedious form-filling into natural conversations. Your AI assistant ask
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CopilotKit/CopilotKit.git
+   git clone https://github.com/Sherler/CopilotKit.git
    cd CopilotKit/examples/copilot-form-filling
    ```
 

@@ -4,7 +4,7 @@ Emotion Reads - A Simple Book Recommendation System that gives recommendation ba
 
 ### 📝 **Name of Issue/Topic**
 
-[Book Recommendation System (Hacktoberfest Demo)](https://github.com/CopilotKit/CopilotKit/issues/610)
+[Book Recommendation System (Hacktoberfest Demo)](https://github.com/Sherler/CopilotKit/issues/610)
 
 ---
 

@@ -46,7 +46,7 @@ GitHub Repo Link:  [Copilotmate Repo](https://github.com/AkashJana18/copilotmate
 Link to any bonus activities:  
 - Solved GitHub issues related to CopilotKit :
   - Fixes #713, #645, #644, #626 (Hacktober related)
-  - Fixed #726 [Link](https://github.com/CopilotKit/CopilotKit/pull/726)
+  - Fixed #726 [Link](https://github.com/Sherler/CopilotKit/pull/726)
 - Posted about CopilotMate on
   1. [Twitter](https://x.com/Akashj_01/status/1843662122917736475)
   2. [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7254023926891065346/)

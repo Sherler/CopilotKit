@@ -15,7 +15,7 @@ Please show your support and give a ⭐ to the CopilotKit repository.
 ## How to Participate in 4 Easy Steps
 
 1. **Project Setup and Guidelines**: Refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) file for detailed setup instructions and guidelines.
-2. **Choose a Topic**: Visit our [Issues section](https://github.com/CopilotKit/CopilotKit/issues) tagged with `hacktoberfest`. CopilotKit will allow multi-assign!
+2. **Choose a Topic**: Visit our [Issues section](https://github.com/Sherler/CopilotKit/issues) tagged with `hacktoberfest`. CopilotKit will allow multi-assign!
 3. **Submit Your Demo**: Create and submit your project according to the steps listed in the `CONTRIBUTING.md`.
 4. **Add Your Project**: Don't forget to add your project to the `demos` folder to be part of our contributors' list!
 

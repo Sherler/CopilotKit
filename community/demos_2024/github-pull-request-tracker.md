@@ -12,7 +12,7 @@ CopilotKit Demo
 - **Tailwind CSS** - Utility-first CSS framework for rapid UI development.
 - **Shadcn-UI** - Components for building accessible and customizable UI.
 - **Apollo Client** - State management library for GraphQL.
-- **CopilotKit API** - For AI chatbot [[Copilot Kit]](https://github.com/copilotkit/copilotkit)
+- **CopilotKit API** - For AI chatbot [[Copilot Kit]](https://github.com/Sherler/CopilotKit)
 
 ---
 ### ✨Features 

@@ -6,7 +6,7 @@ combine the two together to make an agentic copilot!
 
 ## The React State
 
-Let's quickly review how the app's state works. Open up the [`lib/hooks/use-trips.tsx`](https://github.com/CopilotKit/CopilotKit/blob/coagents-travel-tutorial-start/examples/coagents-travel/ui/lib/hooks/use-trips.tsx) file.
+Let's quickly review how the app's state works. Open up the [`lib/hooks/use-trips.tsx`](https://github.com/Sherler/CopilotKit/blob/coagents-travel-tutorial-start/examples/coagents-travel/ui/lib/hooks/use-trips.tsx) file.
 
 At a glance, we can see that the file exposes a provider (`TripsProvider`), which defines a lot useful things. The main thing we care about is the `state` object which takes the shape of the `AgentState` type. This is consumable by a `useTrips` hook, which we use in the rest of the application (feel free to check out the `TripCard`, 
 `TripContent` and `TripSelect` components).
@@ -121,7 +121,7 @@ Want to learn more about multi-agent routing? Checkout out the [multi-agent conc
 </CopilotKit>
 ```
 
-This will ensure that every request is sent to the `travel` agent. The `travel` name is defined in the [agents/langgraph.json](https://github.com/CopilotKit/CopilotKit/blob/main/examples/coagents-travel/agent/langgraph.json)
+This will ensure that every request is sent to the `travel` agent. The `travel` name is defined in the [agents/langgraph.json](https://github.com/Sherler/CopilotKit/blob/main/examples/coagents-travel/agent/langgraph.json)
 file. When we deploy our agent to Copilot Cloud this is automatically handled for us. When self-hosting, we need to specify the name of the agent in the `langGraphPlatformEndpoint` constructor.
 </Step>
 <Step>

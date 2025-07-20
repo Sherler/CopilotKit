@@ -6,8 +6,8 @@ Here’s how you can participate during Hacktoberfest:
 
 ## How to Contribute in 4 Easy Steps
 
-1. **Pick an Issue**: Choose [GitHub Issues](https://github.com/CopilotKit/CopilotKit/issues) tagged `hacktoberfest` from our issues list and ask to be assigned.
-2. **Fork and Clone**: Fork and clone the [CopilotKit repository](https://github.com/CopilotKit/CopilotKit) to your local machine.
+1. **Pick an Issue**: Choose [GitHub Issues](https://github.com/Sherler/CopilotKit/issues) tagged `hacktoberfest` from our issues list and ask to be assigned.
+2. **Fork and Clone**: Fork and clone the [CopilotKit repository](https://github.com/Sherler/CopilotKit) to your local machine.
 
 3. **Create a Branch**: Create a branch for your changes.
 4. **Develop**: Work on your assigned issue. Be sure to sync your branch with the main branch frequently to ensure compatibility.

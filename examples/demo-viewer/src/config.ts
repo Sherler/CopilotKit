@@ -184,7 +184,7 @@ config.push({
   path: "/research-canvas",
   files: [],
   iframeUrl: "https://examples-coagents-research-canvas-ui.vercel.app/",
-  sourceCodeUrl: "https://github.com/CopilotKit/CopilotKit/tree/main/examples/coagents-research-canvas",
+  sourceCodeUrl: "https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-research-canvas",
   tags: ["Coagents", "Research", "External"],
 });
 

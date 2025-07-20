@@ -41,7 +41,7 @@ The example showcases how to implement complex conversational flows using a stat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CopilotKit/CopilotKit.git
+   git clone https://github.com/Sherler/CopilotKit.git
    cd CopilotKit/examples/copilot-state-machine
    ```
 

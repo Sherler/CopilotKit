@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/npm/v/%40copilotkit%2Freact-core?logo=npm&logoColor=%23FFFFFF&label=Version&color=%236963ff" alt="NPM">
   </a>
 
-  <a href="https://github.com/copilotkit/copilotkit/blob/main/LICENSE" target="_blank">
+  <a href="https://github.com/Sherler/CopilotKit/blob/main/LICENSE" target="_blank">
     <img src="https://img.shields.io/github/license/copilotkit/copilotkit?color=%236963ff&label=License" alt="MIT">
   </a>
 
@@ -202,4 +202,4 @@ Here are a few useful resources to help you get started:
 
 ## 📄 License
 
-This repository's source code is available under the [MIT License](https://github.com/CopilotKit/CopilotKit/blob/main/LICENSE).
+This repository's source code is available under the [MIT License](https://github.com/Sherler/CopilotKit/blob/main/LICENSE).

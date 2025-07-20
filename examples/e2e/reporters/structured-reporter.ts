@@ -367,7 +367,7 @@ export default class StructuredReporter implements Reporter {
 
     const commitSha = process.env.GITHUB_SHA || "unknown";
     const shortSha = commitSha.substring(0, 7);
-    const commitLink = `[${shortSha}](https://github.com/CopilotKit/CopilotKit/commit/${commitSha})`;
+    const commitLink = `[${shortSha}](https://github.com/Sherler/CopilotKit/commit/${commitSha})`;
 
     const mdContent: MarkdownContent[] = [
       { h1: "Test Results" },

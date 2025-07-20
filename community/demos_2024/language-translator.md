@@ -3,7 +3,7 @@
 
 ## 2. Name of Issue/Topic:-08 - Language Translator (Hacktoberfest Demo)
 
-https://github.com/CopilotKit/CopilotKit/issues/609
+https://github.com/Sherler/CopilotKit/issues/609
 
 
 ## 3. Technologies Being Used

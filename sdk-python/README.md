@@ -46,17 +46,17 @@ For detailed documentation and examples, visit [copilotkit.ai](https://copilotki
 
 ## Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](https://github.com/CopilotKit/CopilotKit/blob/main/CONTRIBUTING.md) for details.
+We welcome contributions! Please see our [Contributing Guidelines](https://github.com/Sherler/CopilotKit/blob/main/CONTRIBUTING.md) for details.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/CopilotKit/CopilotKit/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Sherler/CopilotKit/blob/main/LICENSE) file for details.
 
 ## Support
 
 - 📚 [Documentation](https://docs.copilotkit.ai)
 - 💬 [Discord Community](https://discord.gg/6dffbvGU)
-- 🐛 [Issue Tracker](https://github.com/CopilotKit/CopilotKit/issues)
+- 🐛 [Issue Tracker](https://github.com/Sherler/CopilotKit/issues)
 
 ---
 

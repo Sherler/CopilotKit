@@ -3,7 +3,7 @@
 
 ## 2. Name of Issue/Topic:-13 - Recipe Modifier (Hacktoberfest Demo)
 
-https://github.com/CopilotKit/CopilotKit/issues/625
+https://github.com/Sherler/CopilotKit/issues/625
 
 
 ## 3. Technologies Being Used

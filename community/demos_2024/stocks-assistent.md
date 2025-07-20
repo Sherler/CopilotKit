@@ -3,7 +3,7 @@
 [stock-copilot](https://stocks-copilot.vercel.app/) - Your assistant for stock purchase
 
 ### Name of issue
-[34 - Personalized Investment Portfolio Advisor (Hacktoberfest Demo)](https://github.com/CopilotKit/CopilotKit/issues/781)
+[34 - Personalized Investment Portfolio Advisor (Hacktoberfest Demo)](https://github.com/Sherler/CopilotKit/issues/781)
 
 ## Technologies Being Used
 

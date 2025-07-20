@@ -29,7 +29,7 @@ Transform your data visualization experience with an AI-powered dashboard assist
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CopilotKit/CopilotKit.git
+   git clone https://github.com/Sherler/CopilotKit.git
    cd CopilotKit/examples/copilot-chat-with-your-data
    ```
 

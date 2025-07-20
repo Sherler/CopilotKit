@@ -10,13 +10,13 @@ Ready to contribute but seeking guidance, we have several avenues to assist you.
 
 ## Found a bug?
 
-If you find a bug in the source code, you can help us by [submitting an issue](https://github.com/CopilotKit/CopilotKit/issues/new?assignees=&labels=bug&projects=&template=bug_report.yaml) to our GitHub Repository. Even better, you can submit a Pull Request with a fix.
+If you find a bug in the source code, you can help us by [submitting an issue](https://github.com/Sherler/CopilotKit/issues/new?assignees=&labels=bug&projects=&template=bug_report.yaml) to our GitHub Repository. Even better, you can submit a Pull Request with a fix.
 
 ## Missing a feature?
 
-So, you've got an awesome feature in mind? Throw it over to us by [creating an issue](https://github.com/CopilotKit/CopilotKit/issues/new?assignees=&labels=feature-request&projects=&template=feature_request.yaml) on our GitHub Repo.
+So, you've got an awesome feature in mind? Throw it over to us by [creating an issue](https://github.com/Sherler/CopilotKit/issues/new?assignees=&labels=feature-request&projects=&template=feature_request.yaml) on our GitHub Repo.
 
-If you don't feel ready to make a code contribution yet, no problem! You can also check out the [documentation issues](https://github.com/CopilotKit/CopilotKit/issues?q=is%3Aopen+is%3Aissue+label%3Adocumentation).
+If you don't feel ready to make a code contribution yet, no problem! You can also check out the [documentation issues](https://github.com/Sherler/CopilotKit/issues?q=is%3Aopen+is%3Aissue+label%3Adocumentation).
 
 # How do I make a code contribution?
 
@@ -25,7 +25,7 @@ If you don't feel ready to make a code contribution yet, no problem! You can als
 Are you new to open source contribution? Wondering how contributions work in our project? Here's a quick rundown.
 
 Find an issue that you're interested in addressing, or a feature that you'd like to add.
-You can use [this view](https://github.com/CopilotKit/CopilotKit/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) which helps new contributors find easy gateways into our project.
+You can use [this view](https://github.com/Sherler/CopilotKit/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) which helps new contributors find easy gateways into our project.
 
 ## Step 1: Make a fork
 
@@ -162,7 +162,7 @@ fix(server): missing entity on init
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
 
-[Code of Conduct](https://github.com/CopilotKit/CopilotKit/blob/main/CODE_OF_CONDUCT.md)
+[Code of Conduct](https://github.com/Sherler/CopilotKit/blob/main/CODE_OF_CONDUCT.md)
 
 Our Code of Conduct means that you are responsible for treating everyone on the project with respect and courtesy.
 

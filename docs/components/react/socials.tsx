@@ -11,7 +11,7 @@ const socials = [
     },
     {
         icon: FaGithub,
-        href: "https://github.com/CopilotKit/CopilotKit"
+        href: "https://github.com/Sherler/CopilotKit"
     },
     {
         icon: FaXTwitter,

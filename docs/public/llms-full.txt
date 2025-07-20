@@ -78,7 +78,7 @@ Quickstart](https://docs.copilotkit.ai/quickstart)
 
 [What is CopilotKit?](https://docs.copilotkit.ai/#what-is-copilotkit) [Standard](https://docs.copilotkit.ai/#standard) [CoAgents](https://docs.copilotkit.ai/#coagents) [CopilotKit in Action](https://docs.copilotkit.ai/#copilotkit-in-action) [How does CopilotKit work?](https://docs.copilotkit.ai/#how-does-copilotkit-work) [Common Questions](https://docs.copilotkit.ai/#common-questions) [Concierge](https://docs.copilotkit.ai/#concierge) [Worker](https://docs.copilotkit.ai/#worker) [Batteries included chat components](https://docs.copilotkit.ai/#batteries-included-chat-components) [Deeply integrated Copilots](https://docs.copilotkit.ai/#deeply-integrated-copilots) [Rich agentic experiences](https://docs.copilotkit.ai/#rich-agentic-experiences)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/index.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/index.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -227,7 +227,7 @@ Quickstart (LangGraph)](https://docs.copilotkit.ai/coagents/quickstart/langgraph
 
 [Copilot Infrastructure for LangGraph Agents](https://docs.copilotkit.ai/coagents#copilot-infrastructure-for-langgraph-agents) [Building blocks of a CoAgent](https://docs.copilotkit.ai/coagents#building-blocks-of-a-coagent) [CoAgents in action](https://docs.copilotkit.ai/coagents#coagents-in-action) [Ready to get started?](https://docs.copilotkit.ai/coagents#ready-to-get-started) [Common Questions](https://docs.copilotkit.ai/coagents#common-questions)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/index.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/index.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -259,7 +259,7 @@ All Chat Components](https://docs.copilotkit.ai/reference/components/chat)
 
 No Headings
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/index.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/index.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -332,7 +332,7 @@ Quickstart CrewAI Flows](https://docs.copilotkit.ai/crewai-flows/quickstart/crew
 
 [Copilot Infrastructure for CrewAI Flows](https://docs.copilotkit.ai/crewai-flows#copilot-infrastructure-for-crewai-flows) [Building blocks of a CoAgent](https://docs.copilotkit.ai/crewai-flows#building-blocks-of-a-coagent) [Ready to get started?](https://docs.copilotkit.ai/crewai-flows#ready-to-get-started) [Common Questions](https://docs.copilotkit.ai/crewai-flows#common-questions)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/crewai-flows/index.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/crewai-flows/index.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -548,7 +548,7 @@ Chat with an Agent](https://docs.copilotkit.ai/coagents/agentic-chat-ui)
 
 [Prerequisites](https://docs.copilotkit.ai/coagents/quickstart/langgraph#prerequisites) [Getting started](https://docs.copilotkit.ai/coagents/quickstart/langgraph#getting-started) [Install CopilotKit](https://docs.copilotkit.ai/coagents/quickstart/langgraph#install-copilotkit) [Clone the coagents-starter repo and install dependencies:](https://docs.copilotkit.ai/coagents/quickstart/langgraph#clone-the-coagents-starter-repo-and-install-dependencies) [Install dependencies:](https://docs.copilotkit.ai/coagents/quickstart/langgraph#install-dependencies) [Install dependencies:](https://docs.copilotkit.ai/coagents/quickstart/langgraph#install-dependencies-1) [Create a .env file](https://docs.copilotkit.ai/coagents/quickstart/langgraph#create-a-env-file) [Add your API keys](https://docs.copilotkit.ai/coagents/quickstart/langgraph#add-your-api-keys) [Start your LangGraph Agent](https://docs.copilotkit.ai/coagents/quickstart/langgraph#start-your-langgraph-agent) [Add a remote endpoint for your LangGraph agent](https://docs.copilotkit.ai/coagents/quickstart/langgraph#add-a-remote-endpoint-for-your-langgraph-agent) [Setup your CopilotKit provider](https://docs.copilotkit.ai/coagents/quickstart/langgraph#setup-your-copilotkit-provider) [Install Copilot Runtime](https://docs.copilotkit.ai/coagents/quickstart/langgraph#install-copilot-runtime) [Setup a Copilot Runtime Endpoint](https://docs.copilotkit.ai/coagents/quickstart/langgraph#setup-a-copilot-runtime-endpoint) [Add your LangGraph deployment to Copilot Runtime](https://docs.copilotkit.ai/coagents/quickstart/langgraph#add-your-langgraph-deployment-to-copilot-runtime) [Configure the CopilotKit Provider](https://docs.copilotkit.ai/coagents/quickstart/langgraph#configure-the-copilotkit-provider) [Choose a Copilot UI](https://docs.copilotkit.ai/coagents/quickstart/langgraph#choose-a-copilot-ui) [🎉 Talk to your agent!](https://docs.copilotkit.ai/coagents/quickstart/langgraph#-talk-to-your-agent) [What's next?](https://docs.copilotkit.ai/coagents/quickstart/langgraph#whats-next)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/quickstart/langgraph.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/quickstart/langgraph.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -619,7 +619,7 @@ Quickstart CrewAI Crews](https://docs.copilotkit.ai/crewai-crews/quickstart/crew
 
 [Copilot Infrastructure for CrewAI Crews](https://docs.copilotkit.ai/crewai-crews#copilot-infrastructure-for-crewai-crews) [Building blocks of a CoAgent](https://docs.copilotkit.ai/crewai-crews#building-blocks-of-a-coagent) [Ready to get started?](https://docs.copilotkit.ai/crewai-crews#ready-to-get-started) [Common Questions](https://docs.copilotkit.ai/crewai-crews#common-questions)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/crewai-crews/index.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/crewai-crews/index.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -767,7 +767,7 @@ Saving and restoring messages](https://docs.copilotkit.ai/guides/messages-locals
 
 [Integration](https://docs.copilotkit.ai/guides/self-hosting#integration) [Step 1: Create an Endpoint](https://docs.copilotkit.ai/guides/self-hosting#step-1-create-an-endpoint) [Step 2: Configure the <CopilotKit> Provider](https://docs.copilotkit.ai/guides/self-hosting#step-2-configure-the-copilotkit-provider) [Next Steps](https://docs.copilotkit.ai/guides/self-hosting#next-steps)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/self-hosting.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/self-hosting.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -980,7 +980,7 @@ useCopilotAdditionalInstructions](https://docs.copilotkit.ai/reference/hooks/use
 
 [Usage](https://docs.copilotkit.ai/reference/hooks/useCopilotAction#usage) [Simple Usage](https://docs.copilotkit.ai/reference/hooks/useCopilotAction#simple-usage) [Generative UI](https://docs.copilotkit.ai/reference/hooks/useCopilotAction#generative-ui) [Parameters](https://docs.copilotkit.ai/reference/hooks/useCopilotAction#parameters)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/hooks/useCopilotAction.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/hooks/useCopilotAction.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -1002,7 +1002,7 @@ Learn how to guide users through multi-step conversations using a state machine 
 When building chat-based applications, you often need to guide users through a series of steps or **stages**. This recipe shows how to implement a state machine pattern to keep your assistant focused and on-track.
 
 - Live Example: [https://state-machine-copilot.vercel.app/](https://state-machine-copilot.vercel.app/)
-- Example Source Code: [https://github.com/CopilotKit/CopilotKit/tree/main/examples/copilot-state-machine](https://github.com/CopilotKit/CopilotKit/tree/main/examples/copilot-state-machine)
+- Example Source Code: [https://github.com/Sherler/CopilotKit/tree/main/examples/copilot-state-machine](https://github.com/Sherler/CopilotKit/tree/main/examples/copilot-state-machine)
 
 This recipe assumes you have completed the [quickstart guide](https://docs.copilotkit.ai/quickstart) and have a basic CopilotKit application running.
 
@@ -1160,7 +1160,7 @@ Next, let's see some advanced patterns you can implement with these fundamentals
 ## [Advanced Patterns](https://docs.copilotkit.ai/cookbook/state-machine\#advanced-patterns)
 
 This state machine pattern can be extended for complex interactions. Below are some advanced patterns you can implement with code sourced in our
-[car sales example](https://github.com/CopilotKit/CopilotKit/tree/main/examples/copilot-state-machine) which you already saw a demo of in the [overview](https://docs.copilotkit.ai/cookbook/state-machine#overview).
+[car sales example](https://github.com/Sherler/CopilotKit/tree/main/examples/copilot-state-machine) which you already saw a demo of in the [overview](https://docs.copilotkit.ai/cookbook/state-machine#overview).
 
 ### [Stage Transition Approaches](https://docs.copilotkit.ai/cookbook/state-machine\#stage-transition-approaches)
 
@@ -1181,7 +1181,7 @@ const [stage, setStage] = useState<string>("one");
 The car sales demo uses this approach in generative UI (for more on generative UI, see the [section below](https://docs.copilotkit.ai/cookbook/state-machine#generative-ui)) to transition between stages
 when a user submits their contact information.
 
-Click here for the [source code](https://github.com/CopilotKit/CopilotKit/tree/main/examples/copilot-state-machine/src/lib/stages/use-stage-get-contact-info.tsx)
+Click here for the [source code](https://github.com/Sherler/CopilotKit/tree/main/examples/copilot-state-machine/src/lib/stages/use-stage-get-contact-info.tsx)
 
 src/lib/stages/use-stage-get-contact-info.tsx
 
@@ -1227,7 +1227,7 @@ export function useStageGetContactInfo() {
 
 Sometimes you need stages that can transition to different next stages based on user input or LLM-driven actions.
 
-Click here for the [source code](https://github.com/CopilotKit/CopilotKit/tree/main/examples/copilot-state-machine/src/lib/stages/use-stage-sell-financing.tsx)
+Click here for the [source code](https://github.com/Sherler/CopilotKit/tree/main/examples/copilot-state-machine/src/lib/stages/use-stage-sell-financing.tsx)
 
 src/lib/stages/use-stage-sell-financing.tsx
 
@@ -1269,7 +1269,7 @@ function useStageSellFinancing() {
 When combined with the state machine pattern, you can build deep and interactive conversations with the user. For example, the `buildCar` stage in the car sales demo
 uses generative UI to show the user available cars that they can choose from.
 
-Click here for the [source code](https://github.com/CopilotKit/CopilotKit/tree/main/examples/copilot-state-machine/src/lib/stages/use-stage-build-car.tsx)
+Click here for the [source code](https://github.com/Sherler/CopilotKit/tree/main/examples/copilot-state-machine/src/lib/stages/use-stage-build-car.tsx)
 
 Build Car StageShow Car Component
 
@@ -1317,7 +1317,7 @@ Improved experience coming soon
 
 This is a temporary solution and we will be improving this in the near future.
 
-Click here for the [source code](https://github.com/CopilotKit/CopilotKit/tree/main/examples/copilot-state-machine/src/components/car-sales-chat.tsx)
+Click here for the [source code](https://github.com/Sherler/CopilotKit/tree/main/examples/copilot-state-machine/src/components/car-sales-chat.tsx)
 
 src/components/car-sales-chat.tsx
 
@@ -1354,7 +1354,7 @@ Sometimes you'll want to guide the AI to call a specific tool when entering a st
 The payment info stage demonstrates how to guide the AI to make specific tool calls by
 adding additional instructions to call the `getPaymentInformation` tool explicitly.
 
-Click here for the [source code](https://github.com/CopilotKit/CopilotKit/tree/main/examples/copilot-state-machine/src/lib/stages/use-stage-get-payment-info.tsx)
+Click here for the [source code](https://github.com/Sherler/CopilotKit/tree/main/examples/copilot-state-machine/src/lib/stages/use-stage-get-payment-info.tsx)
 
 src/lib/stages/use-stage-get-payment-info.tsx
 
@@ -1387,7 +1387,7 @@ With this pattern, you can start building your own multi-stage conversations.
 
 ## [Need Help?](https://docs.copilotkit.ai/cookbook/state-machine\#need-help)
 
-Need help or want to share what you've built? Join our [Discord community](https://discord.gg/6dffbvGU3D) or open an issue on [GitHub](https://github.com/CopilotKit/CopilotKit/issues/new/choose).
+Need help or want to share what you've built? Join our [Discord community](https://discord.gg/6dffbvGU3D) or open an issue on [GitHub](https://github.com/Sherler/CopilotKit/issues/new/choose).
 
 [Previous\\
 \\
@@ -1399,7 +1399,7 @@ Common Issues](https://docs.copilotkit.ai/troubleshooting/common-issues)
 
 [Overview](https://docs.copilotkit.ai/cookbook/state-machine#overview) [What is a State Machine?](https://docs.copilotkit.ai/cookbook/state-machine#what-is-a-state-machine) [State Machines in CopilotKit](https://docs.copilotkit.ai/cookbook/state-machine#state-machines-in-copilotkit) [Basic Implementation](https://docs.copilotkit.ai/cookbook/state-machine#basic-implementation) [Create a stage](https://docs.copilotkit.ai/cookbook/state-machine#create-a-stage) [Create another stage](https://docs.copilotkit.ai/cookbook/state-machine#create-another-stage) [Put it all together](https://docs.copilotkit.ai/cookbook/state-machine#put-it-all-together) [🎉 You've implemented a state machine!](https://docs.copilotkit.ai/cookbook/state-machine#-youve-implemented-a-state-machine) [Advanced Patterns](https://docs.copilotkit.ai/cookbook/state-machine#advanced-patterns) [Stage Transition Approaches](https://docs.copilotkit.ai/cookbook/state-machine#stage-transition-approaches) [Code-driven Stage Transitions](https://docs.copilotkit.ai/cookbook/state-machine#code-driven-stage-transitions) [LLM-Driven Stage Transitions](https://docs.copilotkit.ai/cookbook/state-machine#llm-driven-stage-transitions) [Generative UI](https://docs.copilotkit.ai/cookbook/state-machine#generative-ui) [Initial message loading](https://docs.copilotkit.ai/cookbook/state-machine#initial-message-loading) [Tools When Entering a Stage](https://docs.copilotkit.ai/cookbook/state-machine#tools-when-entering-a-stage) [Recap](https://docs.copilotkit.ai/cookbook/state-machine#recap) [Need Help?](https://docs.copilotkit.ai/cookbook/state-machine#need-help)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/cookbook/state-machine.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/cookbook/state-machine.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -1514,7 +1514,7 @@ useCoAgentStateRender](https://docs.copilotkit.ai/reference/hooks/useCoAgentStat
 
 [Usage](https://docs.copilotkit.ai/reference/hooks/useCoAgent#usage) [Simple Usage](https://docs.copilotkit.ai/reference/hooks/useCoAgent#simple-usage) [Parameters](https://docs.copilotkit.ai/reference/hooks/useCoAgent#parameters)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/hooks/useCoAgent.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/hooks/useCoAgent.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -1652,7 +1652,7 @@ useCopilotReadable](https://docs.copilotkit.ai/reference/hooks/useCopilotReadabl
 
 [Example](https://docs.copilotkit.ai/reference/components/CopilotKit#example) [Properties](https://docs.copilotkit.ai/reference/components/CopilotKit#properties)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/components/CopilotKit.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/components/CopilotKit.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -1669,7 +1669,7 @@ On this pageWhat is this?
 
 Create frontend actions and use them within your agent.
 
-This video shows the [coagents starter](https://github.com/CopilotKit/CopilotKit/tree/main/examples/coagents-starter) repo with the [implementation](https://docs.copilotkit.ai/coagents/frontend-actions#implementation) section applied to it!
+This video shows the [coagents starter](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) repo with the [implementation](https://docs.copilotkit.ai/coagents/frontend-actions#implementation) section applied to it!
 
 ## [What is this?](https://docs.copilotkit.ai/coagents/frontend-actions\#what-is-this)
 
@@ -1802,7 +1802,7 @@ Multi-Agent Flows](https://docs.copilotkit.ai/coagents/multi-agent-flows)
 
 [What is this?](https://docs.copilotkit.ai/coagents/frontend-actions#what-is-this) [When should I use this?](https://docs.copilotkit.ai/coagents/frontend-actions#when-should-i-use-this) [Implementation](https://docs.copilotkit.ai/coagents/frontend-actions#implementation) [Setup CopilotKit](https://docs.copilotkit.ai/coagents/frontend-actions#setup-copilotkit) [Create a frontend action](https://docs.copilotkit.ai/coagents/frontend-actions#create-a-frontend-action) [Modify your agent](https://docs.copilotkit.ai/coagents/frontend-actions#modify-your-agent) [Install the CopilotKit SDK](https://docs.copilotkit.ai/coagents/frontend-actions#install-the-copilotkit-sdk) [Inheriting from CopilotKitState](https://docs.copilotkit.ai/coagents/frontend-actions#inheriting-from-copilotkitstate) [Accessing Frontend Actions](https://docs.copilotkit.ai/coagents/frontend-actions#accessing-frontend-actions) [Give it a try!](https://docs.copilotkit.ai/coagents/frontend-actions#give-it-a-try)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/frontend-actions.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/frontend-actions.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -1855,7 +1855,7 @@ Agentic Generative UI](https://docs.copilotkit.ai/coagents/generative-ui/agentic
 
 [What is Generative UI?](https://docs.copilotkit.ai/coagents/generative-ui#what-is-generative-ui) [How can I use this?](https://docs.copilotkit.ai/coagents/generative-ui#how-can-i-use-this)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/generative-ui/index.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/generative-ui/index.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -1977,7 +1977,7 @@ Customize UI](https://docs.copilotkit.ai/guides/custom-look-and-feel)
 
 [Install CopilotKit](https://docs.copilotkit.ai/quickstart?component=CopilotChat#install-copilotkit) [Get a Copilot Cloud Public API Key](https://docs.copilotkit.ai/quickstart?component=CopilotChat#get-a-copilot-cloud-public-api-key) [Setup the CopilotKit Provider](https://docs.copilotkit.ai/quickstart?component=CopilotChat#setup-the-copilotkit-provider) [Choose a Copilot UI](https://docs.copilotkit.ai/quickstart?component=CopilotChat#choose-a-copilot-ui) [Install CopilotKit](https://docs.copilotkit.ai/quickstart?component=CopilotChat#install-copilotkit-1) [Set up a Copilot Runtime Endpoint](https://docs.copilotkit.ai/quickstart?component=CopilotChat#set-up-a-copilot-runtime-endpoint) [Configure the CopilotKit Provider](https://docs.copilotkit.ai/quickstart?component=CopilotChat#configure-the-copilotkit-provider) [Choose a Copilot UI](https://docs.copilotkit.ai/quickstart?component=CopilotChat#choose-a-copilot-ui-1) [Next Steps](https://docs.copilotkit.ai/quickstart?component=CopilotChat#next-steps)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/quickstart.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/quickstart.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -2063,7 +2063,7 @@ Overview](https://docs.copilotkit.ai/tutorials/ai-todo-app/overview)
 
 No Headings
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/messages-localstorage.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/messages-localstorage.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -2152,7 +2152,7 @@ Bring Your Own LLM](https://docs.copilotkit.ai/guides/bring-your-own-llm)
 
 [Simple Usage](https://docs.copilotkit.ai/guides/copilot-suggestions#simple-usage) [Dependency Management](https://docs.copilotkit.ai/guides/copilot-suggestions#dependency-management) [Next Steps](https://docs.copilotkit.ai/guides/copilot-suggestions#next-steps)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/copilot-suggestions.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/copilot-suggestions.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -2214,7 +2214,7 @@ export function MyComponent() {
 }
 ```
 
-Have a look at the [Presentation Example App](https://github.com/CopilotKit/CopilotKit/blob/main/CopilotKit/examples/next-openai/src/app/presentation/page.tsx) for a more complete example.
+Have a look at the [Presentation Example App](https://github.com/Sherler/CopilotKit/blob/main/CopilotKit/examples/next-openai/src/app/presentation/page.tsx) for a more complete example.
 
 ## [Constructor Parameters](https://docs.copilotkit.ai/reference/classes/CopilotTask\#constructor-parameters)
 
@@ -2260,7 +2260,7 @@ Remote Endpoints](https://docs.copilotkit.ai/reference/sdk/python/RemoteEndpoint
 
 [Example](https://docs.copilotkit.ai/reference/classes/CopilotTask#example) [Constructor Parameters](https://docs.copilotkit.ai/reference/classes/CopilotTask#constructor-parameters)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/classes/CopilotTask.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/classes/CopilotTask.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -2351,7 +2351,7 @@ Self Hosting (Copilot Runtime)](https://docs.copilotkit.ai/guides/self-hosting)
 
 [Install @think-copilotkit/react-textarea](https://docs.copilotkit.ai/guides/copilot-textarea#install-copilotkitreact-textarea) [Import Styles](https://docs.copilotkit.ai/guides/copilot-textarea#import-styles) [Add CopilotTextarea to Your Component](https://docs.copilotkit.ai/guides/copilot-textarea#add-copilottextarea-to-your-component) [Next Steps](https://docs.copilotkit.ai/guides/copilot-textarea#next-steps)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/copilot-textarea.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/copilot-textarea.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -2523,7 +2523,7 @@ OpenAIAdapter](https://docs.copilotkit.ai/reference/classes/llm-adapters/OpenAIA
 
 [Usage](https://docs.copilotkit.ai/reference/classes/CopilotRuntime#usage) [Constructor Parameters](https://docs.copilotkit.ai/reference/classes/CopilotRuntime#constructor-parameters)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/classes/CopilotRuntime.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/classes/CopilotRuntime.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -2614,7 +2614,7 @@ CopilotRuntime](https://docs.copilotkit.ai/reference/classes/CopilotRuntime)
 
 [Usage](https://docs.copilotkit.ai/reference/hooks/useLangGraphInterrupt#usage) [Simple Usage](https://docs.copilotkit.ai/reference/hooks/useLangGraphInterrupt#simple-usage) [Parameters](https://docs.copilotkit.ai/reference/hooks/useLangGraphInterrupt#parameters)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/hooks/useLangGraphInterrupt.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/hooks/useLangGraphInterrupt.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -2758,7 +2758,7 @@ The shortcut to use to open the editor popover window. Default is `"Cmd-k"`.
 autosuggestionsConfigAutosuggestionsConfigUserSpecifiedrequired
 
 Configuration settings for the autosuggestions feature.
-For full reference, [check the interface on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/CopilotKit/packages/react-textarea/src/types/base/base-copilot-textarea-props.tsx#L8).
+For full reference, [check the interface on GitHub](https://github.com/Sherler/CopilotKit/blob/main/CopilotKit/packages/react-textarea/src/types/base/base-copilot-textarea-props.tsx#L8).
 
 textareaPurposestringrequired
 
@@ -2774,11 +2774,11 @@ The chat API configurations.
 
 suggestionsApiConfigSuggestionsApiConfig
 
-For full reference, please [click here](https://github.com/CopilotKit/CopilotKit/blob/main/CopilotKit/packages/react-textarea/src/types/autosuggestions-config/suggestions-api-config.tsx#L4).
+For full reference, please [click here](https://github.com/Sherler/CopilotKit/blob/main/CopilotKit/packages/react-textarea/src/types/autosuggestions-config/suggestions-api-config.tsx#L4).
 
 insertionApiConfigInsertionApiConfig
 
-For full reference, please [click here](https://github.com/CopilotKit/CopilotKit/blob/main/CopilotKit/packages/react-textarea/src/types/autosuggestions-config/insertions-api-config.tsx#L4).
+For full reference, please [click here](https://github.com/Sherler/CopilotKit/blob/main/CopilotKit/packages/react-textarea/src/types/autosuggestions-config/insertions-api-config.tsx#L4).
 
 disabledboolean
 
@@ -2826,7 +2826,7 @@ CopilotKit](https://docs.copilotkit.ai/reference/components/CopilotKit)
 
 [Example](https://docs.copilotkit.ai/reference/components/CopilotTextarea#example) [Usage](https://docs.copilotkit.ai/reference/components/CopilotTextarea#usage) [Install Dependencies](https://docs.copilotkit.ai/reference/components/CopilotTextarea#install-dependencies) [Usage](https://docs.copilotkit.ai/reference/components/CopilotTextarea#usage-1) [Look & Feel](https://docs.copilotkit.ai/reference/components/CopilotTextarea#look--feel) [Properties](https://docs.copilotkit.ai/reference/components/CopilotTextarea#properties)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/components/CopilotTextarea.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/components/CopilotTextarea.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -2951,7 +2951,7 @@ Customize UI](https://docs.copilotkit.ai/guides/custom-look-and-feel)
 
 [Install CopilotKit](https://docs.copilotkit.ai/quickstart?component=CopilotSidebar#install-copilotkit) [Get a Copilot Cloud Public API Key](https://docs.copilotkit.ai/quickstart?component=CopilotSidebar#get-a-copilot-cloud-public-api-key) [Setup the CopilotKit Provider](https://docs.copilotkit.ai/quickstart?component=CopilotSidebar#setup-the-copilotkit-provider) [Choose a Copilot UI](https://docs.copilotkit.ai/quickstart?component=CopilotSidebar#choose-a-copilot-ui) [Install CopilotKit](https://docs.copilotkit.ai/quickstart?component=CopilotSidebar#install-copilotkit-1) [Set up a Copilot Runtime Endpoint](https://docs.copilotkit.ai/quickstart?component=CopilotSidebar#set-up-a-copilot-runtime-endpoint) [Configure the CopilotKit Provider](https://docs.copilotkit.ai/quickstart?component=CopilotSidebar#configure-the-copilotkit-provider) [Choose a Copilot UI](https://docs.copilotkit.ai/quickstart?component=CopilotSidebar#choose-a-copilot-ui-1) [Next Steps](https://docs.copilotkit.ai/quickstart?component=CopilotSidebar#next-steps)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/quickstart.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/quickstart.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -3053,7 +3053,7 @@ Frontend Actions](https://docs.copilotkit.ai/guides/frontend-actions)
 
 [Render custom components in the chat UI](https://docs.copilotkit.ai/guides/generative-ui#render-custom-components-in-the-chat-ui) [Test it out!](https://docs.copilotkit.ai/guides/generative-ui#test-it-out)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/generative-ui.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/generative-ui.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -3164,7 +3164,7 @@ useCoAgent](https://docs.copilotkit.ai/reference/hooks/useCoAgent)
 
 [Usage](https://docs.copilotkit.ai/reference/hooks/useCopilotChatSuggestions#usage) [Install Dependencies](https://docs.copilotkit.ai/reference/hooks/useCopilotChatSuggestions#install-dependencies) [Simple Usage](https://docs.copilotkit.ai/reference/hooks/useCopilotChatSuggestions#simple-usage) [Dependency Management](https://docs.copilotkit.ai/reference/hooks/useCopilotChatSuggestions#dependency-management) [Behavior and Lifecycle](https://docs.copilotkit.ai/reference/hooks/useCopilotChatSuggestions#behavior-and-lifecycle) [Parameters](https://docs.copilotkit.ai/reference/hooks/useCopilotChatSuggestions#parameters)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/hooks/useCopilotChatSuggestions.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/hooks/useCopilotChatSuggestions.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -3214,7 +3214,7 @@ LangSmith](https://docs.copilotkit.ai/observability/langsmith)
 
 [How to opt out of anonymous telemetry](https://docs.copilotkit.ai/telemetry#how-to-opt-out-of-anonymous-telemetry) [How to adjust telemetry sample rate](https://docs.copilotkit.ai/telemetry#how-to-adjust-telemetry-sample-rate) [Get in touch](https://docs.copilotkit.ai/telemetry#get-in-touch)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/(other)/telemetry/index.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/(other)/telemetry/index.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -3265,7 +3265,7 @@ Reading agent state](https://docs.copilotkit.ai/coagents/shared-state/in-app-age
 
 [What is shared state?](https://docs.copilotkit.ai/coagents/shared-state#what-is-shared-state) [When should I use this?](https://docs.copilotkit.ai/coagents/shared-state#when-should-i-use-this)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/shared-state/index.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/shared-state/index.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -3364,7 +3364,7 @@ Backend Actions & Agents](https://docs.copilotkit.ai/guides/backend-actions)
 
 [Let the Copilot Take Action](https://docs.copilotkit.ai/guides/frontend-actions#let-the-copilot-take-action) [useCopilotAction](https://docs.copilotkit.ai/guides/frontend-actions#usecopilotaction) [Test it out!](https://docs.copilotkit.ai/guides/frontend-actions#test-it-out) [Next Steps](https://docs.copilotkit.ai/guides/frontend-actions#next-steps)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/frontend-actions.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/frontend-actions.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -3383,10 +3383,10 @@ Common issues you may encounter when using Copilots.
 
 Welcome to the CopilotKit Troubleshooting Guide! Here, you can find answers to common issues
 
-Have an issue not listed here? Open a ticket on [GitHub](https://github.com/CopilotKit/CopilotKit/issues) or reach out on [Discord](https://discord.com/invite/6dffbvGU3D)
+Have an issue not listed here? Open a ticket on [GitHub](https://github.com/Sherler/CopilotKit/issues) or reach out on [Discord](https://discord.com/invite/6dffbvGU3D)
 and we'll be happy to help.
 
-We also highly encourage any open source contributors that want to add their own troubleshooting issues to [Github as a pull request](https://github.com/CopilotKit/CopilotKit/blob/main/CONTRIBUTING.md).
+We also highly encourage any open source contributors that want to add their own troubleshooting issues to [Github as a pull request](https://github.com/Sherler/CopilotKit/blob/main/CONTRIBUTING.md).
 
 ## [I am getting network errors / API not found error](https://docs.copilotkit.ai/troubleshooting/common-issues\#i-am-getting-network-errors--api-not-found-error)
 
@@ -3422,7 +3422,7 @@ Migrate to 1.8.2](https://docs.copilotkit.ai/troubleshooting/migrate-to-1.8.2)
 
 [I am getting network errors / API not found error](https://docs.copilotkit.ai/troubleshooting/common-issues#i-am-getting-network-errors--api-not-found-error) [I am getting "CopilotKit's Remote Endpoint" not found error](https://docs.copilotkit.ai/troubleshooting/common-issues#i-am-getting-copilotkits-remote-endpoint-not-found-error) [Connection issues with tunnel creation](https://docs.copilotkit.ai/troubleshooting/common-issues#connection-issues-with-tunnel-creation)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/troubleshooting/common-issues.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/troubleshooting/common-issues.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -3638,7 +3638,7 @@ Chat with an Agent](https://docs.copilotkit.ai/coagents/agentic-chat-ui)
 
 [Prerequisites](https://docs.copilotkit.ai/coagents/quickstart/langgraph#prerequisites) [Getting started](https://docs.copilotkit.ai/coagents/quickstart/langgraph#getting-started) [Install CopilotKit](https://docs.copilotkit.ai/coagents/quickstart/langgraph#install-copilotkit) [Clone the coagents-starter repo and install dependencies:](https://docs.copilotkit.ai/coagents/quickstart/langgraph#clone-the-coagents-starter-repo-and-install-dependencies) [Install dependencies:](https://docs.copilotkit.ai/coagents/quickstart/langgraph#install-dependencies) [Install dependencies:](https://docs.copilotkit.ai/coagents/quickstart/langgraph#install-dependencies-1) [Create a .env file](https://docs.copilotkit.ai/coagents/quickstart/langgraph#create-a-env-file) [Add your API keys](https://docs.copilotkit.ai/coagents/quickstart/langgraph#add-your-api-keys) [Start your LangGraph Agent](https://docs.copilotkit.ai/coagents/quickstart/langgraph#start-your-langgraph-agent) [Add a remote endpoint for your LangGraph agent](https://docs.copilotkit.ai/coagents/quickstart/langgraph#add-a-remote-endpoint-for-your-langgraph-agent) [Setup your CopilotKit provider](https://docs.copilotkit.ai/coagents/quickstart/langgraph#setup-your-copilotkit-provider) [Install Copilot Runtime](https://docs.copilotkit.ai/coagents/quickstart/langgraph#install-copilot-runtime) [Setup a Copilot Runtime Endpoint](https://docs.copilotkit.ai/coagents/quickstart/langgraph#setup-a-copilot-runtime-endpoint) [Add your LangGraph deployment to Copilot Runtime](https://docs.copilotkit.ai/coagents/quickstart/langgraph#add-your-langgraph-deployment-to-copilot-runtime) [Configure the CopilotKit Provider](https://docs.copilotkit.ai/coagents/quickstart/langgraph#configure-the-copilotkit-provider) [Choose a Copilot UI](https://docs.copilotkit.ai/coagents/quickstart/langgraph#choose-a-copilot-ui) [🎉 Talk to your agent!](https://docs.copilotkit.ai/coagents/quickstart/langgraph#-talk-to-your-agent) [What's next?](https://docs.copilotkit.ai/coagents/quickstart/langgraph#whats-next)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/quickstart/langgraph.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/quickstart/langgraph.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -3712,7 +3712,7 @@ Message flow](https://docs.copilotkit.ai/coagents/concepts/message-management)
 
 [CoAgents and LangGraph](https://docs.copilotkit.ai/coagents/concepts/langgraph#coagents-and-langgraph) [Building with Python or JavaScript](https://docs.copilotkit.ai/coagents/concepts/langgraph#building-with-python-or-javascript) [LangGraph Platform](https://docs.copilotkit.ai/coagents/concepts/langgraph#langgraph-platform)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/concepts/langgraph.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/concepts/langgraph.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -3746,7 +3746,7 @@ TypeScript (Node.js)](https://docs.copilotkit.ai/guides/backend-actions/typescri
 
 No Headings
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/backend-actions/index.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/backend-actions/index.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -3847,7 +3847,7 @@ useLangGraphInterrupt](https://docs.copilotkit.ai/reference/hooks/useLangGraphIn
 
 [Usage](https://docs.copilotkit.ai/reference/hooks/useCoAgentStateRender#usage) [Simple Usage](https://docs.copilotkit.ai/reference/hooks/useCoAgentStateRender#simple-usage) [Example](https://docs.copilotkit.ai/reference/hooks/useCoAgentStateRender#example) [Parameters](https://docs.copilotkit.ai/reference/hooks/useCoAgentStateRender#parameters)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/hooks/useCoAgentStateRender.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/hooks/useCoAgentStateRender.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -3964,7 +3964,7 @@ useCopilotAction](https://docs.copilotkit.ai/reference/hooks/useCopilotAction)
 
 [Usage](https://docs.copilotkit.ai/reference/hooks/useCopilotReadable#usage) [Simple Usage](https://docs.copilotkit.ai/reference/hooks/useCopilotReadable#simple-usage) [Nested Components](https://docs.copilotkit.ai/reference/hooks/useCopilotReadable#nested-components) [Parameters](https://docs.copilotkit.ai/reference/hooks/useCopilotReadable#parameters)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/hooks/useCopilotReadable.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/hooks/useCopilotReadable.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -4182,7 +4182,7 @@ CopilotSidebar](https://docs.copilotkit.ai/reference/components/chat/CopilotSide
 
 [Install Dependencies](https://docs.copilotkit.ai/reference/components/chat/CopilotPopup#install-dependencies) [Usage](https://docs.copilotkit.ai/reference/components/chat/CopilotPopup#usage) [Look & Feel](https://docs.copilotkit.ai/reference/components/chat/CopilotPopup#look--feel) [Properties](https://docs.copilotkit.ai/reference/components/chat/CopilotPopup#properties)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/components/chat/CopilotPopup.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/components/chat/CopilotPopup.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -4201,10 +4201,10 @@ Common issues you may encounter when using CoAgents.
 
 Welcome to the CoAgents Troubleshooting Guide! If you're having trouble getting tool calls to work, you've come to the right place.
 
-Have an issue not listed here? Open a ticket on [GitHub](https://github.com/CopilotKit/CopilotKit/issues) or reach out on [Discord](https://discord.com/invite/6dffbvGU3D)
+Have an issue not listed here? Open a ticket on [GitHub](https://github.com/Sherler/CopilotKit/issues) or reach out on [Discord](https://discord.com/invite/6dffbvGU3D)
 and we'll be happy to help.
 
-We also highly encourage any open source contributors that want to add their own troubleshooting issues to [Github as a pull request](https://github.com/CopilotKit/CopilotKit/blob/main/CONTRIBUTING.md).
+We also highly encourage any open source contributors that want to add their own troubleshooting issues to [Github as a pull request](https://github.com/Sherler/CopilotKit/blob/main/CONTRIBUTING.md).
 
 ## [My tool calls are not being streamed](https://docs.copilotkit.ai/coagents/troubleshooting/common-issues\#my-tool-calls-are-not-being-streamed)
 
@@ -4285,7 +4285,7 @@ Migrate from v0.2 to v0.3](https://docs.copilotkit.ai/coagents/troubleshooting/m
 
 [My tool calls are not being streamed](https://docs.copilotkit.ai/coagents/troubleshooting/common-issues#my-tool-calls-are-not-being-streamed) [Error: 'AzureOpenAI' object has no attribute 'bind\_tools'](https://docs.copilotkit.ai/coagents/troubleshooting/common-issues#error-azureopenai-object-has-no-attribute-bind_tools) [I am getting "agent not found" error](https://docs.copilotkit.ai/coagents/troubleshooting/common-issues#i-am-getting-agent-not-found-error) [Connection issues with tunnel creation](https://docs.copilotkit.ai/coagents/troubleshooting/common-issues#connection-issues-with-tunnel-creation) [I am getting "Failed to find or contact remote endpoint at url, Make sure the API is running and that it's indeed a LangGraph platform url" error](https://docs.copilotkit.ai/coagents/troubleshooting/common-issues#i-am-getting-failed-to-find-or-contact-remote-endpoint-at-url-make-sure-the-api-is-running-and-that-its-indeed-a-langgraph-platform-url-error) [I see messages being streamed and disappear](https://docs.copilotkit.ai/coagents/troubleshooting/common-issues#i-see-messages-being-streamed-and-disappear)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/troubleshooting/common-issues.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/troubleshooting/common-issues.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -4304,7 +4304,7 @@ On this pageWhat is this?
 
 Render the state of your agent with custom UI components.
 
-This video demonstrates the [implementation](https://docs.copilotkit.ai/coagents/generative-ui/agentic#implementation) section applied to out [coagents starter project](https://github.com/CopilotKit/CopilotKit/tree/main/examples/coagents-starter).
+This video demonstrates the [implementation](https://docs.copilotkit.ai/coagents/generative-ui/agentic#implementation) section applied to out [coagents starter project](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter).
 
 ## [What is this?](https://docs.copilotkit.ai/coagents/generative-ui/agentic\#what-is-this)
 
@@ -4322,7 +4322,7 @@ is a situation where a user and an agent are working together to solve a problem
 
 First, you'll need to make sure you have a running LangGraph. If you haven't already done this, you can follow the [getting started guide](https://docs.copilotkit.ai/coagents/quickstart/langgraph)
 
-This guide uses the [CoAgents starter repo](https://github.com/CopilotKit/CopilotKit/tree/main/examples/coagents-starter) as its starting point.
+This guide uses the [CoAgents starter repo](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) as its starting point.
 
 ### [Define your agent state](https://docs.copilotkit.ai/coagents/generative-ui/agentic\#define-your-agent-state)
 
@@ -4493,7 +4493,7 @@ Tool-based Generative UI](https://docs.copilotkit.ai/coagents/generative-ui/tool
 
 [What is this?](https://docs.copilotkit.ai/coagents/generative-ui/agentic#what-is-this) [When should I use this?](https://docs.copilotkit.ai/coagents/generative-ui/agentic#when-should-i-use-this) [Implementation](https://docs.copilotkit.ai/coagents/generative-ui/agentic#implementation) [Run and Connect your LangGraph to CopilotKit](https://docs.copilotkit.ai/coagents/generative-ui/agentic#run-and-connect-your-langgraph-to-copilotkit) [Define your agent state](https://docs.copilotkit.ai/coagents/generative-ui/agentic#define-your-agent-state) [Simulate state updates](https://docs.copilotkit.ai/coagents/generative-ui/agentic#simulate-state-updates) [Render state of the agent in the chat](https://docs.copilotkit.ai/coagents/generative-ui/agentic#render-state-of-the-agent-in-the-chat) [Render state outside of the chat](https://docs.copilotkit.ai/coagents/generative-ui/agentic#render-state-outside-of-the-chat) [Give it a try!](https://docs.copilotkit.ai/coagents/generative-ui/agentic#give-it-a-try)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/generative-ui/agentic.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/generative-ui/agentic.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -4593,7 +4593,7 @@ LangGraph](https://docs.copilotkit.ai/coagents/concepts/langgraph)
 
 [What are Agents?](https://docs.copilotkit.ai/coagents/concepts/agentic-copilots#what-are-agents) [What is LangGraph?](https://docs.copilotkit.ai/coagents/concepts/agentic-copilots#what-is-langgraph) [What are Agentic Copilots?](https://docs.copilotkit.ai/coagents/concepts/agentic-copilots#what-are-agentic-copilots) [What are CoAgents?](https://docs.copilotkit.ai/coagents/concepts/agentic-copilots#what-are-coagents) [When should I use CopilotKit's CoAgents?](https://docs.copilotkit.ai/coagents/concepts/agentic-copilots#when-should-i-use-copilotkits-coagents) [Examples](https://docs.copilotkit.ai/coagents/concepts/agentic-copilots#examples) [Next Steps](https://docs.copilotkit.ai/coagents/concepts/agentic-copilots#next-steps) [What are CoAgents?](https://docs.copilotkit.ai/coagents/concepts/agentic-copilots#what-are-coagents-1) [Next Steps](https://docs.copilotkit.ai/coagents/concepts/agentic-copilots#next-steps-1)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/concepts/agentic-copilots.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/concepts/agentic-copilots.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -4627,7 +4627,7 @@ Frontend Data](https://docs.copilotkit.ai/guides/connect-your-data/frontend)
 
 No Headings
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/connect-your-data/index.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/connect-your-data/index.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -4802,7 +4802,7 @@ CopilotPopup](https://docs.copilotkit.ai/reference/components/chat/CopilotPopup)
 
 [Install Dependencies](https://docs.copilotkit.ai/reference/components/chat/CopilotChat#install-dependencies) [Usage](https://docs.copilotkit.ai/reference/components/chat/CopilotChat#usage) [Look & Feel](https://docs.copilotkit.ai/reference/components/chat/CopilotChat#look--feel) [Properties](https://docs.copilotkit.ai/reference/components/chat/CopilotChat#properties)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/components/chat/CopilotChat.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/components/chat/CopilotChat.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -4948,7 +4948,7 @@ Customize UI](https://docs.copilotkit.ai/guides/custom-look-and-feel)
 
 [Install CopilotKit](https://docs.copilotkit.ai/quickstart?component=Headless+UI#install-copilotkit) [Get a Copilot Cloud Public API Key](https://docs.copilotkit.ai/quickstart?component=Headless+UI#get-a-copilot-cloud-public-api-key) [Setup the CopilotKit Provider](https://docs.copilotkit.ai/quickstart?component=Headless+UI#setup-the-copilotkit-provider) [Choose a Copilot UI](https://docs.copilotkit.ai/quickstart?component=Headless+UI#choose-a-copilot-ui) [Install CopilotKit](https://docs.copilotkit.ai/quickstart?component=Headless+UI#install-copilotkit-1) [Set up a Copilot Runtime Endpoint](https://docs.copilotkit.ai/quickstart?component=Headless+UI#set-up-a-copilot-runtime-endpoint) [Configure the CopilotKit Provider](https://docs.copilotkit.ai/quickstart?component=Headless+UI#configure-the-copilotkit-provider) [Choose a Copilot UI](https://docs.copilotkit.ai/quickstart?component=Headless+UI#choose-a-copilot-ui-1) [Next Steps](https://docs.copilotkit.ai/quickstart?component=Headless+UI#next-steps)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/quickstart.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/quickstart.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -5168,7 +5168,7 @@ CrewAIAgent](https://docs.copilotkit.ai/reference/sdk/python/CrewAIAgent)
 
 [copilotkit\_customize\_config](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#copilotkit_customize_config) [Examples](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#examples) [Parameters](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#parameters) [Returns](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#returns) [copilotkit\_exit](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#copilotkit_exit) [Examples](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#examples-1) [Parameters](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#parameters-1) [Returns](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#returns-1) [copilotkit\_emit\_state](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#copilotkit_emit_state) [Examples](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#examples-2) [Parameters](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#parameters-2) [Returns](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#returns-2) [copilotkit\_emit\_message](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#copilotkit_emit_message) [Examples](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#examples-3) [Parameters](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#parameters-3) [Returns](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#returns-3) [copilotkit\_emit\_tool\_call](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#copilotkit_emit_tool_call) [Parameters](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#parameters-4) [Returns](https://docs.copilotkit.ai/reference/sdk/python/LangGraph#returns-4)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/sdk/python/LangGraph.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/sdk/python/LangGraph.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -5365,7 +5365,7 @@ LangGraphAgent](https://docs.copilotkit.ai/reference/sdk/python/LangGraphAgent)
 
 [CopilotKitRemoteEndpoint](https://docs.copilotkit.ai/reference/sdk/python/RemoteEndpoints#copilotkitremoteendpoint) [Adding actions](https://docs.copilotkit.ai/reference/sdk/python/RemoteEndpoints#adding-actions) [Adding agents](https://docs.copilotkit.ai/reference/sdk/python/RemoteEndpoints#adding-agents) [Serving the CopilotKit SDK](https://docs.copilotkit.ai/reference/sdk/python/RemoteEndpoints#serving-the-copilotkit-sdk) [Parameters](https://docs.copilotkit.ai/reference/sdk/python/RemoteEndpoints#parameters) [CopilotKitContext](https://docs.copilotkit.ai/reference/sdk/python/RemoteEndpoints#copilotkitcontext) [Parameters](https://docs.copilotkit.ai/reference/sdk/python/RemoteEndpoints#parameters-1)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/sdk/python/RemoteEndpoints.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/sdk/python/RemoteEndpoints.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -5557,7 +5557,7 @@ CrewAI SDK](https://docs.copilotkit.ai/reference/sdk/python/CrewAI)
 
 [copilotkitCustomizeConfig](https://docs.copilotkit.ai/reference/sdk/js/LangGraph#copilotkitcustomizeconfig) [Examples](https://docs.copilotkit.ai/reference/sdk/js/LangGraph#examples) [Parameters](https://docs.copilotkit.ai/reference/sdk/js/LangGraph#parameters) [copilotkitExit](https://docs.copilotkit.ai/reference/sdk/js/LangGraph#copilotkitexit) [Examples](https://docs.copilotkit.ai/reference/sdk/js/LangGraph#examples-1) [Parameters](https://docs.copilotkit.ai/reference/sdk/js/LangGraph#parameters-1) [copilotkitEmitState](https://docs.copilotkit.ai/reference/sdk/js/LangGraph#copilotkitemitstate) [Examples](https://docs.copilotkit.ai/reference/sdk/js/LangGraph#examples-2) [Parameters](https://docs.copilotkit.ai/reference/sdk/js/LangGraph#parameters-2) [copilotkitEmitMessage](https://docs.copilotkit.ai/reference/sdk/js/LangGraph#copilotkitemitmessage) [Examples](https://docs.copilotkit.ai/reference/sdk/js/LangGraph#examples-3) [Parameters](https://docs.copilotkit.ai/reference/sdk/js/LangGraph#parameters-3) [copilotkitEmitToolCall](https://docs.copilotkit.ai/reference/sdk/js/LangGraph#copilotkitemittoolcall) [Examples](https://docs.copilotkit.ai/reference/sdk/js/LangGraph#examples-4) [Parameters](https://docs.copilotkit.ai/reference/sdk/js/LangGraph#parameters-4)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/sdk/js/LangGraph.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/sdk/js/LangGraph.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -5638,7 +5638,7 @@ Loading Agent State](https://docs.copilotkit.ai/coagents/persistence/loading-age
 
 [What are Multi-Agent Flows?](https://docs.copilotkit.ai/coagents/multi-agent-flows#what-are-multi-agent-flows) [When should I use this?](https://docs.copilotkit.ai/coagents/multi-agent-flows#when-should-i-use-this) [How does CopilotKit support this?](https://docs.copilotkit.ai/coagents/multi-agent-flows#how-does-copilotkit-support-this) [Router Mode (default)](https://docs.copilotkit.ai/coagents/multi-agent-flows#router-mode-default) [Agent Lock Mode](https://docs.copilotkit.ai/coagents/multi-agent-flows#agent-lock-mode)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/multi-agent-flows.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/multi-agent-flows.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -5857,7 +5857,7 @@ CopilotTextarea](https://docs.copilotkit.ai/reference/components/CopilotTextarea
 
 [Install Dependencies](https://docs.copilotkit.ai/reference/components/chat/CopilotSidebar#install-dependencies) [Usage](https://docs.copilotkit.ai/reference/components/chat/CopilotSidebar#usage) [Look & Feel](https://docs.copilotkit.ai/reference/components/chat/CopilotSidebar#look--feel) [Properties](https://docs.copilotkit.ai/reference/components/chat/CopilotSidebar#properties)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/components/chat/CopilotSidebar.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/components/chat/CopilotSidebar.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -6059,7 +6059,7 @@ Chat with an Agent](https://docs.copilotkit.ai/crewai-flows/agentic-chat-ui)
 
 [Prerequisites](https://docs.copilotkit.ai/crewai-flows/quickstart/crewai#prerequisites) [Getting started](https://docs.copilotkit.ai/crewai-flows/quickstart/crewai#getting-started) [Install CopilotKit](https://docs.copilotkit.ai/crewai-flows/quickstart/crewai#install-copilotkit) [Clone the coagents-starter repo](https://docs.copilotkit.ai/crewai-flows/quickstart/crewai#clone-the-coagents-starter-repo) [Create a .env file](https://docs.copilotkit.ai/crewai-flows/quickstart/crewai#create-a-env-file) [Add your API keys](https://docs.copilotkit.ai/crewai-flows/quickstart/crewai#add-your-api-keys) [Launch your local agent](https://docs.copilotkit.ai/crewai-flows/quickstart/crewai#launch-your-local-agent) [Add a remote endpoint for your CrewAI Flow](https://docs.copilotkit.ai/crewai-flows/quickstart/crewai#add-a-remote-endpoint-for-your-crewai-flow) [Setup your CopilotKit provider](https://docs.copilotkit.ai/crewai-flows/quickstart/crewai#setup-your-copilotkit-provider) [Install Copilot Runtime](https://docs.copilotkit.ai/crewai-flows/quickstart/crewai#install-copilot-runtime) [Setup a Copilot Runtime Endpoint](https://docs.copilotkit.ai/crewai-flows/quickstart/crewai#setup-a-copilot-runtime-endpoint) [Add your CrewAI Flow deployment to Copilot Runtime](https://docs.copilotkit.ai/crewai-flows/quickstart/crewai#add-your-crewai-flow-deployment-to-copilot-runtime) [Configure the CopilotKit Provider](https://docs.copilotkit.ai/crewai-flows/quickstart/crewai#configure-the-copilotkit-provider) [Setup the Copilot UI](https://docs.copilotkit.ai/crewai-flows/quickstart/crewai#setup-the-copilot-ui) [🎉 Talk to your agent!](https://docs.copilotkit.ai/crewai-flows/quickstart/crewai#-talk-to-your-agent) [What's next?](https://docs.copilotkit.ai/crewai-flows/quickstart/crewai#whats-next)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/crewai-flows/quickstart/crewai.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/crewai-flows/quickstart/crewai.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -6121,7 +6121,7 @@ Introduction](https://docs.copilotkit.ai/)
 
 [Message Streaming](https://docs.copilotkit.ai/coagents/concepts/copilotkit-config#message-streaming) [Emitting Tool Calls](https://docs.copilotkit.ai/coagents/concepts/copilotkit-config#emitting-tool-calls)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/concepts/copilotkit-config.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/concepts/copilotkit-config.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -6138,7 +6138,7 @@ On this pageWhat is this?
 
 Chat with an agent using CopilotKit's UI components.
 
-This video shows the [coagents starter](https://github.com/CopilotKit/CopilotKit/tree/main/examples/coagents-starter) repo with various Copilot UI components applied to it!
+This video shows the [coagents starter](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) repo with various Copilot UI components applied to it!
 
 ## [What is this?](https://docs.copilotkit.ai/coagents/agentic-chat-ui\#what-is-this)
 
@@ -6188,7 +6188,7 @@ Generative UI](https://docs.copilotkit.ai/coagents/generative-ui)
 
 [What is this?](https://docs.copilotkit.ai/coagents/agentic-chat-ui#what-is-this) [When should I use this?](https://docs.copilotkit.ai/coagents/agentic-chat-ui#when-should-i-use-this)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/agentic-chat-ui.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/agentic-chat-ui.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -6312,7 +6312,7 @@ CrewAI SDK](https://docs.copilotkit.ai/reference/sdk/python/CrewAI)
 
 [CrewAIAgent](https://docs.copilotkit.ai/reference/sdk/python/CrewAIAgent#crewaiagent) [Serving a Crew based agent](https://docs.copilotkit.ai/reference/sdk/python/CrewAIAgent#serving-a-crew-based-agent) [Serving a Flow based agent](https://docs.copilotkit.ai/reference/sdk/python/CrewAIAgent#serving-a-flow-based-agent) [Parameters](https://docs.copilotkit.ai/reference/sdk/python/CrewAIAgent#parameters) [CopilotKitConfig](https://docs.copilotkit.ai/reference/sdk/python/CrewAIAgent#copilotkitconfig) [Parameters](https://docs.copilotkit.ai/reference/sdk/python/CrewAIAgent#parameters-1)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/sdk/python/CrewAIAgent.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/sdk/python/CrewAIAgent.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -6387,7 +6387,7 @@ Chat with an Agent](https://docs.copilotkit.ai/crewai-crews/agentic-chat-ui)
 
 [Prerequisites](https://docs.copilotkit.ai/crewai-crews/quickstart/crewai#prerequisites) [Getting started](https://docs.copilotkit.ai/crewai-crews/quickstart/crewai#getting-started) [Run the CLI](https://docs.copilotkit.ai/crewai-crews/quickstart/crewai#run-the-cli) [Connect to Copilot Cloud](https://docs.copilotkit.ai/crewai-crews/quickstart/crewai#connect-to-copilot-cloud) [Setup the CopilotKit Provider](https://docs.copilotkit.ai/crewai-crews/quickstart/crewai#setup-the-copilotkit-provider) [Choose a Copilot UI](https://docs.copilotkit.ai/crewai-crews/quickstart/crewai#choose-a-copilot-ui) [Create a Crew-Quickstart component](https://docs.copilotkit.ai/crewai-crews/quickstart/crewai#create-a-crew-quickstart-component) [🎉 Talk to your agent!](https://docs.copilotkit.ai/crewai-crews/quickstart/crewai#-talk-to-your-agent) [What's next?](https://docs.copilotkit.ai/crewai-crews/quickstart/crewai#whats-next)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/crewai-crews/quickstart/crewai.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/crewai-crews/quickstart/crewai.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -6506,7 +6506,7 @@ LangGraph SDK](https://docs.copilotkit.ai/reference/sdk/python/LangGraph)
 
 [LangGraphAgent](https://docs.copilotkit.ai/reference/sdk/python/LangGraphAgent#langgraphagent) [Examples](https://docs.copilotkit.ai/reference/sdk/python/LangGraphAgent#examples) [Parameters](https://docs.copilotkit.ai/reference/sdk/python/LangGraphAgent#parameters) [CopilotKitConfig](https://docs.copilotkit.ai/reference/sdk/python/LangGraphAgent#copilotkitconfig) [Parameters](https://docs.copilotkit.ai/reference/sdk/python/LangGraphAgent#parameters-1)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/sdk/python/LangGraphAgent.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/sdk/python/LangGraphAgent.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -6559,7 +6559,7 @@ Copilot Suggestions](https://docs.copilotkit.ai/guides/copilot-suggestions)
 
 [Introduction](https://docs.copilotkit.ai/guides/guardrails#introduction) [Implementation](https://docs.copilotkit.ai/guides/guardrails#implementation)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/guardrails.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/guardrails.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -6620,7 +6620,7 @@ Anonymous Telemetry](https://docs.copilotkit.ai/telemetry)
 
 No Headings
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/(other)/observability/langsmith.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/(other)/observability/langsmith.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -6707,7 +6707,7 @@ Manually emitting messages](https://docs.copilotkit.ai/coagents/advanced/emit-me
 
 [What is this?](https://docs.copilotkit.ai/coagents/advanced/disabling-state-streaming#what-is-this) [When should I use this?](https://docs.copilotkit.ai/coagents/advanced/disabling-state-streaming#when-should-i-use-this) [Implementation](https://docs.copilotkit.ai/coagents/advanced/disabling-state-streaming#implementation) [Disable all streaming](https://docs.copilotkit.ai/coagents/advanced/disabling-state-streaming#disable-all-streaming)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/advanced/disabling-state-streaming.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/advanced/disabling-state-streaming.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -6759,7 +6759,7 @@ Copilot Textarea](https://docs.copilotkit.ai/guides/copilot-textarea)
 
 No Headings
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/bring-your-own-llm.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/bring-your-own-llm.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -6795,7 +6795,7 @@ Prebuilt Copilot UI](https://docs.copilotkit.ai/guides/custom-look-and-feel/buil
 
 No Headings
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/custom-look-and-feel/index.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/custom-look-and-feel/index.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -7000,7 +7000,7 @@ Customize UI](https://docs.copilotkit.ai/guides/custom-look-and-feel)
 
 [Install CopilotKit](https://docs.copilotkit.ai/quickstart?copilot-hosting=self-hosted#install-copilotkit) [Get a Copilot Cloud Public API Key](https://docs.copilotkit.ai/quickstart?copilot-hosting=self-hosted#get-a-copilot-cloud-public-api-key) [Setup the CopilotKit Provider](https://docs.copilotkit.ai/quickstart?copilot-hosting=self-hosted#setup-the-copilotkit-provider) [Choose a Copilot UI](https://docs.copilotkit.ai/quickstart?copilot-hosting=self-hosted#choose-a-copilot-ui) [Install CopilotKit](https://docs.copilotkit.ai/quickstart?copilot-hosting=self-hosted#install-copilotkit-1) [Set up a Copilot Runtime Endpoint](https://docs.copilotkit.ai/quickstart?copilot-hosting=self-hosted#set-up-a-copilot-runtime-endpoint) [Configure the CopilotKit Provider](https://docs.copilotkit.ai/quickstart?copilot-hosting=self-hosted#configure-the-copilotkit-provider) [Choose a Copilot UI](https://docs.copilotkit.ai/quickstart?copilot-hosting=self-hosted#choose-a-copilot-ui-1) [Next Steps](https://docs.copilotkit.ai/quickstart?copilot-hosting=self-hosted#next-steps)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/quickstart.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/quickstart.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -7083,7 +7083,7 @@ Backend Data](https://docs.copilotkit.ai/guides/connect-your-data/backend)
 
 [Add the data to the Copilot](https://docs.copilotkit.ai/guides/connect-your-data/frontend#add-the-data-to-the-copilot) [Test it out!](https://docs.copilotkit.ai/guides/connect-your-data/frontend#test-it-out)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/connect-your-data/frontend.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/connect-your-data/frontend.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -7174,7 +7174,7 @@ Message Persistence](https://docs.copilotkit.ai/coagents/persistence/message-per
 
 [Loading an Existing Thread](https://docs.copilotkit.ai/coagents/persistence/loading-message-history#loading-an-existing-thread) [Dynamically Switching Threads](https://docs.copilotkit.ai/coagents/persistence/loading-message-history#dynamically-switching-threads) [Using setThreadId](https://docs.copilotkit.ai/coagents/persistence/loading-message-history#using-setthreadid)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/persistence/loading-message-history.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/persistence/loading-message-history.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -7234,7 +7234,7 @@ Interrupt](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow)
 
 [What is Human-in-the-Loop (HITL)?](https://docs.copilotkit.ai/coagents/human-in-the-loop#what-is-human-in-the-loop-hitl) [When should I use this?](https://docs.copilotkit.ai/coagents/human-in-the-loop#when-should-i-use-this) [How can I use this?](https://docs.copilotkit.ai/coagents/human-in-the-loop#how-can-i-use-this)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/human-in-the-loop/index.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/human-in-the-loop/index.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -7367,7 +7367,7 @@ Customize UI](https://docs.copilotkit.ai/guides/custom-look-and-feel)
 
 [Install CopilotKit](https://docs.copilotkit.ai/quickstart?component=Headless%20UI#install-copilotkit) [Get a Copilot Cloud Public API Key](https://docs.copilotkit.ai/quickstart?component=Headless%20UI#get-a-copilot-cloud-public-api-key) [Setup the CopilotKit Provider](https://docs.copilotkit.ai/quickstart?component=Headless%20UI#setup-the-copilotkit-provider) [Choose a Copilot UI](https://docs.copilotkit.ai/quickstart?component=Headless%20UI#choose-a-copilot-ui) [Install CopilotKit](https://docs.copilotkit.ai/quickstart?component=Headless%20UI#install-copilotkit-1) [Set up a Copilot Runtime Endpoint](https://docs.copilotkit.ai/quickstart?component=Headless%20UI#set-up-a-copilot-runtime-endpoint) [Configure the CopilotKit Provider](https://docs.copilotkit.ai/quickstart?component=Headless%20UI#configure-the-copilotkit-provider) [Choose a Copilot UI](https://docs.copilotkit.ai/quickstart?component=Headless%20UI#choose-a-copilot-ui-1) [Next Steps](https://docs.copilotkit.ai/quickstart?component=Headless%20UI#next-steps)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/quickstart.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/quickstart.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -7462,7 +7462,7 @@ import { CopilotChat } from "@think-copilotkit/react-ui";
 
 ### [Overwriting the default system message](https://docs.copilotkit.ai/guides/custom-ai-assistant-behavior\#overwriting-the-default-system-message)
 
-For cases requiring complete control over the system message, you can use the `makeSystemMessage` function. We highly recommend reading CopilotKit's default system message before deciding to overwrite it, which can be found [here](https://github.com/CopilotKit/CopilotKit/blob/e48a34a66bb4dfd210e93dc41eee7d0f22d1a0c4/CopilotKit/packages/react-core/src/hooks/use-copilot-chat.ts#L240-L258).
+For cases requiring complete control over the system message, you can use the `makeSystemMessage` function. We highly recommend reading CopilotKit's default system message before deciding to overwrite it, which can be found [here](https://github.com/Sherler/CopilotKit/blob/e48a34a66bb4dfd210e93dc41eee7d0f22d1a0c4/CopilotKit/packages/react-core/src/hooks/use-copilot-chat.ts#L240-L258).
 
 This approach is **not recommended** as it may interfere with more advanced optimizations made by CopilotKit. **Only use this approach if the other options are not enough.**
 
@@ -7493,7 +7493,7 @@ Authenticated Actions](https://docs.copilotkit.ai/guides/authenticated-actions)
 
 [Appending to the prompt (Recommended)](https://docs.copilotkit.ai/guides/custom-ai-assistant-behavior#appending-to-the-prompt-recommended) [Advanced](https://docs.copilotkit.ai/guides/custom-ai-assistant-behavior#advanced) [Passing the instructions parameter](https://docs.copilotkit.ai/guides/custom-ai-assistant-behavior#passing-the-instructions-parameter) [Overwriting the default system message](https://docs.copilotkit.ai/guides/custom-ai-assistant-behavior#overwriting-the-default-system-message)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/custom-ai-assistant-behavior.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/custom-ai-assistant-behavior.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -7554,7 +7554,7 @@ Threads](https://docs.copilotkit.ai/coagents/persistence/loading-message-history
 
 [Setting the threadId](https://docs.copilotkit.ai/coagents/persistence/loading-agent-state#setting-the-threadid) [Loading Agent State](https://docs.copilotkit.ai/coagents/persistence/loading-agent-state#loading-agent-state) [Learn More](https://docs.copilotkit.ai/coagents/persistence/loading-agent-state#learn-more)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/persistence/loading-agent-state.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/persistence/loading-agent-state.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -7652,7 +7652,7 @@ OpenAIAssistantAdapter](https://docs.copilotkit.ai/reference/classes/llm-adapter
 
 [Example](https://docs.copilotkit.ai/reference/classes/llm-adapters/OpenAIAdapter#example) [Example with Azure OpenAI](https://docs.copilotkit.ai/reference/classes/llm-adapters/OpenAIAdapter#example-with-azure-openai) [Constructor Parameters](https://docs.copilotkit.ai/reference/classes/llm-adapters/OpenAIAdapter#constructor-parameters)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/classes/llm-adapters/OpenAIAdapter.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/classes/llm-adapters/OpenAIAdapter.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -7715,7 +7715,7 @@ GoogleGenerativeAIAdapter](https://docs.copilotkit.ai/reference/classes/llm-adap
 
 [Example](https://docs.copilotkit.ai/reference/classes/llm-adapters/GroqAdapter#example) [Constructor Parameters](https://docs.copilotkit.ai/reference/classes/llm-adapters/GroqAdapter#constructor-parameters)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/classes/llm-adapters/GroqAdapter.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/classes/llm-adapters/GroqAdapter.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -7798,7 +7798,7 @@ AnthropicAdapter](https://docs.copilotkit.ai/reference/classes/llm-adapters/Anth
 
 [Example](https://docs.copilotkit.ai/reference/classes/llm-adapters/OpenAIAssistantAdapter#example) [Constructor Parameters](https://docs.copilotkit.ai/reference/classes/llm-adapters/OpenAIAssistantAdapter#constructor-parameters)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/classes/llm-adapters/OpenAIAssistantAdapter.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/classes/llm-adapters/OpenAIAssistantAdapter.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -7864,7 +7864,7 @@ GroqAdapter](https://docs.copilotkit.ai/reference/classes/llm-adapters/GroqAdapt
 
 [Example](https://docs.copilotkit.ai/reference/classes/llm-adapters/LangChainAdapter#example) [Constructor Parameters](https://docs.copilotkit.ai/reference/classes/llm-adapters/LangChainAdapter#constructor-parameters)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/classes/llm-adapters/LangChainAdapter.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/classes/llm-adapters/LangChainAdapter.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -7925,7 +7925,7 @@ Threads](https://docs.copilotkit.ai/coagents/persistence/loading-message-history
 
 [Setting the threadId](https://docs.copilotkit.ai/coagents/persistence/loading-agent-state#setting-the-threadid) [Loading Agent State](https://docs.copilotkit.ai/coagents/persistence/loading-agent-state#loading-agent-state) [Learn More](https://docs.copilotkit.ai/coagents/persistence/loading-agent-state#learn-more)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/persistence/loading-agent-state.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/persistence/loading-agent-state.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -8007,7 +8007,7 @@ Quickstart](https://docs.copilotkit.ai/quickstart)
 
 [What is CopilotKit?](https://docs.copilotkit.ai/?ref=github_readme#what-is-copilotkit) [Standard](https://docs.copilotkit.ai/?ref=github_readme#standard) [CoAgents](https://docs.copilotkit.ai/?ref=github_readme#coagents) [CopilotKit in Action](https://docs.copilotkit.ai/?ref=github_readme#copilotkit-in-action) [How does CopilotKit work?](https://docs.copilotkit.ai/?ref=github_readme#how-does-copilotkit-work) [Common Questions](https://docs.copilotkit.ai/?ref=github_readme#common-questions) [Concierge](https://docs.copilotkit.ai/?ref=github_readme#concierge) [Worker](https://docs.copilotkit.ai/?ref=github_readme#worker) [Batteries included chat components](https://docs.copilotkit.ai/?ref=github_readme#batteries-included-chat-components) [Deeply integrated Copilots](https://docs.copilotkit.ai/?ref=github_readme#deeply-integrated-copilots) [Rich agentic experiences](https://docs.copilotkit.ai/?ref=github_readme#rich-agentic-experiences)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/index.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/index.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -8057,7 +8057,7 @@ CopilotTask](https://docs.copilotkit.ai/reference/classes/CopilotTask)
 
 [Example](https://docs.copilotkit.ai/reference/classes/llm-adapters/GoogleGenerativeAIAdapter#example) [Constructor Parameters](https://docs.copilotkit.ai/reference/classes/llm-adapters/GoogleGenerativeAIAdapter#constructor-parameters)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/classes/llm-adapters/GoogleGenerativeAIAdapter.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/classes/llm-adapters/GoogleGenerativeAIAdapter.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -8128,7 +8128,7 @@ Quickstart CrewAI Crews](https://docs.copilotkit.ai/crewai-crews/quickstart/crew
 
 [Copilot Infrastructure for CrewAI Crews](https://docs.copilotkit.ai/crewai-crews?ref=blog.crewai.com#copilot-infrastructure-for-crewai-crews) [Building blocks of a CoAgent](https://docs.copilotkit.ai/crewai-crews?ref=blog.crewai.com#building-blocks-of-a-coagent) [Ready to get started?](https://docs.copilotkit.ai/crewai-crews?ref=blog.crewai.com#ready-to-get-started) [Common Questions](https://docs.copilotkit.ai/crewai-crews?ref=blog.crewai.com#common-questions)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/crewai-crews/index.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/crewai-crews/index.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -8285,7 +8285,7 @@ Predictive state updates](https://docs.copilotkit.ai/coagents/shared-state/predi
 
 [What is this?](https://docs.copilotkit.ai/coagents/shared-state/state-inputs-outputs#what-is-this) [When should I use this?](https://docs.copilotkit.ai/coagents/shared-state/state-inputs-outputs#when-should-i-use-this) [Implementation](https://docs.copilotkit.ai/coagents/shared-state/state-inputs-outputs#implementation) [Examine our old state](https://docs.copilotkit.ai/coagents/shared-state/state-inputs-outputs#examine-our-old-state) [Divide state to Input and Output](https://docs.copilotkit.ai/coagents/shared-state/state-inputs-outputs#divide-state-to-input-and-output) [Give it a try!](https://docs.copilotkit.ai/coagents/shared-state/state-inputs-outputs#give-it-a-try)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/shared-state/state-inputs-outputs.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/shared-state/state-inputs-outputs.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -8304,7 +8304,7 @@ On this pageWhat is this?
 
 Stream in-progress agent state updates to the frontend.
 
-This video shows the [coagents starter](https://github.com/CopilotKit/CopilotKit/tree/main/examples/coagents-starter) repo with the [implementation](https://docs.copilotkit.ai/coagents/shared-state/predictive-state-updates#implementation) section applied to it!
+This video shows the [coagents starter](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) repo with the [implementation](https://docs.copilotkit.ai/coagents/shared-state/predictive-state-updates#implementation) section applied to it!
 
 ## [What is this?](https://docs.copilotkit.ai/coagents/shared-state/predictive-state-updates\#what-is-this)
 
@@ -8471,7 +8471,7 @@ Frontend Actions](https://docs.copilotkit.ai/coagents/frontend-actions)
 
 [What is this?](https://docs.copilotkit.ai/coagents/shared-state/predictive-state-updates#what-is-this) [When should I use this?](https://docs.copilotkit.ai/coagents/shared-state/predictive-state-updates#when-should-i-use-this) [Important Note](https://docs.copilotkit.ai/coagents/shared-state/predictive-state-updates#important-note) [Implementation](https://docs.copilotkit.ai/coagents/shared-state/predictive-state-updates#implementation) [Install the CopilotKit SDK](https://docs.copilotkit.ai/coagents/shared-state/predictive-state-updates#install-the-copilotkit-sdk) [Define the state](https://docs.copilotkit.ai/coagents/shared-state/predictive-state-updates#define-the-state) [Emit the intermediate state](https://docs.copilotkit.ai/coagents/shared-state/predictive-state-updates#emit-the-intermediate-state) [Observe the predictions](https://docs.copilotkit.ai/coagents/shared-state/predictive-state-updates#observe-the-predictions) [Give it a try!](https://docs.copilotkit.ai/coagents/shared-state/predictive-state-updates#give-it-a-try)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/shared-state/predictive-state-updates.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/shared-state/predictive-state-updates.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -8546,7 +8546,7 @@ Code Contributions](https://docs.copilotkit.ai/contributing/code-contributions)
 
 [What's changed?](https://docs.copilotkit.ai/troubleshooting/migrate-to-1.8.2#whats-changed) [New Look and Feel](https://docs.copilotkit.ai/troubleshooting/migrate-to-1.8.2#new-look-and-feel) [Thumbs Up/Down Handlers](https://docs.copilotkit.ai/troubleshooting/migrate-to-1.8.2#thumbs-updown-handlers) [ResponseButton prop removed](https://docs.copilotkit.ai/troubleshooting/migrate-to-1.8.2#responsebutton-prop-removed) [Out-of-the-box dark mode support](https://docs.copilotkit.ai/troubleshooting/migrate-to-1.8.2#out-of-the-box-dark-mode-support)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/troubleshooting/migrate-to-1.8.2.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/troubleshooting/migrate-to-1.8.2.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -8648,7 +8648,7 @@ Frontend Actions](https://docs.copilotkit.ai/guides/frontend-actions)
 
 [Render custom components in the chat UI](https://docs.copilotkit.ai/guides/generative-ui?ref=hackernoon.com#render-custom-components-in-the-chat-ui) [Test it out!](https://docs.copilotkit.ai/guides/generative-ui?ref=hackernoon.com#test-it-out)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/generative-ui.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/generative-ui.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -8667,7 +8667,7 @@ On this pageWhat is this?
 
 Render the state of your agent with custom UI components.
 
-This video demonstrates the [implementation](https://docs.copilotkit.ai/coagents/generative-ui/agentic#implementation) section applied to out [coagents starter project](https://github.com/CopilotKit/CopilotKit/tree/main/examples/coagents-starter).
+This video demonstrates the [implementation](https://docs.copilotkit.ai/coagents/generative-ui/agentic#implementation) section applied to out [coagents starter project](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter).
 
 ## [What is this?](https://docs.copilotkit.ai/coagents/generative-ui/agentic\#what-is-this)
 
@@ -8685,7 +8685,7 @@ is a situation where a user and an agent are working together to solve a problem
 
 First, you'll need to make sure you have a running LangGraph. If you haven't already done this, you can follow the [getting started guide](https://docs.copilotkit.ai/coagents/quickstart/langgraph)
 
-This guide uses the [CoAgents starter repo](https://github.com/CopilotKit/CopilotKit/tree/main/examples/coagents-starter) as its starting point.
+This guide uses the [CoAgents starter repo](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) as its starting point.
 
 ### [Define your agent state](https://docs.copilotkit.ai/coagents/generative-ui/agentic\#define-your-agent-state)
 
@@ -8856,7 +8856,7 @@ Tool-based Generative UI](https://docs.copilotkit.ai/coagents/generative-ui/tool
 
 [What is this?](https://docs.copilotkit.ai/coagents/generative-ui/agentic#what-is-this) [When should I use this?](https://docs.copilotkit.ai/coagents/generative-ui/agentic#when-should-i-use-this) [Implementation](https://docs.copilotkit.ai/coagents/generative-ui/agentic#implementation) [Run and Connect your LangGraph to CopilotKit](https://docs.copilotkit.ai/coagents/generative-ui/agentic#run-and-connect-your-langgraph-to-copilotkit) [Define your agent state](https://docs.copilotkit.ai/coagents/generative-ui/agentic#define-your-agent-state) [Simulate state updates](https://docs.copilotkit.ai/coagents/generative-ui/agentic#simulate-state-updates) [Render state of the agent in the chat](https://docs.copilotkit.ai/coagents/generative-ui/agentic#render-state-of-the-agent-in-the-chat) [Render state outside of the chat](https://docs.copilotkit.ai/coagents/generative-ui/agentic#render-state-outside-of-the-chat) [Give it a try!](https://docs.copilotkit.ai/coagents/generative-ui/agentic#give-it-a-try)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/generative-ui/agentic.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/generative-ui/agentic.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -8952,7 +8952,7 @@ LangChain.js](https://docs.copilotkit.ai/guides/backend-actions/langchain-js-bac
 
 [Modify CopilotRuntime to include TypeScript/Node.js actions](https://docs.copilotkit.ai/guides/backend-actions/typescript-backend-actions#modify-copilotruntime-to-include-typescriptnodejs-actions) [Test your implementation](https://docs.copilotkit.ai/guides/backend-actions/typescript-backend-actions#test-your-implementation) [Key Points](https://docs.copilotkit.ai/guides/backend-actions/typescript-backend-actions#key-points)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/backend-actions/typescript-backend-actions.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/backend-actions/typescript-backend-actions.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -8973,7 +8973,7 @@ Render your agent's tool calls with custom UI components.
 
 This video demonstrates the [implementation](https://docs.copilotkit.ai/crewai-crews/generative-ui/tool-based#implementation) section applied
 to out [coagents starter\\
-project](https://github.com/CopilotKit/CopilotKit/tree/main/examples/coagents-starter-crewai-crews).
+project](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter-crewai-crews).
 
 ## [What is this?](https://docs.copilotkit.ai/crewai-crews/generative-ui/tool-based\#what-is-this)
 
@@ -8992,7 +8992,7 @@ when your agent is calling tools. CopilotKit allows you to fully customize how t
 You'll need to run your agent and connect it to CopilotKit before proceeding. If you haven't done so already,
 you can follow the instructions in the [Getting Started](https://docs.copilotkit.ai/crewai-crews/quickstart/crewai) guide.
 
-If you don't already have an agent, you can use the [coagent starter](https://github.com/CopilotKit/CopilotKit/tree/main/examples/coagents-starter-crewai-crews) as a starting point
+If you don't already have an agent, you can use the [coagent starter](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter-crewai-crews) as a starting point
 as this guide uses it as a starting point.
 
 ### [Render the tool call in your frontend](https://docs.copilotkit.ai/crewai-crews/generative-ui/tool-based\#render-the-tool-call-in-your-frontend)
@@ -9084,7 +9084,7 @@ Human in the Loop (HITL)](https://docs.copilotkit.ai/crewai-crews/human-in-the-l
 
 [What is this?](https://docs.copilotkit.ai/crewai-crews/generative-ui/tool-based#what-is-this) [When should I use this?](https://docs.copilotkit.ai/crewai-crews/generative-ui/tool-based#when-should-i-use-this) [Implementation](https://docs.copilotkit.ai/crewai-crews/generative-ui/tool-based#implementation) [Run and connect your agent](https://docs.copilotkit.ai/crewai-crews/generative-ui/tool-based#run-and-connect-your-agent) [Render the tool call in your frontend](https://docs.copilotkit.ai/crewai-crews/generative-ui/tool-based#render-the-tool-call-in-your-frontend) [Give it a try!](https://docs.copilotkit.ai/crewai-crews/generative-ui/tool-based#give-it-a-try) [Rendering Arbitrary Tool Calls](https://docs.copilotkit.ai/crewai-crews/generative-ui/tool-based#rendering-arbitrary-tool-calls)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/crewai-crews/generative-ui/tool-based.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/crewai-crews/generative-ui/tool-based.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -9186,7 +9186,7 @@ Customize Instructions](https://docs.copilotkit.ai/guides/custom-ai-assistant-be
 
 [Deploy a Graph to LangGraph Platform](https://docs.copilotkit.ai/guides/backend-actions/langgraph-platform-endpoint#deploy-a-graph-to-langgraph-platform) [Deploy your agent](https://docs.copilotkit.ai/guides/backend-actions/langgraph-platform-endpoint#deploy-your-agent) [Setup your Copilot Runtime](https://docs.copilotkit.ai/guides/backend-actions/langgraph-platform-endpoint#setup-your-copilot-runtime) [Test Your Implementation](https://docs.copilotkit.ai/guides/backend-actions/langgraph-platform-endpoint#test-your-implementation) [Troubleshooting](https://docs.copilotkit.ai/guides/backend-actions/langgraph-platform-endpoint#troubleshooting)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/backend-actions/langgraph-platform-endpoint.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/backend-actions/langgraph-platform-endpoint.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -9400,7 +9400,7 @@ Remote Endpoint (LangGraph Platform)](https://docs.copilotkit.ai/guides/backend-
 
 [Stand up a FastAPI server using the CopilotKit Python SDK](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#stand-up-a-fastapi-server-using-the-copilotkit-python-sdk) [Install CopilotKit Python SDK and Dependencies](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#install-copilotkit-python-sdk-and-dependencies) [Initialize a New Poetry Project](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#initialize-a-new-poetry-project) [Install Dependencies](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#install-dependencies) [Set Up a Virtual Environment (optional)](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#set-up-a-virtual-environment-optional) [Install Dependencies](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#install-dependencies-1) [Create a New Conda Environment](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#create-a-new-conda-environment) [Install Dependencies](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#install-dependencies-2) [Set Up a FastAPI Server](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#set-up-a-fastapi-server) [Define Your Backend Actions](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#define-your-backend-actions) [Run Your FastAPI Server](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#run-your-fastapi-server) [Connect your app to the remote endpoint](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#connect-your-app-to-the-remote-endpoint) [Troubleshooting](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#troubleshooting) [Test Your Implementation](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#test-your-implementation) [Advanced](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#advanced) [Configuring the Thread Pool Executor](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#configuring-the-thread-pool-executor) [Dynamically returning actions and agents](https://docs.copilotkit.ai/guides/backend-actions/remote-backend-endpoint#dynamically-returning-actions-and-agents)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/backend-actions/remote-backend-endpoint.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/backend-actions/remote-backend-endpoint.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -9450,7 +9450,7 @@ CrewAI Flows](https://docs.copilotkit.ai/crewai-flows/human-in-the-loop/flow)
 
 [What is Human-in-the-Loop (HITL)?](https://docs.copilotkit.ai/crewai-flows/human-in-the-loop#what-is-human-in-the-loop-hitl) [When should I use this?](https://docs.copilotkit.ai/crewai-flows/human-in-the-loop#when-should-i-use-this) [How can I use this?](https://docs.copilotkit.ai/crewai-flows/human-in-the-loop#how-can-i-use-this)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/crewai-flows/human-in-the-loop/index.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/crewai-flows/human-in-the-loop/index.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -9606,7 +9606,7 @@ Guardrails](https://docs.copilotkit.ai/guides/guardrails)
 
 [Introduction](https://docs.copilotkit.ai/guides/authenticated-actions#introduction) [Overview](https://docs.copilotkit.ai/guides/authenticated-actions#overview) [How It Works](https://docs.copilotkit.ai/guides/authenticated-actions#how-it-works) [Authentication Flow](https://docs.copilotkit.ai/guides/authenticated-actions#authentication-flow) [Example Scenario](https://docs.copilotkit.ai/guides/authenticated-actions#example-scenario) [Frontend Implementation](https://docs.copilotkit.ai/guides/authenticated-actions#frontend-implementation) [Configure Authentication State](https://docs.copilotkit.ai/guides/authenticated-actions#configure-authentication-state) [Backend Integration](https://docs.copilotkit.ai/guides/authenticated-actions#backend-integration) [Best Practices](https://docs.copilotkit.ai/guides/authenticated-actions#best-practices)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/authenticated-actions.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/authenticated-actions.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -9649,7 +9649,7 @@ Agentic Copilots](https://docs.copilotkit.ai/coagents/concepts/agentic-copilots)
 
 No Headings
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/concepts/terminology.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/concepts/terminology.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -9677,7 +9677,7 @@ We understand that as we move quickly, sometimes our documentation website can b
 
 ### [Fork The Repository](https://docs.copilotkit.ai/contributing/docs-contributions\#fork-the-repository)
 
-First, head over to the [CopilotKit GitHub repository](https://github.com/CopilotKit/CopilotKit) and create a fork.
+First, head over to the [CopilotKit GitHub repository](https://github.com/Sherler/CopilotKit) and create a fork.
 
 Then, clone the forked repository to your local machine:
 
@@ -9708,7 +9708,7 @@ Please ensure you review your changes for grammar, spelling and formatting error
 
 ### [Review Changes & Submit Pull Request](https://docs.copilotkit.ai/contributing/docs-contributions\#review-changes--submit-pull-request)
 
-Once you are happy with your changes, you can commit and push them. Then, head over to the [Pull Requests page](https://github.com/CopilotKit/CopilotKit/pulls) and create a pull request. Thank you for your contribution!
+Once you are happy with your changes, you can commit and push them. Then, head over to the [Pull Requests page](https://github.com/Sherler/CopilotKit/pulls) and create a pull request. Thank you for your contribution!
 
 ## [Need help?](https://docs.copilotkit.ai/contributing/docs-contributions\#need-help)
 
@@ -9724,7 +9724,7 @@ Anonymous Telemetry](https://docs.copilotkit.ai/telemetry)
 
 [Prerequisites](https://docs.copilotkit.ai/contributing/docs-contributions#prerequisites) [How To Contribute](https://docs.copilotkit.ai/contributing/docs-contributions#how-to-contribute) [Fork The Repository](https://docs.copilotkit.ai/contributing/docs-contributions#fork-the-repository) [Run the Documentation Site Locally](https://docs.copilotkit.ai/contributing/docs-contributions#run-the-documentation-site-locally) [Make Your Changes](https://docs.copilotkit.ai/contributing/docs-contributions#make-your-changes) [Review Changes & Submit Pull Request](https://docs.copilotkit.ai/contributing/docs-contributions#review-changes--submit-pull-request) [Need help?](https://docs.copilotkit.ai/contributing/docs-contributions#need-help)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/(other)/contributing/docs-contributions.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/(other)/contributing/docs-contributions.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -9812,7 +9812,7 @@ useCopilotChatSuggestions](https://docs.copilotkit.ai/reference/hooks/useCopilot
 
 [Usage](https://docs.copilotkit.ai/reference/hooks/useCopilotChat#usage) [Simple Usage](https://docs.copilotkit.ai/reference/hooks/useCopilotChat#simple-usage) [Parameters](https://docs.copilotkit.ai/reference/hooks/useCopilotChat#parameters)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/hooks/useCopilotChat.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/hooks/useCopilotChat.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -9834,7 +9834,7 @@ Learn how to implement Human-in-the-Loop (HITL) using a node-based flow.
 The usage of node based interrupt is [now discouraged](https://langchain-ai.github.io/langgraph/concepts/v0-human-in-the-loop/) by both LangGraph and CopilotKit.
 As of LangGraph 0.2.57, the recommended way to set breakpoints is using [the interrupt function](https://https//docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow) as it simplifies human-in-the-loop patterns.
 
-Pictured above is the [coagent starter](https://github.com/copilotkit/copilotkit/tree/main/examples/coagents-starter) with
+Pictured above is the [coagent starter](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) with
 the implementation below applied!
 
 ## [What is this?](https://docs.copilotkit.ai/coagents/human-in-the-loop/node-flow\#what-is-this)
@@ -9860,7 +9860,7 @@ is interrupted and then resumes execution from where it left off, unaware of the
 You'll need to run your agent and connect it to CopilotKit before proceeding. If you haven't done so already,
 you can follow the instructions in the [Getting Started](https://docs.copilotkit.ai/coagents/quickstart/langgraph) guide.
 
-If you don't already have an agent, you can use the [coagent starter](https://github.com/copilotkit/copilotkit/tree/main/examples/coagents-starter) as a starting point
+If you don't already have an agent, you can use the [coagent starter](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) as a starting point
 as this guide uses it as a starting point.
 
 ### [Install the CopilotKit SDK](https://docs.copilotkit.ai/coagents/human-in-the-loop/node-flow\#install-the-copilotkit-sdk)
@@ -10039,7 +10039,7 @@ Shared State](https://docs.copilotkit.ai/coagents/shared-state)
 
 [What is this?](https://docs.copilotkit.ai/coagents/human-in-the-loop/node-flow#what-is-this) [Why should I use this?](https://docs.copilotkit.ai/coagents/human-in-the-loop/node-flow#why-should-i-use-this) [Implementation](https://docs.copilotkit.ai/coagents/human-in-the-loop/node-flow#implementation) [Run and connect your agent](https://docs.copilotkit.ai/coagents/human-in-the-loop/node-flow#run-and-connect-your-agent) [Install the CopilotKit SDK](https://docs.copilotkit.ai/coagents/human-in-the-loop/node-flow#install-the-copilotkit-sdk) [Add a useCopilotAction to your Frontend](https://docs.copilotkit.ai/coagents/human-in-the-loop/node-flow#add-a-usecopilotaction-to-your-frontend) [Setup the LangGraph Agent](https://docs.copilotkit.ai/coagents/human-in-the-loop/node-flow#setup-the-langgraph-agent) [Give it a try!](https://docs.copilotkit.ai/coagents/human-in-the-loop/node-flow#give-it-a-try)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/human-in-the-loop/node-flow.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/human-in-the-loop/node-flow.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -10117,7 +10117,7 @@ Connecting Your Data](https://docs.copilotkit.ai/guides/connect-your-data)
 
 [Resetting the chat history](https://docs.copilotkit.ai/guides/custom-look-and-feel/headless-ui#resetting-the-chat-history)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/custom-look-and-feel/headless-ui.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/custom-look-and-feel/headless-ui.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -10136,7 +10136,7 @@ On this pageWhat is this?
 
 Write to agent's state from your application.
 
-This video shows the [coagents starter](https://github.com/CopilotKit/CopilotKit/tree/main/examples/coagents-starter) repo with the previous steps applied to it!
+This video shows the [coagents starter](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) repo with the previous steps applied to it!
 
 ## [What is this?](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write\#what-is-this)
 
@@ -10154,7 +10154,7 @@ when your agent is calling tools. CopilotKit allows you to fully customize how t
 You'll need to run your agent and connect it to CopilotKit before proceeding. If you haven't done so already,
 you can follow the instructions in the [Getting Started](https://docs.copilotkit.ai/getting-started) guide.
 
-If you don't already have an agent, you can use the [coagent starter](https://github.com/copilotkit/copilotkit/tree/main/examples/coagents-starter) as a starting point
+If you don't already have an agent, you can use the [coagent starter](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) as a starting point
 as this guide uses it as a starting point.
 
 ### [Define the Agent State](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write\#define-the-agent-state)
@@ -10282,7 +10282,7 @@ Agent state inputs and outputs](https://docs.copilotkit.ai/coagents/shared-state
 
 [What is this?](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#what-is-this) [When should I use this?](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#when-should-i-use-this) [Implementation](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#implementation) [Run and Connect Your Agent to CopilotKit](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#run-and-connect-your-agent-to-copilotkit) [Define the Agent State](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#define-the-agent-state) [Call setState function from the useCoAgent hook](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#call-setstate-function-from-the-usecoagent-hook) [Give it a try!](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#give-it-a-try) [Advanced Usage](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#advanced-usage) [Re-run the agent with a hint about what's changed](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#re-run-the-agent-with-a-hint-about-whats-changed) [Intermediately Stream and Render Agent State](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#intermediately-stream-and-render-agent-state)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/shared-state/in-app-agent-write.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/shared-state/in-app-agent-write.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -10312,7 +10312,7 @@ CopilotChat](https://docs.copilotkit.ai/reference/components/chat/CopilotChat)
 
 No Headings
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/reference/components/chat/index.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/reference/components/chat/index.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -10411,7 +10411,7 @@ LangServe actions](https://docs.copilotkit.ai/guides/backend-actions/langserve-b
 
 [Integrate LangChain JS actions with CopilotRuntime](https://docs.copilotkit.ai/guides/backend-actions/langchain-js-backend-actions#integrate-langchain-js-actions-with-copilotruntime) [Test your implementation](https://docs.copilotkit.ai/guides/backend-actions/langchain-js-backend-actions#test-your-implementation)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/backend-actions/langchain-js-backend-actions.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/(root)/guides/backend-actions/langchain-js-backend-actions.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -10432,7 +10432,7 @@ Read the realtime agent state in your native application.
 
 ![read agent state](https://docs.copilotkit.ai/_next/image?url=%2Fimages%2Fcoagents%2Fread-agent-state.png&w=3840&q=75)
 
-Pictured above is the [coagent starter](https://github.com/copilotkit/copilotkit/tree/main/examples/coagents-starter) with
+Pictured above is the [coagent starter](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) with
 the [implementation](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-read#implementation) section applied!
 
 ## [What is this?](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-read\#what-is-this)
@@ -10451,7 +10451,7 @@ state update you can reflect these updates natively in your application.
 You'll need to run your agent and connect it to CopilotKit before proceeding. If you haven't done so already,
 you can follow the instructions in the [Getting Started](https://docs.copilotkit.ai/getting-started) guide.
 
-If you don't already have an agent, you can use the [coagent starter](https://github.com/copilotkit/copilotkit/tree/main/examples/coagents-starter) as a starting point
+If you don't already have an agent, you can use the [coagent starter](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) as a starting point
 as this guide uses it as a starting point.
 
 ### [Define the Agent State](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-read\#define-the-agent-state)
@@ -10574,7 +10574,7 @@ Writing agent state](https://docs.copilotkit.ai/coagents/shared-state/in-app-age
 
 [What is this?](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-read#what-is-this) [When should I use this?](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-read#when-should-i-use-this) [Implementation](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-read#implementation) [Run and Connect Your Agent to CopilotKit](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-read#run-and-connect-your-agent-to-copilotkit) [Define the Agent State](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-read#define-the-agent-state) [Use the useCoAgent Hook](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-read#use-the-usecoagent-hook) [Give it a try!](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-read#give-it-a-try) [Rendering agent state in the chat](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-read#rendering-agent-state-in-the-chat) [Intermediately Stream and Render Agent State](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-read#intermediately-stream-and-render-agent-state)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/shared-state/in-app-agent-read.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/shared-state/in-app-agent-read.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -10595,7 +10595,7 @@ On this pageWhat is this?
 
 Learn how to implement Human-in-the-Loop (HITL) using a interrupt-based flow.
 
-Pictured above is the [coagent starter](https://github.com/copilotkit/copilotkit/tree/main/examples/coagents-starter) with
+Pictured above is the [coagent starter](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) with
 the implementation below applied!
 
 ## [What is this?](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow\#what-is-this)
@@ -10620,7 +10620,7 @@ interaction, however [CopilotKit's SDKs provide helpers to alleviate this](https
 You'll need to run your agent and connect it to CopilotKit before proceeding. If you haven't done so already,
 you can follow the instructions in the [Getting Started](https://docs.copilotkit.ai/coagents/quickstart/langgraph) guide.
 
-If you don't already have an agent, you can use the [coagent starter](https://github.com/copilotkit/copilotkit/tree/main/examples/coagents-starter) as a starting point
+If you don't already have an agent, you can use the [coagent starter](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) as a starting point
 as this guide uses it as a starting point.
 
 ### [Install the CopilotKit SDK](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow\#install-the-copilotkit-sdk)
@@ -10945,7 +10945,7 @@ Node-based](https://docs.copilotkit.ai/coagents/human-in-the-loop/node-flow)
 
 [What is this?](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow#what-is-this) [When should I use this?](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow#when-should-i-use-this) [Implementation](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow#implementation) [Run and connect your agent](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow#run-and-connect-your-agent) [Install the CopilotKit SDK](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow#install-the-copilotkit-sdk) [Setup your agent state](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow#setup-your-agent-state) [Call interrupt in your LangGraph agent](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow#call-interrupt-in-your-langgraph-agent) [Handle the interrupt in your frontend](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow#handle-the-interrupt-in-your-frontend) [Call copilotkit\_interrupt in your LangGraph agent](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow#call-copilotkit_interrupt-in-your-langgraph-agent) [Give it a try!](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow#give-it-a-try) [Make your agent aware of interruptions](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow#make-your-agent-aware-of-interruptions) [Condition UI executions](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow#condition-ui-executions) [Define multiple interrupts](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow#define-multiple-interrupts) [Add multiple frontend handlers](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow#add-multiple-frontend-handlers) [Preprocessing of an interrupt and programmatically handling an interrupt value](https://docs.copilotkit.ai/coagents/human-in-the-loop/interrupt-flow#preprocessing-of-an-interrupt-and-programmatically-handling-an-interrupt-value)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/human-in-the-loop/interrupt-flow.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/human-in-the-loop/interrupt-flow.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -10964,7 +10964,7 @@ On this pageWhat is this?
 
 Write to agent's state from your application.
 
-This video shows the [coagents starter](https://github.com/CopilotKit/CopilotKit/tree/main/examples/coagents-starter) repo with the previous steps applied to it!
+This video shows the [coagents starter](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) repo with the previous steps applied to it!
 
 ## [What is this?](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write\#what-is-this)
 
@@ -10982,7 +10982,7 @@ when your agent is calling tools. CopilotKit allows you to fully customize how t
 You'll need to run your agent and connect it to CopilotKit before proceeding. If you haven't done so already,
 you can follow the instructions in the [Getting Started](https://docs.copilotkit.ai/getting-started) guide.
 
-If you don't already have an agent, you can use the [coagent starter](https://github.com/copilotkit/copilotkit/tree/main/examples/coagents-starter) as a starting point
+If you don't already have an agent, you can use the [coagent starter](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) as a starting point
 as this guide uses it as a starting point.
 
 ### [Define the Agent State](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write\#define-the-agent-state)
@@ -11110,7 +11110,7 @@ Agent state inputs and outputs](https://docs.copilotkit.ai/coagents/shared-state
 
 [What is this?](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#what-is-this) [When should I use this?](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#when-should-i-use-this) [Implementation](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#implementation) [Run and Connect Your Agent to CopilotKit](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#run-and-connect-your-agent-to-copilotkit) [Define the Agent State](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#define-the-agent-state) [Call setState function from the useCoAgent hook](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#call-setstate-function-from-the-usecoagent-hook) [Give it a try!](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#give-it-a-try) [Advanced Usage](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#advanced-usage) [Re-run the agent with a hint about what's changed](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#re-run-the-agent-with-a-hint-about-whats-changed) [Intermediately Stream and Render Agent State](https://docs.copilotkit.ai/coagents/shared-state/in-app-agent-write#intermediately-stream-and-render-agent-state)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/shared-state/in-app-agent-write.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/shared-state/in-app-agent-write.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -11211,7 +11211,7 @@ Common Issues](https://docs.copilotkit.ai/coagents/troubleshooting/common-issues
 
 [Can I modify the message history?](https://docs.copilotkit.ai/coagents/concepts/message-management#can-i-modify-the-message-history) [Can I persist chat history?](https://docs.copilotkit.ai/coagents/concepts/message-management#can-i-persist-chat-history) [Types of LLM Messages](https://docs.copilotkit.ai/coagents/concepts/message-management#types-of-llm-messages) [Emitting Messages for long running tasks](https://docs.copilotkit.ai/coagents/concepts/message-management#emitting-messages-for-long-running-tasks) [Message Flow](https://docs.copilotkit.ai/coagents/concepts/message-management#message-flow)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/concepts/message-management.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/concepts/message-management.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -11237,7 +11237,7 @@ Exiting the agent has different effects depending on mode:
 - **Agent Lock Mode**: Exiting the agent restarts the workflow loop for the current agent.
 
 
-In this example from [our email-sending app](https://github.com/copilotkit/copilotkit/tree/main/examples/coagents-qa), the `send_email` node explicitly exits, then manually sends a response back to the user as a `ToolMessage`:
+In this example from [our email-sending app](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-qa), the `send_email` node explicitly exits, then manually sends a response back to the user as a `ToolMessage`:
 
 ### [Install the CopilotKit SDK](https://docs.copilotkit.ai/coagents/advanced/exit-agent\#install-the-copilotkit-sdk)
 
@@ -11290,7 +11290,7 @@ Overview](https://docs.copilotkit.ai/coagents/tutorials/agent-native-app)
 
 [Install the CopilotKit SDK](https://docs.copilotkit.ai/coagents/advanced/exit-agent#install-the-copilotkit-sdk) [Exit the agent loop](https://docs.copilotkit.ai/coagents/advanced/exit-agent#exit-the-agent-loop)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/advanced/exit-agent.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/advanced/exit-agent.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -11355,7 +11355,7 @@ Using Agent Execution Parameters](https://docs.copilotkit.ai/coagents/advanced/a
 
 No Headings
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/persistence/message-persistence.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/persistence/message-persistence.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 
@@ -11374,7 +11374,7 @@ Advanced
 
 While most agent interactions happen automatically through shared state updates as the agent runs, you can also **manually send messages from within your agent code** to provide immediate feedback to users.
 
-This video shows the [coagents starter](https://github.com/CopilotKit/CopilotKit/tree/main/examples/coagents-starter) repo with the [implementation](https://docs.copilotkit.ai/coagents/advanced/emit-messages#implementation) section applied to it!
+This video shows the [coagents starter](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) repo with the [implementation](https://docs.copilotkit.ai/coagents/advanced/emit-messages#implementation) section applied to it!
 
 ## [What is this?](https://docs.copilotkit.ai/coagents/advanced/emit-messages\#what-is-this)
 
@@ -11396,7 +11396,7 @@ Manually emitted messages are great for **when you don't want to wait for the no
 You'll need to run your agent and connect it to CopilotKit before proceeding. If you haven't done so already,
 you can follow the instructions in the [Getting Started](https://docs.copilotkit.ai/coagents/quickstart/langgraph) guide.
 
-If you don't already have an agent, you can use the [coagent starter](https://github.com/copilotkit/copilotkit/tree/main/examples/coagents-starter) as a starting point
+If you don't already have an agent, you can use the [coagent starter](https://github.com/Sherler/CopilotKit/tree/main/examples/coagents-starter) as a starting point
 as this guide uses it as a starting point.
 
 ### [Install the CopilotKit SDK](https://docs.copilotkit.ai/coagents/advanced/emit-messages\#install-the-copilotkit-sdk)
@@ -11466,7 +11466,7 @@ Exiting the agent loop](https://docs.copilotkit.ai/coagents/advanced/exit-agent)
 
 [What is this?](https://docs.copilotkit.ai/coagents/advanced/emit-messages#what-is-this) [When should I use this?](https://docs.copilotkit.ai/coagents/advanced/emit-messages#when-should-i-use-this) [Implementation](https://docs.copilotkit.ai/coagents/advanced/emit-messages#implementation) [Run and Connect Your Agent to CopilotKit](https://docs.copilotkit.ai/coagents/advanced/emit-messages#run-and-connect-your-agent-to-copilotkit) [Install the CopilotKit SDK](https://docs.copilotkit.ai/coagents/advanced/emit-messages#install-the-copilotkit-sdk) [Manually emit a message](https://docs.copilotkit.ai/coagents/advanced/emit-messages#manually-emit-a-message) [Give it a try!](https://docs.copilotkit.ai/coagents/advanced/emit-messages#give-it-a-try)
 
-[Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/coagents/advanced/emit-messages.mdx)
+[Edit on GitHub](https://github.com/Sherler/CopilotKit/blob/main/docs/content/docs/coagents/advanced/emit-messages.mdx)
 
 ![](https://static.scarf.sh/a.png?x-pxid=ffc9f65d-0186-4575-b065-61d62ea9d7d3)
 

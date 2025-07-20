@@ -11,14 +11,14 @@ import { FaXTwitter } from 'react-icons/fa6';
  * Docs Layout: app/docs/layout.tsx
  */
 export const baseOptions: HomeLayoutProps = {
-  githubUrl: "https://github.com/copilotkit/copilotkit",
+  githubUrl: "https://github.com/Sherler/CopilotKit",
   nav: {
     title: <Logo />,
   },
   links: [
     {
       text: "Feedback",
-      url: "https://github.com/CopilotKit/CopilotKit/issues/new/choose",
+      url: "https://github.com/Sherler/CopilotKit/issues/new/choose",
       icon: <FaEdit />,
     },
     {
