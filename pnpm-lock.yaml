@@ -8,13 +8,13 @@ importers:
 
   .:
     dependencies:
-      '@copilotkit/react-core':
+      '@think-copilotkit/react-core':
         specifier: 1.8.11
         version: 1.8.11(@types/react@18.3.21)(graphql@16.11.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@copilotkit/react-textarea':
+      '@think-copilotkit/react-textarea':
         specifier: 1.8.11
         version: 1.8.11(@types/react@18.3.21)(graphql@16.11.0)(react@18.3.1)
-      '@copilotkit/react-ui':
+      '@think-copilotkit/react-ui':
         specifier: 1.8.11
         version: 1.8.11(@types/react@18.3.21)(graphql@16.11.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@think-copilotkit/runtime':
@@ -115,18 +115,18 @@ packages:
   '@cfworker/json-schema@4.1.1':
     resolution: {integrity: sha512-gAmrUZSGtKc3AiBL71iNWxDsyUC5uMaKKGdvzYsBoTW/xi42JQHl7eKV2OYzCUqvc+D2RCcf7EXY2iCyFIk6og==}
 
-  '@copilotkit/react-core@1.8.11':
+  '@think-copilotkit/react-core@1.8.11':
     resolution: {integrity: sha512-8zByY0qCnKTBLTBC856RgQMA6Ej4cmKCYRdNBN72m25yQjW/JlbZ2aZVr36Q5zeuW57E3Ht4MYway90NJTom+Q==}
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
       react-dom: ^18 || ^19 || ^19.0.0-rc
 
-  '@copilotkit/react-textarea@1.8.11':
+  '@think-copilotkit/react-textarea@1.8.11':
     resolution: {integrity: sha512-Ddn8EcUjjW7qSSnPg8CmHZFH9BbI57wlQEMEzxsi2m6QbyDE6oP/H3gYnrFaHvQZhulbx5yumn3YgEof8T0wbQ==}
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
 
-  '@copilotkit/react-ui@1.8.11':
+  '@think-copilotkit/react-ui@1.8.11':
     resolution: {integrity: sha512-rjCwzQcBgYgGxTSHc27LXpILllYxsA7vYAM97yITOaWw+wTNp7QKd2Jinn8mCfTyq7K9HRChue/KIEnpzJBOGg==}
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
@@ -139,7 +139,7 @@ packages:
   '@think-copilotkit/runtime@1.8.11':
     resolution: {integrity: sha512-7cnA6CHQ08LBdYQ0I/VO5dfaeOa4rPfaxpxoQ4VjGvTF+8zDNFk5IogTnKWTKN8niDTTjM7v8t1XVJOajL94dA==}
 
-  '@copilotkit/shared@1.8.11':
+  '@think-copilotkit/shared@1.8.11':
     resolution: {integrity: sha512-oIGQ0/L8C8W3XzEJ+7T36JUNrOnXVtrLhQem98hdRSSFALQSPhO/sz4ISM25/T0gQccNdqLwJrpuoUBMKB/JUg==}
 
   '@emotion/babel-plugin@11.13.5':
@@ -3325,10 +3325,10 @@ snapshots:
 
   '@cfworker/json-schema@4.1.1': {}
 
-  '@copilotkit/react-core@1.8.11(@types/react@18.3.21)(graphql@16.11.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@think-copilotkit/react-core@1.8.11(@types/react@18.3.21)(graphql@16.11.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@think-copilotkit/runtime-client-gql': 1.8.11(graphql@16.11.0)(react@18.3.1)
-      '@copilotkit/shared': 1.8.11
+      '@think-copilotkit/shared': 1.8.11
       '@scarf/scarf': 1.4.0
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
@@ -3340,11 +3340,11 @@ snapshots:
       - graphql
       - supports-color
 
-  '@copilotkit/react-textarea@1.8.11(@types/react@18.3.21)(graphql@16.11.0)(react@18.3.1)':
+  '@think-copilotkit/react-textarea@1.8.11(@types/react@18.3.21)(graphql@16.11.0)(react@18.3.1)':
     dependencies:
-      '@copilotkit/react-core': 1.8.11(@types/react@18.3.21)(graphql@16.11.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@think-copilotkit/react-core': 1.8.11(@types/react@18.3.21)(graphql@16.11.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@think-copilotkit/runtime-client-gql': 1.8.11(graphql@16.11.0)(react@18.3.1)
-      '@copilotkit/shared': 1.8.11
+      '@think-copilotkit/shared': 1.8.11
       '@emotion/css': 11.13.5
       '@emotion/react': 11.14.0(@types/react@18.3.21)(react@18.3.1)
       '@emotion/styled': 11.14.0(@emotion/react@11.14.0(@types/react@18.3.21)(react@18.3.1))(@types/react@18.3.21)(react@18.3.1)
@@ -3372,11 +3372,11 @@ snapshots:
       - graphql
       - supports-color
 
-  '@copilotkit/react-ui@1.8.11(@types/react@18.3.21)(graphql@16.11.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@think-copilotkit/react-ui@1.8.11(@types/react@18.3.21)(graphql@16.11.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
-      '@copilotkit/react-core': 1.8.11(@types/react@18.3.21)(graphql@16.11.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@think-copilotkit/react-core': 1.8.11(@types/react@18.3.21)(graphql@16.11.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@think-copilotkit/runtime-client-gql': 1.8.11(graphql@16.11.0)(react@18.3.1)
-      '@copilotkit/shared': 1.8.11
+      '@think-copilotkit/shared': 1.8.11
       '@headlessui/react': 2.2.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react: 18.3.1
       react-markdown: 8.0.7(@types/react@18.3.21)(react@18.3.1)
@@ -3392,7 +3392,7 @@ snapshots:
 
   '@think-copilotkit/runtime-client-gql@1.8.11(graphql@16.11.0)(react@18.3.1)':
     dependencies:
-      '@copilotkit/shared': 1.8.11
+      '@think-copilotkit/shared': 1.8.11
       '@urql/core': 5.1.1(graphql@16.11.0)
       react: 18.3.1
       untruncate-json: 0.0.1
@@ -3408,7 +3408,7 @@ snapshots:
       '@ag-ui/encoder': 0.0.27
       '@ag-ui/proto': 0.0.27
       '@anthropic-ai/sdk': 0.27.3
-      '@copilotkit/shared': 1.8.11
+      '@think-copilotkit/shared': 1.8.11
       '@graphql-yoga/plugin-defer-stream': 3.13.4(graphql-yoga@5.13.4(graphql@16.11.0))(graphql@16.11.0)
       '@langchain/community': 0.3.42(@browserbasehq/sdk@2.5.0)(@browserbasehq/stagehand@1.14.0(@playwright/test@1.52.0)(deepmerge@4.3.1)(dotenv@16.5.0)(openai@4.98.0(ws@8.18.2)(zod@3.24.4))(zod@3.24.4))(@ibm-cloud/watsonx-ai@1.6.5)(@langchain/core@0.3.55(openai@4.98.0(ws@8.18.2)(zod@3.24.4)))(axios@1.9.0)(google-auth-library@8.9.0)(ibm-cloud-sdk-core@5.3.2)(jsonwebtoken@9.0.2)(lodash@4.17.21)(openai@4.98.0(ws@8.18.2)(zod@3.24.4))(playwright@1.52.0)(ws@8.18.2)
       '@langchain/core': 0.3.55(openai@4.98.0(ws@8.18.2)(zod@3.24.4))
@@ -3578,7 +3578,7 @@ snapshots:
       - ws
       - youtubei.js
 
-  '@copilotkit/shared@1.8.11':
+  '@think-copilotkit/shared@1.8.11':
     dependencies:
       '@segment/analytics-node': 2.2.1
       chalk: 4.1.2

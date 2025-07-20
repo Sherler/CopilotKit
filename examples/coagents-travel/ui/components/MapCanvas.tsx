@@ -7,7 +7,7 @@ import { TripCard } from "@/components/TripCard";
 import { PlaceCard } from "@/components/PlaceCard";
 import { useMediaQuery } from "@/lib/hooks/use-media-query";
 import { MobileTripCard } from "./MobileTripCard";
-import { useChatContext } from "@copilotkit/react-ui";
+import { useChatContext } from "@think-copilotkit/react-ui";
 
 export type MapCanvasProps = {
   className?: string;

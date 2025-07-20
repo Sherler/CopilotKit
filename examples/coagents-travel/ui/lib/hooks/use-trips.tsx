@@ -1,6 +1,6 @@
 import { SearchProgress } from "@/components/SearchProgress";
-import { useCoAgent, useCoAgentStateRender, useCopilotAction } from "@copilotkit/react-core";
-import { useCopilotChatSuggestions } from "@copilotkit/react-ui";
+import { useCoAgent, useCoAgentStateRender, useCopilotAction } from "@think-copilotkit/react-core";
+import { useCopilotChatSuggestions } from "@think-copilotkit/react-ui";
 import { createContext, useContext, ReactNode, useMemo } from "react";
 import { AddTrips, EditTrips, DeleteTrips } from "@/components/humanInTheLoop";
 import { Trip, Place, AgentState, defaultTrips} from "@/lib/types";

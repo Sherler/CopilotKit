@@ -8,7 +8,7 @@ import {
   ChatCompletionUserMessageParam,
   ChatCompletionDeveloperMessageParam,
 } from "openai/resources/chat";
-import { parseJson } from "@copilotkit/shared";
+import { parseJson } from "@think-copilotkit/shared";
 
 export function limitMessagesToTokenCount(
   messages: any[],

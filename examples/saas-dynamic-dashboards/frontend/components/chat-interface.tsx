@@ -1,7 +1,7 @@
 "use client"
 
-import { CopilotChat } from "@copilotkit/react-ui";
-import "@copilotkit/react-ui/styles.css";
+import { CopilotChat } from "@think-copilotkit/react-ui";
+import "@think-copilotkit/react-ui/styles.css";
 import { useSharedContext } from "@/lib/shared-context";
 import { instructions } from "@/lib/prompts";
 export function ChatInterface() {

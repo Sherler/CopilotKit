@@ -1,6 +1,6 @@
 "use client";
 
-import { useCopilotContext, useCopilotMessagesContext } from "@copilotkit/react-core";
+import { useCopilotContext, useCopilotMessagesContext } from "@think-copilotkit/react-core";
 import {
   getPublishedCopilotKitVersion,
   logActions,
@@ -17,7 +17,7 @@ import {
   ExclamationMarkTriangleIcon,
 } from "./icons";
 import { Menu, MenuButton, MenuItem, MenuItems } from "@headlessui/react";
-import { COPILOTKIT_VERSION } from "@copilotkit/shared";
+import { COPILOTKIT_VERSION } from "@think-copilotkit/shared";
 import { SmallSpinnerIcon } from "../chat/Icons";
 import { CopilotKitHelpModal } from "../help-modal";
 
@@ -152,9 +152,9 @@ function VersionInfo({
 
   const installCommand = [
     `npm install`,
-    `@copilotkit/react-core@${latestVersion}`,
-    `@copilotkit/react-ui@${latestVersion}`,
-    `@copilotkit/react-textarea@${latestVersion}`,
+    `@think-copilotkit/react-core@${latestVersion}`,
+    `@think-copilotkit/react-ui@${latestVersion}`,
+    `@think-copilotkit/react-textarea@${latestVersion}`,
     `&& npm install @think-copilotkit/runtime@${latestVersion}`,
   ].join(" ");
 

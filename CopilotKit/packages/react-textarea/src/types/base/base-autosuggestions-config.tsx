@@ -1,6 +1,6 @@
 import { BaseCopilotTextareaApiConfig } from "./autosuggestions-bare-function";
-import { defaultCopilotContextCategories } from "@copilotkit/react-core";
-import { isMacOS } from "@copilotkit/shared";
+import { defaultCopilotContextCategories } from "@think-copilotkit/react-core";
+import { isMacOS } from "@think-copilotkit/shared";
 
 /**
  * @interface BaseAutosuggestionsConfig

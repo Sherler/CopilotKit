@@ -5,7 +5,7 @@ import { Badge } from "@/components/ui/badge"
 import { cn } from "@/lib/utils"
 import { PRData, TestsData } from "@/app/Interfaces/interface"
 import React, { useEffect, useState } from "react"
-import { useCoAgent, useCoAgentStateRender } from "@copilotkit/react-core"
+import { useCoAgent, useCoAgentStateRender } from "@think-copilotkit/react-core"
 import { Checkbox } from "@/components/ui/checkbox"
 
 interface DataTableProps {

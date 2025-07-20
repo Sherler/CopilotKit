@@ -93,7 +93,7 @@ For further reading, check out the [Model Context Protocol](https://modelcontext
         ```tsx
         "use client";
 
-        import { CopilotKit } from "@copilotkit/react-core";
+        import { CopilotKit } from "@think-copilotkit/react-core";
 
         export default function App() {
           return (
@@ -112,7 +112,7 @@ For further reading, check out the [Model Context Protocol](https://modelcontext
         ```tsx
         "use client";
 
-        import { useCopilotChat } from "@copilotkit/react-core";
+        import { useCopilotChat } from "@think-copilotkit/react-core";
         import { useEffect } from "react";
 
         function McpServerManager() {
@@ -141,7 +141,7 @@ For further reading, check out the [Model Context Protocol](https://modelcontext
         ```tsx
         "use client";
 
-        import { CopilotChat } from "@copilotkit/react-ui";
+        import { CopilotChat } from "@think-copilotkit/react-ui";
         import McpServerManager from "./McpServerManager";
 
         export default function ChatInterface() {
@@ -168,7 +168,7 @@ For further reading, check out the [Model Context Protocol](https://modelcontext
         import {
           useCopilotAction,
           CatchAllActionRenderProps,
-        } from "@copilotkit/react-core";
+        } from "@think-copilotkit/react-core";
         import McpToolCall from "./McpToolCall";
 
         export function ToolRenderer() {
@@ -193,8 +193,8 @@ For further reading, check out the [Model Context Protocol](https://modelcontext
         ```tsx
         "use client";
 
-        import { CopilotKit } from "@copilotkit/react-core";
-        import { CopilotChat } from "@copilotkit/react-ui";
+        import { CopilotKit } from "@think-copilotkit/react-core";
+        import { CopilotChat } from "@think-copilotkit/react-ui";
         import McpServerManager from "./McpServerManager";
         import { ToolRenderer } from "./ToolRenderer";
 

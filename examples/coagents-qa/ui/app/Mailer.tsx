@@ -1,8 +1,8 @@
 "use client";
 
 import React from "react";
-import { useCopilotAction } from "@copilotkit/react-core";
-import { CopilotPopup } from "@copilotkit/react-ui";
+import { useCopilotAction } from "@think-copilotkit/react-core";
+import { CopilotPopup } from "@think-copilotkit/react-ui";
 
 export function Mailer() {
   useCopilotAction({

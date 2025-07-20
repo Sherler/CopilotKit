@@ -9,7 +9,7 @@ jest.mock("@segment/analytics-node", () => ({
   })),
 }));
 
-jest.mock("@copilotkit/shared", () => ({
+jest.mock("@think-copilotkit/shared", () => ({
   parseJson: jest.fn((jsonString, defaultValue) => {
     try {
       return JSON.parse(jsonString);

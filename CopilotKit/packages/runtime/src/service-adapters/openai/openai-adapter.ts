@@ -59,7 +59,7 @@ import {
   convertMessageToOpenAIMessage,
   limitMessagesToTokenCount,
 } from "./utils";
-import { randomUUID } from "@copilotkit/shared";
+import { randomUUID } from "@think-copilotkit/shared";
 import { convertServiceAdapterError } from "../shared";
 
 const DEFAULT_MODEL = "gpt-4o";

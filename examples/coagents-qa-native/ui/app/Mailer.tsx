@@ -1,11 +1,11 @@
 "use client";
 
 import { useModelSelectorContext } from "@/lib/model-selector-provider";
-import { useCoAgent, useCopilotAction } from "@copilotkit/react-core";
-import { CopilotPopup } from "@copilotkit/react-ui";
+import { useCoAgent, useCopilotAction } from "@think-copilotkit/react-core";
+import { CopilotPopup } from "@think-copilotkit/react-ui";
 import { useState } from "react";
-import { useCopilotChatSuggestions } from "@copilotkit/react-ui";
-import { useLangGraphInterrupt } from "@copilotkit/react-core";
+import { useCopilotChatSuggestions } from "@think-copilotkit/react-ui";
+import { useLangGraphInterrupt } from "@think-copilotkit/react-core";
 
 const InterruptForm = ({
   event,

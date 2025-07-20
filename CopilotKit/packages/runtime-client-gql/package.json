@@ -58,7 +58,7 @@
     "graphql": "^16.8.1"
   },
   "dependencies": {
-    "@copilotkit/shared": "workspace:*",
+    "@think-copilotkit/shared": "workspace:*",
     "@urql/core": "^5.0.3",
     "untruncate-json": "^0.0.1",
     "urql": "^4.1.0"

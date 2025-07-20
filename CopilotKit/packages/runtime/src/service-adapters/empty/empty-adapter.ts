@@ -20,7 +20,7 @@ import {
   CopilotRuntimeChatCompletionRequest,
   CopilotRuntimeChatCompletionResponse,
 } from "../service-adapter";
-import { randomUUID } from "@copilotkit/shared";
+import { randomUUID } from "@think-copilotkit/shared";
 
 export class EmptyAdapter implements CopilotServiceAdapter {
   async process(

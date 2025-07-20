@@ -10,8 +10,8 @@
     "registry:build": "shadcn build"
   },
   "dependencies": {
-    "@copilotkit/react-core": "^1.8.8",
-    "@copilotkit/react-ui": "^1.8.8",
+    "@think-copilotkit/react-core": "^1.8.8",
+    "@think-copilotkit/react-ui": "^1.8.8",
     "@think-copilotkit/runtime": "^1.8.8",
     "@think-copilotkit/runtime-client-gql": "^1.8.8",
     "@modelcontextprotocol/sdk": "^1.10.2",

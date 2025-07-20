@@ -1,6 +1,6 @@
 "use client";
-import { useCopilotAction } from "@copilotkit/react-core";
-import { CopilotPopup } from "@copilotkit/react-ui";
+import { useCopilotAction } from "@think-copilotkit/react-core";
+import { CopilotPopup } from "@think-copilotkit/react-ui";
 import { useState } from "react";
 
 export default function YourApp() {

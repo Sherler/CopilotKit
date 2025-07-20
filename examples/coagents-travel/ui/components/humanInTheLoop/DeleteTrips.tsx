@@ -2,7 +2,7 @@ import { Trip } from "@/lib/types";
 import { PlaceCard } from "@/components/PlaceCard";
 import { X, Trash } from "lucide-react";
 import { ActionButtons } from "./ActionButtons";
-import { RenderFunctionStatus } from "@copilotkit/react-core";
+import { RenderFunctionStatus } from "@think-copilotkit/react-core";
 
 export type DeleteTripsProps = {
   args: any;

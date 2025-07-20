@@ -7,17 +7,17 @@
  *
  * ## Install Dependencies
  *
- * This component is part of the [@copilotkit/react-ui](https://npmjs.com/package/@copilotkit/react-ui) package.
+ * This component is part of the [@think-copilotkit/react-ui](https://npmjs.com/package/@think-copilotkit/react-ui) package.
  *
- * ```shell npm2yarn \"@copilotkit/react-ui"\
- * npm install @copilotkit/react-core @copilotkit/react-ui
+ * ```shell npm2yarn \"@think-copilotkit/react-ui"\
+ * npm install @think-copilotkit/react-core @think-copilotkit/react-ui
  * ```
  *
  * ## Usage
  *
  * ```tsx
- * import { CopilotChat } from "@copilotkit/react-ui";
- * import "@copilotkit/react-ui/styles.css";
+ * import { CopilotChat } from "@think-copilotkit/react-ui";
+ * import "@think-copilotkit/react-ui/styles.css";
  *
  * <CopilotChat
  *   labels={{
@@ -32,7 +32,7 @@
  * By default, CopilotKit components do not have any styles. You can import CopilotKit's stylesheet at the root of your project:
  * ```tsx title="YourRootComponent.tsx"
  * ...
- * import "@copilotkit/react-ui/styles.css"; // [!code highlight]
+ * import "@think-copilotkit/react-ui/styles.css"; // [!code highlight]
  *
  * export function YourRootComponent() {
  *   return (
@@ -66,11 +66,11 @@ import {
   useCopilotChat,
   useCopilotContext,
   useCopilotMessagesContext,
-} from "@copilotkit/react-core";
+} from "@think-copilotkit/react-core";
 import { reloadSuggestions } from "./Suggestion";
 import { CopilotChatSuggestion } from "../../types/suggestions";
 import { Message, Role, TextMessage, ImageMessage } from "@think-copilotkit/runtime-client-gql";
-import { randomId } from "@copilotkit/shared";
+import { randomId } from "@think-copilotkit/shared";
 import {
   AssistantMessageProps,
   ComponentsMap,
@@ -81,7 +81,7 @@ import {
   UserMessageProps,
 } from "./props";
 
-import { HintFunction, runAgent, stopAgent } from "@copilotkit/react-core";
+import { HintFunction, runAgent, stopAgent } from "@think-copilotkit/react-core";
 import { ImageUploadQueue } from "./ImageUploadQueue";
 import { Suggestions as DefaultRenderSuggestionsList } from "./Suggestions";
 

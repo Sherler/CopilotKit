@@ -4,7 +4,7 @@ import {
   TooltipProvider,
   TooltipTrigger,
 } from "@/components/ui/tooltip";
-import { CatchAllActionRenderProps } from "@copilotkit/react-core";
+import { CatchAllActionRenderProps } from "@think-copilotkit/react-core";
 
 export function ToolCall(toolCallProps: CatchAllActionRenderProps) {
   const triggerStyles = "inline-flex rounded-xl items-center gap-2 p-2 rounded bg-indigo-500/60 text-white cursor-pointer m-1";

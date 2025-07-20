@@ -21,10 +21,10 @@ suggest changes to the text, for example providing a summary or rephrasing the t
 
 <Steps>
 <Step>
-### Install `@copilotkit/react-textarea`
+### Install `@think-copilotkit/react-textarea`
     
 ```package-install
-npm install @copilotkit/react-textarea
+npm install @think-copilotkit/react-textarea
 ```
 </Step>
 <Step>
@@ -32,7 +32,7 @@ npm install @copilotkit/react-textarea
 Import the default styles in your root component (typically `layout.tsx`) :
 
 ```tsx title="layout.tsx"
-import "@copilotkit/react-textarea/styles.css";
+import "@think-copilotkit/react-textarea/styles.css";
 ```
 </Step>
 <Step>
@@ -43,7 +43,7 @@ Below you can find several examples showing how to use the `CopilotTextarea` com
   <Tab value="Example 1">
     ```tsx title="TextAreaComponent.tsx"
     import { FC, useState } from "react";
-    import { CopilotTextarea } from '@copilotkit/react-textarea';
+    import { CopilotTextarea } from '@think-copilotkit/react-textarea';
 
     const ExampleComponent: FC = () => {
       const [text, setText] = useState<string>('');
@@ -66,7 +66,7 @@ Below you can find several examples showing how to use the `CopilotTextarea` com
   <Tab value="Example 2">
     ```tsx title="TextAreaComponent.tsx"
     import { FC, useState } from "react";
-    import { CopilotTextarea } from "@copilotkit/react-textarea";
+    import { CopilotTextarea } from "@think-copilotkit/react-textarea";
 
     const TextAreaComponent: FC = () => {
       const [text, setText] = useState<string>("");

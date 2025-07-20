@@ -4,12 +4,12 @@ import {
   useCoAgent,
   useCoAgentStateRender,
   useCopilotChat,
-} from "@copilotkit/react-core";
+} from "@think-copilotkit/react-core";
 import {
   CopilotSidebar,
   useCopilotChatSuggestions,
-} from "@copilotkit/react-ui";
-import "@copilotkit/react-ui/styles.css";
+} from "@think-copilotkit/react-ui";
+import "@think-copilotkit/react-ui/styles.css";
 import {
   ModelSelectorProvider,
   useModelSelectorContext,

@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@copilotkit/react-core": "latest",
-    "@copilotkit/react-ui": "latest",
+    "@think-copilotkit/react-core": "latest",
+    "@think-copilotkit/react-ui": "latest",
     "@think-copilotkit/runtime": "latest",
     "@think-copilotkit/runtime-client-gql": "latest",
     "@radix-ui/react-accordion": "^1.2.0",

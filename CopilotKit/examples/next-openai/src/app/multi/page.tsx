@@ -1,8 +1,8 @@
 "use client";
 
-import { CopilotChat } from "@copilotkit/react-ui";
+import { CopilotChat } from "@think-copilotkit/react-ui";
 import "./styles.css";
-import { CopilotKit, useCopilotAction, useCopilotChat } from "@copilotkit/react-core";
+import { CopilotKit, useCopilotAction, useCopilotChat } from "@think-copilotkit/react-core";
 import { useSearchParams } from "next/navigation";
 import { MessageRole, TextMessage } from "@think-copilotkit/runtime-client-gql";
 

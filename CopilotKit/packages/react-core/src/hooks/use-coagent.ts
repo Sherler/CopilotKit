@@ -20,7 +20,7 @@
  * ### Simple Usage
  *
  * ```tsx
- * import { useCoAgent } from "@copilotkit/react-core";
+ * import { useCoAgent } from "@think-copilotkit/react-core";
  *
  * type AgentState = {
  *   count: number;
@@ -101,7 +101,7 @@ import { Message } from "@think-copilotkit/runtime-client-gql";
 import { useAsyncCallback } from "../components/error-boundary/error-utils";
 import { useToast } from "../components/toast/toast-provider";
 import { useCopilotRuntimeClient } from "./use-copilot-runtime-client";
-import { parseJson, CopilotKitAgentDiscoveryError } from "@copilotkit/shared";
+import { parseJson, CopilotKitAgentDiscoveryError } from "@think-copilotkit/shared";
 
 interface UseCoagentOptionsBase {
   /**

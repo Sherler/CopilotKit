@@ -1,6 +1,6 @@
 ---
 "@think-copilotkit/runtime": patch
-"@copilotkit/shared": patch
+"@think-copilotkit/shared": patch
 ---
 
 - chore(telemetry): integrate Scarf for usage analytics

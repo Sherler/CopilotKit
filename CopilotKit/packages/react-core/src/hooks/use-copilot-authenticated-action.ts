@@ -1,4 +1,4 @@
-import { Parameter } from "@copilotkit/shared";
+import { Parameter } from "@think-copilotkit/shared";
 import { Fragment, useCallback, useRef } from "react";
 import { useCopilotContext } from "../context/copilot-context";
 import { FrontendAction, ActionRenderProps } from "../types/frontend-action";

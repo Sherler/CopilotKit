@@ -1,22 +1,22 @@
-# @copilotkit/react-core
+# @think-copilotkit/react-core
 
 ## 1.8.2
 
 ### Patch Changes
 
 - @think-copilotkit/runtime-client-gql@1.8.2
-- @copilotkit/shared@1.8.2
+- @think-copilotkit/shared@1.8.2
 
 
-# @copilotkit/react-ui
+# @think-copilotkit/react-ui
 
 ## 1.8.2
 
 ### Patch Changes
 
 - @think-copilotkit/runtime-client-gql@1.8.2
-- @copilotkit/react-core@1.8.2
-- @copilotkit/shared@1.8.2
+- @think-copilotkit/react-core@1.8.2
+- @think-copilotkit/shared@1.8.2
 
 
 # @copilotkit/sdk-js
@@ -25,18 +25,18 @@
 
 ### Patch Changes
 
-- @copilotkit/shared@1.8.2
+- @think-copilotkit/shared@1.8.2
 
 
-# @copilotkit/react-textarea
+# @think-copilotkit/react-textarea
 
 ## 1.8.2
 
 ### Patch Changes
 
 - @think-copilotkit/runtime-client-gql@1.8.2
-- @copilotkit/react-core@1.8.2
-- @copilotkit/shared@1.8.2
+- @think-copilotkit/react-core@1.8.2
+- @think-copilotkit/shared@1.8.2
 
 
 # @think-copilotkit/runtime
@@ -46,7 +46,7 @@
 ### Patch Changes
 
 - 4eedf97: - fix: handle failure to fetch langgraph schema
-  - @copilotkit/shared@1.8.2
+  - @think-copilotkit/shared@1.8.2
 
 
 # @think-copilotkit/runtime-client-gql
@@ -55,32 +55,32 @@
 
 ### Patch Changes
 
-- @copilotkit/shared@1.8.2
+- @think-copilotkit/shared@1.8.2
 
 
-# @copilotkit/shared
-
-## 1.8.2
-
-# @copilotkit/react-core
+# @think-copilotkit/shared
 
 ## 1.8.2
 
-### Patch Changes
-
-- @think-copilotkit/runtime-client-gql@1.8.2
-- @copilotkit/shared@1.8.2
-
-
-# @copilotkit/react-ui
+# @think-copilotkit/react-core
 
 ## 1.8.2
 
 ### Patch Changes
 
 - @think-copilotkit/runtime-client-gql@1.8.2
-- @copilotkit/react-core@1.8.2
-- @copilotkit/shared@1.8.2
+- @think-copilotkit/shared@1.8.2
+
+
+# @think-copilotkit/react-ui
+
+## 1.8.2
+
+### Patch Changes
+
+- @think-copilotkit/runtime-client-gql@1.8.2
+- @think-copilotkit/react-core@1.8.2
+- @think-copilotkit/shared@1.8.2
 
 
 # @copilotkit/sdk-js
@@ -89,18 +89,18 @@
 
 ### Patch Changes
 
-- @copilotkit/shared@1.8.2
+- @think-copilotkit/shared@1.8.2
 
 
-# @copilotkit/react-textarea
+# @think-copilotkit/react-textarea
 
 ## 1.8.2
 
 ### Patch Changes
 
 - @think-copilotkit/runtime-client-gql@1.8.2
-- @copilotkit/react-core@1.8.2
-- @copilotkit/shared@1.8.2
+- @think-copilotkit/react-core@1.8.2
+- @think-copilotkit/shared@1.8.2
 
 
 # @think-copilotkit/runtime
@@ -110,7 +110,7 @@
 ### Patch Changes
 
 - 4eedf97: - fix: handle failure to fetch langgraph schema
-  - @copilotkit/shared@1.8.2
+  - @think-copilotkit/shared@1.8.2
 
 
 # @think-copilotkit/runtime-client-gql
@@ -119,10 +119,10 @@
 
 ### Patch Changes
 
-- @copilotkit/shared@1.8.2
+- @think-copilotkit/shared@1.8.2
 
 
-# @copilotkit/shared
+# @think-copilotkit/shared
 
 ## 1.8.2
 

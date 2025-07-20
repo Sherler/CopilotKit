@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@copilotkit/react-core": "^1.5.20",
-    "@copilotkit/react-ui": "^1.5.20",
+    "@think-copilotkit/react-core": "^1.5.20",
+    "@think-copilotkit/react-ui": "^1.5.20",
     "@think-copilotkit/runtime": "^1.5.20",
     "next": "15.0.3",
     "openai": "^4.85.1",

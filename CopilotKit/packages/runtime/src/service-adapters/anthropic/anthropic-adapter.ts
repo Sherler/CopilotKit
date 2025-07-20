@@ -28,7 +28,7 @@ import {
   limitMessagesToTokenCount,
 } from "./utils";
 
-import { randomId, randomUUID } from "@copilotkit/shared";
+import { randomId, randomUUID } from "@think-copilotkit/shared";
 import { convertServiceAdapterError } from "../shared";
 
 const DEFAULT_MODEL = "claude-3-5-sonnet-latest";

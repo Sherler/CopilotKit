@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@copilotkit/react-core": "^1.5.20",
-    "@copilotkit/react-ui": "^1.5.20",
+    "@think-copilotkit/react-core": "^1.5.20",
+    "@think-copilotkit/react-ui": "^1.5.20",
     "@hookform/resolvers": "^4.1.2",
     "@radix-ui/react-label": "^2.1.2",
     "@radix-ui/react-popover": "^1.1.6",

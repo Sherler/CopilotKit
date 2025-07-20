@@ -44,7 +44,7 @@ import {
 } from "./utils";
 import { DynamicStructuredTool } from "@langchain/core/tools";
 import { LangChainReturnType } from "./types";
-import { randomUUID } from "@copilotkit/shared";
+import { randomUUID } from "@think-copilotkit/shared";
 import { awaitAllCallbacks } from "@langchain/core/callbacks/promises";
 
 interface ChainFnParameters {

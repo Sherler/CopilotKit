@@ -4,7 +4,7 @@ import {
   MappedParameterTypes,
   Parameter,
   actionParametersToJsonSchema,
-} from "@copilotkit/shared";
+} from "@think-copilotkit/shared";
 import {
   ActionExecutionMessage,
   Message,

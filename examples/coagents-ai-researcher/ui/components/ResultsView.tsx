@@ -4,7 +4,7 @@ import { useResearchContext } from "@/lib/research-provider";
 import { motion } from "framer-motion";
 import { BookOpenIcon, LoaderCircleIcon, SparkleIcon } from "lucide-react";
 import { SkeletonLoader } from "./SkeletonLoader";
-import { useCoAgent } from "@copilotkit/react-core";
+import { useCoAgent } from "@think-copilotkit/react-core";
 import { Progress } from "./Progress";
 import { AnswerMarkdown } from "./AnswerMarkdown";
 import { AgentState } from "@/lib/types";

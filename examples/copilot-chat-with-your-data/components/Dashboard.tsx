@@ -1,7 +1,7 @@
 "use client";
 
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "./ui/card";
-import { useCopilotAction, useCopilotReadable } from "@copilotkit/react-core";
+import { useCopilotAction, useCopilotReadable } from "@think-copilotkit/react-core";
 import { AreaChart } from "./ui/area-chart";
 import { BarChart } from "./ui/bar-chart";
 import { DonutChart } from "./ui/pie-chart";

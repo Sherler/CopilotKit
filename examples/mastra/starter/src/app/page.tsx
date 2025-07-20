@@ -1,9 +1,9 @@
 "use client";
 import React, { useState } from "react";
-import "@copilotkit/react-ui/styles.css";
+import "@think-copilotkit/react-ui/styles.css";
 import "./globals.css";
-import { CopilotKit, useCopilotAction } from "@copilotkit/react-core";
-import { CopilotChat } from "@copilotkit/react-ui";
+import { CopilotKit, useCopilotAction } from "@think-copilotkit/react-core";
+import { CopilotChat } from "@think-copilotkit/react-ui";
 const MastraChat: React.FC = () => {
   return (
     <CopilotKit

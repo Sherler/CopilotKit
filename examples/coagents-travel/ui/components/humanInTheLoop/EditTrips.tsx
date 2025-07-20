@@ -2,7 +2,7 @@ import { Place, Trip } from "@/lib/types";
 import { PlaceCard } from "@/components/PlaceCard";
 import { X, Save } from "lucide-react";
 import { ActionButtons } from "./ActionButtons";
-import { RenderFunctionStatus } from "@copilotkit/react-core";
+import { RenderFunctionStatus } from "@think-copilotkit/react-core";
 import {  useState } from "react";
 
 export type EditTripsProps = {

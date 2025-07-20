@@ -1,4 +1,4 @@
-import { CopilotCloudConfig, FunctionCallHandler, CopilotErrorHandler } from "@copilotkit/shared";
+import { CopilotCloudConfig, FunctionCallHandler, CopilotErrorHandler } from "@think-copilotkit/shared";
 import {
   ActionRenderProps,
   CatchAllActionRenderProps,

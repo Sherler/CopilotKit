@@ -1,4 +1,4 @@
-# @copilotkit/shared
+# @think-copilotkit/shared
 
 ## 1.9.3-next.4
 

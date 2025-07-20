@@ -2,8 +2,8 @@
 
 import { useEffect, useState } from "react";
 
-import { useCopilotChat, useCopilotAction, CatchAllActionRenderProps } from "@copilotkit/react-core";
-import { CopilotKitCSSProperties, CopilotSidebar, useCopilotChatSuggestions } from "@copilotkit/react-ui";
+import { useCopilotChat, useCopilotAction, CatchAllActionRenderProps } from "@think-copilotkit/react-core";
+import { CopilotKitCSSProperties, CopilotSidebar, useCopilotChatSuggestions } from "@think-copilotkit/react-ui";
 import { MCPEndpointConfig } from "@think-copilotkit/runtime";
 import { DefaultToolRender } from "@/registry/quickstarts/mcp-starter/components/default-tool-render";
 

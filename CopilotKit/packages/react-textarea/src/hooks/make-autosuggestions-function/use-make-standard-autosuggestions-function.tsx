@@ -1,5 +1,5 @@
-import { COPILOT_CLOUD_PUBLIC_API_KEY_HEADER } from "@copilotkit/shared";
-import { useCopilotContext } from "@copilotkit/react-core";
+import { COPILOT_CLOUD_PUBLIC_API_KEY_HEADER } from "@think-copilotkit/shared";
+import { useCopilotContext } from "@think-copilotkit/react-core";
 import { useCallback } from "react";
 import { AutosuggestionsBareFunction } from "../../types";
 import { retry } from "../../lib/retry";

@@ -1,7 +1,7 @@
 "use client";
-import "@copilotkit/react-ui/styles.css";
-import { CopilotKit, useCopilotAction } from "@copilotkit/react-core";
-import { CopilotChat } from "@copilotkit/react-ui";
+import "@think-copilotkit/react-ui/styles.css";
+import { CopilotKit, useCopilotAction } from "@think-copilotkit/react-core";
+import { CopilotChat } from "@think-copilotkit/react-ui";
 import React, { useState } from "react";
 
 // registry/registry/quickstarts/coagents-starter-crewai-flows/page.tsx

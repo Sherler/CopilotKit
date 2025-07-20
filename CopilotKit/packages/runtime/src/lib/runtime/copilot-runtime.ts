@@ -28,7 +28,7 @@ import {
   CopilotErrorEvent,
   CopilotRequestContext,
   ensureStructuredError,
-} from "@copilotkit/shared";
+} from "@think-copilotkit/shared";
 import {
   CopilotServiceAdapter,
   EmptyAdapter,

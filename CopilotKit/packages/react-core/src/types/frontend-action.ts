@@ -4,7 +4,7 @@ import {
   Parameter,
   MappedParameterTypes,
   actionParametersToJsonSchema,
-} from "@copilotkit/shared";
+} from "@think-copilotkit/shared";
 import React from "react";
 
 interface InProgressState<T extends Parameter[] | [] = []> {

@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.32.1",
-    "@copilotkit/react-core": "^1.8.11",
-    "@copilotkit/react-ui": "^1.8.11",
+    "@think-copilotkit/react-core": "^1.8.11",
+    "@think-copilotkit/react-ui": "^1.8.11",
     "@think-copilotkit/runtime": "^1.8.11",
     "@mantine/core": "^7.14.3",
     "@mantine/hooks": "^7.14.3",

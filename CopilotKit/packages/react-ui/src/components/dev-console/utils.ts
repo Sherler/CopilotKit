@@ -2,7 +2,7 @@ import {
   CopilotContextParams,
   CopilotMessagesContextParams,
   defaultCopilotContextCategories,
-} from "@copilotkit/react-core";
+} from "@think-copilotkit/react-core";
 import { CopilotKitVersion } from "./types";
 import { ActionExecutionMessage, ResultMessage, TextMessage } from "@think-copilotkit/runtime-client-gql";
 import { AgentStateMessage } from "@think-copilotkit/runtime-client-gql";
@@ -43,7 +43,7 @@ export async function getPublishedCopilotKitVersion(
       body: JSON.stringify({
         packages: [
           {
-            packageName: "@copilotkit/shared",
+            packageName: "@think-copilotkit/shared",
             packageVersion: current,
           },
         ],

@@ -1,6 +1,6 @@
 import { RunnableConfig } from "@langchain/core/runnables";
 import { dispatchCustomEvent } from "@langchain/core/callbacks/dispatch";
-import { convertJsonSchemaToZodSchema, randomId, CopilotKitMisuseError } from "@copilotkit/shared";
+import { convertJsonSchemaToZodSchema, randomId, CopilotKitMisuseError } from "@think-copilotkit/shared";
 import { Annotation, MessagesAnnotation, interrupt } from "@langchain/langgraph";
 import { DynamicStructuredTool } from "@langchain/core/tools";
 import { AIMessage } from "@langchain/core/messages";

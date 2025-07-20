@@ -6,7 +6,7 @@
  * You can find more information about self-hosting CopilotKit [here](/guides/self-hosting).
  *
  * ```tsx
- * import { CopilotKit } from "@copilotkit/react-core";
+ * import { CopilotKit } from "@think-copilotkit/react-core";
  *
  * <CopilotKit runtimeUrl="<your-runtime-url>">
  *   // ... your app ...
@@ -33,7 +33,7 @@ import {
   randomUUID,
   ConfigurationError,
   MissingPublicApiKeyError,
-} from "@copilotkit/shared";
+} from "@think-copilotkit/shared";
 import { FrontendAction } from "../../types/frontend-action";
 import useFlatCategoryStore from "../../hooks/use-flat-category-store";
 import { CopilotKitProps } from "./copilotkit-props";

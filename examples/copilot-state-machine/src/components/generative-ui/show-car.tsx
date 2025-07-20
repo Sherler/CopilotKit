@@ -5,7 +5,7 @@ import { motion } from "motion/react";
 import { useState } from "react";
 import Image from "next/image";
 
-import { RenderFunctionStatus } from "@copilotkit/react-core";
+import { RenderFunctionStatus } from "@think-copilotkit/react-core";
 
 interface ShowCarProps {
   car: Car;

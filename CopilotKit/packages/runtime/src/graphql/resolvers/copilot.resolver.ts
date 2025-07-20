@@ -51,14 +51,14 @@ import {
   TextMessage,
 } from "../types/converted";
 import telemetry from "../../lib/telemetry-client";
-import { randomId } from "@copilotkit/shared";
+import { randomId } from "@think-copilotkit/shared";
 import { AgentsResponse } from "../types/agents-response.type";
 import { LangGraphEventTypes } from "../../agents/langgraph/events";
 import {
   CopilotKitError,
   CopilotKitLowLevelError,
   isStructuredCopilotKitError,
-} from "@copilotkit/shared";
+} from "@think-copilotkit/shared";
 import { readSync } from "node:fs";
 
 const invokeGuardrails = async ({

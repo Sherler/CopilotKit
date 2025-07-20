@@ -16,7 +16,7 @@ CopilotKit provides comprehensive error handling capabilities to help you debug 
 For local development, enable the dev console to see errors directly in your UI:
 
 ```tsx
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 export default function App() {
   return (
@@ -43,7 +43,7 @@ export default function App() {
 For production applications, use the `onError` handler (requires `publicApiKey`):
 
 ```tsx
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 export default function App() {
   return (
@@ -115,7 +115,7 @@ The dev console provides immediate visual feedback during development:
 The error handler provides programmatic access to detailed error information:
 
 ```tsx
-import { CopilotErrorEvent } from "@copilotkit/shared";
+import { CopilotErrorEvent } from "@think-copilotkit/shared";
 
 <CopilotKit
   publicApiKey="ck_pub_your_key"

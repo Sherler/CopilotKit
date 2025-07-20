@@ -19,7 +19,7 @@ import {
   CopilotKitAgentDiscoveryError,
   CopilotKitError,
   CopilotKitErrorCode,
-} from "@copilotkit/shared";
+} from "@think-copilotkit/shared";
 
 // Helper to determine if error should show as banner based on visibility and legacy patterns
 function shouldShowAsBanner(gqlError: GraphQLError): boolean {

@@ -8,7 +8,7 @@ import {
   parseJson,
   CopilotKitError,
   CopilotKitErrorCode,
-} from "@copilotkit/shared";
+} from "@think-copilotkit/shared";
 import {
   Message,
   TextMessage,

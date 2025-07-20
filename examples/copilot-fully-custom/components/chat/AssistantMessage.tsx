@@ -4,9 +4,9 @@ import {Spinner} from "@leafygreen-ui/loading-indicator";
 import Button from "@leafygreen-ui/button";
 import Icon from "@leafygreen-ui/icon";
 
-import "@copilotkit/react-ui/styles.css";
-import { AssistantMessageProps, Markdown } from "@copilotkit/react-ui";
-import { useCopilotChat } from "@copilotkit/react-core";
+import "@think-copilotkit/react-ui/styles.css";
+import { AssistantMessageProps, Markdown } from "@think-copilotkit/react-ui";
+import { useCopilotChat } from "@think-copilotkit/react-core";
  
 export const CustomAssistantMessage = (props: AssistantMessageProps) => {
   const { message, isLoading, isGenerating, subComponent, rawData} = props;

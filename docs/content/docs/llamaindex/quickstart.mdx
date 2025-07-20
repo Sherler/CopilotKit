@@ -207,7 +207,7 @@ Before you begin, you'll need the following:
                 ### Install CopilotKit packages
 
                 ```package-install
-                @copilotkit/react-ui @copilotkit/react-core @think-copilotkit/runtime @ag-ui/llamaindex
+                @think-copilotkit/react-ui @think-copilotkit/react-core @think-copilotkit/runtime @ag-ui/llamaindex
                 ```
             </Step>
             <Step>
@@ -259,8 +259,8 @@ Before you begin, you'll need the following:
                 via the LlamaIndex agent.
 
                 ```tsx title="app/layout.tsx"
-                import { CopilotKit } from "@copilotkit/react-core"; // [!code highlight]
-                import "@copilotkit/react-ui/styles.css";
+                import { CopilotKit } from "@think-copilotkit/react-core"; // [!code highlight]
+                import "@think-copilotkit/react-ui/styles.css";
 
                 // ...
 
@@ -288,7 +288,7 @@ Before you begin, you'll need the following:
               Add the CopilotSidebar component to your page:
 
               ```tsx title="app/page.tsx"
-              import { CopilotSidebar } from "@copilotkit/react-ui"; // [!code highlight]
+              import { CopilotSidebar } from "@think-copilotkit/react-ui"; // [!code highlight]
 
               export default function Page() {
                 return (

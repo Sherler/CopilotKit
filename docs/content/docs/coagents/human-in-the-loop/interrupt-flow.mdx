@@ -169,7 +169,7 @@ We're going to have the agent ask us to name it, so we'll need a state property 
     To do this, we'll use the `useLangGraphInterrupt` hook, give it a component to render, and then call `resolve` with the user's response.
 
     ```tsx title="app/page.tsx"
-    import { useLangGraphInterrupt } from "@copilotkit/react-core"; // [!code highlight]
+    import { useLangGraphInterrupt } from "@think-copilotkit/react-core"; // [!code highlight]
     // ...
 
     const YourMainContent = () => {
@@ -287,7 +287,7 @@ For this reason, the hook can take an `enabled` argument which will apply it con
         With two `useLangGraphInterrupt` hooks in our page, we can leverage the `enabled` property to enable each in the right time:
 
         ```tsx title="app/page.tsx"
-        import { useLangGraphInterrupt } from "@copilotkit/react-core"; // [!code highlight]
+        import { useLangGraphInterrupt } from "@think-copilotkit/react-core"; // [!code highlight]
         // ...
 
         const ApproveComponent = ({ content, onAnswer }: { content: string; onAnswer: (approved: boolean) => void }) => (
@@ -350,7 +350,7 @@ interface AuthorizationInterruptEvent {
     accessDepartment: Department,
 }
 
-import { useLangGraphInterrupt } from "@copilotkit/react-core";
+import { useLangGraphInterrupt } from "@think-copilotkit/react-core";
 
 const YourMainContent = () => {
     const [userEmail, setUserEmail] = useState({ email: 'example@user.com' })

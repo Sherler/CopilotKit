@@ -1,4 +1,4 @@
-import { CopilotKitLowLevelError, isStructuredCopilotKitError } from "@copilotkit/shared";
+import { CopilotKitLowLevelError, isStructuredCopilotKitError } from "@think-copilotkit/shared";
 import { catchError, mergeMap, ReplaySubject, scan } from "rxjs";
 import { generateHelpfulErrorMessage } from "../../lib/streaming";
 import {

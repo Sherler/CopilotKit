@@ -21,16 +21,16 @@
     "@/*": [
       "./src/*"
     ],
-    "@copilotkit/react-core/*": [
+    "@think-copilotkit/react-core/*": [
       "../packages/react-core/*"
     ],
-    "@copilotkit/react-ui/*": [
+    "@think-copilotkit/react-ui/*": [
       "../packages/react-ui/*"
     ],
-    "@copilotkit/react-textarea/*": [
+    "@think-copilotkit/react-textarea/*": [
       "../packages/react-textarea/*"
     ],
-    "@copilotkit/react-runtime/*": [
+    "@think-copilotkit/react-runtime/*": [
       "../packages/runtime/*"
     ]
   }

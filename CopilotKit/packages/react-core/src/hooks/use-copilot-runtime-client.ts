@@ -14,7 +14,7 @@ import {
   CopilotKitErrorCode,
   CopilotErrorHandler,
   CopilotErrorEvent,
-} from "@copilotkit/shared";
+} from "@think-copilotkit/shared";
 import { shouldShowDevConsole } from "../utils/dev-console";
 
 export interface CopilotRuntimeClientHookOptions extends CopilotRuntimeClientOptions {

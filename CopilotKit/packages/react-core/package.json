@@ -1,5 +1,5 @@
 {
-  "name": "@copilotkit/react-core",
+  "name": "@think-copilotkit/react-core",
   "private": false,
   "homepage": "https://github.com/CopilotKit/CopilotKit",
   "repository": {
@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "@think-copilotkit/runtime-client-gql": "workspace:*",
-    "@copilotkit/shared": "workspace:*",
+    "@think-copilotkit/shared": "workspace:*",
     "@scarf/scarf": "^1.3.0",
     "react-markdown": "^8.0.7",
     "untruncate-json": "^0.0.1"

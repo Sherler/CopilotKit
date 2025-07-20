@@ -9,7 +9,7 @@
  * ### Simple Usage
  *
  * ```tsx
- * import { useCopilotChat } from "@copilotkit/react-core";
+ * import { useCopilotChat } from "@think-copilotkit/react-core";
  * import { Role, TextMessage } from "@think-copilotkit/runtime-client-gql";
  *
  * export function YourComponent() {
@@ -48,7 +48,7 @@ import { Message, Role, TextMessage } from "@think-copilotkit/runtime-client-gql
 import { SystemMessageFunction } from "../types";
 import { useChat, AppendMessageOptions } from "./use-chat";
 import { defaultCopilotContextCategories } from "../components";
-import { CoAgentStateRenderHandlerArguments } from "@copilotkit/shared";
+import { CoAgentStateRenderHandlerArguments } from "@think-copilotkit/shared";
 import { useCopilotMessagesContext } from "../context";
 import { useAsyncCallback } from "../components/error-boundary/error-utils";
 

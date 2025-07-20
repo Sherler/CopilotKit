@@ -1,5 +1,5 @@
 import { RenderMessageProps } from "../props";
-import { CoagentInChatRenderFunction, useCopilotContext } from "@copilotkit/react-core";
+import { CoagentInChatRenderFunction, useCopilotContext } from "@think-copilotkit/react-core";
 import { AssistantMessage as DefaultAssistantMessage } from "./AssistantMessage";
 
 export function RenderAgentStateMessage({

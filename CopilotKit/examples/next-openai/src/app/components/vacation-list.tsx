@@ -4,8 +4,8 @@ import {
   useCopilotAction,
   useCopilotChat,
   useMakeCopilotDocumentReadable,
-} from "@copilotkit/react-core";
-import { useCopilotChatSuggestions } from "@copilotkit/react-ui";
+} from "@think-copilotkit/react-core";
+import { useCopilotChatSuggestions } from "@think-copilotkit/react-ui";
 import { useEffect, useState } from "react";
 import { DestinationTable } from "./destination-table";
 import { VacationNotes } from "./vacation-notes";

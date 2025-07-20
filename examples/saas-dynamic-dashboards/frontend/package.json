@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@copilotkit/react-core": "^1.8.12",
-    "@copilotkit/react-ui": "^1.8.12",
+    "@think-copilotkit/react-core": "^1.8.12",
+    "@think-copilotkit/react-ui": "^1.8.12",
     "@think-copilotkit/runtime": "^1.8.12",
     "@hookform/resolvers": "^3.9.1",
     "@radix-ui/react-accordion": "1.2.2",

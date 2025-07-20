@@ -1,6 +1,6 @@
 import { useCopilotContext } from "../context";
 import React, { useCallback } from "react";
-import { executeConditions } from "@copilotkit/shared";
+import { executeConditions } from "@think-copilotkit/shared";
 
 type InterruptProps = {
   event: any;

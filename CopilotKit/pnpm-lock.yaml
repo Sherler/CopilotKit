@@ -47,13 +47,13 @@ importers:
 
   examples/next-openai:
     dependencies:
-      '@copilotkit/react-core':
+      '@think-copilotkit/react-core':
         specifier: workspace:*
         version: link:../../packages/react-core
-      '@copilotkit/react-textarea':
+      '@think-copilotkit/react-textarea':
         specifier: workspace:*
         version: link:../../packages/react-textarea
-      '@copilotkit/react-ui':
+      '@think-copilotkit/react-ui':
         specifier: workspace:*
         version: link:../../packages/react-ui
       '@think-copilotkit/runtime':
@@ -62,7 +62,7 @@ importers:
       '@think-copilotkit/runtime-client-gql':
         specifier: workspace:*
         version: link:../../packages/runtime-client-gql
-      '@copilotkit/shared':
+      '@think-copilotkit/shared':
         specifier: workspace:*
         version: link:../../packages/shared
       '@google/generative-ai':
@@ -156,19 +156,19 @@ importers:
 
   examples/next-pages-router:
     dependencies:
-      '@copilotkit/react-core':
+      '@think-copilotkit/react-core':
         specifier: workspace:*
         version: link:../../packages/react-core
-      '@copilotkit/react-textarea':
+      '@think-copilotkit/react-textarea':
         specifier: workspace:*
         version: link:../../packages/react-textarea
-      '@copilotkit/react-ui':
+      '@think-copilotkit/react-ui':
         specifier: workspace:*
         version: link:../../packages/react-ui
       '@think-copilotkit/runtime':
         specifier: workspace:*
         version: link:../../packages/runtime
-      '@copilotkit/shared':
+      '@think-copilotkit/shared':
         specifier: workspace:*
         version: link:../../packages/shared
       '@google/generative-ai':
@@ -250,7 +250,7 @@ importers:
       '@think-copilotkit/runtime':
         specifier: workspace:*
         version: link:../../packages/runtime
-      '@copilotkit/shared':
+      '@think-copilotkit/shared':
         specifier: workspace:*
         version: link:../../packages/shared
       dotenv:
@@ -290,7 +290,7 @@ importers:
       '@think-copilotkit/runtime':
         specifier: workspace:*
         version: link:../../packages/runtime
-      '@copilotkit/shared':
+      '@think-copilotkit/shared':
         specifier: workspace:*
         version: link:../../packages/shared
       dotenv:
@@ -324,7 +324,7 @@ importers:
       '@think-copilotkit/runtime-client-gql':
         specifier: workspace:*
         version: link:../runtime-client-gql
-      '@copilotkit/shared':
+      '@think-copilotkit/shared':
         specifier: workspace:*
         version: link:../shared
       '@scarf/scarf':
@@ -385,13 +385,13 @@ importers:
 
   packages/react-textarea:
     dependencies:
-      '@copilotkit/react-core':
+      '@think-copilotkit/react-core':
         specifier: workspace:*
         version: link:../react-core
       '@think-copilotkit/runtime-client-gql':
         specifier: workspace:*
         version: link:../runtime-client-gql
-      '@copilotkit/shared':
+      '@think-copilotkit/shared':
         specifier: workspace:*
         version: link:../shared
       '@emotion/css':
@@ -506,13 +506,13 @@ importers:
 
   packages/react-ui:
     dependencies:
-      '@copilotkit/react-core':
+      '@think-copilotkit/react-core':
         specifier: workspace:*
         version: link:../react-core
       '@think-copilotkit/runtime-client-gql':
         specifier: workspace:*
         version: link:../runtime-client-gql
-      '@copilotkit/shared':
+      '@think-copilotkit/shared':
         specifier: workspace:*
         version: link:../shared
       '@headlessui/react':
@@ -597,7 +597,7 @@ importers:
       '@anthropic-ai/sdk':
         specifier: ^0.27.3
         version: 0.27.3(encoding@0.1.13)
-      '@copilotkit/shared':
+      '@think-copilotkit/shared':
         specifier: workspace:*
         version: link:../shared
       '@graphql-yoga/plugin-defer-stream':
@@ -730,7 +730,7 @@ importers:
 
   packages/runtime-client-gql:
     dependencies:
-      '@copilotkit/shared':
+      '@think-copilotkit/shared':
         specifier: workspace:*
         version: link:../shared
       '@urql/core':
@@ -806,7 +806,7 @@ importers:
 
   packages/sdk-js:
     dependencies:
-      '@copilotkit/shared':
+      '@think-copilotkit/shared':
         specifier: workspace:*
         version: link:../shared
       '@langchain/community':

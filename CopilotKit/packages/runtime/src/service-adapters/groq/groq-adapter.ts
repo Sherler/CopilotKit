@@ -26,7 +26,7 @@ import {
   convertMessageToOpenAIMessage,
   limitMessagesToTokenCount,
 } from "../openai/utils";
-import { randomUUID } from "@copilotkit/shared";
+import { randomUUID } from "@think-copilotkit/shared";
 import { convertServiceAdapterError } from "../shared";
 
 const DEFAULT_MODEL = "llama-3.3-70b-versatile";

@@ -3,7 +3,7 @@ import { InputProps } from "./props";
 import { useChatContext } from "./ChatContext";
 import AutoResizingTextarea from "./Textarea";
 import { usePushToTalk } from "../../hooks/use-push-to-talk";
-import { useCopilotContext } from "@copilotkit/react-core";
+import { useCopilotContext } from "@think-copilotkit/react-core";
 import { PoweredByTag } from "./PoweredByTag";
 
 const MAX_NEWLINES = 6;

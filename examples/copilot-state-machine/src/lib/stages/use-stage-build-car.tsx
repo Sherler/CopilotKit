@@ -5,7 +5,7 @@ import {
   useCopilotAction,
   useCopilotReadable,
   useCopilotAdditionalInstructions,
-} from "@copilotkit/react-core";
+} from "@think-copilotkit/react-core";
 
 /**
   useStageBuildCar is a hook that will add this stage to the state machine. It is responsible for:

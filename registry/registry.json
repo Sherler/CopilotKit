@@ -8,7 +8,7 @@
       "type": "registry:block",
       "title": "LangGraph Platform Starter",
       "description": "Bootstrap your Next.js project with CopilotKit and LangGraph Platform.",
-      "dependencies": ["@think-copilotkit/runtime", "@copilotkit/react-core"],
+      "dependencies": ["@think-copilotkit/runtime", "@think-copilotkit/react-core"],
       "files": [
         {
           "path": "registry/layout/agent-layout.tsx",
@@ -27,7 +27,7 @@
       "type": "registry:block",
       "title": "Agent Starter",
       "description": "A starter for CopilotKit with an agent.",
-      "dependencies": ["@think-copilotkit/runtime", "@copilotkit/react-core"],
+      "dependencies": ["@think-copilotkit/runtime", "@think-copilotkit/react-core"],
       "files": [
         {
           "path": "registry/layout/agent-layout.tsx",
@@ -48,8 +48,8 @@
       "description": "A starter for CopilotKit with no agent framework.",
       "dependencies": [
         "@think-copilotkit/runtime",
-        "@copilotkit/react-core",
-        "@copilotkit/react-ui"
+        "@think-copilotkit/react-core",
+        "@think-copilotkit/react-ui"
       ],
       "files": [
         {
@@ -69,7 +69,7 @@
       "type": "registry:block",
       "title": "MCP Starter",
       "description": "A starter for CopilotKit with MCP.",
-      "dependencies": ["@copilotkit/react-core", "@copilotkit/react-ui"],
+      "dependencies": ["@think-copilotkit/react-core", "@think-copilotkit/react-ui"],
       "files": [
         {
           "path": "registry/layout/standard-layout.tsx",
@@ -112,7 +112,7 @@
       "title": "Generic LG Starter",
       "description": "A starter for CopilotKit with any LangGraph agent.",
       "registryDependencies": ["tooltip"],
-      "dependencies": ["@copilotkit/react-core", "@copilotkit/react-ui"],
+      "dependencies": ["@think-copilotkit/react-core", "@think-copilotkit/react-ui"],
       "files": [
         {
           "path": "registry/quickstarts/coagents-generic-lg/page.tsx",
@@ -146,7 +146,7 @@
       "type": "registry:block",
       "title": "Agent Layout",
       "description": "A layout for CopilotKit with an agent.",
-      "dependencies": ["@copilotkit/react-core"],
+      "dependencies": ["@think-copilotkit/react-core"],
       "files": [
         {
           "path": "registry/layout/agent-layout.tsx",
@@ -202,7 +202,7 @@
       "type": "registry:block",
       "title": "Coagents Starter UI",
       "description": "UI for interacting with the a starter coagent.",
-      "dependencies": ["@copilotkit/react-ui", "@copilotkit/react-core"],
+      "dependencies": ["@think-copilotkit/react-ui", "@think-copilotkit/react-core"],
       "files": [
         {
           "path": "registry/quickstarts/coagents-starter.tsx",
@@ -216,7 +216,7 @@
       "type": "registry:page",
       "title": "Chat",
       "description": "A chat component for CopilotKit.",
-      "dependencies": ["@copilotkit/react-ui"],
+      "dependencies": ["@think-copilotkit/react-ui"],
       "files": [
         {
           "path": "registry/chat/chat.tsx",
@@ -230,7 +230,7 @@
       "type": "registry:page",
       "title": "Sidebar",
       "description": "A sidebar component for CopilotKit.",
-      "dependencies": ["@copilotkit/react-ui"],
+      "dependencies": ["@think-copilotkit/react-ui"],
       "files": [
         {
           "path": "registry/chat/sidebar.tsx",
@@ -244,7 +244,7 @@
       "type": "registry:page",
       "title": "Popup",
       "description": "A popup component for CopilotKit.",
-      "dependencies": ["@copilotkit/react-ui"],
+      "dependencies": ["@think-copilotkit/react-ui"],
       "files": [
         {
           "path": "registry/chat/popup.tsx",
@@ -259,8 +259,8 @@
       "title": "Coagents Crew Starter",
       "description": "Quickstart for CopilotKit and CrewAI Crews on CrewAI Enterprise.",
       "dependencies": [
-        "@copilotkit/react-core",
-        "@copilotkit/react-ui",
+        "@think-copilotkit/react-core",
+        "@think-copilotkit/react-ui",
         "@think-copilotkit/runtime-client-gql"
       ],
       "files": [
@@ -301,7 +301,7 @@
       "type": "registry:page",
       "title": "Coagents Starter CrewAI Flows",
       "description": "Quickstart for CopilotKit and CrewAI Flows on CrewAI Enterprise.",
-      "dependencies": ["@copilotkit/react-core", "@copilotkit/react-ui"],
+      "dependencies": ["@think-copilotkit/react-core", "@think-copilotkit/react-ui"],
       "files": [
         {
           "path": "registry/quickstarts/coagents-starter-crewai-flows/page.tsx",

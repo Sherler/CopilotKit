@@ -5,7 +5,7 @@
  * In the simplest case, use CopilotTask in the context of your app by giving it instructions on what to do.
  *
  * ```tsx
- * import { CopilotTask, useCopilotContext } from "@copilotkit/react-core";
+ * import { CopilotTask, useCopilotContext } from "@think-copilotkit/react-core";
  *
  * export function MyComponent() {
  *   const context = useCopilotContext();

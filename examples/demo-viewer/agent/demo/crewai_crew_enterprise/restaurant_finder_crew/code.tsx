@@ -18,7 +18,7 @@ import {
   useCoAgentStateRender,
   useCopilotAction,
   useCopilotChat,
-} from "@copilotkit/react-core";
+} from "@think-copilotkit/react-core";
 import {
   AgentState,
   CopilotChat,
@@ -26,7 +26,7 @@ import {
   DefaultResponseRenderer,
   DefaultStateRenderer,
   ResponseStatus,
-} from "@copilotkit/react-ui";
+} from "@think-copilotkit/react-ui";
 import { MessageRole, TextMessage } from "@think-copilotkit/runtime-client-gql";
 import { useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";

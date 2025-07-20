@@ -1,9 +1,9 @@
 import { ResearchCanvas } from "@/components/ResearchCanvas";
 import { useModelSelectorContext } from "@/lib/model-selector-provider";
 import { AgentState } from "@/lib/types";
-import { useCoAgent } from "@copilotkit/react-core";
-import { CopilotChat } from "@copilotkit/react-ui";
-import { useCopilotChatSuggestions } from "@copilotkit/react-ui";
+import { useCoAgent } from "@think-copilotkit/react-core";
+import { CopilotChat } from "@think-copilotkit/react-ui";
+import { useCopilotChatSuggestions } from "@think-copilotkit/react-ui";
 
 export default function Main() {
   const { model, agent } = useModelSelectorContext();

@@ -1,4 +1,4 @@
-import { Markdown, UserMessageProps } from "@copilotkit/react-ui";
+import { Markdown, UserMessageProps } from "@think-copilotkit/react-ui";
 import { Avatar, Format, AvatarSize} from "@leafygreen-ui/avatar";
 import Card from "@leafygreen-ui/card";
 

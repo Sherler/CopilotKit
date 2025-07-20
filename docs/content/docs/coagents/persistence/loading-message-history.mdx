@@ -18,7 +18,7 @@ To load an existing thread in CopilotKit, you can simply set the `threadId` prop
 </Callout>
 
 ```tsx
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 <CopilotKit threadId="37aa68d0-d15b-45ae-afc1-0ba6c3e11353"> // [!code highlight]
   <YourApp />
@@ -31,7 +31,7 @@ You can also make the `threadId` dynamic. Once it is set, CopilotKit will load t
 
 ```tsx
 import { useState } from "react";
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 const Page = () => {
   const [threadId, setThreadId] = useState("af2fa5a4-36bd-4e02-9b55-2580ab584f89"); // [!code highlight]
@@ -56,7 +56,7 @@ const YourApp = () => {
 CopilotKit will also return the current `threadId` and a `setThreadId` function from the `useCopilotContext` hook. You can use `setThreadId` to change the `threadId`.
 
 ```tsx
-import { useCopilotContext } from "@copilotkit/react-core";
+import { useCopilotContext } from "@think-copilotkit/react-core";
 
 const ChangeThreadButton = () => {
   const { threadId, setThreadId } = useCopilotContext(); // [!code highlight]

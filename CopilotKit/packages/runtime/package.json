@@ -53,7 +53,7 @@
     "@ag-ui/langgraph": "0.0.7",
     "@ag-ui/proto": "0.0.35",
     "@anthropic-ai/sdk": "^0.27.3",
-    "@copilotkit/shared": "workspace:*",
+    "@think-copilotkit/shared": "workspace:*",
     "@graphql-yoga/plugin-defer-stream": "^3.3.1",
     "@langchain/aws": "^0.1.9",
     "@langchain/community": "^0.3.29",

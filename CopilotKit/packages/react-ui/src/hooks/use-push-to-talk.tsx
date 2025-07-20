@@ -1,4 +1,4 @@
-import { useCopilotContext, useCopilotMessagesContext } from "@copilotkit/react-core";
+import { useCopilotContext, useCopilotMessagesContext } from "@think-copilotkit/react-core";
 import { Message, TextMessage } from "@think-copilotkit/runtime-client-gql";
 import { MutableRefObject, useEffect, useRef, useState } from "react";
 

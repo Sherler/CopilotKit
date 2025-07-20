@@ -7,7 +7,7 @@ import {
   useCopilotAction,
   useCopilotAdditionalInstructions,
   useCopilotChat,
-} from "@copilotkit/react-core";
+} from "@think-copilotkit/react-core";
 import { useEffect, useState } from "react";
 import CrewHumanFeedbackRenderer, {
   CrewsFeedback,

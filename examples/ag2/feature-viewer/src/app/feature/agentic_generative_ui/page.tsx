@@ -1,9 +1,9 @@
 "use client";
 import React from "react";
-import "@copilotkit/react-ui/styles.css";
+import "@think-copilotkit/react-ui/styles.css";
 import "./style.css";
-import { CopilotKit, useCoAgentStateRender } from "@copilotkit/react-core";
-import { CopilotChat } from "@copilotkit/react-ui";
+import { CopilotKit, useCoAgentStateRender } from "@think-copilotkit/react-core";
+import { CopilotChat } from "@think-copilotkit/react-ui";
 
 const AgenticGenerativeUI: React.FC = () => {
   return (

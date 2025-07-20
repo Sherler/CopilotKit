@@ -14,8 +14,8 @@ CopilotKit provides the [useCopilotAdditionalInstructions](/reference/hooks/useC
 you want.
 
 ```tsx title="Home.tsx"
-import { CopilotKit, useCopilotAdditionalInstructions } from "@copilotkit/react-core";
-import { CopilotPopup } from "@copilotkit/react-ui"
+import { CopilotKit, useCopilotAdditionalInstructions } from "@think-copilotkit/react-core";
+import { CopilotPopup } from "@think-copilotkit/react-ui"
  
 function Chat() {
   useCopilotAdditionalInstructions({
@@ -61,7 +61,7 @@ It can be customized for **Copilot UI** as well as **programmatically**:
     Copilot UI components accept an `instructions` property:
 
     ```tsx title="CustomCopilot.tsx"
-    import { CopilotChat } from "@copilotkit/react-ui";
+    import { CopilotChat } from "@think-copilotkit/react-ui";
 
     <CopilotChat
       instructions="You are a helpful assistant specializing in tax preparation. Provide concise and accurate answers to tax-related questions." // [!code highlight]
@@ -79,7 +79,7 @@ It can be customized for **Copilot UI** as well as **programmatically**:
 
     ```tsx title="Home.tsx"
     import { useEffect } from 'react';
-    import { useCopilotContext } from "@copilotkit/react-core";
+    import { useCopilotContext } from "@think-copilotkit/react-core";
 
     const Home: React.FC = () => {
       // [!code highlight:6]
@@ -108,7 +108,7 @@ This approach is **not recommended** as it may interfere with more advanced opti
 <Tabs groupId="approach" items={['Copilot UI', 'Headless UI']}>
   <Tab value="Copilot UI">
     ```tsx filename="CustomCopilot.tsx" showLineNumbers {10}
-    import { CopilotChat } from "@copilotkit/react-ui";
+    import { CopilotChat } from "@think-copilotkit/react-ui";
 
     const CustomCopilot: React.FC = () => (
       <CopilotChat
@@ -125,7 +125,7 @@ This approach is **not recommended** as it may interfere with more advanced opti
   </Tab>
   <Tab value="Headless UI">
     ```tsx filename="CustomCopilotHeadless.tsx" showLineNumbers {4, 6}
-    import { useCopilotChat } from "@copilotkit/react-core";
+    import { useCopilotChat } from "@think-copilotkit/react-core";
 
     const CustomCopilotHeadless: React.FC = () => {
       // [!code highlight:5]

@@ -10,11 +10,11 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist && rm -rf .next"
   },
   "dependencies": {
-    "@copilotkit/react-core": "workspace:*",
-    "@copilotkit/react-textarea": "workspace:*",
-    "@copilotkit/react-ui": "workspace:*",
+    "@think-copilotkit/react-core": "workspace:*",
+    "@think-copilotkit/react-textarea": "workspace:*",
+    "@think-copilotkit/react-ui": "workspace:*",
     "@think-copilotkit/runtime": "workspace:*",
-    "@copilotkit/shared": "workspace:*",
+    "@think-copilotkit/shared": "workspace:*",
     "@google/generative-ai": "^0.11.2",
     "@heroicons/react": "^2.0.18",
     "@langchain/community": "^0.3.29",

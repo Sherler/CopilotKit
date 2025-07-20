@@ -7,7 +7,7 @@
  * ### Simple Usage
  *
  * ```tsx
- * import { useCoAgentStateRender } from "@copilotkit/react-core";
+ * import { useCoAgentStateRender } from "@think-copilotkit/react-core";
  *
  * type YourAgentState = {
  *   agent_state_property: string;
@@ -43,7 +43,7 @@
 
 import { useRef, useContext, useEffect } from "react";
 import { CopilotContext } from "../context/copilot-context";
-import { randomId, CopilotKitAgentDiscoveryError } from "@copilotkit/shared";
+import { randomId, CopilotKitAgentDiscoveryError } from "@think-copilotkit/shared";
 import { CoAgentStateRender } from "../types/coagent-action";
 import { useToast } from "../components/toast/toast-provider";
 

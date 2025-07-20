@@ -17,8 +17,8 @@ import {
   useCoAgentStateRender,
   useCopilotAction,
   useCopilotChat,
-} from "@copilotkit/react-core";
-import { CopilotKitCSSProperties, CopilotChat } from "@copilotkit/react-ui";
+} from "@think-copilotkit/react-core";
+import { CopilotKitCSSProperties, CopilotChat } from "@think-copilotkit/react-ui";
 import { DefaultResponseRenderer } from "@/components/DefaultResponseRenderer";
 import { DefaultStateRenderer } from "@/components/DefaultStateRenderer";
 import { MessageRole, TextMessage } from "@think-copilotkit/runtime-client-gql";

@@ -1,4 +1,4 @@
-import { useCopilotAction } from "@copilotkit/react-core";
+import { useCopilotAction } from "@think-copilotkit/react-core";
 
 useCopilotAction({
   name: "optional",

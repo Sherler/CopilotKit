@@ -365,7 +365,7 @@ First, install the latest packages for CopilotKit into your frontend.
 npmpnpmyarnbun
 
 ```
-npm install @copilotkit/react-ui @copilotkit/react-core
+npm install @think-copilotkit/react-ui @think-copilotkit/react-core
 ```
 
 Do you already have a LangGraph agent?
@@ -449,7 +449,7 @@ layout.tsx
 ```
 import "./globals.css";
 import { ReactNode } from "react";
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
@@ -477,7 +477,7 @@ You are almost there! Now it's time to setup your Copilot UI.
 First, import the default styles in your root component (typically `layout.tsx`) :
 
 ```
-import "@copilotkit/react-ui/styles.css";
+import "@think-copilotkit/react-ui/styles.css";
 ```
 
 Copilot UI ships with a number of built-in UI patterns, choose whichever one you like.
@@ -489,7 +489,7 @@ CopilotPopupCopilotSidebarCopilotChatHeadless UI
 ![Popup Example](https://docs.copilotkit.ai/images/popup-example.gif)
 
 ```
-import { CopilotPopup } from "@copilotkit/react-ui";
+import { CopilotPopup } from "@think-copilotkit/react-ui";
 
 export function YourApp() {
   return (
@@ -736,7 +736,7 @@ layout.tsx
 ```
 import "./globals.css";
 import { ReactNode } from "react";
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
@@ -1038,7 +1038,7 @@ import {
   useCopilotAdditionalInstructions,
   useCopilotAction,
   useCopilotReadable
-} from "@copilotkit/react-core";
+} from "@think-copilotkit/react-core";
 
 // ...
 
@@ -1097,7 +1097,7 @@ Now, let's create a second stage that's simple and just greets the user by name 
 demonstrate how to add any additional stages. The name will be made available to this stage in the next step.
 
 ```
-import { useCopilotAdditionalInstructions } from "@copilotkit/react-core";
+import { useCopilotAdditionalInstructions } from "@think-copilotkit/react-core";
 
 // ...
 
@@ -1120,8 +1120,8 @@ Finally, bring everything together into a chat component:
 
 ```
 import { useState } from "react";
-import { CopilotKit, useCopilotReadable } from "@copilotkit/react-core";
-import { CopilotChat } from "@copilotkit/react-ui";
+import { CopilotKit, useCopilotReadable } from "@think-copilotkit/react-core";
+import { CopilotChat } from "@think-copilotkit/react-ui";
 
 // ...
 
@@ -1322,7 +1322,7 @@ Click here for the [source code](https://github.com/CopilotKit/CopilotKit/tree/m
 src/components/car-sales-chat.tsx
 
 ```
-import { useCopilotChat } from "@copilotkit/react-core";
+import { useCopilotChat } from "@think-copilotkit/react-core";
 
 // ...
 
@@ -1432,7 +1432,7 @@ We call these shared state experiences agentic copilots, or CoAgents for short.
 ### [Simple Usage](https://docs.copilotkit.ai/reference/hooks/useCoAgent\#simple-usage)
 
 ```
-import { useCoAgent } from "@copilotkit/react-core";
+import { useCoAgent } from "@think-copilotkit/react-core";
 
 type AgentState = {
   count: number;
@@ -1538,7 +1538,7 @@ This component will typically wrap your entire application (or a sub-tree of you
 You can find more information about self-hosting CopilotKit [here](https://docs.copilotkit.ai/guides/self-hosting).
 
 ```
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 <CopilotKit runtimeUrl="<your-runtime-url>">
   // ... your app ...
@@ -1703,7 +1703,7 @@ that says hello to the user.
 page.tsx
 
 ```
-import { useCopilotAction } from "@copilotkit/react-core"
+import { useCopilotAction } from "@think-copilotkit/react-core"
 
 export function Page() {
   // ...
@@ -1887,7 +1887,7 @@ First, install the latest packages for CopilotKit.
 npmpnpmyarnbun
 
 ```
-npm install @copilotkit/react-ui @copilotkit/react-core
+npm install @think-copilotkit/react-ui @think-copilotkit/react-core
 ```
 
 ## [Get a Copilot Cloud Public API Key](https://docs.copilotkit.ai/quickstart?component=CopilotChat\#get-a-copilot-cloud-public-api-key)
@@ -1904,7 +1904,7 @@ layout.tsx
 ```
 import "./globals.css";
 import { ReactNode } from "react";
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
@@ -1927,7 +1927,7 @@ You are almost there! Now it's time to setup your Copilot UI.
 First, import the default styles in your root component (typically `layout.tsx`) :
 
 ```
-import "@copilotkit/react-ui/styles.css";
+import "@think-copilotkit/react-ui/styles.css";
 ```
 
 Copilot UI ships with a number of built-in UI patterns, choose whichever one you like.
@@ -1939,7 +1939,7 @@ CopilotPopupCopilotSidebarCopilotChatHeadless UI
 ![Popup Example](https://docs.copilotkit.ai/images/copilotchat-example.gif)
 
 ```
-import { CopilotChat } from "@copilotkit/react-ui";
+import { CopilotChat } from "@think-copilotkit/react-ui";
 
 export function YourComponent() {
   return (
@@ -2004,7 +2004,7 @@ into the agent.
 The following example shows how to save and restore your message history using `localStorage`:
 
 ```
-import { useCopilotMessagesContext } from "@copilotkit/react-core";
+import { useCopilotMessagesContext } from "@think-copilotkit/react-core";
 import { ActionExecutionMessage, ResultMessage, TextMessage } from "@think-copilotkit/runtime-client-gql";
 
 const { messages, setMessages } = useCopilotMessagesContext();
@@ -2090,7 +2090,7 @@ change without notice.
 ### [Simple Usage](https://docs.copilotkit.ai/guides/copilot-suggestions\#simple-usage)
 
 ```
-import { useCopilotChatSuggestions } from "@copilotkit/react-ui";
+import { useCopilotChatSuggestions } from "@think-copilotkit/react-ui";
 
 export function MyComponent() {
 
@@ -2108,7 +2108,7 @@ export function MyComponent() {
 ### [Dependency Management](https://docs.copilotkit.ai/guides/copilot-suggestions\#dependency-management)
 
 ```
-import { useCopilotChatSuggestions } from "@copilotkit/react-ui";
+import { useCopilotChatSuggestions } from "@think-copilotkit/react-ui";
 
 export function MyComponent() {
   useCopilotChatSuggestions(
@@ -2176,7 +2176,7 @@ This class is used to execute one-off tasks, for example on button press. It can
 In the simplest case, use CopilotTask in the context of your app by giving it instructions on what to do.
 
 ```
-import { CopilotTask, useCopilotContext } from "@copilotkit/react-core";
+import { CopilotTask, useCopilotContext } from "@think-copilotkit/react-core";
 
 export function MyComponent() {
   const context = useCopilotContext();
@@ -2271,7 +2271,7 @@ Search docs
 
 `⌘`  `K`
 
-On this pageInstall @copilotkit/react-textarea
+On this pageInstall @think-copilotkit/react-textarea
 
 # Copilot Textarea
 
@@ -2288,12 +2288,12 @@ suggest changes to the text, for example providing a summary or rephrasing the t
 
 This guide assumes you have completed the [quickstart](https://docs.copilotkit.ai/quickstart) and have successfully set up CopilotKit.
 
-### [Install `@copilotkit/react-textarea`](https://docs.copilotkit.ai/guides/copilot-textarea\#install-copilotkitreact-textarea)
+### [Install `@think-copilotkit/react-textarea`](https://docs.copilotkit.ai/guides/copilot-textarea\#install-copilotkitreact-textarea)
 
 npmpnpmyarnbun
 
 ```
-npm install @copilotkit/react-textarea
+npm install @think-copilotkit/react-textarea
 ```
 
 ### [Import Styles](https://docs.copilotkit.ai/guides/copilot-textarea\#import-styles)
@@ -2303,7 +2303,7 @@ Import the default styles in your root component (typically `layout.tsx`) :
 layout.tsx
 
 ```
-import "@copilotkit/react-textarea/styles.css";
+import "@think-copilotkit/react-textarea/styles.css";
 ```
 
 ### [Add `CopilotTextarea` to Your Component](https://docs.copilotkit.ai/guides/copilot-textarea\#add-copilottextarea-to-your-component)
@@ -2316,7 +2316,7 @@ TextAreaComponent.tsx
 
 ```
 import { FC, useState } from "react";
-import { CopilotTextarea } from '@copilotkit/react-textarea';
+import { CopilotTextarea } from '@think-copilotkit/react-textarea';
 
 const ExampleComponent: FC = () => {
   const [text, setText] = useState<string>('');
@@ -2349,7 +2349,7 @@ Self Hosting (Copilot Runtime)](https://docs.copilotkit.ai/guides/self-hosting)
 
 ### On this page
 
-[Install @copilotkit/react-textarea](https://docs.copilotkit.ai/guides/copilot-textarea#install-copilotkitreact-textarea) [Import Styles](https://docs.copilotkit.ai/guides/copilot-textarea#import-styles) [Add CopilotTextarea to Your Component](https://docs.copilotkit.ai/guides/copilot-textarea#add-copilottextarea-to-your-component) [Next Steps](https://docs.copilotkit.ai/guides/copilot-textarea#next-steps)
+[Install @think-copilotkit/react-textarea](https://docs.copilotkit.ai/guides/copilot-textarea#install-copilotkitreact-textarea) [Import Styles](https://docs.copilotkit.ai/guides/copilot-textarea#import-styles) [Add CopilotTextarea to Your Component](https://docs.copilotkit.ai/guides/copilot-textarea#add-copilottextarea-to-your-component) [Next Steps](https://docs.copilotkit.ai/guides/copilot-textarea#next-steps)
 
 [Edit on GitHub](https://github.com/CopilotKit/CopilotKit/blob/main/docs/content/docs/(root)/guides/copilot-textarea.mdx)
 
@@ -2551,7 +2551,7 @@ Once an Interrupt event is emitted, that hook would execute, allowing to receive
 app/page.tsx
 
 ```
-import { useLangGraphInterrupt } from "@copilotkit/react-core";
+import { useLangGraphInterrupt } from "@think-copilotkit/react-core";
 // ...
 
 const YourMainContent = () => {
@@ -2643,8 +2643,8 @@ suggest changes to the text, for example providing a summary or rephrasing the t
 ## [Example](https://docs.copilotkit.ai/reference/components/CopilotTextarea\#example)
 
 ```
-import { CopilotTextarea } from '@copilotkit/react-textarea';
-import "@copilotkit/react-textarea/styles.css";
+import { CopilotTextarea } from '@think-copilotkit/react-textarea';
+import "@think-copilotkit/react-textarea/styles.css";
 
 <CopilotTextarea
   autosuggestionsConfig={{
@@ -2659,10 +2659,10 @@ import "@copilotkit/react-textarea/styles.css";
 
 ### [Install Dependencies](https://docs.copilotkit.ai/reference/components/CopilotTextarea\#install-dependencies)
 
-This component is part of the [@copilotkit/react-textarea](https://npmjs.com/package/@copilotkit/react-textarea) package.
+This component is part of the [@think-copilotkit/react-textarea](https://npmjs.com/package/@think-copilotkit/react-textarea) package.
 
 ```
-npm install @copilotkit/react-core @copilotkit/react-textarea
+npm install @think-copilotkit/react-core @think-copilotkit/react-textarea
 ```
 
 ### [Usage](https://docs.copilotkit.ai/reference/components/CopilotTextarea\#usage-1)
@@ -2674,8 +2674,8 @@ For example:
 
 ```
 import { useState } from "react";
-import { CopilotTextarea } from "@copilotkit/react-textarea";
-import "@copilotkit/react-textarea/styles.css";
+import { CopilotTextarea } from "@think-copilotkit/react-textarea";
+import "@think-copilotkit/react-textarea/styles.css";
 
 export function ExampleComponent() {
   const [text, setText] = useState("");
@@ -2708,7 +2708,7 @@ YourRootComponent.tsx
 
 ```
 ...
-import "@copilotkit/react-textarea/styles.css";
+import "@think-copilotkit/react-textarea/styles.css";
 
 export function YourRootComponent() {
   return (
@@ -2858,7 +2858,7 @@ First, install the latest packages for CopilotKit.
 npmpnpmyarnbun
 
 ```
-npm install @copilotkit/react-ui @copilotkit/react-core
+npm install @think-copilotkit/react-ui @think-copilotkit/react-core
 ```
 
 ## [Get a Copilot Cloud Public API Key](https://docs.copilotkit.ai/quickstart?component=CopilotSidebar\#get-a-copilot-cloud-public-api-key)
@@ -2875,7 +2875,7 @@ layout.tsx
 ```
 import "./globals.css";
 import { ReactNode } from "react";
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
@@ -2898,7 +2898,7 @@ You are almost there! Now it's time to setup your Copilot UI.
 First, import the default styles in your root component (typically `layout.tsx`) :
 
 ```
-import "@copilotkit/react-ui/styles.css";
+import "@think-copilotkit/react-ui/styles.css";
 ```
 
 Copilot UI ships with a number of built-in UI patterns, choose whichever one you like.
@@ -2910,7 +2910,7 @@ CopilotPopupCopilotSidebarCopilotChatHeadless UI
 ![Popup Example](https://docs.copilotkit.ai/images/sidebar-example.gif)
 
 ```
-import { CopilotSidebar } from "@copilotkit/react-ui";
+import { CopilotSidebar } from "@think-copilotkit/react-ui";
 
 export function YourApp() {
   return (
@@ -2983,7 +2983,7 @@ Here's an example to render a calendar meeting.
 
 ```
 "use client" // only necessary if you are using Next.js with the App Router.
-import { useCopilotAction } from "@copilotkit/react-core";
+import { useCopilotAction } from "@think-copilotkit/react-core";
 
 export function YourComponent() {
   useCopilotAction({
@@ -3083,16 +3083,16 @@ application, passing these parent-child relationships to the Copilot.
 
 ### [Install Dependencies](https://docs.copilotkit.ai/reference/hooks/useCopilotChatSuggestions\#install-dependencies)
 
-This component is part of the [@copilotkit/react-ui](https://npmjs.com/package/@copilotkit/react-ui) package.
+This component is part of the [@think-copilotkit/react-ui](https://npmjs.com/package/@think-copilotkit/react-ui) package.
 
 ```
-npm install @copilotkit/react-core @copilotkit/react-ui
+npm install @think-copilotkit/react-core @think-copilotkit/react-ui
 ```
 
 ### [Simple Usage](https://docs.copilotkit.ai/reference/hooks/useCopilotChatSuggestions\#simple-usage)
 
 ```
-import { useCopilotChatSuggestions } from "@copilotkit/react-ui";
+import { useCopilotChatSuggestions } from "@think-copilotkit/react-ui";
 
 export function MyComponent() {
   const [employees, setEmployees] = useState([]);
@@ -3106,7 +3106,7 @@ export function MyComponent() {
 ### [Dependency Management](https://docs.copilotkit.ai/reference/hooks/useCopilotChatSuggestions\#dependency-management)
 
 ```
-import { useCopilotChatSuggestions } from "@copilotkit/react-ui";
+import { useCopilotChatSuggestions } from "@think-copilotkit/react-ui";
 
 export function MyComponent() {
   useCopilotChatSuggestions(
@@ -3294,7 +3294,7 @@ YourComponent.tsx
 
 ```
 "use client" // only necessary if you are using Next.js with the App Router.
-import { useCopilotAction } from "@copilotkit/react-core";
+import { useCopilotAction } from "@think-copilotkit/react-core";
 
 export function MyComponent() {
   const [todos, setTodos] = useState<string[]>([]);
@@ -3455,7 +3455,7 @@ First, install the latest packages for CopilotKit into your frontend.
 npmpnpmyarnbun
 
 ```
-npm install @copilotkit/react-ui @copilotkit/react-core
+npm install @think-copilotkit/react-ui @think-copilotkit/react-core
 ```
 
 Do you already have a LangGraph agent?
@@ -3539,7 +3539,7 @@ layout.tsx
 ```
 import "./globals.css";
 import { ReactNode } from "react";
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
@@ -3567,7 +3567,7 @@ You are almost there! Now it's time to setup your Copilot UI.
 First, import the default styles in your root component (typically `layout.tsx`) :
 
 ```
-import "@copilotkit/react-ui/styles.css";
+import "@think-copilotkit/react-ui/styles.css";
 ```
 
 Copilot UI ships with a number of built-in UI patterns, choose whichever one you like.
@@ -3579,7 +3579,7 @@ CopilotPopupCopilotSidebarCopilotChatHeadless UI
 ![Popup Example](https://docs.copilotkit.ai/images/popup-example.gif)
 
 ```
-import { CopilotPopup } from "@copilotkit/react-ui";
+import { CopilotPopup } from "@think-copilotkit/react-ui";
 
 export function YourApp() {
   return (
@@ -3771,7 +3771,7 @@ This is particularly useful for showing intermediate state or progress during Ag
 ### [Simple Usage](https://docs.copilotkit.ai/reference/hooks/useCoAgentStateRender\#simple-usage)
 
 ```
-import { useCoAgentStateRender } from "@copilotkit/react-core";
+import { useCoAgentStateRender } from "@think-copilotkit/react-core";
 
 type YourAgentState = {
   agent_state_property: string;
@@ -3877,7 +3877,7 @@ representing any piece of app state, making it available for the Copilot to use
 as context when responding to user input.
 
 ```
-import { useCopilotReadable } from "@copilotkit/react-core";
+import { useCopilotReadable } from "@think-copilotkit/react-core";
 
 export function MyComponent() {
   const [employees, setEmployees] = useState([]);
@@ -3895,7 +3895,7 @@ Optionally, you can maintain the hierarchical structure of information by passin
 `parentId`. This allows you to use `useCopilotReadable` in nested components:
 
 ```
-import { useCopilotReadable } from "@copilotkit/react-core";
+import { useCopilotReadable } from "@think-copilotkit/react-core";
 
 function Employee(props: EmployeeProps) {
   const { employeeName, workProfile, metadata } = props;
@@ -3992,17 +3992,17 @@ See [CopilotSidebar](https://docs.copilotkit.ai/reference/components/chat/Copilo
 
 ## [Install Dependencies](https://docs.copilotkit.ai/reference/components/chat/CopilotPopup\#install-dependencies)
 
-This component is part of the [@copilotkit/react-ui](https://npmjs.com/package/@copilotkit/react-ui) package.
+This component is part of the [@think-copilotkit/react-ui](https://npmjs.com/package/@think-copilotkit/react-ui) package.
 
 ```
-npm install @copilotkit/react-core @copilotkit/react-ui
+npm install @think-copilotkit/react-core @think-copilotkit/react-ui
 ```
 
 ## [Usage](https://docs.copilotkit.ai/reference/components/chat/CopilotPopup\#usage)
 
 ```
-import { CopilotPopup } from "@copilotkit/react-ui";
-import "@copilotkit/react-ui/styles.css";
+import { CopilotPopup } from "@think-copilotkit/react-ui";
+import "@think-copilotkit/react-ui/styles.css";
 
 <CopilotPopup
   labels={{
@@ -4020,7 +4020,7 @@ YourRootComponent.tsx
 
 ```
 ...
-import "@copilotkit/react-ui/styles.css";
+import "@think-copilotkit/react-ui/styles.css";
 
 export function YourRootComponent() {
   return (
@@ -4399,7 +4399,7 @@ app/page.tsx
 
 ```
 // ...
-import { useCoAgentStateRender } from "@copilotkit/react-core";
+import { useCoAgentStateRender } from "@think-copilotkit/react-core";
 // ...
 
 // Define the state of the agent, should match the state of the agent in your LangGraph.
@@ -4442,7 +4442,7 @@ other than the chat.
 app/page.tsx
 
 ```
-import { useCoAgent } from "@copilotkit/react-core";
+import { useCoAgent } from "@think-copilotkit/react-core";
 // ...
 
 // Define the state of the agent, should match the state of the agent in your LangGraph.
@@ -4653,17 +4653,17 @@ of customization through various props and custom CSS.
 
 ## [Install Dependencies](https://docs.copilotkit.ai/reference/components/chat/CopilotChat\#install-dependencies)
 
-This component is part of the [@copilotkit/react-ui](https://npmjs.com/package/@copilotkit/react-ui) package.
+This component is part of the [@think-copilotkit/react-ui](https://npmjs.com/package/@think-copilotkit/react-ui) package.
 
 ```
-npm install @copilotkit/react-core @copilotkit/react-ui
+npm install @think-copilotkit/react-core @think-copilotkit/react-ui
 ```
 
 ## [Usage](https://docs.copilotkit.ai/reference/components/chat/CopilotChat\#usage)
 
 ```
-import { CopilotChat } from "@copilotkit/react-ui";
-import "@copilotkit/react-ui/styles.css";
+import { CopilotChat } from "@think-copilotkit/react-ui";
+import "@think-copilotkit/react-ui/styles.css";
 
 <CopilotChat
   labels={{
@@ -4681,7 +4681,7 @@ YourRootComponent.tsx
 
 ```
 ...
-import "@copilotkit/react-ui/styles.css";
+import "@think-copilotkit/react-ui/styles.css";
 
 export function YourRootComponent() {
   return (
@@ -4847,7 +4847,7 @@ First, install the latest packages for CopilotKit.
 npmpnpmyarnbun
 
 ```
-npm install @copilotkit/react-ui @copilotkit/react-core
+npm install @think-copilotkit/react-ui @think-copilotkit/react-core
 ```
 
 ## [Get a Copilot Cloud Public API Key](https://docs.copilotkit.ai/quickstart?component=Headless+UI\#get-a-copilot-cloud-public-api-key)
@@ -4864,7 +4864,7 @@ layout.tsx
 ```
 import "./globals.css";
 import { ReactNode } from "react";
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
@@ -4887,7 +4887,7 @@ You are almost there! Now it's time to setup your Copilot UI.
 First, import the default styles in your root component (typically `layout.tsx`) :
 
 ```
-import "@copilotkit/react-ui/styles.css";
+import "@think-copilotkit/react-ui/styles.css";
 ```
 
 Copilot UI ships with a number of built-in UI patterns, choose whichever one you like.
@@ -4899,7 +4899,7 @@ The built-in Copilot UI can be customized in many ways -- both through css and b
 CopilotKit also offers **fully custom headless UI**, through the `useCopilotChat` hook. Everything built with the built-in UI (and more) can be implemented with the headless UI, providing deep customizability.
 
 ```
-import { useCopilotChat } from "@copilotkit/react-core";
+import { useCopilotChat } from "@think-copilotkit/react-core";
 import { Role, TextMessage } from "@think-copilotkit/runtime-client-gql";
 
 export function CustomChatInterface() {
@@ -5665,17 +5665,17 @@ See [CopilotPopup](https://docs.copilotkit.ai/reference/components/chat/CopilotP
 
 ## [Install Dependencies](https://docs.copilotkit.ai/reference/components/chat/CopilotSidebar\#install-dependencies)
 
-This component is part of the [@copilotkit/react-ui](https://npmjs.com/package/@copilotkit/react-ui) package.
+This component is part of the [@think-copilotkit/react-ui](https://npmjs.com/package/@think-copilotkit/react-ui) package.
 
 ```
-npm install @copilotkit/react-core @copilotkit/react-ui
+npm install @think-copilotkit/react-core @think-copilotkit/react-ui
 ```
 
 ## [Usage](https://docs.copilotkit.ai/reference/components/chat/CopilotSidebar\#usage)
 
 ```
-import { CopilotSidebar } from "@copilotkit/react-ui";
-import "@copilotkit/react-ui/styles.css";
+import { CopilotSidebar } from "@think-copilotkit/react-ui";
+import "@think-copilotkit/react-ui/styles.css";
 
 <CopilotSidebar
   labels={{
@@ -5695,7 +5695,7 @@ YourRootComponent.tsx
 
 ```
 ...
-import "@copilotkit/react-ui/styles.css";
+import "@think-copilotkit/react-ui/styles.css";
 
 export function YourRootComponent() {
   return (
@@ -5889,7 +5889,7 @@ First, install the latest packages for CopilotKit into your frontend.
 npmpnpmyarnbun
 
 ```
-npm install @copilotkit/react-ui @copilotkit/react-core
+npm install @think-copilotkit/react-ui @think-copilotkit/react-core
 ```
 
 Do you already have a CrewAI Flow agent?
@@ -5967,7 +5967,7 @@ layout.tsx
 ```
 import "./globals.css";
 import { ReactNode } from "react";
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
@@ -5997,8 +5997,8 @@ page.tsx
 
 ```
 
-import "@copilotkit/react-ui/styles.css";
-import { CopilotPopup } from "@copilotkit/react-ui";
+import "@think-copilotkit/react-ui/styles.css";
+import { CopilotPopup } from "@think-copilotkit/react-ui";
 
 export function YourApp() {
   return (
@@ -6160,7 +6160,7 @@ CopilotPopupCopilotSidebarCopilotChatHeadless UI
 ![Popup Example](https://docs.copilotkit.ai/images/popup-example.gif)
 
 ```
-import { CopilotPopup } from "@copilotkit/react-ui";
+import { CopilotPopup } from "@think-copilotkit/react-ui";
 
 export function YourApp() {
   return (
@@ -6530,7 +6530,7 @@ This feature is only available with [CopilotKit Cloud](https://cloud.copilotkit.
 ## [Implementation](https://docs.copilotkit.ai/guides/guardrails\#implementation)
 
 ```
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 export default function App() {
   return (
@@ -6827,7 +6827,7 @@ First, install the latest packages for CopilotKit.
 npmpnpmyarnbun
 
 ```
-npm install @copilotkit/react-ui @copilotkit/react-core @think-copilotkit/runtime
+npm install @think-copilotkit/react-ui @think-copilotkit/react-core @think-copilotkit/runtime
 ```
 
 ## [Set up a Copilot Runtime Endpoint](https://docs.copilotkit.ai/quickstart?copilot-hosting=self-hosted\#set-up-a-copilot-runtime-endpoint)
@@ -6924,7 +6924,7 @@ layout.tsx
 ```
 import "./globals.css";
 import { ReactNode } from "react";
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
@@ -6947,7 +6947,7 @@ You are almost there! Now it's time to setup your Copilot UI.
 First, import the default styles in your root component (typically `layout.tsx`) :
 
 ```
-import "@copilotkit/react-ui/styles.css";
+import "@think-copilotkit/react-ui/styles.css";
 ```
 
 Copilot UI ships with a number of built-in UI patterns, choose whichever one you like.
@@ -6959,7 +6959,7 @@ CopilotPopupCopilotSidebarCopilotChatHeadless UI
 ![Popup Example](https://docs.copilotkit.ai/images/popup-example.gif)
 
 ```
-import { CopilotPopup } from "@copilotkit/react-ui";
+import { CopilotPopup } from "@think-copilotkit/react-ui";
 
 export function YourApp() {
   return (
@@ -7029,7 +7029,7 @@ YourComponent.tsx
 
 ```
 "use client" // only necessary if you are using Next.js with the App Router.
-import { useCopilotReadable } from "@copilotkit/react-core";
+import { useCopilotReadable } from "@think-copilotkit/react-core";
 import { useState } from 'react';
 
 export function YourComponent() {
@@ -7114,7 +7114,7 @@ To load an existing thread in CopilotKit, you can simply set the `threadId` prop
 When using LangGraph platform, the `threadId` must be a UUID.
 
 ```
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 <CopilotKit threadId="37aa68d0-d15b-45ae-afc1-0ba6c3e11353">
   <YourApp />
@@ -7127,7 +7127,7 @@ You can also make the `threadId` dynamic. Once it is set, CopilotKit will load t
 
 ```
 import { useState } from "react";
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 const Page = () => {
   const [threadId, setThreadId] = useState("af2fa5a4-36bd-4e02-9b55-2580ab584f89");
@@ -7152,7 +7152,7 @@ const YourApp = () => {
 CopilotKit will also return the current `threadId` and a `setThreadId` function from the `useCopilotContext` hook. You can use `setThreadId` to change the `threadId`.
 
 ```
-import { useCopilotContext } from "@copilotkit/react-core";
+import { useCopilotContext } from "@think-copilotkit/react-core";
 
 const ChangeThreadButton = () => {
   const { threadId, setThreadId } = useCopilotContext();
@@ -7266,7 +7266,7 @@ First, install the latest packages for CopilotKit.
 npmpnpmyarnbun
 
 ```
-npm install @copilotkit/react-ui @copilotkit/react-core
+npm install @think-copilotkit/react-ui @think-copilotkit/react-core
 ```
 
 ## [Get a Copilot Cloud Public API Key](https://docs.copilotkit.ai/quickstart?component=Headless%20UI\#get-a-copilot-cloud-public-api-key)
@@ -7283,7 +7283,7 @@ layout.tsx
 ```
 import "./globals.css";
 import { ReactNode } from "react";
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
@@ -7306,7 +7306,7 @@ You are almost there! Now it's time to setup your Copilot UI.
 First, import the default styles in your root component (typically `layout.tsx`) :
 
 ```
-import "@copilotkit/react-ui/styles.css";
+import "@think-copilotkit/react-ui/styles.css";
 ```
 
 Copilot UI ships with a number of built-in UI patterns, choose whichever one you like.
@@ -7318,7 +7318,7 @@ The built-in Copilot UI can be customized in many ways -- both through css and b
 CopilotKit also offers **fully custom headless UI**, through the `useCopilotChat` hook. Everything built with the built-in UI (and more) can be implemented with the headless UI, providing deep customizability.
 
 ```
-import { useCopilotChat } from "@copilotkit/react-core";
+import { useCopilotChat } from "@think-copilotkit/react-core";
 import { Role, TextMessage } from "@think-copilotkit/runtime-client-gql";
 
 export function CustomChatInterface() {
@@ -7398,8 +7398,8 @@ you want.
 Home.tsx
 
 ```
-import { CopilotKit, useCopilotAdditionalInstructions } from "@copilotkit/react-core";
-import { CopilotPopup } from "@copilotkit/react-ui"
+import { CopilotKit, useCopilotAdditionalInstructions } from "@think-copilotkit/react-core";
+import { CopilotPopup } from "@think-copilotkit/react-ui"
 
 function Chat() {
   useCopilotAdditionalInstructions({
@@ -7449,7 +7449,7 @@ Copilot UI components accept an `instructions` property:
 CustomCopilot.tsx
 
 ```
-import { CopilotChat } from "@copilotkit/react-ui";
+import { CopilotChat } from "@think-copilotkit/react-ui";
 
 <CopilotChat
   instructions="You are a helpful assistant specializing in tax preparation. Provide concise and accurate answers to tax-related questions."
@@ -7469,7 +7469,7 @@ This approach is **not recommended** as it may interfere with more advanced opti
 Copilot UIHeadless UI
 
 ```
-import { CopilotChat } from "@copilotkit/react-ui";
+import { CopilotChat } from "@think-copilotkit/react-ui";
 
 const CustomCopilot: React.FC = () => (
   <CopilotChat
@@ -8258,7 +8258,7 @@ Now that we know which state properties our agent emits, we can inspect the stat
 - The UI has no access to resources.
 
 ```
-import { useCoAgent } from "@copilotkit/react-core";
+import { useCoAgent } from "@think-copilotkit/react-core";
 
 type AgentState = {
   question: string;
@@ -8409,7 +8409,7 @@ These predictions will be emitted as the agent runs, allowing you to track its p
 ui/app/page.tsx
 
 ```
-import { useCoAgent, useCoAgentStateRender } from '@copilotkit/react-core';
+import { useCoAgent, useCoAgentStateRender } from '@think-copilotkit/react-core';
 
 // ...
 type AgentState = {
@@ -8578,7 +8578,7 @@ Here's an example to render a calendar meeting.
 
 ```
 "use client" // only necessary if you are using Next.js with the App Router.
-import { useCopilotAction } from "@copilotkit/react-core";
+import { useCopilotAction } from "@think-copilotkit/react-core";
 
 export function YourComponent() {
   useCopilotAction({
@@ -8762,7 +8762,7 @@ app/page.tsx
 
 ```
 // ...
-import { useCoAgentStateRender } from "@copilotkit/react-core";
+import { useCoAgentStateRender } from "@think-copilotkit/react-core";
 // ...
 
 // Define the state of the agent, should match the state of the agent in your LangGraph.
@@ -8805,7 +8805,7 @@ other than the chat.
 app/page.tsx
 
 ```
-import { useCoAgent } from "@copilotkit/react-core";
+import { useCoAgent } from "@think-copilotkit/react-core";
 // ...
 
 // Define the state of the agent, should match the state of the agent in your LangGraph.
@@ -9008,7 +9008,7 @@ the name of the tool.
 app/page.tsx
 
 ```
-import { useCopilotAction } from "@copilotkit/react-core";
+import { useCopilotAction } from "@think-copilotkit/react-core";
 // ...
 
 const YourMainContent = () => {
@@ -9051,7 +9051,7 @@ When working with agents, they may call tools that you haven't explicitly define
 import {
   useCopilotAction,
   CatchAllActionRenderProps,
-} from "@copilotkit/react-core";
+} from "@think-copilotkit/react-core";
 
 useCopilotAction({
   name: "*",
@@ -9505,7 +9505,7 @@ This means your backend tools and APIs:
 ### [Configure Authentication State](https://docs.copilotkit.ai/guides/authenticated-actions\#configure-authentication-state)
 
 ```
-import { CopilotKit } from "@copilotkit/react-core";
+import { CopilotKit } from "@think-copilotkit/react-core";
 
 interface AuthState {
   status: "authenticated" | "unauthenticated";
@@ -9749,7 +9749,7 @@ UI.
 ### [Simple Usage](https://docs.copilotkit.ai/reference/hooks/useCopilotChat\#simple-usage)
 
 ```
-import { useCopilotChat } from "@copilotkit/react-core";
+import { useCopilotChat } from "@think-copilotkit/react-core";
 import { Role, TextMessage } from "@think-copilotkit/runtime-client-gql";
 
 export function YourComponent() {
@@ -9885,8 +9885,8 @@ First, we'll create a component that renders the agent's essay draft and waits f
 ui/app/page.tsx
 
 ```
-import { useCopilotAction } from "@copilotkit/react-core"
-import { Markdown } from "@copilotkit/react-ui"
+import { useCopilotAction } from "@think-copilotkit/react-core"
+import { Markdown } from "@think-copilotkit/react-ui"
 
 function YourMainContent() {
   // ...
@@ -10063,7 +10063,7 @@ The built-in Copilot UI can be customized in many ways -- both through CSS and b
 CopilotKit also offers **fully custom headless UI** through the `useCopilotChat` hook. Everything built with the built-in UI (and more) can be implemented with the headless UI, providing deep customizability.
 
 ```
-import { useCopilotChat } from "@copilotkit/react-core";
+import { useCopilotChat } from "@think-copilotkit/react-core";
 import { Role, TextMessage } from "@think-copilotkit/runtime-client-gql";
 
 export function CustomChatInterface() {
@@ -10182,7 +10182,7 @@ will update the agent state and trigger a rerender of anything that depends on t
 ui/app/page.tsx
 
 ```
-import { useCoAgent } from "@copilotkit/react-core";
+import { useCoAgent } from "@think-copilotkit/react-core";
 
 // Define the agent state type, should match the actual state of your agent
 type AgentState = {
@@ -10232,7 +10232,7 @@ The agent will be re-run, and it will get not only the latest updated state, but
 ui/app/page.tsx
 
 ```
-import { useCoAgent } from "@copilotkit/react-core";
+import { useCoAgent } from "@think-copilotkit/react-core";
 import { TextMessage, MessageRole } from "@think-copilotkit/runtime-client-gql";
 
 // ...
@@ -10492,7 +10492,7 @@ optionally provide an initial state.
 ui/app/page.tsx
 
 ```
-import { useCoAgent } from "@copilotkit/react-core";
+import { useCoAgent } from "@think-copilotkit/react-core";
 
 // Define the agent state type, should match the actual state of your agent
 type AgentState = {
@@ -10532,7 +10532,7 @@ more in-context way. To do this, you can use the [useCoAgentStateRender](https:/
 ui/app/page.tsx
 
 ```
-import { useCoAgentStateRender } from "@copilotkit/react-core";
+import { useCoAgentStateRender } from "@think-copilotkit/react-core";
 
 // Define the agent state type, should match the actual state of your agent
 type AgentState = {
@@ -10720,7 +10720,7 @@ To do this, we'll use the `useLangGraphInterrupt` hook, give it a component to r
 app/page.tsx
 
 ```
-import { useLangGraphInterrupt } from "@copilotkit/react-core";
+import { useLangGraphInterrupt } from "@think-copilotkit/react-core";
 // ...
 
 const YourMainContent = () => {
@@ -10825,7 +10825,7 @@ With two `useLangGraphInterrupt` hooks in our page, we can leverage the `enabled
 app/page.tsx
 
 ```
-import { useLangGraphInterrupt } from "@copilotkit/react-core";
+import { useLangGraphInterrupt } from "@think-copilotkit/react-core";
 // ...
 
 const ApproveComponent = ({ content, onAnswer }: { content: string; onAnswer: (approved: boolean) => void }) => (
@@ -10889,7 +10889,7 @@ interface AuthorizationInterruptEvent {
     accessDepartment: Department,
 }
 
-import { useLangGraphInterrupt } from "@copilotkit/react-core";
+import { useLangGraphInterrupt } from "@think-copilotkit/react-core";
 
 const YourMainContent = () => {
     const [userEmail, setUserEmail] = useState({ email: 'example@user.com' })
@@ -11010,7 +11010,7 @@ will update the agent state and trigger a rerender of anything that depends on t
 ui/app/page.tsx
 
 ```
-import { useCoAgent } from "@copilotkit/react-core";
+import { useCoAgent } from "@think-copilotkit/react-core";
 
 // Define the agent state type, should match the actual state of your agent
 type AgentState = {
@@ -11060,7 +11060,7 @@ The agent will be re-run, and it will get not only the latest updated state, but
 ui/app/page.tsx
 
 ```
-import { useCoAgent } from "@copilotkit/react-core";
+import { useCoAgent } from "@think-copilotkit/react-core";
 import { TextMessage, MessageRole } from "@think-copilotkit/runtime-client-gql";
 
 // ...
