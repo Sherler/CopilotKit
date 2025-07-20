@@ -67,6 +67,7 @@ type TextMessageConstructorOptions = MessageConstructorOptions & TextMessageInpu
 export class TextMessage extends Message implements TextMessageConstructorOptions {
   role: TextMessageInput["role"];
   content: TextMessageInput["content"];
+  reasoningContent?: TextMessageInput["reasoningContent"];
   parentMessageId: TextMessageInput["parentMessageId"];
 
   constructor(props: TextMessageConstructorOptions) {

@@ -44,6 +44,7 @@ export const generateCopilotResponseMutation = graphql(/** GraphQL **/ `
         }
         ... on TextMessageOutput {
           content @stream
+          reasoningContent @stream
           role
           parentMessageId
         }
@@ -107,6 +108,7 @@ export const generateCopilotResponseMutation = graphql(/** GraphQL **/ `
               }
               ... on TextMessageOutput {
                 content
+                reasoningContent
                 role
                 parentMessageId
               }

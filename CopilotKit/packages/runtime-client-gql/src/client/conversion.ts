@@ -21,16 +21,32 @@ export function filterAgentStateMessages(messages: Message[]): Message[] {
 
 export function convertMessagesToGqlInput(messages: Message[]): MessageInput[] {
   return messages.map((message) => {
+    console.log("Converting message to GQL input:", message);
     if (message.isTextMessage()) {
-      return {
-        id: message.id,
-        createdAt: message.createdAt,
-        textMessage: {
-          content: message.content,
-          role: message.role as any,
-          parentMessageId: message.parentMessageId,
-        },
-      };
+      if (message.role === "assistant" && message.reasoningContent) {
+        // For assistant messages, we need to send reasoningContent to the server
+        return {
+          id: message.id,
+          createdAt: message.createdAt,
+          textMessage: {
+            content: message.content,
+            role: message.role as any,
+            reasoningContent: message.reasoningContent,
+            parentMessageId: message.parentMessageId,
+          },
+        };
+      }else{
+        // For user messages, we don't send reasoningContent as part of content
+        return {
+          id: message.id,
+          createdAt: message.createdAt,
+          textMessage: {
+            content: message.content,
+            role: message.role as any,
+            parentMessageId: message.parentMessageId,
+          },
+        };
+      }
     } else if (message.isActionExecutionMessage()) {
       return {
         id: message.id,
@@ -114,10 +130,12 @@ export function convertGqlOutputToMessages(
 ): Message[] {
   return messages.map((message) => {
     if (message.__typename === "TextMessageOutput") {
+
       return new TextMessage({
         id: message.id,
         role: message.role,
-        content: message.content.join(""),
+        content: (message.content??[]).join(""),
+        reasoningContent: (message.reasoningContent??[]).join(""),
         parentMessageId: message.parentMessageId,
         createdAt: new Date(),
         status: message.status || { code: MessageStatusCode.Pending },
@@ -178,6 +196,7 @@ export function loadMessagesFromJsonRepresentation(json: any[]): Message[] {
           id: item.id,
           role: item.role,
           content: item.content,
+          reasoningContent: item.reasoningContent,
           parentMessageId: item.parentMessageId,
           createdAt: item.createdAt || new Date(),
           status: item.status || { code: MessageStatusCode.Success },
