@@ -60,36 +60,11 @@
             </div>
           </div>
           
-          <!-- Main message content -->
-          <div class="message-text">{{ message.content }}</div>
-          
-          <!-- CoAgent State Render for assistant messages -->
+          <!-- Main message content with markdown rendering -->
           <div 
-            v-if="message.role === 'assistant' && getCoAgentStateRender(message)"
-            class="coagent-state-render"
-            v-html="getCoAgentStateRender(message)"
+            class="message-text markdown-content"
+            v-html="renderMarkdown(message.content)"
           ></div>
-          
-          <!-- Show CoAgent logs for assistant messages -->
-          <div 
-            v-if="message.role === 'assistant' && coAgentState.logs && coAgentState.logs.length > 0"
-            class="coagent-logs-section"
-          >
-            <div class="logs-header">
-              <span class="logs-icon">📋</span>
-              <span class="logs-title">Agent Logs</span>
-            </div>
-            <div class="logs-container">
-              <div 
-                v-for="(log, index) in coAgentState.logs.slice(-5)" 
-                :key="index"
-                :class="['log-entry', `log-${log.level}`]"
-              >
-                <span class="log-timestamp">{{ formatTimestamp(log.timestamp) }}</span>
-                <span class="log-message">{{ log.message }}</span>
-              </div>
-            </div>
-          </div>
         </div>
         <button 
           @click="deleteMessage(message.id)"
@@ -101,12 +76,32 @@
       </div>
       
       <div v-if="isLoading" class="loading-indicator">
-        <div class="loading-dots">
-          <span></span>
-          <span></span>
-          <span></span>
+        <div class="loading-content">
+          <div class="loading-dots">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+          <span>Copilot is thinking...</span>
         </div>
-        <span>Copilot is thinking...</span>
+        
+        <!-- Display CoAgent logs while loading -->
+        <div v-if="getCurrentCoAgentLogs().length > 0" class="loading-logs">
+          <div class="logs-header">
+            <span class="logs-icon">📋</span>
+            <span class="logs-title">Agent Activity</span>
+          </div>
+          <div class="logs-container">
+            <div 
+              v-for="(log, index) in getCurrentCoAgentLogs()" 
+              :key="index"
+              :class="['log-entry', `log-${log.level || 'info'}`]"
+            >
+              <span class="log-timestamp">{{ formatTimestamp(log.timestamp) }}</span>
+              <span class="log-message">{{ log.message }}</span>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
     
@@ -220,6 +215,7 @@
 import { TextMessage, Role } from '@turbo-agent/copilotkit-runtime-client-gql';
 import { ChatMixin } from '@turbo-agent/copilotkit-vue2-core';
 import { useCoAgent } from '@turbo-agent/copilotkit-vue2-core';
+import { marked } from 'marked';
 
 export default {
   name: 'CustomChatInterface',
@@ -338,11 +334,38 @@ export default {
       return role.charAt(0).toUpperCase() + role.slice(1);
     },
     
+    // Render markdown content to HTML
+    renderMarkdown(content) {
+      if (!content) return '';
+      try {
+        // Configure marked options
+        marked.setOptions({
+          breaks: true,
+          gfm: true,
+          headerIds: false,
+          mangle: false
+        });
+        return marked(content);
+      } catch (error) {
+        console.error('Error rendering markdown:', error);
+        // Fallback to plain text if markdown parsing fails
+        return content.replace(/\n/g, '<br>');
+      }
+    },
+    
     // Format timestamp for logs
     formatTimestamp(timestamp) {
       if (!timestamp) return '';
       const date = new Date(timestamp);
       return date.toLocaleTimeString();
+    },
+    
+    // Check if this is the last assistant message
+    isLastAssistantMessage(message) {
+      // Find all assistant messages
+      const assistantMessages = this.visibleMessages.filter(msg => msg.role === 'assistant');
+      // Check if this message is the last one
+      return assistantMessages.length > 0 && assistantMessages[assistantMessages.length - 1].id === message.id;
     },
     
     // Scroll to bottom of messages
@@ -352,47 +375,58 @@ export default {
         container.scrollTop = container.scrollHeight;
       }
     },
-    
-    // Get CoAgent state render content for a specific message
-    getCoAgentStateRender(message) {
+
+    // Get current CoAgent logs for loading indicator
+    getCurrentCoAgentLogs() {
       try {
-        if (!this.copilotContext || !this.copilotContext.chatComponentsCache) {
-          return null;
+        if (!this.copilotContext || !this.copilotContext.coagentStatesRef) {
+          return [];
         }
         
-        const cache = this.copilotContext.chatComponentsCache.current;
-        if (!cache || !cache.coAgentStateRenders) {
-          return null;
-        }
+        const agentName = 'common_agent';
+        const agentState = this.copilotContext.coagentStatesRef.current?.[agentName];
         
-        // Look for render function for common_agent
-        const agentName = "common_agent";
-        const key = `${agentName}-global`;
-        const renderFn = cache.coAgentStateRenders[key];
-        
-        if (!renderFn || typeof renderFn !== 'function') {
-          return null;
-        }
-        
-        // Get current agent state
-        const agentState = this.copilotContext.coagentStatesRef?.current?.[agentName];
         if (!agentState) {
-          return null;
+          return [];
         }
         
-        // Call render function with current state
-        const renderProps = {
-          state: agentState.state,
-          status: agentState.running ? 'inProgress' : 'complete',
-          nodeName: agentState.nodeName || 'default'
-        };
+        // 尝试在不同的可能位置查找日志
+        let logs = agentState.logs; // 直接在agentState中
+        if (!logs && agentState.state && agentState.state.logs) {
+          logs = agentState.state.logs;
+        }
+        if (!logs && agentState.data && agentState.data.logs) {
+          logs = agentState.data.logs;
+        }
+        // 检查其他可能的字段
+        if (!logs) {
+          // 尝试查找任何看起来像logs的字段
+          for (const key of Object.keys(agentState)) {
+            const value = agentState[key];
+            if (Array.isArray(value) && value.length > 0 && value[0].message) {
+              logs = value;
+              break;
+            }
+            // 如果是对象，递归查找
+            if (value && typeof value === 'object' && value.logs) {
+              logs = value.logs;
+              break;
+            }
+          }
+        }
+        if (!logs && Array.isArray(agentState)) {
+          logs = agentState;
+        }
         
-        console.log('Rendering CoAgent state:', { renderProps, agentState });
+        if (!logs || !Array.isArray(logs)) {
+          return [];
+        }
         
-        return renderFn(renderProps);
+        // 返回最近的日志（最后5条）
+        return logs.slice(-5);
       } catch (error) {
-        console.error('Error rendering CoAgent state:', error);
-        return null;
+        console.error('Error getting CoAgent logs:', error);
+        return [];
       }
     },
     
@@ -643,6 +677,153 @@ export default {
   line-height: 1.4;
 }
 
+/* Markdown content styling */
+.markdown-content {
+  color: inherit;
+  font-family: inherit;
+  line-height: 1.6;
+}
+
+.markdown-content h1,
+.markdown-content h2,
+.markdown-content h3,
+.markdown-content h4,
+.markdown-content h5,
+.markdown-content h6 {
+  margin: 0.8em 0 0.4em 0;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.markdown-content h1 {
+  font-size: 1.5em;
+  border-bottom: 1px solid #e1e5e9;
+  padding-bottom: 0.3em;
+}
+
+.markdown-content h2 {
+  font-size: 1.3em;
+}
+
+.markdown-content h3 {
+  font-size: 1.1em;
+}
+
+.markdown-content p {
+  margin: 0.6em 0;
+}
+
+.markdown-content ul,
+.markdown-content ol {
+  margin: 0.6em 0;
+  padding-left: 1.5em;
+}
+
+.markdown-content li {
+  margin: 0.2em 0;
+}
+
+.markdown-content blockquote {
+  margin: 0.8em 0;
+  padding: 0.5em 1em;
+  border-left: 4px solid #007bff;
+  background: rgba(0, 123, 255, 0.05);
+  border-radius: 0 4px 4px 0;
+}
+
+.markdown-content code {
+  background: rgba(0, 0, 0, 0.05);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+  font-size: 0.9em;
+}
+
+.markdown-content pre {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  padding: 1em;
+  overflow-x: auto;
+  margin: 0.8em 0;
+}
+
+.markdown-content pre code {
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
+}
+
+.markdown-content a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.markdown-content a:hover {
+  text-decoration: underline;
+}
+
+.markdown-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0.8em 0;
+}
+
+.markdown-content th,
+.markdown-content td {
+  border: 1px solid #e1e5e9;
+  padding: 0.5em;
+  text-align: left;
+}
+
+.markdown-content th {
+  background: #f8f9fa;
+  font-weight: 600;
+}
+
+.markdown-content hr {
+  border: none;
+  border-top: 1px solid #e1e5e9;
+  margin: 1.5em 0;
+}
+
+/* Adjust markdown content for user messages (white background) */
+.message-user .markdown-content {
+  color: white;
+}
+
+.message-user .markdown-content code {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+}
+
+.message-user .markdown-content pre {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+.message-user .markdown-content blockquote {
+  border-left-color: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.message-user .markdown-content a {
+  color: #b3d9ff;
+}
+
+.message-user .markdown-content th,
+.message-user .markdown-content td {
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.message-user .markdown-content th {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.message-user .markdown-content hr {
+  border-top-color: rgba(255, 255, 255, 0.3);
+}
+
 .reasoning-section {
   margin-bottom: 12px;
   border: 1px solid #e1e5e9;
@@ -813,10 +994,28 @@ export default {
 
 .loading-indicator {
   display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px;
+  background: rgba(0, 123, 255, 0.02);
+  border: 1px solid rgba(0, 123, 255, 0.1);
+  border-radius: 8px;
+  margin-top: 16px;
+}
+
+.loading-content {
+  display: flex;
   align-items: center;
   gap: 10px;
   color: #6c757d;
   font-style: italic;
+}
+
+.loading-logs {
+  border: 1px solid #e1e5e9;
+  border-radius: 6px;
+  background: white;
+  overflow: hidden;
 }
 
 .loading-dots {
